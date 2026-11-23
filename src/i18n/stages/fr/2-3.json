@@ -1,0 +1,230 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 2-3 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 2 À 3 ANS"
+    },
+    "1": {
+      "title": "L’Explorateur sacré",
+      "p": {
+        "1": "Entre deux et trois ans, le monde devient immense. L’enfant court vers lui comme s’il n’y avait aucune limite. Il grimpe. Il touche. Il ouvre. Il veut comprendre en faisant.",
+        "2": "L’énergie déborde parfois. L’impulsion est plus rapide que la prudence. Il rit fort. Il pleure avec la même intensité. Il se sent puissant. Puis il demande tes bras.",
+        "3": "Le monde l’appelle. Il veut tout voir."
+      },
+      "quote": "Explorer, c’est entrer pleinement dans le monde."
+    },
+    "2": {
+      "intro": "À cet âge, l’énergie motrice est intense, le langage progresse rapidement et l’enfant expérimente son pouvoir d’agir. La conscience des conséquences reste encore limitée : l’adulte demeure le point de repère qui permet de contenir l’exploration.",
+      "quote": "La liberté s’apprend dans un cadre."
+    },
+    "4": {
+      "title": "Le rituel du ralentissement",
+      "p": {
+        "1": "Dix minutes avant le coucher, une musique relaxante commence et la lumière s’adoucit. Aucun mot n’est nécessaire. Le corps de l’enfant reçoit deux signaux — le son et la lumière — qui lui disent que le monde ralentit et que la nuit approche.",
+        "2": "Une fois l’enfant dans son lit, assieds-toi à côté. Respire lentement, de façon visible, sans lui demander de faire de même. Ta respiration donne simplement le rythme.",
+        "3": "Pose ensuite doucement tes mains sur son dos. Fais des cercles lents, avec une pression douce et régulière, pendant quelques minutes. Sans parler, ou très peu."
+      },
+      "quote": "En apaisant l’enfant, l’adulte s’apaise aussi. La séparation du soir devient un moment de pleine connexion — et non une rupture.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette année",
+      "items": {
+        "1": "Une course folle.",
+        "2": "Une question inattendue.",
+        "3": "Un éclat de rire.",
+        "4": "Une grande colère.",
+        "5": "Un progrès dans sa confiance pour aller vers les autres.",
+        "6": "Une photo ou une vidéo.",
+        "7": "Sa voix.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. L’enfant actuellement :",
+      "options": {
+        "1": "court sans s’arrêter",
+        "2": "grimpe partout",
+        "3": "explore sans mesurer le danger",
+        "4": "teste constamment les limites",
+        "5": "avance avec prudence",
+        "6": "me cherche encore beaucoup avant d’agir"
+      },
+      "quote": "Explorer, c’est exister en mouvement."
+    },
+    "2": {
+      "title": "2. Face à une règle :",
+      "options": {
+        "1": "proteste",
+        "2": "négocie",
+        "3": "oublie rapidement",
+        "4": "teste à nouveau"
+      },
+      "quote": "Les limites aident à contenir l’impulsion."
+    },
+    "3": {
+      "title": "3. Lorsqu’il agit :",
+      "options": {
+        "1": "agit d’abord, pense ensuite",
+        "2": "pense d’abord, agit ensuite",
+        "3": "parle en même temps",
+        "4": "imite les adultes",
+        "5": "invente des scénarios"
+      },
+      "quote": "Le jeu devient un laboratoire du monde."
+    },
+    "4": {
+      "title": "4. Face à une frustration :",
+      "options": {
+        "1": "explose",
+        "2": "pleure intensément",
+        "3": "se calme rapidement",
+        "4": "cherche ma présence"
+      },
+      "quote": "L’émotion traverse tout son corps."
+    },
+    "5": {
+      "title": "5. Le langage actuellement :",
+      "options": {
+        "1": "phrases simples",
+        "2": "augmentation rapide du vocabulaire",
+        "3": "questions fréquentes",
+        "4": "invente des mots",
+        "5": "montre ce qu’il veut plutôt que de le dire"
+      },
+      "quote": "La parole ouvre un nouvel espace intérieur."
+    },
+    "6": {
+      "title": "6. Dans ses jeux, je remarque :",
+      "options": {
+        "1": "beaucoup d’imagination",
+        "2": "des scénarios répétitifs",
+        "3": "des jeux de rôle",
+        "4": "la présence d’objets transitionnels",
+        "5": "une tendance à s’ennuyer rapidement",
+        "6": "un besoin d’être stimulé"
+      },
+      "quote": "Le jeu crée un espace entre le dedans et le dehors."
+    },
+    "7": {
+      "title": "7. Le lien entre nous me semble :",
+      "options": {
+        "1": "plus intense",
+        "2": "parfois mis à l’épreuve",
+        "3": "joyeux",
+        "4": "exigeant"
+      },
+      "quote": "Grandir demande de nouvelles formes de présence."
+    },
+    "8": {
+      "title": "8. Avec les autres enfants :",
+      "options": {
+        "1": "joue à côté d’eux",
+        "2": "commence à partager",
+        "3": "affirme fortement sa place",
+        "4": "imite",
+        "5": "préfère jouer seul",
+        "6": "cherche ma présence à proximité"
+      },
+      "quote": "La socialisation commence par l’imitation."
+    },
+    "9": {
+      "title": "9. Durant cette période, je me sens :",
+      "options": {
+        "1": "stimulé(e)",
+        "2": "fatigué(e)",
+        "3": "admiratif(ve)",
+        "4": "parfois dépassé(e)"
+      },
+      "quote": "L’intensité de l’enfant appelle une force calme."
+    },
+    "10": {
+      "title": "10. Ce qui me marque particulièrement :",
+      "quote": "Il découvre sa puissance. Je découvre ma capacité à contenir."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (2–3 ans)",
+      "p": {
+        "1": "Entre deux et trois ans, l’enfant entre dans une période d’exploration intense. Il agit rapidement et veut essayer par lui-même. Le plaisir de faire précède souvent la prudence.",
+        "2": "Physiquement, il court, grimpe, saute et transporte. Son corps devient un véritable outil d’action. Mais sa capacité à anticiper les conséquences reste limitée : l’impulsion est souvent plus rapide que la pensée.",
+        "3": "Sur le plan cognitif, l’enfant comprend encore largement le monde à travers l’expérience directe.",
+        "4": "Jean Piaget (1896–1980) – Psychologue, biologiste et épistémologue suisse, spécialiste du développement cognitif de l’enfant.",
+        "5": "Piaget décrit la pensée à ce stade comme encore centrée sur l’expérience immédiate. L’enfant raisonne à partir de ce qu’il voit, touche et ressent.",
+        "6": "Le langage progresse rapidement et accompagne de plus en plus l’action."
+      },
+      "points": {
+        "1": "L’exploration intense est normale à cet âge.",
+        "2": "L’enfant comprend encore beaucoup le monde en agissant directement sur lui.",
+        "3": "Courir, grimper, toucher et manipuler participent à ses apprentissages.",
+        "4": "L’impulsivité reflète notamment une capacité encore limitée à anticiper les conséquences.",
+        "5": "Le cadre de l’adulte permet à l’exploration de rester suffisamment sécurisée."
+      }
+    },
+    "langage": {
+      "title": "Le langage selon Françoise Dolto",
+      "p": {
+        "1": "Françoise Dolto (1908–1988) – Pédiatre et psychanalyste française, spécialiste de l’enfance.",
+        "2": "Dolto a montré combien la parole adressée à l’enfant participe à sa construction intérieure.",
+        "3": "À cet âge, le langage se développe rapidement. Les mots permettent progressivement de nommer les personnes, les objets, les actions mais aussi ce qui se passe à l’intérieur de soi.",
+        "4": "Mettre des mots sur les émotions de l’enfant peut l’aider progressivement à les reconnaître, les intégrer et les comprendre.",
+        "5": "La parole n’annule pas l’émotion. Elle lui donne progressivement une forme partageable."
+      },
+      "points": {
+        "1": "Le langage participe à la construction du monde intérieur de l’enfant.",
+        "2": "Parler à l’enfant de ce qu’il vit l’aide progressivement à organiser son expérience.",
+        "3": "Mettre des mots sur les émotions peut l’aider peu à peu à les reconnaître.",
+        "4": "L’enfant comprend souvent davantage qu’il ne peut encore exprimer.",
+        "5": "Les mots offrent progressivement une autre voie que le geste, le cri ou les pleurs."
+      }
+    },
+    "puissance": {
+      "title": "Donald Winnicott : puissance et dépendance",
+      "p": {
+        "1": "Donald W. Winnicott (1896–1971) – Pédiatre et psychanalyste britannique.",
+        "2": "Winnicott décrit un espace précieux entre réalité et imaginaire. C’est notamment dans cet espace que l’enfant joue, invente et construit progressivement son sentiment d’exister comme une personne distincte.",
+        "3": "À cet âge, l’enfant peut se sentir très puissant… puis très dépendant. Cette alternance est normale.",
+        "4": "Il a besoin d’explorer, d’essayer, de décider et parfois de s’opposer. Mais il a tout autant besoin que l’adulte demeure un point de repère stable.",
+        "5": "L’exploration n’est pas une opposition. C’est une expansion.",
+        "6": "Les limites ne sont pas seulement des contraintes. Elles constituent aussi une sécurité : elles offrent à l’enfant un cadre suffisamment stable pour expérimenter son pouvoir d’agir sans être livré à lui-même."
+      },
+      "points": {
+        "1": "Le sentiment de puissance alterne encore naturellement avec le besoin de dépendance.",
+        "2": "Explorer et s’affirmer ne signifient pas rejeter l’adulte.",
+        "3": "Le jeu et l’imaginaire participent à la construction du sentiment de soi.",
+        "4": "L’enfant a besoin d’expérimenter son pouvoir d’agir tout en rencontrant des limites.",
+        "5": "Un adulte stable et calme reste un point de repère essentiel."
+      }
+    },
+    "spasmes": {
+      "title": "Les spasmes du sanglot",
+      "p": {
+        "1": "Le spasme du sanglot est une apnée réflexe involontaire. L’enfant pleure intensément, expire complètement, puis sa respiration se bloque brièvement.",
+        "2": "Ce phénomène peut être déclenché par une émotion forte — peur, frustration ou colère. L’enfant peut devenir pâle ou bleuté et parfois perdre brièvement connaissance. L’épisode peut être très impressionnant.",
+        "3": "Il apparaît généralement chez le jeune enfant et peut être particulièrement présent autour de cet âge.",
+        "4": "<b>Les deux formes</b>",
+        "5": "La forme bleue est la plus fréquente. Elle survient généralement après une forte émotion, une colère ou une frustration : l’enfant pleure, expire puis bloque brièvement sa respiration.",
+        "6": "La forme pâle survient plutôt après une douleur ou une peur soudaine. Les pleurs peuvent être moins importants, avec une pâleur marquée et parfois une brève perte de tonus.",
+        "7": "<b>Que faire sur le moment ?</b>",
+        "8": "Rester aussi calme que possible. Mettre l’enfant en sécurité, idéalement allongé sur le côté. Ne pas le secouer et ne pas souffler dans sa bouche.",
+        "9": "La respiration reprend spontanément dans les épisodes typiques décrits dans le document source."
+      },
+      "points": {
+        "1": "Le spasme du sanglot est involontaire : l’enfant ne le fait pas exprès et ne peut pas le contrôler.",
+        "2": "Une émotion intense, une frustration, une peur ou une douleur peuvent le déclencher.",
+        "3": "Il existe principalement une forme bleue et une forme pâle.",
+        "4": "Il ne s’agit pas d’une manipulation.",
+        "5": "Pendant l’épisode, l’essentiel est de rester aussi calme que possible et de mettre l’enfant en sécurité."
+      },
+      "closing": {
+        "1": "Un cadre rassurant permet à l’enfant d’oser découvrir le monde."
+      }
+    }
+  }
+}

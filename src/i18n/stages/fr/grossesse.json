@@ -1,0 +1,254 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - Grossesse"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • LA GROSSESSE"
+    },
+    "1": {
+      "title": "Une attente. Un mouvement intérieur. Une vie qui s’approche.",
+      "p": {
+        "1": "La grossesse est un temps à part, vécu différemment par chaque personne.",
+        "2": "Pour la mère, elle se vit aussi dans le corps : celui-ci change, le rythme se modifie et quelque chose se met progressivement en place.",
+        "3": "Lorsqu’un père, un second parent ou un partenaire est présent, son expérience est nécessairement différente. Certains se sentent immédiatement parents. D’autres ont besoin de temps.",
+        "4": "Et parfois, la grossesse se traverse seule, par choix ou parce que la vie en a décidé autrement.",
+        "5": "Le lien avec l’enfant peut naître au fil des échographies, des conversations, des mouvements ressentis, des pensées qui lui sont adressées ou simplement à travers les projections qui se construisent peu à peu.",
+        "6": "Cette période peut s’accompagner d’émotions variées : joie, impatience, fierté, inquiétude, sentiment de responsabilité, peur de ne pas être à la hauteur ou questionnements sur la place que l’enfant va prendre dans la vie.",
+        "7": "La grossesse n’est pas toujours un moment calme ou léger. Elle peut être traversée par de la joie, mais aussi par des inconforts, des doutes, des fragilités ou un sentiment de solitude. La vie continue autour : des événements personnels, familiaux, relationnels ou professionnels peuvent aussi traverser cette période.",
+        "8": "Pendant ces mois, un lien commence à se tisser. L’enfant est pensé, imaginé, parfois nommé, parfois simplement ressenti.",
+        "9": "Ce lien n’a pas besoin d’être constant ni intense pour être réel. Il peut être discret, fluctuant, silencieux. Il se construit à sa manière.",
+        "10": "Ici, raconter la grossesse, ce n’est pas chercher à bien faire. C’est reconnaître ce temps comme une traversée humaine, faite de forces et de fragilités.",
+        "11": "Ce Carnet est là pour accueillir ce vécu tel qu’il a été, sans le corriger, sans l’idéaliser."
+      },
+      "quote": "Chaque grossesse a son histoire, son rythme et sa manière de créer du lien."
+    },
+    "2": {
+      "intro": "Chaque grossesse est unique.<br></br>Les ressentis peuvent évoluer, parfois se contredire.<br></br>Le lien avec l’enfant peut être discret, fluctuant ou silencieux… et rester réel.",
+      "quote": "Le lien n’a pas besoin d’être immédiat pour commencer à se construire."
+    },
+    "4": {
+      "title": "Les mains sur le ventre",
+      "p": {
+        "1": "Prendre, de temps en temps, quelques instants autour du ventre.",
+        "2": "La future mère peut simplement poser ses mains sur son ventre et s’adresser à l’enfant.",
+        "3": "Si d’autres personnes partagent cette attente — père, second parent, frère, sœur ou personne proche — elles peuvent aussi, si cela semble naturel, participer à ce moment.",
+        "4": "Appeler l’enfant par son prénom s’il est déjà choisi, par un petit nom, ou simplement lui parler.",
+        "5": "Il n’y a rien de particulier à réussir. Quelques secondes peuvent suffire.",
+        "6": "Une main posée.<br></br>Une parole.<br></br>Un silence.<br></br>Un mouvement ressenti."
+      },
+      "quote": "Dans ce geste simple, le lien est déjà là.",
+      "invite": "Nous invitons la personne désirant garder une trace de ce moment à le photographier, le filmer ou simplement enregistrer quelques mots pour le déposer dans Carnet de Vie. L’enfant pourra ainsi découvrir un jour quelque chose de ce lien qui commençait déjà à se tisser avant sa naissance."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette grossesse",
+      "items": {
+        "1": "Une échographie.",
+        "2": "Une photo du ventre qui s’arrondit.",
+        "3": "Un mouvement ressenti pour la première fois.",
+        "4": "Une voix adressée à l’enfant.",
+        "5": "Une musique écoutée pendant cette période.",
+        "6": "Un prénom ou un petit nom.",
+        "7": "Une conversation.",
+        "8": "Un vêtement ou un objet préparé pour son arrivée.",
+        "9": "Un moment partagé avec une personne proche.",
+        "10": "Une citation, un film ou un souvenir associé à cette période.",
+        "11": "Ou simplement quelque chose que je ne veux pas oublier."
+      },
+      "fields": {
+        "1": "Ce que j’aimerais ajouter ou partager :"
+      },
+      "quote": "Les petites traces d’aujourd’hui pourront un jour raconter l’attente qui précédait la rencontre."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. L’arrivée de cette grossesse",
+      "lead": "Quand cette grossesse est arrivée, je l’ai vécue comme :",
+      "options": {
+        "1": "attendue",
+        "2": "surprenante",
+        "3": "évidente",
+        "4": "déstabilisante",
+        "5": "contrastée"
+      },
+      "quote": "Nommer une première impression n’oblige à rien."
+    },
+    "2": {
+      "title": "2. Le moment de ma vie",
+      "lead": "À ce moment-là de ma vie, cette grossesse arrivait :",
+      "options": {
+        "1": "dans un moment qui me semblait juste",
+        "2": "dans une période de transition",
+        "3": "dans un contexte déjà chargé",
+        "4": "dans un moment inattendu"
+      },
+      "quote": "Il n’existe pas de « bon moment » universel."
+    },
+    "3": {
+      "title": "3. Mon corps pendant cette grossesse — pour la future mère",
+      "lead": "Si c’est moi qui porte l’enfant, pendant ces mois, mon corps a été pour moi :",
+      "options": {
+        "1": "un allié",
+        "2": "une épreuve",
+        "3": "les deux",
+        "4": "quelque chose à apprivoiser",
+        "5": "en transformation",
+        "6": "difficile à reconnaître parfois"
+      },
+      "quote": "Un corps qui porte un enfant traverse lui aussi une histoire."
+    },
+    "4": {
+      "title": "4. Mes ressentis",
+      "lead": "Les ressentis qui ont le plus traversé cette grossesse :",
+      "options": {
+        "1": "sérénité",
+        "2": "joie",
+        "3": "peur",
+        "4": "tristesse",
+        "5": "colère",
+        "6": "honte",
+        "7": "fatigue",
+        "8": "inquiétude",
+        "9": "montagnes russes"
+      },
+      "quote": "Tous les ressentis ont le droit d’exister ici."
+    },
+    "5": {
+      "title": "5. Les moments plus fragiles",
+      "lead": "Y a-t-il eu des périodes plus fragiles ou plus lourdes ?",
+      "options": {
+        "1": "oui",
+        "2": "non",
+        "3": "je ne sais pas"
+      },
+      "field": "Si oui, ce qui me revient aujourd’hui :",
+      "quote": "Nommer une fragilité ne diminue pas ce qui a été traversé."
+    },
+    "6": {
+      "title": "6. Le lien avec l’enfant pendant la grossesse",
+      "lead": "Pendant cette grossesse, le lien avec l’enfant était plutôt :",
+      "options": {
+        "1": "facile",
+        "2": "discret",
+        "3": "fluctuant",
+        "4": "intense",
+        "5": "difficile",
+        "6": "en construction",
+        "7": "différent selon les moments"
+      },
+      "quote": "Le lien ne se mesure pas. Il se tisse à son rythme."
+    },
+    "7": {
+      "title": "7. Émotionnellement, je me sens plutôt :",
+      "options": {
+        "1": "apaisé(e)",
+        "2": "rassuré(e)",
+        "3": "heureux(se)",
+        "4": "triste",
+        "5": "tendu(e)",
+        "6": "stressé(e)",
+        "7": "inquiet(ète)"
+      },
+      "quote": "Ce qui est éprouvé ici appartient à ce moment."
+    },
+    "8": {
+      "title": "8. Dans ma vie professionnelle, je me sens plutôt :",
+      "options": {
+        "1": "confiant(e)",
+        "2": "stable",
+        "3": "disponible",
+        "4": "fatigué(e)",
+        "5": "sous pression",
+        "6": "incertain(e)"
+      },
+      "quote": "Tout n’a pas besoin d’être clair aujourd’hui."
+    },
+    "9": {
+      "title": "9. Financièrement, je me sens plutôt :",
+      "options": {
+        "1": "serein(e)",
+        "2": "prudent(e)",
+        "3": "inquiet(ète)",
+        "4": "dans une forme d’équilibre",
+        "5": "en réflexion"
+      },
+      "quote": "La prudence peut être une forme de soin."
+    },
+    "10": {
+      "title": "10. Dans mon entourage, je me sens plutôt :",
+      "options": {
+        "1": "soutenu(e)",
+        "2": "entouré(e)",
+        "3": "compris(e)",
+        "4": "plutôt seul(e)",
+        "5": "fragile",
+        "6": "sous tension"
+      },
+      "quote": "La présence autour de soi peut prendre des formes très différentes."
+    }
+  },
+  "articles": {
+    "lien": {
+      "title": "Le lien avant la naissance",
+      "p": {
+        "1": "Pendant la grossesse, le lien avec l’enfant peut commencer à se construire bien avant sa naissance. Ce lien peut être très présent, mais aussi plus discret, fluctuant ou difficile à ressentir.",
+        "2": "Daniel Stern (1934–2012) – Psychiatre et psychanalyste américain, spécialiste du développement précoce et des relations parents-enfant.",
+        "3": "Les travaux de Stern ont notamment exploré les représentations qui se construisent autour de l’enfant et de la parentalité.",
+        "4": "Pendant la grossesse, une personne peut progressivement imaginer l’enfant, anticiper certaines interactions et commencer à se représenter dans son nouveau rôle.",
+        "5": "Mais il n’existe pas une seule manière de vivre ce lien.",
+        "6": "Certaines personnes se sentent très proches de l’enfant avant même sa naissance. Pour d’autres, le lien devient plus concret avec les échographies, les mouvements du bébé, la naissance ou encore les premières interactions.",
+        "7": "La naissance ne constitue donc pas l’aboutissement d’un lien qui devrait déjà être pleinement installé. Elle ouvre une nouvelle étape dans une relation qui continuera à se construire."
+      },
+      "points": {
+        "1": "Le lien avec l’enfant peut commencer avant la naissance.",
+        "2": "Il peut être intense, discret, fluctuant ou se construire plus tardivement.",
+        "3": "Il n’existe pas une seule manière de se sentir déjà parent pendant la grossesse.",
+        "4": "Les représentations imaginées pendant la grossesse évolueront au contact de l’enfant réel.",
+        "5": "Le lien continuera à se construire bien après la naissance."
+      }
+    },
+    "preoccupation": {
+      "title": "La « préoccupation maternelle primaire »",
+      "p": {
+        "1": "La grossesse et la période entourant la naissance peuvent s’accompagner d’une sensibilité particulière à l’enfant et à ce qui concerne son arrivée.",
+        "2": "Donald Winnicott (1896–1971) – Pédiatre et psychanalyste britannique, spécialiste du développement affectif précoce et de la relation mère-bébé.",
+        "3": "Winnicott a proposé la notion de « préoccupation maternelle primaire » pour décrire un état de sensibilité accrue qui apparaît chez de nombreuses mères vers la fin de la grossesse et dans les premières semaines suivant la naissance.",
+        "4": "Cette disponibilité particulière peut permettre à la mère de devenir très attentive aux manifestations et aux besoins du nouveau-né.",
+        "5": "Elle ne signifie pas qu’une mère doit ressentir constamment une proximité intense avec son bébé, ni que toutes les femmes vivent la grossesse ou les premières semaines de la même manière.",
+        "6": "Le concept décrit un processus possible, et non un modèle auquel il faudrait correspondre."
+      },
+      "points": {
+        "1": "Une sensibilité particulière au bébé peut apparaître pendant la grossesse et autour de la naissance.",
+        "2": "Cette disponibilité peut participer à l’ajustement progressif aux besoins du nouveau-né.",
+        "3": "Toutes les mères ne vivent pas cette période de la même manière.",
+        "4": "Ne pas ressentir immédiatement une proximité intense ne signifie pas que le lien ne pourra pas se construire.",
+        "5": "La relation avec l’enfant se développe progressivement dans les interactions réelles."
+      }
+    },
+    "entourage": {
+      "title": "L’arrivée d’un enfant et les liens autour de soi",
+      "p": {
+        "1": "L’arrivée d’un enfant transforme les équilibres relationnels autour de la personne qui devient parent.",
+        "2": "Lorsqu’un couple est présent, les responsabilités, les attentes et la place de chacun peuvent évoluer. L’arrivée d’un enfant peut profondément transformer la vie du couple : le rythme quotidien change, les responsabilités augmentent et de nouveaux ajustements deviennent nécessaires.",
+        "3": "John Gottman (né en 1942) – Psychologue américain, chercheur reconnu pour ses travaux sur les relations conjugales et familiales.",
+        "4": "Ses recherches sur les couples ont notamment étudié la transition vers la parentalité et les transformations relationnelles qui peuvent accompagner l’arrivée d’un enfant.",
+        "5": "La fatigue, la répartition des responsabilités, la diminution du temps disponible pour le couple et les attentes différentes de chacun peuvent modifier l’équilibre antérieur.",
+        "6": "Lorsqu’un couple est présent, pouvoir parler de ces changements, exprimer ses besoins et reconnaître que chacun peut vivre différemment cette transition aide à construire progressivement un nouvel équilibre.",
+        "7": "Mais le soutien autour de l’arrivée d’un enfant ne repose pas nécessairement sur un couple.",
+        "8": "Pour une personne qui traverse la grossesse seule, par choix ou parce que les circonstances de la vie l’ont conduite à cette situation, les liens avec la famille, les amis ou d’autres personnes proches peuvent prendre une place particulièrement importante.",
+        "9": "Il n’existe donc pas une seule configuration relationnelle pour accueillir un enfant. Ce qui compte est aussi la possibilité de trouver, lorsque cela est possible, des liens sur lesquels s’appuyer."
+      },
+      "points": {
+        "1": "L’arrivée d’un enfant peut transformer les relations avec les personnes qui nous entourent.",
+        "2": "Lorsqu’un couple est présent, chacun peut vivre cette transition de manière différente.",
+        "3": "La fatigue et les nouvelles responsabilités peuvent modifier l’équilibre relationnel.",
+        "4": "Le soutien peut venir d’un partenaire, mais aussi de la famille, d’amis ou d’autres personnes proches.",
+        "5": "Il n’existe pas une seule configuration familiale ou relationnelle pour accueillir un enfant."
+      },
+      "closing": {
+        "1": "Je ne te voyais pas encore. Pourtant, chaque jour, tu changeais déjà ma vie."
+      }
+    }
+  }
+}

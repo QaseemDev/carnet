@@ -1,0 +1,224 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 5-6 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 5 À 6 ANS"
+    },
+    "1": {
+      "title": "Le créateur de liens",
+      "p": {
+        "1": "Entre cinq et six ans, quelque chose s’élargit. L’enfant ne cherche plus seulement à faire. L’enfant cherche à faire avec.",
+        "2": "Les équipes. Les jeux partagés. Les projets communs.",
+        "3": "« On fait ensemble ? »",
+        "4": "Le monde ne se limite plus à l’initiative personnelle. L’enfant découvre le plaisir d’appartenir.",
+        "5": "Être inclus devient important. Une invitation. Un partenaire choisi. Une place dans le groupe.",
+        "6": "L’amitié prend de la profondeur. L’exclusion peut faire mal. Le regard des autres commence à compter."
+      },
+      "quote": "L’appartenance soutient l’équilibre intérieur."
+    },
+    "2": {
+      "intro": "Entre cinq et six ans, le plaisir d’être avec les autres devient central. L’enfant apprend à coopérer, à négocier et à respecter des règles communes. L’amitié prend davantage de place et l’inclusion ou l’exclusion peuvent être vécues intensément.<br></br>Le groupe s’élargit, mais le lien familial reste le socle.",
+      "quote": "L’enfant apprend à être soi parmi les autres."
+    },
+    "4": {
+      "title": "Le cercle des liens",
+      "p": {
+        "1": "Choisis avec l’enfant quelques personnes qui ont compté cette année : un ami, un membre de la famille, un enseignant, une personne avec qui un moment particulier a été partagé.",
+        "2": "Pour chacune, demande simplement :",
+        "3": "« Qu’est-ce que tu aimes vivre avec cette personne ? »",
+        "4": "L’enfant peut répondre par un mot, une phrase, un dessin ou un souvenir.",
+        "5": "Écoute sans corriger ni compléter. Ce petit cercle raconte les liens qui commencent à compter en dehors de la famille, tout en rappelant que le lien familial demeure le socle."
+      },
+      "quote": "Grandir, c’est aussi découvrir que plusieurs liens peuvent compter sans se remplacer.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette année",
+      "items": {
+        "1": "Une amitié forte.",
+        "2": "Une invitation.",
+        "3": "Une dispute dépassée.",
+        "4": "Un projet réalisé en équipe.",
+        "5": "Un moment de coopération.",
+        "6": "Une photo ou une vidéo avec des amis.",
+        "7": "La voix de l’enfant racontant une amitié.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Dans les activités collectives, je remarque que l’enfant :",
+      "options": {
+        "1": "coopère facilement",
+        "2": "préfère diriger",
+        "3": "préfère suivre",
+        "4": "a besoin d’un adulte pour réguler",
+        "5": "évite les groupes"
+      },
+      "quote": "La coopération s’apprend."
+    },
+    "2": {
+      "title": "2. Face aux règles, l’enfant :",
+      "options": {
+        "1": "les comprend",
+        "2": "les accepte",
+        "3": "tente de les négocier",
+        "4": "les contourne",
+        "5": "les rappelle aux autres"
+      },
+      "quote": "La règle devient structurante."
+    },
+    "3": {
+      "title": "3. Lorsque l’enfant se sent exclu :",
+      "options": {
+        "1": "se replie",
+        "2": "se met en colère",
+        "3": "cherche un autre groupe",
+        "4": "vient me raconter",
+        "5": "minimise"
+      },
+      "quote": "L’appartenance touche l’estime."
+    },
+    "4": {
+      "title": "4. Dans l’amitié, l’enfant :",
+      "options": {
+        "1": "a une amitié proche",
+        "2": "change souvent d’amis",
+        "3": "vit des conflits",
+        "4": "cherche la réconciliation",
+        "5": "ne craint pas la rupture"
+      },
+      "quote": "L’amitié devient engagement."
+    },
+    "5": {
+      "title": "5. Dans le langage, l’enfant :",
+      "options": {
+        "1": "argumente",
+        "2": "négocie",
+        "3": "explique",
+        "4": "contredit",
+        "5": "raconte des situations complexes",
+        "6": "peut modifier la réalité dans son récit",
+        "7": "n’aime pas ou ne sait pas mentir"
+      },
+      "quote": "La parole devient un outil social."
+    },
+    "6": {
+      "title": "6. Dans sa manière de penser, l’enfant :",
+      "options": {
+        "1": "comprend mieux la cause et la conséquence",
+        "2": "commence à planifier",
+        "3": "pose des questions plus logiques",
+        "4": "distingue mieux l’intention et l’accident"
+      },
+      "quote": "La pensée s’organise."
+    },
+    "7": {
+      "title": "7. Le lien entre nous me semble :",
+      "options": {
+        "1": "stable",
+        "2": "parfois mis à l’épreuve par l’influence du groupe",
+        "3": "complice",
+        "4": "en évolution"
+      },
+      "quote": "Le groupe n’efface pas le lien."
+    },
+    "8": {
+      "title": "8. Face à l’injustice, l’enfant :",
+      "options": {
+        "1": "proteste",
+        "2": "défend un autre enfant",
+        "3": "réclame réparation",
+        "4": "cherche un adulte pour arbitrer"
+      },
+      "quote": "Le sens moral émerge."
+    },
+    "9": {
+      "title": "9. Dans cette période, je me sens :",
+      "options": {
+        "1": "fier(ère) de son autonomie",
+        "2": "inquiet(e) face à l’influence du groupe",
+        "3": "touché(e) par ses amitiés",
+        "4": "parfois mis(e) à l’écart",
+        "5": "toujours un repère"
+      },
+      "quote": "L’enfant s’ouvre au monde. Le parent ajuste sa place."
+    },
+    "10": {
+      "title": "10. Ce qui m’a particulièrement marqué ou ce qui a changé dans notre vie cette année :",
+      "quote": "L’enfant apprend à être avec. Je reste le socle."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (5–6 ans)",
+      "p": {
+        "1": "Entre cinq et six ans, la coordination motrice permet des activités collectives plus structurées : jeux d’équipe, activités physiques partagées, gestes coordonnés avec les autres.",
+        "2": "Le corps devient davantage disponible pour agir ensemble.",
+        "3": "Jean Piaget (1896–1980) – Psychologue, biologiste et épistémologue suisse, spécialiste du développement cognitif de l’enfant.",
+        "4": "La pensée devient progressivement plus organisée et logique, même si elle reste encore largement attachée au concret. L’enfant comprend mieux les règles, les causes et les conséquences et commence à anticiper certaines situations.",
+        "5": "Lawrence Kohlberg (1927–1987) – Psychologue américain, spécialiste du développement moral.",
+        "6": "Les premières formes du raisonnement moral se structurent. L’enfant ne suit plus seulement une règle pour éviter une sanction : la justice, l’équité et l’intention commencent à prendre davantage de sens.",
+        "7": "Erik Erikson (1902–1994) – Psychologue et psychanalyste germano-américain, spécialiste du développement psychosocial.",
+        "8": "Le sentiment de compétence s’élargit progressivement au groupe. Faire quelque chose avec les autres, participer et être reconnu comme membre du groupe deviennent importants.",
+        "9": "Donald W. Winnicott (1896–1971) – Pédiatre et psychanalyste britannique.",
+        "10": "L’ouverture sociale peut se développer d’autant plus sereinement que l’environnement affectif reste suffisamment stable.",
+        "11": "L’enfant découvre ainsi que le lien ne se limite plus à la famille. Il devient aussi social."
+      },
+      "points": {
+        "1": "Le corps permet des activités collectives de plus en plus coordonnées.",
+        "2": "La pensée devient progressivement plus organisée, tout en restant concrète.",
+        "3": "L’enfant commence à mieux comprendre les règles et leur utilité.",
+        "4": "Le sentiment de compétence se construit aussi dans les expériences vécues avec les autres.",
+        "5": "L’ouverture au groupe s’appuie encore sur la stabilité du lien familial."
+      }
+    },
+    "moral": {
+      "title": "Le développement moral et le sens de la justice",
+      "p": {
+        "1": "Entre cinq et six ans, l’enfant ne se contente progressivement plus d’obéir : l’enfant cherche davantage à comprendre.",
+        "2": "Pourquoi cette règle ? Pourquoi l’autre a-t-il le droit ? Pourquoi est-ce injuste ?",
+        "3": "Jean Piaget (1896–1980) – Psychologue, biologiste et épistémologue suisse, spécialiste du développement cognitif de l’enfant.",
+        "4": "Piaget décrit le passage progressif d’une morale essentiellement fondée sur la règle imposée par l’adulte vers une compréhension plus coopérative des règles.",
+        "5": "L’enfant commence notamment à mieux distinguer la règle imposée et la règle comprise, l’intention et l’accident, la justice et l’injustice.",
+        "6": "Lawrence Kohlberg (1927–1987) – Psychologue américain, spécialiste du développement moral.",
+        "7": "Kohlberg a prolongé cette réflexion en décrivant une évolution progressive du raisonnement moral. À cet âge, cette pensée reste encore concrète, mais elle commence à s’organiser.",
+        "8": "L’adulte peut accompagner ce mouvement sans donner immédiatement toutes les réponses : expliquer le sens d’une règle, distinguer intention et conséquence, aider à nommer ce qui s’est passé et encourager la réparation lorsqu’un autre a été blessé.",
+        "9": "Le sens moral se construit dans la relation."
+      },
+      "points": {
+        "1": "Le besoin de comprendre les règles devient plus important.",
+        "2": "L’enfant commence progressivement à distinguer l’intention de l’accident.",
+        "3": "Le sentiment de justice prend davantage de place.",
+        "4": "Expliquer le sens d’une règle aide à l’intégrer.",
+        "5": "Réparer une relation apprend davantage que la seule sanction."
+      }
+    },
+    "groupe": {
+      "title": "Trouver sa place dans le groupe",
+      "p": {
+        "1": "À cinq-six ans, le sentiment d’appartenance se structure. L’enfant ne cherche plus seulement à être avec les autres. L’enfant cherche à trouver une place parmi eux.",
+        "2": "Être inclus. Être choisi. Être reconnu. Et parfois être mis à l’écart.",
+        "3": "Ces expériences peuvent avoir un impact émotionnel important. L’enfant apprend progressivement à coopérer, attendre son tour, s’ajuster aux autres et accepter de ne pas toujours décider.",
+        "4": "Le groupe devient ainsi un espace d’apprentissage.",
+        "5": "L’enfant découvre que les autres peuvent avoir des envies différentes, que les règles permettent de jouer ensemble et que le lien se construit dans l’échange.",
+        "6": "Mais cette étape peut aussi être sensible. L’enfant peut se comparer, douter de sa place, rechercher fortement l’approbation ou craindre l’exclusion.",
+        "7": "Le rôle de l’adulte reste alors essentiel : écouter ce qui est vécu, aider à mettre des mots, rassurer l’enfant sur sa valeur et encourager la coopération plutôt que la comparaison permanente."
+      },
+      "points": {
+        "1": "Le sentiment d’appartenance devient important à cet âge.",
+        "2": "Être inclus ou exclu peut avoir un impact émotionnel fort.",
+        "3": "Le groupe apprend à l’enfant à coopérer, attendre, négocier et s’ajuster.",
+        "4": "La valeur de l’enfant ne doit pas dépendre uniquement du regard des autres.",
+        "5": "Le lien familial reste un socle lorsque la vie sociale s’élargit."
+      },
+      "closing": {
+        "1": "L’enfant apprend à vivre avec les autres sans perdre sa propre place."
+      }
+    }
+  }
+}

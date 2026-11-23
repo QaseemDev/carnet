@@ -1,0 +1,252 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 3–4 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 3 TO 4"
+    },
+    "1": {
+      "title": "A time for exchange",
+      "p": {
+        "1": "Between the ages of three and four, something opens up.",
+        "2": "The arms are still there. But the gaze comes alive.",
+        "3": "The baby looks for longer. Smiles. Responds.",
+        "4": "Something becomes an exchange.",
+        "5": "The bond no longer only holds: it answers.",
+        "6": "Little by little, the child discovers that a call can get an answer, that one gaze can meet another.",
+        "7": "The first sounds appear, the hands explore, the body wakes up more.",
+        "8": "Security remains the first need, but curiosity begins to flow and the bond becomes more alive, more interactive.",
+        "9": "It is about being present, offering continuity… and letting curiosity unfold at its own pace."
+      },
+      "quote": "Little by little, the world becomes a dialogue."
+    },
+    "2": {
+      "intro": "Between the ages of three and four, the baby becomes more of a partner in the exchange. Looks, sounds, laughter, movement and exploration open new ways of relating.",
+      "quote": "Security remains the foundation; curiosity can then unfold."
+    },
+    "4": {
+      "title": "The laughter ritual",
+      "p": {
+        "1": "Look for what makes them laugh.",
+        "2": "An unexpected sound.",
+        "3": "A face that changes.",
+        "4": "A “peekaboo” that comes back.",
+        "5": "Do it again. Let the baby anticipate.",
+        "6": "Notice what happens inside you when the laugh comes.",
+        "7": "That laugh belongs to this moment.",
+        "8": "It will never come back quite the same."
+      },
+      "quote": "Keep it.",
+      "invite": "We invite you to film or photograph this moment and add it to Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from these three months",
+      "items": {
+        "1": "A word.",
+        "2": "A sentence.",
+        "3": "A photo or a video.",
+        "4": "Their voice or their laugh.",
+        "5": "A lullaby.",
+        "6": "A feeling.",
+        "7": "A first time.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "Here I keep our precious moments,<br></br>to give them to you one day and say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. At feeding times, I notice that the baby is now:",
+      "options": {
+        "1": "more regular in their demands",
+        "2": "more interactive",
+        "3": "still unpredictable",
+        "4": "more expressive"
+      },
+      "quote": "Even when the rhythm changes, the relationship remains the thread."
+    },
+    "2": {
+      "title": "2. The baby’s sleep seems to me:",
+      "options": {
+        "1": "more stable",
+        "2": "still changing",
+        "3": "evolving",
+        "4": "a source of adjustment"
+      },
+      "quote": "Sleep is built: it does not obey, it matures."
+    },
+    "3": {
+      "title": "3. When the baby looks at me or makes sounds, I feel:",
+      "options": {
+        "1": "touched",
+        "2": "surprised",
+        "3": "reassured",
+        "4": "more confident",
+        "5": "moved"
+      },
+      "quote": "An exchange can be tiny, and yet immense."
+    },
+    "4": {
+      "title": "4. I notice that the baby:",
+      "options": {
+        "1": "grabs things",
+        "2": "explores with their mouth",
+        "3": "rolls over",
+        "4": "laughs",
+        "5": "repeats sounds — the first “ah-goos”"
+      },
+      "quote": "Exploring is a sign of security, not of performance."
+    },
+    "5": {
+      "title": "5. During this time, I feel more at ease with:",
+      "options": {
+        "1": "carrying",
+        "2": "playing",
+        "3": "recognising their signals",
+        "4": "organising our days",
+        "5": "finding my rhythm"
+      },
+      "quote": "Confidence comes in small steps, not in certainties."
+    },
+    "6": {
+      "title": "6. I still feel fragile when it comes to:",
+      "options": {
+        "1": "tiredness",
+        "2": "doubts",
+        "3": "crying",
+        "4": "our balance as a couple"
+      },
+      "quote": "Being tired takes nothing away from the quality of the bond."
+    },
+    "7": {
+      "title": "7. The bond between the baby and me seems:",
+      "options": {
+        "1": "smoother",
+        "2": "more alive",
+        "3": "more reassuring",
+        "4": "still being built"
+      },
+      "quote": "The bond is woven in everyday life, not in the ideal."
+    },
+    "8": {
+      "title": "8. If there are siblings, I notice that:",
+      "options": {
+        "1": "curiosity is growing",
+        "2": "jealousy is appearing or continuing",
+        "3": "bonds are forming",
+        "4": "each one is looking for their place"
+      },
+      "quote": "Each child adjusts in their own way."
+    },
+    "9": {
+      "title": "9. Have these months brought important changes?",
+      "options": {
+        "1": "going back to work",
+        "2": "starting nursery or with a childminder",
+        "3": "a move or a trip",
+        "4": "someone arriving or leaving"
+      },
+      "field": "How did I experience this change?",
+      "blocks": {
+        "1": {
+          "field": "How does the baby seem to be adapting?"
+        }
+      },
+      "quote": "Sometimes a change simply needs time to settle."
+    },
+    "10": {
+      "title": "10. What these three months have changed in me and between us:",
+      "field": "In how I see myself as a parent:",
+      "blocks": {
+        "1": {
+          "field": "In my relationship with my partner:"
+        },
+        "2": {
+          "field": "In what I feel for the baby:"
+        }
+      },
+      "quote": "Growing up does not always make noise. But it transforms the bond."
+    }
+  },
+  "articles": {
+    "eveil": {
+      "title": "Curiosity, exchange and development (3–4 years)",
+      "p": {
+        "1": "T. Berry Brazelton (1918–2018) – American paediatrician, specialist in infant development.",
+        "2": "Between the ages of three and four, the child becomes more and more active in the relationship. Looks last longer, smiles are more clearly addressed to someone, and the first vocalisations create real little exchanges.",
+        "3": "The “ah-goos”, the drawn-out vowels and the cooing are the first vocal experiments. When the adult responds, waits, then lets the baby answer in turn, something that already looks like a conversation takes shape.",
+        "4": "Laughter often appears around 3–4 months. It can be set off by a face that changes, an unexpected sound, a repetition or a game of “peekaboo”. Repeating what makes them laugh lets the baby anticipate and take a bigger part in the exchange.",
+        "5": "<b>Hands, mouth and body</b>",
+        "6": "The hands gradually become explorers. The baby grabs, brings objects to their mouth, looks at their hands and tries out the movements of their body.",
+        "7": "The mouth is then a real tool for exploring. Bringing a suitable object to the mouth does not only mean “wanting to eat”: the baby is also gathering information about its shape, texture and consistency.",
+        "8": "Control of the head and upper body improves. Some babies start to roll over. These skills appear gradually and at different paces.",
+        "9": "<b>Other faces</b>",
+        "10": "The circle of relationships widens. Parents, grandparents, siblings and people who are regularly around start to be recognised more clearly.",
+        "11": "The baby may keep particular looks, sounds or smiles for certain people.",
+        "12": "What matters is not to force the relationship, but to give it time to build."
+      },
+      "points": {
+        "1": "Between the ages of three and four, the baby takes a more active part in the exchange.",
+        "2": "Responding to their sounds, looks and smiles feeds the first forms of dialogue.",
+        "3": "Hands, mouth and movement are essential ways of exploring.",
+        "4": "Each skill appears at its own pace: there is no performance to aim for.",
+        "5": "With family and friends, it is better to let the baby come into the relationship gradually than to force contact."
+      }
+    },
+    "sommeil": {
+      "title": "Sleep, teeth and starting solids",
+      "p": {
+        "1": "<b>Sleep</b>",
+        "2": "Between the ages of three and four, sleep gradually evolves, but it can stay irregular. Some periods become more predictable, while others may again bring more night waking.",
+        "3": "These variations do not necessarily mean a habit has been “lost”. Brain development, new motor skills, changes in rhythm and physical discomfort can temporarily change sleep.",
+        "4": "<b>First teething</b>",
+        "5": "During this period, some babies start to show signs linked to their first teeth coming through: a need to chew, more drooling, sensitive gums or irritability.",
+        "6": "When the first teeth appear varies a great deal from one child to another, though.",
+        "7": "<b>Starting solids</b>",
+        "8": "Between four and six months, depending on the advice given to the family and the child’s development, the gradual discovery of new textures and flavours may also begin.",
+        "9": "Beyond the food itself, it is a new sensory experience: new smells, new textures, new ways of eating.",
+        "10": "It is not a race. The discovery can happen gradually, watching how the baby reacts and without turning the meal into a performance."
+      },
+      "points": {
+        "1": "Between the ages of three and four, sleep keeps maturing and can stay changeable.",
+        "2": "A period of more frequent waking does not necessarily mean a step backwards.",
+        "3": "Teething can cause discomfort, but when it starts and how it shows varies from child to child.",
+        "4": "Starting solids is a gradual discovery of tastes and textures, not a feeding performance.",
+        "5": "Watching how the baby reacts and respecting their pace remains essential."
+      }
+    },
+    "separation": {
+      "title": "Separation, going back to work and a new family balance",
+      "p": {
+        "1": "Between the ages of three and four, the first regular separations sometimes happen: going back to work, starting nursery, a childminder or another form of childcare.",
+        "2": "For the parent, this step can bring up conflicting emotions: relief and guilt, the pleasure of getting back to an activity and missing the baby, confidence and worry.",
+        "3": "These feelings can exist side by side.",
+        "4": "<b>Parting and reuniting</b>",
+        "5": "A regular separation does not erase the attachment bond.",
+        "6": "Simple, repeated landmarks can support this transition: a way of saying goodbye, a few words that are always the same, a familiar gesture, then reunions where you are present enough.",
+        "7": "Little by little, the child discovers that a person can leave and then come back.",
+        "8": "<b>The couple</b>",
+        "9": "Life as a couple keeps reorganising too. Tiredness, new responsibilities, sharing of tasks, emotional availability and sexuality can all change.",
+        "10": "Desire can come back quickly, slowly or irregularly. There is no single rhythm.",
+        "11": "Keeping a few spaces for talking also lets the couple go on existing beyond their role as parents.",
+        "12": "<b>The parent</b>",
+        "13": "As the weeks go by, the parent often starts to recognise some of the baby’s signals better and to gain confidence.",
+        "14": "However, intense tiredness, lasting sadness, loss of pleasure, a feeling of emptiness or real difficulty bonding can also appear or persist several months after the birth. Talking to a professional remains important.",
+        "15": "<b>Siblings and family</b>",
+        "16": "The other children in the family are also still looking for their new place. Curiosity, affection, jealousy or regression can sometimes take turns.",
+        "17": "Family and friends can become new familiar figures, as long as they respect the child’s pace and do not force contact."
+      },
+      "points": {
+        "1": "The first separations can be emotionally hard for the parent without necessarily weakening the bond with the baby.",
+        "2": "Simple, regular goodbyes and reunions gradually offer landmarks.",
+        "3": "The couple keeps changing after the birth: each partner may have a different pace.",
+        "4": "Great tiredness or lasting sadness deserves to be heard and supported, even several months after the birth.",
+        "5": "Siblings and family also need time to find their place around the baby."
+      },
+      "closing": {
+        "1": "Between the ages of three and four, the world widens: security remains the foundation from which exchange, exploration and new bonds can grow."
+      }
+    }
+  }
+}

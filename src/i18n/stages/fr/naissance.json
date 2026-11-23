@@ -1,0 +1,248 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - Histoires de naissance particulières"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • HISTOIRES DE NAISSANCE PARTICULIÈRES"
+    },
+    "1": {
+      "title": "Un chemin différent. Une attente. Une rencontre.",
+      "subtitle": "Adoption, gestation pour autrui et autres parcours singuliers",
+      "p": {
+        "1": "Certaines histoires d’arrivée dans une famille empruntent des chemins différents.",
+        "2": "L’adoption, la gestation pour autrui ou d’autres parcours singuliers peuvent être marqués par l’attente, l’incertitude, l’espoir, parfois l’épreuve.",
+        "3": "Avant la rencontre, il peut y avoir des démarches longues, des silences, des délais imprévisibles ou des décisions difficiles à traverser.",
+        "4": "Parfois, l’enfant est longtemps imaginé avant d’être rencontré. Parfois, la rencontre a lieu dès sa naissance. Parfois encore, l’enfant a déjà vécu une partie de son histoire avant d’entrer dans sa nouvelle famille.",
+        "5": "Ces chemins n’enlèvent rien à la profondeur du lien. Ils rappellent simplement que celui-ci ne naît pas toujours dans les mêmes circonstances ni au même moment.",
+        "6": "Il peut commencer avant la rencontre ou se construire progressivement, au fil des présences, des soins, des ajustements et du temps partagé.",
+        "7": "Ces parcours méritent d’être reconnus pour ce qu’ils sont.",
+        "8": "Sans comparaison, sans hiérarchie, sans nécessité de justification.",
+        "9": "Chaque histoire porte sa propre cohérence, même lorsqu’elle n’est pas immédiatement lisible ou entièrement connue.",
+        "10": "Il n’est pas nécessaire de tout raconter. Certaines parts peuvent rester inconnues, incomplètes ou être racontées plus tard.",
+        "11": "Le récit pourra évoluer avec le temps, en respectant l’histoire de l’enfant, son âge et ce qu’il sera en mesure d’entendre et de comprendre."
+      },
+      "quote": "Une famille peut commencer de différentes manières. Le lien, lui, se construit dans l’histoire partagée."
+    },
+    "2": {
+      "intro": "Chaque histoire d’arrivée est singulière.<br></br>Le lien peut commencer avant la rencontre ou se construire progressivement après elle.<br></br>Ce qui peut être nommé aujourd’hui suffit.",
+      "quote": "Une histoire n’a pas besoin d’être entièrement connue pour commencer à être transmise."
+    },
+    "4": {
+      "title": "Les deux lumières",
+      "p": {
+        "1": "Quelques jours avant la rencontre ou l’arrivée de l’enfant, allumer une bougie pendant quelques minutes.",
+        "2": "Prendre ce temps pour penser à l’enfant qui va rejoindre la famille, lui adresser quelques mots ou simplement imaginer la rencontre à venir.",
+        "3": "Cette première lumière symbolise la place qui se prépare pour lui.",
+        "4": "Quelques jours après son arrivée, allumer une seconde fois une bougie.",
+        "5": "Cette fois, prendre un moment pour penser, avec gratitude et dans le respect de l’histoire de chacun, aux personnes qui ont participé au chemin ayant permis cette rencontre : famille d’origine, femme ayant porté l’enfant, famille d’accueil, professionnels, services sociaux, équipe médicale, proches ou toute autre personne ayant eu une place dans cette histoire.",
+        "6": "Il n’est pas nécessaire de connaître tous les noms ni toute l’histoire.",
+        "7": "Une pensée peut suffire."
+      },
+      "quote": "Deux lumières : l’une pour attendre la rencontre, l’autre pour reconnaître le chemin qui l’a rendue possible.",
+      "invite": "Nous invitons la personne désirant garder une trace de ce rituel à photographier les bougies ou à enregistrer les quelques mots prononcés à ces deux moments, puis à les déposer dans Carnet de Vie. L’enfant pourra ainsi découvrir un jour quelque chose de l’attente qui a précédé son arrivée et de la gratitude adressée à ceux qui ont participé à son histoire."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de ce parcours",
+      "items": {
+        "1": "Une photographie de la rencontre.",
+        "2": "Une date.",
+        "3": "Un lieu.",
+        "4": "Un document.",
+        "5": "Une lettre.",
+        "6": "Un message reçu pendant l’attente.",
+        "7": "Une photographie des deux bougies.",
+        "8": "Une voix.",
+        "9": "Une musique.",
+        "10": "Une phrase.",
+        "11": "Un objet lié à l’histoire de l’enfant.",
+        "12": "Le souvenir d’une personne importante.",
+        "13": "Un détail de la première journée ensemble.",
+        "14": "Ou simplement quelque chose que je ne veux pas oublier."
+      },
+      "fields": {
+        "1": "Ce que j’aimerais ajouter ou partager :"
+      },
+      "quote": "Certaines traces permettent un jour de retrouver le chemin qui précédait la rencontre."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Le chemin vers cet enfant",
+      "lead": "Avant la rencontre, ce chemin a été pour moi :",
+      "options": {
+        "1": "long",
+        "2": "incertain",
+        "3": "inattendu",
+        "4": "porteur d’espoir",
+        "5": "éprouvant",
+        "6": "relativement serein"
+      },
+      "quote": "Nommer ce chemin n’oblige pas à tout expliquer."
+    },
+    "2": {
+      "title": "2. L’attente avant la rencontre",
+      "lead": "Avant de rencontrer cet enfant, je pensais à lui :",
+      "options": {
+        "1": "souvent",
+        "2": "par moments",
+        "3": "avec impatience",
+        "4": "avec inquiétude",
+        "5": "avec beaucoup d’émotion",
+        "6": "à ma manière"
+      },
+      "quote": "L’attente peut déjà être une forme de lien."
+    },
+    "3": {
+      "title": "3. Ce qui a été le plus marquant sur ce parcours",
+      "lead": "Un moment, une période, une étape ou un événement qui a particulièrement compté :",
+      "quote": "Ce qui a compté peut être raconté simplement."
+    },
+    "4": {
+      "title": "4. La rencontre",
+      "lead": "J’ai vécu la rencontre comme :",
+      "options": {
+        "1": "une évidence",
+        "2": "une émotion intense",
+        "3": "un bouleversement",
+        "4": "un soulagement",
+        "5": "un temps d’adaptation",
+        "6": "quelque chose de difficile à décrire"
+      },
+      "field": "Ce dont je me souviens particulièrement :",
+      "quote": "Une rencontre n’a pas besoin d’être idéale pour devenir fondatrice."
+    },
+    "5": {
+      "title": "5. Les personnes qui ont compté sur ce chemin",
+      "lead": "Certaines personnes ont peut-être participé, directement ou indirectement, à cette histoire : famille d’origine, femme ayant porté l’enfant, famille d’accueil, professionnels, services sociaux, personnel médical, proches ou autres personnes rencontrées sur ce chemin.",
+      "field": "Celles dont j’aimerais garder la trace :",
+      "blocks": {
+        "1": {
+          "options": {
+            "1": "je ne connais pas leur identité",
+            "2": "je préfère ne pas l’écrire aujourd’hui"
+          }
+        }
+      },
+      "quote": "Reconnaître une présence n’enlève rien à la place de chacun."
+    },
+    "6": {
+      "title": "6. Ce que ce parcours a transformé en moi",
+      "lead": "Ce que ce chemin a changé, déplacé ou fait grandir en moi :",
+      "quote": "Certains chemins nous transforment avant même que nous en ayons pleinement conscience."
+    },
+    "7": {
+      "title": "7. Émotionnellement, je me sens plutôt :",
+      "options": {
+        "1": "apaisé(e)",
+        "2": "rassuré(e)",
+        "3": "heureux(se)",
+        "4": "triste",
+        "5": "tendu(e)",
+        "6": "stressé(e)",
+        "7": "inquiet(ète)",
+        "8": "bouleversé(e)"
+      },
+      "quote": "Une émotion, un ressenti ne sont jamais définitifs."
+    },
+    "8": {
+      "title": "8. Dans ma vie professionnelle, je me sens plutôt :",
+      "options": {
+        "1": "confiant(e)",
+        "2": "stable",
+        "3": "disponible",
+        "4": "fatigué(e)",
+        "5": "sous pression",
+        "6": "incertain(e)"
+      },
+      "quote": "Tout n’a pas besoin d’être clair aujourd’hui."
+    },
+    "9": {
+      "title": "9. Financièrement, je me sens plutôt :",
+      "options": {
+        "1": "serein(e)",
+        "2": "prudent(e)",
+        "3": "inquiet(ète)",
+        "4": "dans une forme d’équilibre",
+        "5": "en réflexion"
+      },
+      "quote": "La prudence peut être une forme de soin."
+    },
+    "10": {
+      "title": "10. Dans mon entourage, je me sens plutôt :",
+      "options": {
+        "1": "soutenu(e)",
+        "2": "entouré(e)",
+        "3": "compris(e)",
+        "4": "plutôt seul(e)",
+        "5": "fragile",
+        "6": "sous tension"
+      },
+      "quote": "La présence autour de soi peut prendre des formes très différentes."
+    }
+  },
+  "articles": {
+    "attachement": {
+      "title": "L’attachement après la rencontre",
+      "p": {
+        "1": "L’attachement ne dépend pas uniquement du lien biologique ni d’un instant précis où une famille commence.",
+        "2": "John Bowlby (1907–1990) – Psychiatre et psychanalyste britannique, fondateur de la théorie de l’attachement.",
+        "3": "Les travaux de Bowlby ont montré que le lien d’attachement se construit dans la relation entre l’enfant et les personnes qui prennent soin de lui de manière suffisamment stable et disponible.",
+        "4": "Dans l’adoption comme dans d’autres parcours familiaux, cette relation peut se construire progressivement à travers les soins quotidiens, la présence, les réponses aux besoins de l’enfant et la continuité des expériences partagées.",
+        "5": "Selon son âge et son histoire antérieure, l’enfant peut avoir besoin de temps pour faire confiance à un nouvel environnement et aux personnes qui l’accueillent.",
+        "6": "De leur côté, les adultes peuvent également avoir besoin de temps pour découvrir cet enfant réel, différent de celui qu’ils avaient parfois longtemps imaginé.",
+        "7": "Le lien n’a donc pas à être immédiat pour devenir profond."
+      },
+      "points": {
+        "1": "L’attachement se construit dans la relation et ne repose pas uniquement sur le lien biologique.",
+        "2": "La stabilité, la disponibilité et la continuité des soins participent à la sécurité de l’enfant.",
+        "3": "Certains enfants peuvent avoir besoin de davantage de temps pour faire confiance.",
+        "4": "Les adultes aussi peuvent avoir besoin de temps pour trouver leur place dans la relation.",
+        "5": "Un lien qui se construit progressivement peut devenir profondément sécurisant."
+      }
+    },
+    "resilience": {
+      "title": "Ruptures précoces, sécurité et résilience",
+      "p": {
+        "1": "Certains enfants adoptés ont connu avant leur arrivée des séparations, des changements de personnes prenant soin d’eux ou des conditions de vie difficiles.",
+        "2": "Tous les enfants adoptés n’ont cependant pas vécu les mêmes expériences et leur histoire ne doit pas être réduite à l’idée d’un traumatisme.",
+        "3": "Boris Cyrulnik (né en 1937) – Neuropsychiatre français, particulièrement connu pour ses travaux et ses écrits sur la résilience.",
+        "4": "La notion de résilience permet de comprendre qu’une histoire marquée par l’adversité ne détermine pas à elle seule le développement futur d’un enfant.",
+        "5": "La rencontre avec des personnes stables, disponibles et sécurisantes peut offrir de nouvelles expériences relationnelles et contribuer à la construction ou à la reconstruction d’un sentiment de sécurité.",
+        "6": "Cela ne signifie pas qu’une nouvelle famille efface ce qui a précédé.",
+        "7": "L’histoire antérieure de l’enfant continue à lui appartenir.",
+        "8": "L’enjeu est plutôt de lui permettre de construire de nouveaux liens tout en respectant ce qui fait déjà partie de son histoire."
+      },
+      "points": {
+        "1": "Tous les enfants adoptés n’ont pas vécu la même histoire avant leur arrivée.",
+        "2": "Des ruptures précoces peuvent influencer la manière dont certains enfants entrent en relation.",
+        "3": "Une histoire difficile ne détermine pas à elle seule l’avenir d’un enfant.",
+        "4": "Des relations stables et sécurisantes peuvent offrir de nouvelles expériences affectives.",
+        "5": "Construire une nouvelle sécurité ne nécessite pas d’effacer l’histoire antérieure."
+      }
+    },
+    "origines": {
+      "title": "Raconter les origines",
+      "p": {
+        "1": "Tout enfant construit progressivement une représentation de son histoire : d’où il vient, comment il est arrivé dans sa famille et quelles personnes ont participé à son parcours.",
+        "2": "Dans une adoption, une gestation pour autrui ou un autre parcours singulier, certaines informations peuvent être connues, d’autres partielles, et certaines parfois absentes.",
+        "3": "Françoise Dolto (1908–1988) – Pédiatre et psychanalyste française, particulièrement connue pour ses travaux sur l’enfance, la parole et la place de l’enfant dans son histoire familiale.",
+        "4": "La pensée de Dolto accorde une place importante à une parole vraie adressée à l’enfant sur ce qui concerne son histoire.",
+        "5": "Cela ne signifie pas tout raconter immédiatement ni transmettre à un jeune enfant des informations qu’il ne peut pas encore comprendre.",
+        "6": "Le récit peut évoluer avec son âge.",
+        "7": "L’essentiel est de ne pas construire son histoire autour d’un mensonge et de pouvoir distinguer ce qui est connu, ce qui ne l’est pas et ce qui pourra être expliqué plus tard.",
+        "8": "Dans certaines histoires, les questions autour des origines peuvent devenir particulièrement sensibles. Un accompagnement psychologique peut alors aider les adultes à trouver des mots respectueux de la réalité, de l’âge de l’enfant et de toutes les personnes concernées."
+      },
+      "points": {
+        "1": "L’histoire des origines participe progressivement à la construction de l’identité de l’enfant.",
+        "2": "Il n’est pas nécessaire de tout raconter au même moment.",
+        "3": "Les mots et le niveau de détail peuvent évoluer avec l’âge et la capacité de compréhension de l’enfant.",
+        "4": "Ce qui est inconnu peut être présenté comme inconnu plutôt que remplacé par une explication imaginée.",
+        "5": "Lorsque l’histoire est particulièrement complexe ou douloureuse, un accompagnement professionnel peut aider à trouver les mots justes."
+      },
+      "closing": {
+        "1": "Certains chemins commencent bien avant la rencontre. Un jour, ils deviennent une histoire partagée."
+      }
+    }
+  }
+}

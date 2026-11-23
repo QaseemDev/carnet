@@ -1,0 +1,377 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 0-3 mois"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 0 À 3 MOIS"
+    },
+    "1": {
+      "title": "Le monde dans les bras",
+      "p": {
+        "1": "(Un temps de dépendance, de régulation et de rencontre)",
+        "2": "Les trois premiers mois sont un temps de grande dépendance.",
+        "3": "Le bébé découvre le monde à travers les bras qui le portent, les voix qu’il entend, les regards et les gestes répétés.",
+        "4": "Il ne peut pas encore se réguler seul.",
+        "5": "Les pleurs sont son premier langage ; le sommeil est encore immature.",
+        "6": "Peu à peu, il découvre que lorsqu’une tension apparaît, quelqu’un peut être là pour l’apaiser.",
+        "7": "Le lien se construit dans ces gestes simples : porter, regarder, parler doucement, nourrir, répondre.",
+        "8": "Il ne s’agit pas de « réussir », mais d’observer, d’ajuster et de recommencer."
+      },
+      "quote": "Être là, suffisamment, c’est déjà construire le lien."
+    },
+    "2": {
+      "intro": "Le bébé dépend encore de l’adulte pour réguler ses tensions et trouver progressivement son rythme. Une présence régulière et sensible construit peu à peu sa sécurité intérieure.",
+      "quote": "Observer, ajuster, recommencer : le lien ne demande pas la perfection."
+    },
+    "4": {
+      "title": "Le rituel de la main",
+      "p": {
+        "1": "Place ton index dans sa paume.",
+        "2": "Sens s’il referme ses doigts.",
+        "3": "Ce geste réflexe est aussi un geste de confiance.",
+        "4": "Il te tient."
+      },
+      "quote": "Dans ce geste simple, le lien est déjà là.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de ces premiers mois",
+      "items": {
+        "1": "Un mot écrit.",
+        "2": "Sa voix, un pleur ou un rire.",
+        "3": "Une photo ou une vidéo.",
+        "4": "Une musique ou une berceuse.",
+        "5": "Un objet symbolique.",
+        "6": "Une première fois que je ne veux pas oublier.",
+        "7": "Ou simplement un instant précieux de ces premiers mois."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Les premières semaines ont été pour moi :",
+      "options": {
+        "1": "douces",
+        "2": "intenses",
+        "3": "fatigantes",
+        "4": "déroutantes",
+        "5": "bouleversantes",
+        "6": "solitaires",
+        "7": "un mélange"
+      },
+      "field": "Les mots qui me viennent :",
+      "quote": "Un début peut être désordonné : il est pourtant fondateur."
+    },
+    "2": {
+      "title": "2. Dans mon corps, je me sentais :",
+      "options": {
+        "1": "en récupération",
+        "2": "épuisé(e)",
+        "3": "fragile",
+        "4": "solide",
+        "5": "dépassé(e)"
+      },
+      "field": "Ce que mon corps traversait :",
+      "quote": "Le corps a le droit d’avoir besoin de temps."
+    },
+    "3": {
+      "title": "3. Le sommeil",
+      "lead": "Le sommeil du bébé est :",
+      "options": {
+        "1": "très fragmenté",
+        "2": "irrégulier",
+        "3": "plutôt calme",
+        "4": "agité",
+        "5": "variable selon les moments",
+        "6": "difficile"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Pour s’endormir, il/elle a besoin :",
+          "options": {
+            "1": "d’être porté(e)",
+            "2": "bercé(e)",
+            "3": "d’entendre ma voix",
+            "4": "de téter",
+            "5": "de temps"
+          },
+          "field": "Ce que cela me demande :"
+        },
+        "2": {
+          "lead": "Le sommeil des parents est :",
+          "options": {
+            "1": "très perturbé",
+            "2": "entrecoupé",
+            "3": "récupéré en journée",
+            "4": "épuisant",
+            "5": "supportable",
+            "6": "soutenu par un relais"
+          },
+          "field": "Comment je vis ce manque ou cette adaptation :"
+        }
+      },
+      "quote": "Le sommeil avance par ajustements, pas par performance."
+    },
+    "4": {
+      "title": "4. Les repas de bébé(s)",
+      "lead": "Le bébé est nourri principalement :",
+      "options": {
+        "1": "au sein",
+        "2": "au biberon",
+        "3": "au lait tiré",
+        "4": "en mixte"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Les repas sont vécus comme :",
+          "options": {
+            "1": "simples",
+            "2": "irréguliers",
+            "3": "fatigants",
+            "4": "apaisants",
+            "5": "sources de doute"
+          },
+          "field": "Comment je vis ces moments :"
+        },
+        "2": {
+          "lead": "Lors des repas, je me sens :",
+          "options": {
+            "1": "confiant(e)",
+            "2": "en apprentissage",
+            "3": "fatigué(e)",
+            "4": "rassuré(e)",
+            "5": "plein(e) de doutes"
+          },
+          "field": "Un moment marquant autour de l’alimentation :"
+        }
+      },
+      "quote": "Nourrir, c’est aussi se rencontrer."
+    },
+    "5": {
+      "title": "5. Quand le bébé pleure, je me sens :",
+      "options": {
+        "1": "calme",
+        "2": "inquiet(e)",
+        "3": "dépassé(e)",
+        "4": "impuissant(e)",
+        "5": "attentif(ve)",
+        "6": "agacé(e)"
+      },
+      "field": "Ce qui semble l’apaiser le plus rapidement est :",
+      "quote": "Un pleur est un appel à la régulation, pas une remise en cause."
+    },
+    "6": {
+      "title": "6. Ai-je l’impression de commencer à comprendre ses signaux ?",
+      "options": {
+        "1": "oui, de mieux en mieux",
+        "2": "parfois",
+        "3": "pas encore",
+        "4": "cela dépend"
+      },
+      "field": "Un exemple :",
+      "blocks": {
+        "1": {
+          "field": "Durant ces trois mois, je découvre que comme parent je suis :"
+        }
+      },
+      "quote": "Comprendre vient souvent après avoir simplement été là."
+    },
+    "7": {
+      "title": "7. L’environnement affectif",
+      "lead": "Notre couple pendant ces trois mois est :",
+      "options": {
+        "1": "plus uni",
+        "2": "fragilisé",
+        "3": "en ajustement",
+        "4": "fatigué",
+        "5": "renforcé",
+        "6": "en transformation"
+      },
+      "field": "Ce que cela change entre nous :",
+      "blocks": {
+        "1": {
+          "lead": "En ce qui me concerne, je me suis senti(e) soutenu(e) par :",
+          "options": {
+            "1": "la famille",
+            "2": "les amis",
+            "3": "l’entourage médical",
+            "4": "des voisins"
+          }
+        }
+      },
+      "quote": "Demander du soutien protège la stabilité du lien."
+    },
+    "8": {
+      "title": "8. La fratrie (s’il y a d’autres enfants)",
+      "lead": "Depuis l’arrivée du bébé, la fratrie semble :",
+      "options": {
+        "1": "curieuse",
+        "2": "protectrice",
+        "3": "indifférente",
+        "4": "jalouse",
+        "5": "en régression",
+        "6": "perturbée"
+      },
+      "field": "Comment je me sens envers lui/elle depuis cette naissance :",
+      "note": "Vous pouvez ajouter des prénoms si la fratrie existante est nombreuse car chaque enfant peut réagir différemment à cette naissance. Si les parents acceptent, la fratrie peut répondre aux questions et ajouter directement un commentaire.",
+      "quote": "Quand un enfant réagit fortement, il cherche surtout à vérifier que sa place tient."
+    },
+    "9": {
+      "title": "9. Les soins du quotidien",
+      "lead": "(Bain, change, cordon, gestes corporels)",
+      "blocks": {
+        "1": {
+          "lead": "Les soins sont vécus par le bébé comme :",
+          "options": {
+            "1": "apaisants",
+            "2": "inconfortables",
+            "3": "variables",
+            "4": "source de pleurs",
+            "5": "moments de lien"
+          },
+          "field": "Ce que je ressens pendant ces soins, ce que j’aime faire, ce qui m’est difficile de faire :"
+        }
+      },
+      "quote": "Les soins répétés construisent la sécurité."
+    },
+    "10": {
+      "title": "10. Dans quel environnement le bébé vit-il ses premiers mois ?",
+      "field": "Décris le lieu de vie, les espaces où il/elle passe le plus de temps :",
+      "blocks": {
+        "1": {
+          "field": "Quels sont les objets importants pour le bébé ? (Doudou, couverture, vêtement, cadeau reçu, objet transmis, etc.)"
+        },
+        "2": {
+          "lead": "Quelles ont été les premières fois importantes durant ces trois premiers mois ?<br></br>Tu peux noter par exemple :",
+          "items": {
+            "1": "le premier bain",
+            "2": "le premier sourire",
+            "3": "la première sortie ou le premier voyage",
+            "4": "la première nuit un peu plus longue",
+            "5": "un moment magique",
+            "6": "un moment difficile"
+          }
+        }
+      },
+      "quote": "Les premières fois marquent l’histoire, même lorsqu’elles semblent minuscules."
+    }
+  },
+  "articles": {
+    "attachement": {
+      "title": "Dépendance & Attachement (0–3 mois)",
+      "p": {
+        "1": "John Bowlby (1907–1990) – Psychiatre et psychanalyste anglais",
+        "2": "<b>La théorie de l’attachement</b>",
+        "3": "Pour Bowlby, le besoin de proximité avec une figure protectrice est un besoin primaire du nourrisson, au même titre que se nourrir. Lorsque cette figure répond de manière cohérente, régulière et sensible, l’enfant développe un attachement sécure : il peut explorer le monde tout en sachant qu’il dispose d’une « base de sécurité ».",
+        "4": "Si les réponses sont imprévisibles, intrusives ou absentes, d’autres formes d’attachement peuvent émerger (insécure évitant, ambivalent, désorganisé). Ces premiers liens influencent durablement la régulation émotionnelle, la confiance et les relations futures.",
+        "5": "Donald Winnicott (1896–1971) – Pédiatre et psychanalyste britannique, Pionnier de l’Attachement chez l’enfant",
+        "6": "<b>La dépendance absolue et le « holding »</b>",
+        "7": "Winnicott parle de dépendance absolue au début de la vie. Pour lui, « un bébé, ça n’existe pas » : il existe toujours dans une relation. Il a besoin d’un environnement suffisamment bon, où la figure parentale s’adapte finement à ses besoins.",
+        "8": "Là où Bowlby parle de « base de sécurité », Winnicott parle de « holding » : le fait de porter, contenir physiquement et psychiquement. Cette adaptation progressive permet au bébé de développer un sentiment continu d’exister.",
+        "9": "T. Berry Brazelton (1918–2018) – Pédiatre américain, spécialiste du développement du nourrisson",
+        "10": "<b>Lire les signaux du bébé</b>",
+        "11": "Brazelton a passé sa vie à observer les bébés et leurs parents dans les tout premiers moments de vie. Ce qui l’intéressait avant tout : ce qui se passe entre eux.",
+        "12": "<b>Ce qu’il a montré concrètement</b>",
+        "13": "Un bébé n’est pas passif. Dès la naissance, il envoie des signaux précis que le parent peut apprendre à lire :<br></br>— Il détourne le regard quand il est saturé de stimulations<br></br>— Il ouvre grand les yeux et tend le visage quand il cherche le contact<br></br>— Il agite les bras et se crispe quand quelque chose le déborde<br></br>— Il ralentit sa respiration et se détend quand il se sent en sécurité",
+        "14": "Pour Brazelton, répondre juste ne veut pas dire répondre parfaitement. Cela veut dire observer, ajuster, recommencer. C’est ce va-et-vient — signal du bébé, réponse du parent, nouveau signal — qu’il appelle la co-régulation.",
+        "15": "<b>Ce que cela change pour le parent</b>",
+        "16": "Tu n’as pas à deviner. Tu as à regarder.",
+        "17": "Le bébé dit ce dont il a besoin — pas avec des mots, mais avec son corps, son regard, son souffle, sa façon de se tendre ou de se détendre.",
+        "18": "Brazelton insiste aussi sur les périodes de désorganisation : il arrive que le bébé régresse, pleure davantage, dorme moins bien — souvent juste avant un bond de développement. Ce n’est pas un recul. C’est un signe que quelque chose se construit.",
+        "19": "<b>Sa conviction profonde</b>",
+        "20": "Ce n’est pas la perfection de la réponse parentale qui compte, c’est sa régularité et sa sensibilité. Un parent qui observe, qui essaie, qui se trompe et qui reprend — c’est exactement ce dont un bébé a besoin pour apprendre que le monde est fiable.",
+        "21": "<b>Développement détaillé</b>",
+        "22": "<b>Vue d’ensemble : un système en construction</b>",
+        "23": "Le corps du nouveau-né est encore immature. Il passe rapidement d’un état à un autre : calme, agitation, pleurs, apaisement — sans contrôler ces variations. Ce que le bébé traverse n’est pas désorganisé : c’est un système en construction.",
+        "24": "<b>Les pleurs en détail</b>",
+        "25": "Les pleurs sont son premier langage. Ils peuvent exprimer :<br></br>— la faim<br></br>— la fatigue<br></br>— un inconfort physique<br></br>— un besoin de contact<br></br>— une tension interne<br></br>— parfois, aucune cause identifiable",
+        "26": "Répondre aux pleurs ne crée pas une habitude. Cela construit une sécurité intérieure. Un bébé apaisé apprend progressivement à s’apaiser.",
+        "27": "<b>Le sommeil en détail</b>",
+        "28": "Les cycles sont courts, les réveils fréquents : ce fonctionnement est physiologique. Le bébé ne fait pas « mal ses nuits ». Il construit peu à peu ses rythmes. L’endormissement accompagné — portage, voix, contact — est souvent nécessaire à cet âge.",
+        "29": "<b>Le rythme et la comparaison</b>",
+        "30": "Chaque bébé a son propre rythme. Comparer fragilise souvent plus qu’il n’aide. Observer le bébé plutôt que d’appliquer une méthode est déjà un ajustement fin. Ce que tu fais « suffisamment bien » est déjà précieux.",
+        "31": "<b>Le parent qui apprend</b>",
+        "32": "Tu apprends en même temps que le bébé. Douter, tâtonner, être fatigué(e), se sentir parfois dépassé(e) : tout cela est normal. Il n’y a pas une seule bonne manière de faire. Le lien se construit aussi à travers les ajustements, les essais, les erreurs, les retrouvailles.",
+        "33": "<b>Dépression du post-partum — signes et soutien</b>",
+        "34": "Cette période peut être traversée par une grande fatigue physique et psychique. Parfois :<br></br>— une tristesse persistante<br></br>— un sentiment de vide<br></br>— une impression de décalage avec le bébé<br></br>— une difficulté à ressentir du plaisir",
+        "35": "Cela peut faire partie de la dépression du post-partum. Ce n’est ni rare, ni une faute. En parler est une forme de soin. Un parent ne se construit pas seul : s’appuyer sur une personne de confiance, un proche, un professionnel ou un relais ponctuel fait partie de l’équilibre. Demander de l’aide ne fragilise pas le lien. Cela le protège.",
+        "36": "<b>Bébé né prématurément — détail</b>",
+        "37": "Certains bébés naissent prématurément. Le début de la relation peut alors être marqué par :<br></br>— une hospitalisation<br></br>— des soins médicaux<br></br>— une séparation physique<br></br>— un rythme différent",
+        "38": "Le lien ne disparaît pas. Il se tisse autrement. La voix, le regard, la présence, même à distance, restent profondément structurants. Le parent peut parfois se sentir démuni, inquiet, ou à distance de son rôle. Ces ressentis sont légitimes. Le lien se construit, même dans ces conditions.",
+        "39": "<b>Le corps du bébé</b>",
+        "40": "Le corps du nouveau-né est encore immature. Ses mouvements sont principalement réflexes, spontanés et globaux. Son corps est souvent replié, rappelant la position fœtale.",
+        "41": "Les bras et les jambes bougent par à-coups, parfois de façon asymétrique. Il peut s’étirer longuement, puis se détendre. Il découvre peu à peu les sensations internes : tension, relâchement, appui.",
+        "42": "Les mains sont souvent fermées au début. Le bébé peut agripper fortement un doigt (réflexe de grasping). Vers 2–3 mois, il commence à regarder ses mains, comme s’il les découvrait. Le tonus varie : moments très toniques, puis très relâchés. Ces variations sont normales : le système nerveux est en maturation.",
+        "43": "<b>Les sens</b>",
+        "44": "La vue : le bébé voit surtout à 20–30 cm. Il est attiré par les visages, les contrastes forts et les formes simples. Vers 2–3 mois, son regard devient plus présent et plus engagé.",
+        "45": "L’ouïe : bien développée dès la naissance. Le bébé reconnaît la voix de ses parents et réagit aux sons. Il est sensible aux intonations plus qu’aux mots. Les voix douces, chantées et rythmées sont particulièrement sécurisantes.",
+        "46": "Le goût : présent dès la naissance. Le bébé reconnaît très tôt le goût du lait et montre une préférence naturelle pour le sucré. L’alimentation est autant une expérience gustative qu’affective.",
+        "47": "L’odorat : l’un des sens les plus développés chez le nouveau-né. Il reconnaît l’odeur de sa mère ou de son parent principal et peut se calmer au contact d’un vêtement imprégné de cette odeur.",
+        "48": "Le toucher : premier langage du bébé. Le portage, la peau à peau et l’enveloppement participent à sa régulation. Avant les mots, c’est le corps qui rassure.",
+        "49": "<b>Les réflexes archaïques</b>",
+        "50": "Ces réflexes sont normaux et temporaires :<br></br>— Réflexe de succion : pour se nourrir et s’apaiser<br></br>— Réflexe de grasping : agripper avec les mains ou les pieds<br></br>— Réflexe de Moro : sursaut avec ouverture des bras<br></br>— Réflexe des points cardinaux : tourner la tête vers une stimulation de la joue",
+        "51": "Ils constituent les fondations neurologiques des mouvements futurs."
+      },
+      "points": {
+        "1": "Le bébé est dans une dépendance absolue : au moins une figure d’attachement doit le rassurer émotionnellement de façon régulière.",
+        "2": "Les ajustements se font graduellement, parfois de manière imperceptible.",
+        "3": "Chaque bébé a son rythme propre.",
+        "4": "Observer sans comparer est déjà une forme de soin.",
+        "5": "Le corps du bébé « apprend le monde » avant de le comprendre."
+      },
+      "closing": {
+        "1": "Il n’y a pas une seule manière de vivre ces premiers mois : chaque famille trouve son propre rythme."
+      }
+    },
+    "sommeil": {
+      "title": "Le sommeil (0–3 mois) : 3 repères pour traverser cette période",
+      "p": {
+        "1": "Le sommeil du nourrisson est physiologiquement immature. Les cycles sont courts, les réveils fréquents. Ce n’est ni une mauvaise habitude, ni un problème éducatif.",
+        "2": "L’endormissement accompagné construit la base intérieure qui permettra, plus tard, de s’endormir seul. Rassurer ne crée pas une dépendance : cela construit la sécurité.",
+        "3": "<b>Les 3 repères</b>",
+        "4": "<b>1. Les pleurs au moment du coucher</b>",
+        "5": "À cet âge, les pleurs sont souvent un signal de fatigue, de tension ou de besoin de proximité. Le bébé ne sait pas encore s’apaiser seul. Le prendre contre soi, le bercer, lui parler doucement aide son corps à redescendre. S’il se calme dans vos bras, cela signifie que votre présence régule son système nerveux.",
+        "6": "<b>2. Les réveils nocturnes</b>",
+        "7": "Les cycles de sommeil sont courts et immatures. Les réveils sont fréquents et physiologiques. Cela ne traduit ni une mauvaise habitude ni un problème éducatif. Le rythme se structure progressivement avec la maturation neurologique.",
+        "8": "<b>3. L’endormissement accompagné</b>",
+        "9": "Certains bébés ont besoin de mouvement, d’autres de silence, d’autres encore du contact ou de la succion. Observer ce qui l’apaise est plus aidant que comparer ou appliquer une méthode rigide. Le sommeil autonome se construit à partir d’un sommeil sécurisé."
+      },
+      "closing": {
+        "1": "À cet âge, rassurer ne crée pas une dépendance : cela construit la base intérieure qui permettra, plus tard, de s’endormir seul."
+      }
+    },
+    "retour": {
+      "title": "Le « retour de couche »",
+      "p": {
+        "1": "Après l’accouchement, le corps met un certain temps à reprendre son fonctionnement hormonal habituel. Le retour de couche correspond donc au moment où :<br></br>• l’ovulation reprend<br></br>• puis les premières règles réapparaissent",
+        "2": "À ne pas confondre : juste après l’accouchement, il y a des saignements appelés lochies (pendant 2 à 6 semaines).<br></br>Ce n’est pas le retour de couche, mais un processus normal de cicatrisation de l’utérus.",
+        "3": "Le retour de couche signifie que :<br></br>• la fertilité revient<br></br>• une grossesse est donc possible même avant ces premières règles",
+        "4": "Les délais sont variables car cela dépend surtout de l’allaitement :<br></br>• Sans allaitement : généralement entre 6 et 8 semaines après l’accouchement<br></br>• Avec allaitement : cela peut être beaucoup plus tardif (plusieurs mois, parfois jusqu’à l’arrêt de l’allaitement)",
+        "5": "Plus précisément, quand une femme allaite, deux hormones dominent :<br></br>• Prolactine : elle stimule la production de lait, mais inhibe l’ovulation et diminue souvent le désir sexuel.<br></br>• Ocytocine : hormone du lien et de l’attachement, elle favorise la proximité avec le bébé… mais peut « saturer » le besoin de contact physique.",
+        "6": "<b>Conséquences fréquentes</b><br></br>• Baisse de libido (pas systématique, mais fréquente)<br></br>• Sécheresse vaginale (liée à une baisse des œstrogènes)<br></br>• Moins de disponibilité psychique pour le partenaire<br></br>• Sensation d’être déjà « très sollicitée corporellement »",
+        "7": "Beaucoup de femmes décrivent une forme de :<br></br>« Mon corps est tourné vers le bébé, pas vers la sexualité. »",
+        "8": "En l’absence d’allaitement :<br></br>• Les œstrogènes remontent plus vite<br></br>• Le cycle hormonal reprend plus rapidement<br></br>• Le corps retrouve plus vite ses repères physiologiques",
+        "9": "Conséquences :<br></br>• Libido souvent plus rapide à revenir<br></br>• Moins de sécheresse<br></br>• Reconnexion plus facile au désir (mais pas automatique)",
+        "10": "L’allaitement ne « bloque » pas la sexualité. Mais il modifie profondément le terrain hormonal et émotionnel.",
+        "11": "Et surtout :<br></br>• Certaines femmes allaitantes ont une libido tout à fait présente<br></br>• D’autres sans allaitement peuvent avoir très peu de désir",
+        "12": "Ce n’est donc pas une règle, mais une tendance biologique + contextuelle.",
+        "13": "<b>Ce qui favorise (ou freine) la reprise de la sexualité</b>",
+        "14": "Facteurs qui favorisent :<br></br>• Diminution des douleurs (cicatrisation périnéale, césarienne)<br></br>• Reprise hormonale (augmentation des œstrogènes → libido)<br></br>• Fatigue moins intense, organisation familiale plus stable<br></br>• Retrouver une intimité de couple",
+        "15": "Facteurs qui freinent :<br></br>• Fatigue importante, manque de sommeil<br></br>• Baisse de libido (notamment avec l’allaitement → prolactine élevée)<br></br>• Douleurs ou sécheresse vaginale<br></br>• Image corporelle modifiée<br></br>• Charge mentale liée au bébé<br></br>• Parfois peur d’une nouvelle grossesse",
+        "16": "Ceci dit, il n’y a pas de « pic » de sexualité lié au retour de couche : il s’agit plutôt d’une réouverture progressive de la vie intime, très variable selon les femmes et les couples.",
+        "17": "La libido postpartum n’est pas seulement hormonale.<br></br>Elle dépend aussi de :<br></br>• la qualité du lien de couple<br></br>• le sentiment de sécurité<br></br>• la fatigue<br></br>• la place laissée à la femme en tant que femme (pas uniquement mère)",
+        "18": "On observe statistiquement une reprise progressive de la sexualité autour de la période du retour de couche, mais ce n’est ni automatique ni uniforme.",
+        "19": "Les études en santé périnatale montrent que :<br></br>• une partie des couples reprend les rapports entre 6 et 8 semaines après l’accouchement<br></br>• vers 3 mois postpartum, une majorité de femmes ont repris une activité sexuelle<br></br>• à 6 mois, la grande majorité des couples ont repris, mais parfois avec une fréquence ou une qualité différente d’avant",
+        "20": "Le retour de couche coïncide souvent avec cette phase, car il signe une reprise hormonale… mais il n’est pas le déclencheur principal."
+      },
+      "points": {
+        "1": "L’endormissement accompagné construit la base intérieure qui permettra, plus tard, de s’endormir seul.",
+        "2": "Répondre juste envers un bébé ne veut pas dire répondre parfaitement. Cela veut dire observer, ajuster, recommencer. C’est ce va-et-vient — signal du bébé, réponse du parent, nouveau signal — que l’on qualifie de co-régulation.",
+        "3": "La reprise de la sexualité se situe souvent dans la même période que le retour de couche mais elle dépend surtout de facteurs physiques, hormonaux et psychologiques.",
+        "4": "L’allaitement peut diminuer la fertilité, mais il n’empêche pas une reprise de l’ovulation et donc une grossesse."
+      }
+    }
+  }
+}

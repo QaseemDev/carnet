@@ -1,0 +1,232 @@
+{
+  "header": {
+    "carnet": "Léa’s Carnet de Vie - Wishing for a child"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • WISHING FOR A CHILD"
+    },
+    "1": {
+      "title": "A question. A flutter. A possibility.",
+      "p": {
+        "1": "Sometimes the wish for a child arrives without warning.<br></br>Sometimes it has been there for a long time, taking us back to our own childhood.<br></br>Sometimes it slips in gently, almost without a sound.",
+        "2": "It can be clear or blurry.<br></br>Sometimes shared, sometimes carried more by one of the two.<br></br>It can live alongside joy, questions, fears or a great deal of hesitation.",
+        "3": "There is no single way to wish for a child.",
+        "4": "This wish is woven from what we have lived, what we carry within us, what we hope for… and also what worries us.",
+        "5": "This is not the place to decide or settle anything.<br></br>This Carnet is not waiting for an answer.<br></br>It simply offers a quiet space to listen to what is there — even if it is fragile, contradictory or still without words.",
+        "6": "Giving this wish a place — or its absence — is already a way of taking care of yourself."
+      },
+      "quote": "A wish can begin with a thought, a feeling… or simply a question."
+    },
+    "2": {
+      "intro": "Naming a hesitation does not cancel the wish.<br></br>Listening to what you feel already gives it a place.",
+      "quote": "Even before a story begins, something may already be starting to move."
+    },
+    "4": {
+      "title": "The first imagined names",
+      "p": {
+        "1": "Talking about a name can be one of the first moments when a child who is still imaginary begins to take a place in our thoughts.",
+        "2": "This is not yet about making a final choice.",
+        "3": "Alone or together, let the names come: the ones you like, the ones that bring something to mind, the ones from your family history or, on the contrary, the ones that open onto something new.",
+        "4": "One name may be spoken with enthusiasm.<br></br>Another dropped a few days later.<br></br>Some may come back over time.",
+        "5": "What matters here is not the final choice, but keeping a trace of these first imagined names."
+      },
+      "fields": {
+        "1": "Name(s) I have thought of:",
+        "2": "Why this one or these:",
+        "3": "A memory, a person, a feeling or a story linked to this name:"
+      },
+      "quote": "Sometimes, imagining a name is already a first way of making room.",
+      "invite": "We invite anyone who wishes to keep a trace of this moment to place these first names in Carnet de Vie, in writing or in their own voice. One day they will let the child discover the names that were already in someone’s thoughts, long before their own name was chosen."
+    },
+    "5": {
+      "title": "What I choose to keep from this moment",
+      "items": {
+        "1": "A word.",
+        "2": "A thought.",
+        "3": "A quote.",
+        "4": "A piece of music.",
+        "5": "A film.",
+        "6": "A conversation.",
+        "7": "An imagined name.",
+        "8": "A photo from this time.",
+        "9": "A voice message.",
+        "10": "Or simply something I don’t want to forget."
+      },
+      "fields": {
+        "1": "Which one(s)?",
+        "2": "What I would like to add or share:"
+      },
+      "quote": "Today’s small traces can become tomorrow’s precious memories."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. The first spark",
+      "lead": "When the idea of a child came into my life, it was rather:",
+      "options": {
+        "1": "recently",
+        "2": "a long time ago",
+        "3": "gently, without a sound",
+        "4": "as a surprise",
+        "5": "hard to say"
+      },
+      "quote": "Naming the beginning commits you to nothing."
+    },
+    "2": {
+      "title": "2. Where I am today",
+      "lead": "Today, this wish feels:",
+      "options": {
+        "1": "clear",
+        "2": "blurry",
+        "3": "a little contradictory",
+        "4": "different from day to day",
+        "5": "hard to define"
+      },
+      "quote": "A wish is allowed to change."
+    },
+    "3": {
+      "title": "3. On my own or as a couple",
+      "lead": "Today, as I feel it, this wish is:",
+      "options": {
+        "1": "a wish I carry on my own",
+        "2": "shared as a couple",
+        "3": "carried mostly by me",
+        "4": "carried mostly by the other",
+        "5": "felt differently by each of us",
+        "6": "hard to define"
+      },
+      "quote": "Every wish for a child belongs to a story of its own."
+    },
+    "4": {
+      "title": "4. What draws me",
+      "lead": "What touches, draws or moves me in the idea of becoming a parent:",
+      "quote": "Sometimes a word or an image is enough to tell a wish."
+    },
+    "5": {
+      "title": "5. What makes me hesitate",
+      "lead": "What scares me, holds me back or makes me wonder:",
+      "quote": "Fears can come with the wish without cancelling it."
+    },
+    "6": {
+      "title": "6. The pressures around me",
+      "lead": "Right now, what I feel most is:",
+      "options": {
+        "1": "time passing",
+        "2": "the expectations of those around me",
+        "3": "how society sees it",
+        "4": "questions about my age",
+        "5": "little or no pressure"
+      },
+      "quote": "A personal wish can sometimes get mixed up with what others expect."
+    },
+    "7": {
+      "title": "7. Emotionally, I feel rather:",
+      "options": {
+        "1": "calm",
+        "2": "reassured",
+        "3": "happy",
+        "4": "sad",
+        "5": "tense",
+        "6": "worried",
+        "7": "torn"
+      },
+      "quote": "A feeling is never final. It can change."
+    },
+    "8": {
+      "title": "8. In my working life, I feel rather:",
+      "options": {
+        "1": "confident",
+        "2": "settled",
+        "3": "available",
+        "4": "tired",
+        "5": "under pressure",
+        "6": "uncertain"
+      },
+      "quote": "Not everything needs to be perfectly aligned today."
+    },
+    "9": {
+      "title": "9. Financially, I feel rather:",
+      "options": {
+        "1": "at ease",
+        "2": "careful",
+        "3": "worried",
+        "4": "fairly balanced",
+        "5": "still thinking it over"
+      },
+      "quote": "Being careful can also be a way of caring for what may come."
+    },
+    "10": {
+      "title": "10. In my family, I feel rather:",
+      "options": {
+        "1": "supported",
+        "2": "surrounded",
+        "3": "torn",
+        "4": "fragile",
+        "5": "under strain",
+        "6": "rather alone with this question"
+      },
+      "quote": "Even when not everything is simple, reflection can keep moving forward."
+    }
+  },
+  "articles": {
+    "ambivalence": {
+      "title": "Desire and parental ambivalence",
+      "p": {
+        "1": "The wish for a child can come with contradictory feelings: joy and eagerness, but also doubts, hesitations or worries.",
+        "2": "Donald Winnicott (1896–1971) – British paediatrician and psychoanalyst, specialist in early emotional development and the parent–child relationship.",
+        "3": "Winnicott’s work lets us think about parenthood without requiring parents to be perfectly sure, available or free of all ambivalence. Becoming a parent also involves inner reshaping and a gradual adjustment to a new reality.",
+        "4": "So hesitation does not necessarily mean the wish is not real. It can also reflect what the possible arrival of a child stands for: responsibilities, life changes, changes in the couple, or questions about one’s own ability to become a parent.",
+        "5": "Recognising these feelings makes it possible to hear them without having to resolve them straight away."
+      },
+      "points": {
+        "1": "The wish for a child can exist alongside doubts or worries.",
+        "2": "Ambivalence does not necessarily mean there is no wish.",
+        "3": "Becoming a parent brings personal, couple and family changes.",
+        "4": "You don’t need an immediate answer to every question.",
+        "5": "Putting words to what you feel can already help you understand what is at play."
+      }
+    },
+    "imagine": {
+      "title": "The imagined child",
+      "p": {
+        "1": "Long before any birth, a child can already begin to exist in the imagination.",
+        "2": "Sometimes a face is imagined.<br></br>A personality.<br></br>A name.<br></br>A resemblance.<br></br>A future relationship.",
+        "3": "Serge Lebovici (1915–2000) – French psychiatrist, psychoanalyst and child psychiatrist, specialist in early interactions between parents and children.",
+        "4": "Lebovici worked in particular on the images parents build around the child, and on how their own inner history shapes those images.",
+        "5": "This imagined child is, of course, not yet the real child.",
+        "6": "If a child comes, meeting them will gradually reveal a unique person, with their own temperament, needs and way of relating to others.",
+        "7": "Moving from the imagined child to the real child then calls for adjustments: some images fade, others change."
+      },
+      "points": {
+        "1": "A child can begin to be imagined long before birth.",
+        "2": "These images can be about appearance, personality, name or the future relationship.",
+        "3": "The imagined child is also shaped by the adult’s history and expectations.",
+        "4": "The real child will never exactly match the imagined child.",
+        "5": "The relationship is built gradually, by discovering the child as they are."
+      }
+    },
+    "transmission": {
+      "title": "Passing things down the generations",
+      "p": {
+        "1": "Wishing for a child can also reawaken your own story.",
+        "2": "Memories come back.<br></br>Family patterns show up.<br></br>Some things make you want to pass them on.<br></br>Others make you want to do things differently.",
+        "3": "Françoise Dolto (1908–1988) – French paediatrician and psychoanalyst, best known for her work on childhood, speech and the child’s place in the family story.",
+        "4": "Dolto’s thinking gives an important place to how a child is written into a family story and to what passes between generations, notably through words, things left unsaid and family images.",
+        "5": "Becoming a parent can therefore lead you to revisit your own childhood: what you received, what was missing, what you want to pass on and what you would like to live differently.",
+        "6": "Recognising this story does not mean being bound by it.",
+        "7": "It can become a starting point from which a new relationship can be built."
+      },
+      "points": {
+        "1": "The wish for a child can reawaken memories of your own childhood.",
+        "2": "A family story passes on values, patterns and images.",
+        "3": "Some of what is passed on is conscious, some much less so.",
+        "4": "Recognising what you received also helps you think about what you want to change.",
+        "5": "A new child joins a family story while opening a new one."
+      },
+      "closing": {
+        "1": "One day, you were only a dream. And yet you already had a place in my heart."
+      }
+    }
+  }
+}

@@ -1,0 +1,191 @@
+@import "tailwindcss";
+
+/* Brand tokens, taken from the prototype. */
+@theme {
+  --color-paper: #faf6ee;
+  --color-paper-2: #f3ece0;
+  --color-card: #fffbf5;
+  --color-line: #eadecb;
+  --color-tab: #f7e6d7;
+  --color-ink: #222222;
+  --color-ink-2: #555555;
+  --color-teal: #2c4a4e;
+  --color-teal-deep: #1f3639;
+  --color-terracotta: #b84a39;
+  --color-terracotta-hover: #9a3c2e;
+  --color-oxblood: #5c1e16;
+
+  --font-serif: var(--font-playfair), Georgia, serif;
+  --font-sans: var(--font-jakarta), system-ui, sans-serif;
+
+  --radius-sm: 4px;
+  --radius-lg: 10px;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Signature moments. Each one's resting state is its final state.
+     `--i` staggers siblings by 120 ms. */
+  --animate-ink: ink-settle 700ms var(--ease-out) calc(var(--i, 0) * 120ms) both;
+  --animate-settle: settle 700ms var(--ease-out) both;
+  --animate-stamp: stamp 500ms var(--ease-out) calc(var(--i, 0) * 120ms) both;
+  --animate-panel-in: panel-in 500ms var(--ease-out);
+
+  @keyframes ink-settle {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+  }
+  @keyframes settle {
+    from {
+      transform: scale(1.04);
+    }
+  }
+  @keyframes stamp {
+    from {
+      opacity: 0;
+      transform: scale(1.15) rotate(-8deg);
+    }
+  }
+  @keyframes panel-in {
+    from {
+      transform: translateX(40px);
+      opacity: 0;
+    }
+  }
+}
+
+/* Eyebrow: Jakarta 600, 12 px, +0.12em, uppercase, terracotta. */
+@utility eyebrow {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-terracotta);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 14.5px;
+    line-height: 1.6;
+    overflow-x: clip;
+  }
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-serif);
+    color: var(--color-teal);
+  }
+  input,
+  select,
+  textarea {
+    font-size: 16px;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-terracotta);
+    outline-offset: 2px;
+  }
+  dialog::backdrop {
+    background: rgb(20 40 43 / 0.5);
+  }
+}
+
+/* Chemin de Vie: the thread draws, each ring turns terracotta as the thread
+   reaches it, then the closed book settles at 18. Hidden only once the page
+   can script, so without JS everything shows. */
+@media (scripting: enabled) {
+  [data-seen="false"] .thread {
+    stroke-dashoffset: 1;
+  }
+  [data-seen="false"] .thread-book {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+}
+.thread {
+  stroke-dasharray: 1;
+  transition: stroke-dashoffset 1800ms linear;
+}
+[data-seen="true"] .thread-ring {
+  border-color: var(--color-terracotta);
+  transition: border-color 400ms var(--ease-out) calc(var(--i) * 225ms);
+}
+.thread-book {
+  transition:
+    opacity 600ms var(--ease-out) 1800ms,
+    transform 600ms var(--ease-out) 1800ms;
+}
+
+/* View transitions: card → banner morph, and the /exemple page-turn. Clicks
+   during a transition go through the overlay to the live page (see also
+   `CarnetDemo`, which keeps the page itself out of a turn). */
+::view-transition {
+  pointer-events: none;
+}
+::view-transition-group(.morph) {
+  animation-duration: 500ms;
+  animation-timing-function: var(--ease-out);
+}
+::view-transition-old(.morph),
+::view-transition-new(.morph) {
+  height: 100%;
+  object-fit: cover;
+}
+::view-transition-old(.turn-next) {
+  transform-origin: left center;
+  animation: turn-next 650ms var(--ease-out) both;
+}
+::view-transition-old(.turn-prev) {
+  transform-origin: right center;
+  animation: turn-prev 650ms var(--ease-out) both;
+}
+::view-transition-new(.turn-next),
+::view-transition-new(.turn-prev) {
+  animation: fade-in 350ms var(--ease-out) 350ms both;
+}
+@keyframes turn-next {
+  30% {
+    transform: perspective(1400px) rotateY(-12deg);
+  }
+  to {
+    transform: perspective(1400px) rotateY(-12deg) translateX(-30%);
+    opacity: 0;
+  }
+}
+@keyframes turn-prev {
+  30% {
+    transform: perspective(1400px) rotateY(12deg);
+  }
+  to {
+    transform: perspective(1400px) rotateY(12deg) translateX(30%);
+    opacity: 0;
+  }
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+
+/* Everything appears at once: no movement, no waiting on a delay. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    transition-delay: 0s !important;
+    animation-duration: 0.01ms !important;
+    animation-delay: 0s !important;
+  }
+  ::view-transition-group(*),
+  ::view-transition-old(*),
+  ::view-transition-new(*) {
+    animation: none !important;
+  }
+}

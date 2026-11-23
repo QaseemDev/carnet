@@ -1,0 +1,228 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 6-7 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 6 À 7 ANS"
+    },
+    "1": {
+      "title": "Le bâtisseur de repères",
+      "p": {
+        "1": "Entre six et sept ans, le monde s’organise davantage. L’école devient un repère central. Les règles prennent du sens et l’enfant cherche à comprendre, à s’adapter, à trouver sa place dans un cadre partagé.",
+        "2": "Les apprentissages deviennent plus présents. Lire, écrire, compter, comprendre : autant de nouvelles expériences qui peuvent apporter de la fierté, mais aussi rendre l’enfant plus sensible à l’erreur et au regard des autres.",
+        "3": "L’enfant oscille encore entre autonomie et besoin d’être rassuré, entre confiance et doute. Le désir de bien faire grandit.",
+        "4": "Des repères clairs, stables et cohérents permettent de s’appuyer sur le monde pour avancer."
+      },
+      "quote": "Grandir, c’est aussi apprendre à s’ajuster au monde."
+    },
+    "2": {
+      "intro": "Entre six et sept ans, une pensée plus logique commence à se structurer. L’enfant cherche le sens des règles, devient très sensible au juste et à l’injuste et veut souvent bien faire. Encourager l’effort plus que le résultat permet de soutenir une confiance moins dépendante de la réussite.",
+      "quote": "Observer sans juger permet déjà de soutenir."
+    },
+    "4": {
+      "title": "Le chemin des progrès",
+      "p": {
+        "1": "Choisis avec l’enfant trois choses qui ont évolué cette année.",
+        "2": "Quelque chose appris. Quelque chose qui était difficile et qui l’est moins aujourd’hui. Quelque chose que l’enfant aimerait encore apprendre.",
+        "3": "Pour chacune, demande simplement : « Qu’est-ce qui t’a aidé ? »",
+        "4": "Écoute la réponse sans corriger, comparer ni ajouter immédiatement ton propre regard. Puis choisis toi aussi un petit progrès réalisé cette année.",
+        "5": "Vous pouvez écrire ou dessiner ensemble ces quatre chemins sur une feuille et la dater."
+      },
+      "quote": "Être vu dans ses efforts aide l’enfant à reconnaître son propre chemin.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette année",
+      "items": {
+        "1": "Un apprentissage important.",
+        "2": "Une première lecture.",
+        "3": "Une fierté.",
+        "4": "Une erreur dépassée.",
+        "5": "Une question étonnante.",
+        "6": "Une amitié.",
+        "7": "Une photo, une vidéo ou sa voix.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Au retour de l’école, je remarque que l’enfant :",
+      "options": {
+        "1": "s’adapte bien au rythme scolaire",
+        "2": "semble fatigué en fin de journée",
+        "3": "a besoin de décompresser",
+        "4": "a besoin de faire du sport ou de jouer",
+        "5": "a besoin de goûter ou de se reposer",
+        "6": "préfère faire les devoirs puis passer à autre chose",
+        "7": "vit cette étape avec enthousiasme"
+      },
+      "quote": "Le rythme se construit avec le temps."
+    },
+    "2": {
+      "title": "2. Dans le quotidien, l’enfant :",
+      "options": {
+        "1": "gagne en autonomie",
+        "2": "a encore besoin d’accompagnement",
+        "3": "oublie certaines étapes",
+        "4": "aime faire seul",
+        "5": "résiste parfois"
+      },
+      "quote": "L’autonomie se construit progressivement."
+    },
+    "3": {
+      "title": "3. Face aux apprentissages, l’enfant :",
+      "options": {
+        "1": "découvre avec plaisir",
+        "2": "prend plaisir à lire ou à apprendre",
+        "3": "a besoin d’être valorisé",
+        "4": "fait des efforts pour progresser",
+        "5": "trouve certains apprentissages difficiles",
+        "6": "se décourage facilement",
+        "7": "est fier de ses réussites",
+        "8": "se compare aux autres"
+      },
+      "quote": "L’effort compte autant que le résultat."
+    },
+    "4": {
+      "title": "4. Dans sa manière de réfléchir, l’enfant :",
+      "options": {
+        "1": "commence à raisonner logiquement",
+        "2": "pose beaucoup de questions",
+        "3": "cherche à comprendre",
+        "4": "a besoin de concret",
+        "5": "s’agace de ne pas comprendre",
+        "6": "a du mal à faire seul"
+      },
+      "quote": "Comprendre demande du temps."
+    },
+    "5": {
+      "title": "5. Face aux règles, l’enfant :",
+      "options": {
+        "1": "les comprend",
+        "2": "a besoin qu’elles soient expliquées",
+        "3": "les applique rigidement",
+        "4": "les questionne",
+        "5": "se rebelle parfois contre elles"
+      },
+      "quote": "Les règles sécurisent lorsqu’elles sont cohérentes."
+    },
+    "6": {
+      "title": "6. Face au juste et à l’injuste, l’enfant :",
+      "options": {
+        "1": "a un fort sens de la justice",
+        "2": "réagit fortement",
+        "3": "comprend mieux « exprès / pas exprès »",
+        "4": "se sent facilement coupable",
+        "5": "pense parfois être au-dessus des règles"
+      },
+      "quote": "La morale se construit peu à peu."
+    },
+    "7": {
+      "title": "7. Dans ses émotions, l’enfant :",
+      "options": {
+        "1": "est très sensible",
+        "2": "peut être débordé",
+        "3": "met des mots sur ses émotions",
+        "4": "identifie bien ses émotions",
+        "5": "a du mal à les distinguer",
+        "6": "alterne assurance et besoin d’être rassuré"
+      },
+      "quote": "Les émotions demandent d’être accueillies."
+    },
+    "8": {
+      "title": "8. Dans sa relation aux autres, l’enfant :",
+      "options": {
+        "1": "cherche à être comme les autres",
+        "2": "s’adapte facilement",
+        "3": "développe des amitiés",
+        "4": "peut être exclusif dans ses relations",
+        "5": "peut se sentir rejeté",
+        "6": "cherche parfois à diriger ou dominer"
+      },
+      "quote": "Le groupe devient un repère important."
+    },
+    "9": {
+      "title": "9. Dans son rapport à soi, l’enfant :",
+      "options": {
+        "1": "est fier de soi",
+        "2": "doute",
+        "3": "a besoin d’être rassuré",
+        "4": "se compare",
+        "5": "veut bien faire",
+        "6": "se juge durement"
+      },
+      "quote": "L’estime de soi se construit aussi dans le regard reçu."
+    },
+    "10": {
+      "title": "10. Ce qui m’a particulièrement marqué ou ce qui a changé dans notre vie cette année :",
+      "field": "Dans le cas d’une fratrie, ce que je ressens du rapport entre chacun :",
+      "blocks": {
+        "1": {
+          "field": "Dans le cas d’une famille recomposée, ce que je ressens du rapport entre chacun :"
+        }
+      },
+      "quote": "Chaque histoire familiale évolue à sa manière."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (6–7 ans)",
+      "p": {
+        "1": "Entre six et sept ans, l’enfant entre dans une phase de structuration plus nette. Le corps s’adapte progressivement aux contraintes scolaires : rester assis, se concentrer et suivre un rythme deviennent davantage possibles, mais demandent encore beaucoup d’énergie.",
+        "2": "La capacité d’attention augmente. L’enfant peut se concentrer plus longtemps, surtout lorsque l’activité a du sens.",
+        "3": "Sur le plan cognitif, une pensée logique simple commence à s’installer. L’enfant comprend mieux les liens de cause à effet, organise davantage ses actions et peut suivre des consignes plus complexes.",
+        "4": "Les règles ne sont plus seulement imposées. Elles commencent à être comprises et peuvent devenir rassurantes.",
+        "5": "Sur le plan émotionnel, le juste et l’injuste prennent davantage de place. L’enfant veut bien faire, réussir et répondre aux attentes.",
+        "6": "Le regard de l’adulte reste central, tandis que celui du groupe commence lui aussi à compter."
+      },
+      "points": {
+        "1": "L’adaptation au rythme scolaire demande encore beaucoup d’énergie.",
+        "2": "La capacité d’attention augmente, particulièrement lorsque l’enfant comprend le sens de ce qui est demandé.",
+        "3": "Une pensée logique simple commence à se structurer.",
+        "4": "Les règles deviennent progressivement compréhensibles et rassurantes.",
+        "5": "Le regard de l’adulte reste structurant, même si celui des autres prend davantage de place."
+      }
+    },
+    "regles": {
+      "title": "Le sens des règles et du cadre",
+      "p": {
+        "1": "À cet âge, les règles prennent une nouvelle dimension. Elles ne sont plus seulement vécues comme des contraintes : elles deviennent progressivement des repères.",
+        "2": "L’enfant demande davantage « pourquoi ? », questionne et compare.",
+        "3": "Un cadre devient sécurisant lorsqu’il est clair, stable, cohérent et expliqué. À l’inverse, l’incohérence peut déstabiliser, tandis qu’une rigidité excessive peut freiner.",
+        "4": "L’enfant découvre progressivement que les règles ne servent pas seulement à obtenir l’obéissance : elles permettent aussi de vivre, apprendre et jouer ensemble.",
+        "5": "L’adulte incarne cette cohérence par sa manière d’être, sa constance et ses réponses. C’est sur cette stabilité que l’enfant peut progressivement s’appuyer."
+      },
+      "points": {
+        "1": "Une règle est mieux intégrée lorsque l’enfant peut en comprendre le sens.",
+        "2": "Un cadre sécurisant est clair, stable, cohérent et expliqué.",
+        "3": "L’incohérence déstabilise davantage que la limite elle-même.",
+        "4": "Un cadre trop rigide peut empêcher l’enfant de développer progressivement son propre jugement.",
+        "5": "La cohérence de l’adulte donne à l’enfant un repère sur lequel s’appuyer."
+      }
+    },
+    "bienfaire": {
+      "title": "Apprendre à bien faire… sans se perdre",
+      "p": {
+        "1": "Entre six et sept ans, l’enfant veut souvent bien faire. Réussir. Répondre aux attentes. Être reconnu.",
+        "2": "Cette dynamique soutient les apprentissages, mais elle peut aussi fragiliser lorsque la valeur personnelle commence à dépendre excessivement du résultat.",
+        "3": "L’enfant peut alors douter, se comparer, craindre l’erreur ou se juger durement.",
+        "4": "Le rôle de l’adulte est d’aider à maintenir un équilibre : encourager l’effort, valoriser le processus, autoriser l’erreur et rappeler que comprendre demande parfois du temps.",
+        "5": "Une erreur ne dit pas ce que vaut l’enfant. Elle dit simplement qu’un apprentissage est encore en cours.",
+        "6": "C’est ainsi que peut progressivement se construire une confiance plus stable, moins dépendante de la réussite immédiate."
+      },
+      "points": {
+        "1": "Vouloir bien faire peut soutenir les apprentissages mais aussi créer une pression intérieure.",
+        "2": "La comparaison et la peur de l’erreur peuvent fragiliser la confiance.",
+        "3": "Valoriser l’effort permet de ne pas réduire l’enfant au résultat.",
+        "4": "Se tromper fait partie du processus d’apprentissage.",
+        "5": "La valeur de l’enfant ne dépend pas de la réussite."
+      },
+      "closing": {
+        "1": "Des repères cohérents permettent à l’enfant de construire peu à peu les siens."
+      }
+    }
+  }
+}

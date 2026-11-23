@@ -1,0 +1,270 @@
+{
+  "header": {
+    "carnet": "Léa’s Carnet de Vie - Birth"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • LABOUR & BIRTH"
+    },
+    "1": {
+      "title": "A passage. A meeting. A first breath.",
+      "p": {
+        "1": "Birth is a turning point.",
+        "2": "Something ends, something else begins.",
+        "3": "The child leaves the body that carried them and enters the world, into the arms, the eyes, the voices and the presences that welcome them.",
+        "4": "This moment can be gentle or intense, smooth or trying, very close to what was imagined… or very different.",
+        "5": "A planned or unplanned caesarean, a long or difficult labour, a medical intervention, a premature birth, time in an incubator or breathing support can upset this long-awaited moment.",
+        "6": "These experiences can bring up many emotions: relief, joy, worry, tiredness, gratitude, fear, disappointment or a feeling of helplessness.",
+        "7": "For some people, meeting the child feels immediate. For others, it builds gradually, at the pace of events, of physical and emotional recovery, or simply of the time needed to take in what has just happened.",
+        "8": "A birth can be surrounded by several people, by one close person, by a medical team… and sometimes be lived through with a feeling of deep loneliness.",
+        "9": "There is no single way to experience a birth.",
+        "10": "Every story deserves to be welcomed with respect, in all its uniqueness.",
+        "11": "A human story, sincere, simply passed on."
+      },
+      "quote": "A birth does not always look like the one we imagined. Yet it becomes the beginning of a real story."
+    },
+    "2": {
+      "intro": "Naming distress, fear, disappointment or fragility takes nothing away from the value of this moment.<br></br>Telling what was lived, even when it was difficult or painful, can already be a way of respecting oneself.<br></br>Welcoming what was lived also leaves room for what is beginning."
+    },
+    "4": {
+      "title": "The birth bracelet",
+      "p": {
+        "1": "The birth bracelet is sometimes one of the first objects to carry a concrete trace of the child’s arrival: their name, a date, sometimes a time or a number.",
+        "2": "If there is one, take a photograph of the child’s wrist with their birth bracelet.",
+        "3": "The bracelet can then be kept, if that is possible and wished for.",
+        "4": "If no bracelet was given, another detail of the birth can become this first trace: a label, a hat, a blanket, a document, a photograph or simply a few words about that first day.",
+        "5": "This ritual can be done by the mother, the father, a second parent or anyone who wishes to keep a trace of this birth in Carnet de Vie."
+      },
+      "quote": "A very small object can sometimes carry the memory of an immense passage.",
+      "invite": "We invite whoever wishes to keep this trace to place the photograph of the bracelet — or of the chosen object — in Carnet de Vie, with, if they wish, a few words or their voice. One day, the child will be able to find a concrete trace of their very first moments."
+    },
+    "5": {
+      "title": "What I choose to keep from this birth",
+      "items": {
+        "1": "The birth bracelet.",
+        "2": "A first photograph.",
+        "3": "A voice.",
+        "4": "A first look.",
+        "5": "A first touch.",
+        "6": "A time or a date.",
+        "7": "A light in the room.",
+        "8": "A sound.",
+        "9": "Someone who was there.",
+        "10": "Something said that day.",
+        "11": "A piece of music.",
+        "12": "An object.",
+        "13": "An unexpected detail.",
+        "14": "A difficult moment I also want to keep in the story.",
+        "15": "Or simply a moment I don’t want to forget."
+      },
+      "fields": {
+        "1": "What I would like to add or share:"
+      },
+      "quote": "First traces do not tell the whole story of a birth. They keep a few precious fragments of it."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Before that day",
+      "lead": "Before the birth, I imagined this moment rather as:",
+      "options": {
+        "1": "calm",
+        "2": "natural",
+        "3": "closely supervised",
+        "4": "a little worrying",
+        "5": "unclear",
+        "6": "hard to imagine"
+      },
+      "field": "What I expected, deep down, from this moment:",
+      "quote": "Letting a first impression come back is enough."
+    },
+    "2": {
+      "title": "2. The day of the birth, for me",
+      "lead": "I experienced this moment as:",
+      "options": {
+        "1": "moving",
+        "2": "trying",
+        "3": "powerful",
+        "4": "bewildering",
+        "5": "soothing",
+        "6": "impossible to sum up",
+        "7": "traumatic"
+      },
+      "field": "A word, a feeling or a memory that stays:",
+      "quote": "What is true for you is enough."
+    },
+    "3": {
+      "title": "3. My feelings",
+      "lead": "The feelings that ran through this moment the most:",
+      "options": {
+        "1": "joy",
+        "2": "relief",
+        "3": "fear",
+        "4": "sadness",
+        "5": "anger",
+        "6": "shame",
+        "7": "tiredness",
+        "8": "worry",
+        "9": "helplessness"
+      },
+      "quote": "Every feeling has its place here."
+    },
+    "4": {
+      "title": "4. My body during this passage — for the mother",
+      "lead": "If I am the one who carried and gave birth to the child, during the birth, my body was for me:",
+      "options": {
+        "1": "an ally",
+        "2": "an ordeal",
+        "3": "both",
+        "4": "hard to recognise",
+        "5": "something I had to trust"
+      },
+      "field": "A word, a feeling or a physical memory that stays:",
+      "quote": "The body sometimes keeps traces. Recognising them can also be part of the story."
+    },
+    "5": {
+      "title": "5. What I was afraid of",
+      "lead": "What worried me most as the birth approached — the pain, something unexpected, the safety of the child or of the mother / of myself, letting go, a medical intervention or something else:",
+      "quote": "A fear can be named without needing to be explained."
+    },
+    "6": {
+      "title": "6. The bond with the child at birth",
+      "lead": "In those first moments, the bond with the child formed:",
+      "options": {
+        "1": "straight away",
+        "2": "gently",
+        "3": "in a fragile way",
+        "4": "very intensely",
+        "5": "differently from how I imagined",
+        "6": "with difficulty at first",
+        "7": "I don’t know yet"
+      },
+      "field": "What I felt at the very beginning:",
+      "quote": "A bond cannot be forced. It is woven."
+    },
+    "7": {
+      "title": "7. Emotionally, I feel rather:",
+      "options": {
+        "1": "at peace",
+        "2": "reassured",
+        "3": "happy",
+        "4": "sad",
+        "5": "tense",
+        "6": "stressed",
+        "7": "worried",
+        "8": "overwhelmed"
+      },
+      "quote": "An emotion is never final."
+    },
+    "8": {
+      "title": "8. The people who mattered during these moments",
+      "lead": "Among the people who mattered during or around the birth:",
+      "options": {
+        "1": "a midwife",
+        "2": "a gynaecologist / obstetrician",
+        "3": "a member of the medical team",
+        "4": "the father or the second parent",
+        "5": "a family member",
+        "6": "a friend or someone close"
+      },
+      "field": "Who, and why did this presence matter?",
+      "quote": "Sometimes a presence stays linked to a moment of life for a long time."
+    },
+    "9": {
+      "title": "9. The support I felt",
+      "lead": "In those moments, I felt:",
+      "options": {
+        "1": "very supported",
+        "2": "surrounded",
+        "3": "understood",
+        "4": "reassured",
+        "5": "not supported enough",
+        "6": "alone",
+        "7": "abandoned"
+      },
+      "field": "By whom or in what way:",
+      "quote": "Being supported can take very different forms."
+    },
+    "10": {
+      "title": "10. What I would like to tell you about your birth",
+      "lead": "When I think back to your birth, there may be something more personal I would like to tell you one day.",
+      "items": {
+        "1": "A detail others may not have noticed.",
+        "2": "Something said that day.",
+        "3": "An unexpected reaction.",
+        "4": "A small funny, tender or moving event.",
+        "5": "Something that surprised me.",
+        "6": "The first thing I thought when I saw you.",
+        "7": "A moment between us.",
+        "8": "A story I would like you to know.",
+        "9": "Or simply a memory that belongs only to this story."
+      },
+      "quote": "Sometimes a very small memory tells of a great meeting."
+    }
+  },
+  "articles": {
+    "corps": {
+      "title": "An intense bodily and sensory experience",
+      "p": {
+        "1": "Giving birth, whether vaginally or by caesarean, deeply engages the mother’s body.",
+        "2": "Tiredness, pain, new sensations, a need to recover or sometimes a feeling of strangeness can come with the hours and days that follow.",
+        "3": "Every woman experiences this differently.",
+        "4": "A caesarean is abdominal surgery. An episiotomy is also a surgical procedure, more localised. In both cases, the body needs time to heal and recover.",
+        "5": "Pain, great tiredness, temporarily reduced mobility or tenderness in the areas concerned can come with this recovery.",
+        "6": "Respecting one’s own pace, accepting help when it is available and taking care of one’s body can support a gradual physical and emotional recovery.",
+        "7": "This recovery does not follow the same timetable for every woman."
+      },
+      "points": {
+        "1": "Giving birth strongly engages the body, however the child is born.",
+        "2": "Physical and emotional recovery varies from one woman to another.",
+        "3": "A caesarean is surgery and needs time to recover.",
+        "4": "An episiotomy also needs time to heal and suitable care.",
+        "5": "Respecting the body’s pace is part of the period after birth."
+      }
+    },
+    "rencontre": {
+      "title": "Meeting the baby",
+      "p": {
+        "1": "The meeting between the child and those who welcome them is not necessarily a single moment.",
+        "2": "Daniel Stern (1934–2012) – American psychiatrist and psychoanalyst, specialist in early development and parent-child relationships.",
+        "3": "Stern’s work showed the importance of early interactions in gradually building the relationship with the baby.",
+        "4": "For some people, the bond feels immediate. For others, it builds more gradually.",
+        "5": "Looks, gestures, the voice, daily care and the responses given to the baby’s signals little by little let each one discover the other and adjust.",
+        "6": "A difficult birth, a medical separation, great tiredness or simply the particular way each person lives this event can change the first moments without determining the future quality of the relationship.",
+        "7": "So the meeting is not settled once and for all at the moment of birth.",
+        "8": "It goes on day after day."
+      },
+      "points": {
+        "1": "The bond with the baby does not need to be immediate to be real.",
+        "2": "First interactions gradually help build the relationship.",
+        "3": "A separation or a difficult birth can change the first moments without determining what follows for the bond.",
+        "4": "Each person may need a different amount of time to fully take in the meeting.",
+        "5": "The relationship with the child keeps growing long after birth."
+      }
+    },
+    "mere": {
+      "title": "The mother needs holding too",
+      "p": {
+        "1": "After the birth, a lot of attention naturally turns to the baby.",
+        "2": "In this movement, the mother can sometimes feel that her pain, her tiredness, her emotions or what she herself has just been through come second.",
+        "3": "Donald Winnicott (1896–1971) – British paediatrician and psychoanalyst, specialist in early emotional development and the mother-baby relationship.",
+        "4": "Winnicott’s work gives a central place to the environment that supports the mother and the baby. The availability needed to meet a newborn’s needs is itself made easier when the mother can be surrounded and supported.",
+        "5": "This support does not necessarily come from a partner.",
+        "6": "It can come from a father or a second parent when present, but also from family, friends, professionals or anyone able to offer a concrete and respectful presence.",
+        "7": "Supporting a mother can mean listening to her, respecting her need for rest, taking on some tasks, helping her practically or simply recognising what she has just been through.",
+        "8": "Caring for the mother does not take attention away from the baby.",
+        "9": "It also helps create a more available and secure environment around them."
+      },
+      "points": {
+        "1": "After the birth, the mother also needs attention, recovery and support.",
+        "2": "Her physical and emotional needs do not disappear because the baby is born.",
+        "3": "Support does not necessarily rest on a partner or a couple.",
+        "4": "Family, friends and professionals can be important sources of support.",
+        "5": "Caring for the mother also helps support the environment in which the bond with the baby grows."
+      },
+      "closing": {
+        "1": "A first breath. And nothing was ever quite the same again."
+      }
+    }
+  }
+}

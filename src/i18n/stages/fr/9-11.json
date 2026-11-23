@@ -1,0 +1,229 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 9-11 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 9 À 11 ANS"
+    },
+    "1": {
+      "title": "Le questionneur discret",
+      "p": {
+        "1": "Entre neuf et onze ans, quelque chose se déplace vers l’intérieur. L’enfant parle parfois moins, mais pense davantage. L’enfant observe, compare, s’interroge.",
+        "2": "« Pourquoi ça existe ? » « Et moi dans tout ça ? » Les questions deviennent plus profondes. Le monde ne suffit plus toujours tel qu’il est : l’enfant cherche à en comprendre le sens et commence aussi à chercher la place qui lui appartient.",
+        "3": "Certains silences apparaissent. Pas nécessairement comme un retrait, mais comme la construction progressive d’un territoire intérieur."
+      },
+      "quote": "L’intériorité se construit."
+    },
+    "2": {
+      "intro": "Entre neuf et onze ans, la réflexion précède davantage l’action, les questions existentielles émergent et la pensée gagne progressivement en complexité. L’expression émotionnelle peut devenir plus retenue et les premiers changements liés à la préadolescence peuvent apparaître.<br></br>L’enfant a besoin d’un espace personnel tout en sachant que l’adulte reste disponible. Respecter certains silences ne signifie pas ignorer un éventuel mal-être.",
+      "quote": "Être présent sans envahir permet à l’enfant de construire son espace intérieur."
+    },
+    "4": {
+      "title": "Le moment disponible",
+      "p": {
+        "1": "Choisis un moment calme, sans écran ni distraction, sans chercher nécessairement à provoquer une conversation.",
+        "2": "Tu peux simplement dire :<br></br>« Si un jour tu as envie de me parler de quelque chose, même si c’est difficile à dire, je suis là. »",
+        "3": "Puis laisse l’espace.",
+        "4": "Si l’enfant parle, écoute avant de questionner, conseiller ou interpréter. Si l’enfant ne parle pas, n’insiste pas.",
+        "5": "Ce qui compte n’est pas d’obtenir une confidence. C’est que l’enfant sache qu’un espace existe et qu’il pourra y revenir."
+      },
+      "quote": "La disponibilité n’a pas besoin d’être intrusive pour être ressentie.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette période",
+      "items": {
+        "1": "Une grande question posée.",
+        "2": "Une discussion profonde.",
+        "3": "Un moment de solitude respecté.",
+        "4": "Une prise de position personnelle.",
+        "5": "Une réflexion inattendue.",
+        "6": "Une nouvelle passion.",
+        "7": "Une photo, une vidéo ou sa voix.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Dans ses questionnements, je remarque que l’enfant :",
+      "options": {
+        "1": "pose des questions philosophiques",
+        "2": "s’interroge sur la mort, la guerre ou les inégalités",
+        "3": "questionne les origines",
+        "4": "doute de certaines certitudes",
+        "5": "cherche des explications scientifiques"
+      },
+      "quote": "La pensée s’élargit."
+    },
+    "2": {
+      "title": "2. Dans sa relation à soi, l’enfant :",
+      "options": {
+        "1": "garde davantage ses émotions",
+        "2": "écrit ou dessine davantage",
+        "3": "cherche des moments de solitude",
+        "4": "semble préoccupé",
+        "5": "semble triste",
+        "6": "semble perdu dans ses pensées"
+      },
+      "quote": "Le silence peut aussi être un espace de construction."
+    },
+    "3": {
+      "title": "3. Dans le rapport au corps, l’enfant :",
+      "options": {
+        "1": "semble parfois mal à l’aise",
+        "2": "observe les changements",
+        "3": "se compare aux autres",
+        "4": "pose des questions sur la puberté",
+        "5": "devient plus pudique",
+        "6": "cherche une identité à travers les vêtements, la coiffure ou les accessoires",
+        "7": "remet parfois en question les règles d’hygiène",
+        "8": "semble fier de son image"
+      },
+      "quote": "Le corps devient territoire."
+    },
+    "4": {
+      "title": "4. Dans le rapport aux adultes, l’enfant :",
+      "options": {
+        "1": "questionne l’autorité",
+        "2": "cherche la cohérence",
+        "3": "relève les contradictions",
+        "4": "prend davantage de distance",
+        "5": "cherche d’autres référents en dehors de la famille proche"
+      },
+      "quote": "La pensée critique émerge."
+    },
+    "5": {
+      "title": "5. Dans l’amitié, l’enfant :",
+      "options": {
+        "1": "privilégie quelques liens forts",
+        "2": "s’éloigne de certains groupes",
+        "3": "a du mal à s’éloigner du groupe",
+        "4": "partage des secrets plus profonds",
+        "5": "vit certaines déceptions en silence"
+      },
+      "quote": "La loyauté se redéfinit."
+    },
+    "6": {
+      "title": "6. Face aux injustices du monde, l’enfant :",
+      "options": {
+        "1": "s’indigne",
+        "2": "s’informe",
+        "3": "veut agir",
+        "4": "se sent parfois impuissant"
+      },
+      "quote": "La conscience sociale grandit."
+    },
+    "7": {
+      "title": "7. Le lien entre nous me semble :",
+      "options": {
+        "1": "plus subtil",
+        "2": "parfois distant",
+        "3": "toujours confiant",
+        "4": "en réajustement",
+        "5": "souvent conflictuel"
+      },
+      "quote": "L’enfant se différencie. Je reste présent."
+    },
+    "8": {
+      "title": "8. Face à l’échec, l’enfant :",
+      "options": {
+        "1": "analyse",
+        "2": "doute intérieurement",
+        "3": "se compare",
+        "4": "persévère",
+        "5": "réagit parfois de façon disproportionnée"
+      },
+      "quote": "L’estime de soi devient plus intérieure."
+    },
+    "9": {
+      "title": "9. Dans cette période, je me sens :",
+      "options": {
+        "1": "fier(ère) de sa maturité",
+        "2": "parfois mis(e) à distance",
+        "3": "inquiet(e) de certains silences",
+        "4": "inquiet(e) de certaines fréquentations",
+        "5": "attentif(ve) à ses lectures, films ou modèles sur les réseaux sociaux",
+        "6": "toujours un repère"
+      },
+      "quote": "Accompagner, c’est aussi savoir rester proche sans occuper tout l’espace."
+    },
+    "10": {
+      "title": "10. Ce qui m’a particulièrement marqué ou ce qui a changé dans notre vie cette année :",
+      "field": "Dans le cas d’une fratrie, ce que je ressens du rapport entre chacun :",
+      "blocks": {
+        "1": {
+          "field": "Dans le cas d’une famille recomposée, ce que je ressens du rapport entre chacun :"
+        }
+      },
+      "quote": "L’enfant pense autrement. J’accompagne autrement."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (9–11 ans)",
+      "p": {
+        "1": "Entre neuf et onze ans, l’enfant traverse une période souvent discrète mais profondément structurante.",
+        "2": "La pensée devient progressivement plus complexe. L’enfant ne se contente plus d’apprendre : l’enfant compare, élabore, met en perspective et commence à questionner davantage ce qui semblait auparavant aller de soi.",
+        "3": "Sigmund Freud (1856–1939) – Neurologue autrichien et fondateur de la psychanalyse.",
+        "4": "Dans la théorie psychanalytique classique, cette période correspond à la fin progressive de la période de latence, durant laquelle une partie importante de l’énergie psychique est investie dans les apprentissages et les relations sociales.",
+        "5": "Peter Blos (1904–1997) – Psychanalyste germano-américain, spécialiste de l’adolescence.",
+        "6": "Blos décrira le « second processus d’individuation » à l’adolescence. Entre neuf et onze ans, on peut déjà observer certains mouvements de différenciation : l’enfant construit davantage un espace intérieur propre sans nécessairement s’opposer ouvertement.",
+        "7": "Marcel Rufo (né en 1944) – Pédopsychiatre français, spécialiste de l’enfance et de l’adolescence.",
+        "8": "Cette période peut être comprise comme une transition vers la préadolescence, importante dans la consolidation de l’estime de soi et du sentiment d’identité.",
+        "9": "Le corps entre lui aussi progressivement en transition. Les premiers signes pubertaires peuvent apparaître, la pudeur augmenter et le regard porté sur soi devenir plus sensible.",
+        "10": "Donald W. Winnicott (1896–1971) – Pédiatre et psychanalyste britannique.",
+        "11": "La construction d’un espace psychique personnel permet progressivement à l’enfant de disposer d’un monde intérieur davantage distinct du regard parental.",
+        "12": "Ce n’est donc plus seulement le monde extérieur qui intéresse l’enfant. C’est aussi la place qui lui appartient dans ce monde."
+      },
+      "points": {
+        "1": "Cette période peut être discrète extérieurement tout en étant très riche intérieurement.",
+        "2": "La pensée devient progressivement plus complexe et réflexive.",
+        "3": "Le besoin d’un espace personnel augmente.",
+        "4": "Les premiers changements pubertaires peuvent modifier le rapport au corps et la pudeur.",
+        "5": "La différenciation peut commencer sans opposition ouverte avec les parents."
+      }
+    },
+    "interiorite": {
+      "title": "Intériorité et pensée abstraite naissante",
+      "p": {
+        "1": "Entre neuf et onze ans, l’enfant devient progressivement capable de dépasser davantage les situations immédiatement observables.",
+        "2": "Des questions nouvelles peuvent apparaître : le sens de la vie, la mort, la justice, la guerre, les inégalités, les origines ou encore les valeurs familiales.",
+        "3": "L’enfant peut envisager plusieurs hypothèses, percevoir davantage les contradictions et comparer ce qui est transmis dans la famille avec ce qui est découvert à l’école, dans le groupe ou dans la société.",
+        "4": "Il ne s’agit pas encore de la pensée abstraite caractéristique de l’adolescence. Mais le mouvement se prépare.",
+        "5": "Le rôle de l’adulte devient alors plus délicat : écouter sans répondre trop vite, partager un point de vue sans l’imposer, accepter parfois de ne pas savoir et respecter certains silences.",
+        "6": "L’enfant commence à découvrir que penser par soi-même ne signifie pas nécessairement penser contre ses parents."
+      },
+      "points": {
+        "1": "Les grandes questions peuvent apparaître naturellement à cet âge.",
+        "2": "L’enfant commence à confronter différents points de vue et systèmes de valeurs.",
+        "3": "Percevoir les contradictions participe au développement de la pensée critique.",
+        "4": "Le parent peut transmettre ses convictions sans imposer toutes les réponses.",
+        "5": "Respecter un silence n’empêche pas de rester attentif à un éventuel mal-être."
+      }
+    },
+    "blessures": {
+      "title": "Les 5 blessures émotionnelles : une grille de lecture",
+      "p": {
+        "1": "Lise Bourbeau (née en 1941) – Auteure québécoise spécialisée dans le développement personnel.",
+        "2": "Lise Bourbeau propose une grille de lecture fondée sur cinq « blessures émotionnelles » : rejet, abandon, humiliation, trahison et injustice. Il s’agit d’un modèle de développement personnel et non d’une classification clinique ou d’un modèle scientifique validé.",
+        "3": "Cette grille peut néanmoins être utilisée comme une invitation à observer ce que certaines expériences viennent toucher subjectivement chez l’enfant, sans poser d’étiquette.",
+        "4": "Entre neuf et onze ans, la sensibilité au regard des autres, aux comparaisons, à l’appartenance et à l’équité peut devenir plus forte. Une exclusion, une humiliation, un sentiment d’injustice ou une déception relationnelle peuvent alors être vécus avec intensité. Le document source invite précisément à regarder ce qui se trouve derrière les réactions plutôt qu’à enfermer l’enfant dans une catégorie.",
+        "5": "L’essentiel est donc moins de chercher « quelle blessure possède l’enfant » que d’écouter ce qui a été ressenti : se sentir rejeté, abandonné, humilié, trahi ou traité injustement.",
+        "6": "Nommer l’expérience, écouter et sécuriser peuvent permettre à l’enfant de donner du sens à ce qui a été vécu."
+      },
+      "points": {
+        "1": "Les « cinq blessures » constituent une grille de lecture de développement personnel, et non un diagnostic.",
+        "2": "Une réaction intense peut signaler qu’une expérience a touché quelque chose d’important pour l’enfant.",
+        "3": "Il vaut mieux écouter le vécu que chercher à étiqueter l’enfant.",
+        "4": "Les expériences de rejet, d’humiliation, de trahison ou d’injustice peuvent être particulièrement sensibles à cet âge.",
+        "5": "Respecter l’intériorité n’empêche jamais de rester vigilant lorsqu’un changement durable de comportement, une tristesse ou un isolement inquiètent."
+      },
+      "closing": {
+        "1": "Grandir, c’est aussi apprendre à penser par soi-même."
+      }
+    }
+  }
+}

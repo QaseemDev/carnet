@@ -1,0 +1,272 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 11-13 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 11 À 13 ANS"
+    },
+    "1": {
+      "title": "Le feu intérieur",
+      "p": {
+        "1": "Entre onze et treize ans, quelque chose s’embrase.",
+        "2": "Le corps change vite. Les émotions peuvent devenir plus intenses. L’enfant peut sembler excessif, très sensible… ou au contraire beaucoup plus silencieux.",
+        "3": "La critique apparaît davantage. L’affirmation aussi. Mais derrière cette instabilité se construit quelque chose de profond : une identité qui cherche progressivement sa forme.",
+        "4": "Ce n’est pas nécessairement contre le parent. C’est une transformation intérieure."
+      },
+      "quote": "Le feu intérieur transforme sans détruire."
+    },
+    "2": {
+      "intro": "Entre onze et treize ans, le corps se transforme rapidement, les émotions peuvent être intenses et la pensée critique s’affirme. Le besoin de différenciation augmente mais, paradoxalement, le besoin de repères reste important.<br></br>L’adulte peut accueillir l’émotion sans tout accepter : rester disponible, tenir le cadre et maintenir le respect de chacun.",
+      "quote": "L’opposition n’est pas nécessairement un rejet. Elle participe aussi à la différenciation."
+    },
+    "4": {
+      "title": "Le rituel du « post-it »",
+      "p": {
+        "1": "Lorsque l’enfant déborde, ne cherche pas immédiatement à convaincre ou à obtenir une discussion.",
+        "2": "Reste disponible. Tiens le cadre. Laisse redescendre l’intensité.",
+        "3": "Lorsque le calme revient, tu peux simplement rappeler :<br></br>« Même lorsque nous ne sommes pas d’accord, je suis là. »",
+        "4": "Si des paroles ou des comportements ont été violents, ils peuvent ensuite être nommés : accueillir l’émotion ne signifie pas accepter le manque de respect.",
+        "5": "L’enfant peut ainsi s’éloigner pour se différencier tout en sachant que le lien reste accessible."
+      },
+      "quote": "Tenir le lien n’empêche jamais de tenir le cadre.",
+      "invite": "Lorsque la tempête est passée, nous t’invitons à laisser une trace de ce moment d’apaisement : quelques mots écrits ou un message audio déposé dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette période",
+      "items": {
+        "1": "Une discussion intense.",
+        "2": "Un conflit traversé.",
+        "3": "Une transformation importante.",
+        "4": "Une prise d’autonomie.",
+        "5": "Une opinion affirmée.",
+        "6": "Un moment de rapprochement après une opposition.",
+        "7": "Une photo, une vidéo ou sa voix.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Dans le rapport au corps, je remarque que l’enfant :",
+      "options": {
+        "1": "semble parfois dérouté par les changements physiques",
+        "2": "peut se sentir en décalage avec son corps",
+        "3": "teste les limites par les tenues, la posture ou l’attitude",
+        "4": "alterne fierté et rejet de son image",
+        "5": "devient plus sensible aux remarques extérieures",
+        "6": "manifeste une gêne nouvelle dans certaines situations",
+        "7": "exprime davantage de curiosité autour de la sexualité",
+        "8": "se referme sur certains sujets corporels"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Les références vestimentaires de l’enfant sont plutôt :",
+          "options": {
+            "1": "une marque",
+            "2": "une personne de la famille",
+            "3": "une amitié",
+            "4": "une personnalité"
+          }
+        }
+      },
+      "quote": "Le corps devient peu à peu une part de l’identité."
+    },
+    "2": {
+      "title": "2. Dans ses émotions, l’enfant :",
+      "options": {
+        "1": "passe rapidement du calme à la colère",
+        "2": "semble hypersensible",
+        "3": "se replie",
+        "4": "demande du soutien, parfois maladroitement",
+        "5": "déborde émotionnellement",
+        "6": "a du mal à retrouver son calme"
+      },
+      "quote": "L’intensité cherche un équilibre."
+    },
+    "3": {
+      "title": "3. Dans le lien entre nous, l’enfant :",
+      "options": {
+        "1": "s’oppose davantage",
+        "2": "cherche encore mon avis",
+        "3": "alterne proximité et distance",
+        "4": "refuse certaines discussions",
+        "5": "partage des confidences inattendues",
+        "6": "préfère confier certaines choses à quelqu’un d’autre"
+      },
+      "field": "Si oui, à qui ?",
+      "quote": "Se différencier ne signifie pas rompre le lien."
+    },
+    "4": {
+      "title": "4. Dans sa pensée et ses apprentissages, l’enfant :",
+      "options": {
+        "1": "débat et développe des opinions personnelles",
+        "2": "critique les injustices",
+        "3": "remet en question certaines règles",
+        "4": "cherche de la cohérence",
+        "5": "cherche souvent à avoir raison",
+        "6": "est investi dans son travail",
+        "7": "procrastine",
+        "8": "manque parfois de méthode ou de concentration",
+        "9": "se compare aux autres",
+        "10": "vit les résultats comme un jugement personnel",
+        "11": "se montre perfectionniste"
+      },
+      "quote": "La pensée s’affirme sans être encore totalement stabilisée."
+    },
+    "5": {
+      "title": "5. Dans ses relations sociales, l’enfant :",
+      "options": {
+        "1": "privilégie fortement le groupe",
+        "2": "privilégie quelques amitiés proches",
+        "3": "craint l’exclusion",
+        "4": "change souvent de groupe",
+        "5": "suit facilement les autres",
+        "6": "affirme sa singularité dans le groupe"
+      },
+      "quote": "Le regard des autres prend davantage de place."
+    },
+    "6": {
+      "title": "6. Face aux écrans et aux réseaux, l’enfant :",
+      "options": {
+        "1": "s’isole avec son téléphone",
+        "2": "devient sensible aux « likes »",
+        "3": "compare son image à celle des autres",
+        "4": "semble influencé par certains modèles",
+        "5": "a du mal à gérer son temps d’écran",
+        "6": "semble avoir du mal à se déconnecter",
+        "7": "accepte le cadre posé"
+      },
+      "quote": "Le monde numérique amplifie parfois ce qui est déjà ressenti."
+    },
+    "7": {
+      "title": "7. Face à l’échec, je remarque que l’enfant :",
+      "options": {
+        "1": "le vit comme une remise en question personnelle",
+        "2": "craint davantage le regard des autres que l’erreur elle-même",
+        "3": "se juge très durement",
+        "4": "minimise pour se protéger",
+        "5": "cache certaines difficultés",
+        "6": "devient perfectionniste",
+        "7": "préfère parfois abandonner plutôt que se confronter à la difficulté"
+      },
+      "quote": "L’échec peut toucher l’image de soi autant que le résultat."
+    },
+    "8": {
+      "title": "8. Dans son rapport à l’autorité, l’enfant :",
+      "options": {
+        "1": "conteste",
+        "2": "teste les limites",
+        "3": "cherche des explications",
+        "4": "respecte le cadre",
+        "5": "joue avec la règle",
+        "6": "peut devenir agressif"
+      },
+      "quote": "Le cadre peut rassurer même lorsqu’il est contesté."
+    },
+    "9": {
+      "title": "9. Cette année, je me sens :",
+      "options": {
+        "1": "fier(ère)",
+        "2": "dépassé(e)",
+        "3": "inquiet(e)",
+        "4": "parfois plus distant(e)",
+        "5": "parfois plus proche",
+        "6": "toujours un repère"
+      },
+      "quote": "Rester présent ne signifie pas tout contrôler."
+    },
+    "10": {
+      "title": "10. Ce qui m’a particulièrement marqué ou ce qui a changé dans notre vie cette année :",
+      "field": "Dans le cas d’une fratrie, ce que je ressens du rapport entre chacun :",
+      "blocks": {
+        "1": {
+          "field": "Dans le cas d’une famille recomposée, ce que je ressens du rapport entre chacun :"
+        }
+      },
+      "quote": "La relation change de forme sans perdre nécessairement sa profondeur."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (11–13 ans)",
+      "p": {
+        "1": "Entre onze et treize ans, la préadolescence s’installe progressivement. Le corps se transforme sous l’effet de la puberté. L’image de soi devient plus importante, la pudeur peut augmenter et le regard des autres prendre une place nouvelle.",
+        "2": "Peter Blos (1904–1997) – Psychanalyste germano-américain, spécialiste de l’adolescence.",
+        "3": "Blos décrit à l’adolescence un second processus d’individuation : le jeune se différencie progressivement des figures parentales pour construire davantage son identité propre.",
+        "4": "Cette différenciation peut déjà apparaître dans cette période par davantage de distance, de critique, de pudeur ou d’opposition.",
+        "5": "Jay Giedd (né en 1960) – Psychiatre américain et chercheur en neurosciences, spécialiste du développement cérébral de l’enfant et de l’adolescent.",
+        "6": "Ses travaux d’imagerie cérébrale ont contribué à montrer que le cerveau poursuit d’importantes transformations structurelles pendant l’adolescence, notamment dans les régions préfrontales impliquées dans la planification, l’inhibition et la régulation.",
+        "7": "Sarah-Jayne Blakemore (née en 1974) – Neuroscientifique britannique, spécialiste du développement du cerveau à l’adolescence.",
+        "8": "Ses recherches portent notamment sur le développement du « cerveau social » à l’adolescence et permettent de mieux comprendre l’importance particulière que prennent le regard des autres, les interactions sociales et la perception de soi durant cette période.",
+        "9": "Pris ensemble, ces travaux montrent que les différents systèmes cérébraux n’évoluent pas tous au même rythme pendant l’adolescence. Les systèmes impliqués dans les émotions, la récompense et la sensibilité sociale connaissent d’importantes transformations tandis que les capacités de planification, d’inhibition et de régulation continuent elles aussi à se développer.",
+        "10": "Il ne s’agit cependant pas de réduire les comportements de l’enfant aux hormones ou au cerveau. L’histoire personnelle, les relations et les contextes familial, scolaire et social restent essentiels."
+      },
+      "points": {
+        "1": "Les transformations corporelles peuvent modifier profondément le rapport à soi.",
+        "2": "L’intensité émotionnelle peut augmenter alors que les capacités de régulation sont encore en développement.",
+        "3": "Le regard des autres devient particulièrement important.",
+        "4": "L’alternance entre assurance et fragilité est fréquente.",
+        "5": "Le besoin de différenciation n’annule pas le besoin d’un adulte stable et fiable."
+      }
+    },
+    "postit": {
+      "title": "Le syndrome du « post-it »",
+      "p": {
+        "1": "Le « syndrome du post-it » est ici une métaphore parentale, et non un concept clinique.",
+        "2": "À cet âge, l’enfant peut rechercher fortement la proximité et le soutien du parent puis, peu après, prendre brutalement ses distances sous l’effet d’une émotion, d’une remarque, d’un conflit ou du regard des autres.",
+        "3": "Cette alternance peut être déroutante pour le parent.",
+        "4": "L’image du « post-it » propose une posture simple : rester suffisamment proche pour être retrouvé, sans se « coller » au point d’empêcher la différenciation.",
+        "5": "Le parent peut accueillir un retour sans humilier l’enfant pour le rejet précédent. Mais cela ne signifie pas tout accepter.",
+        "6": "Si des mots ont été blessants ou si une limite a été franchie, il reste important de pouvoir dire calmement : « Ce qui s’est passé m’a blessé. Ton émotion est entendue, mais cette façon de me parler n’est pas acceptable. »",
+        "7": "La stabilité parentale consiste ainsi à conjuguer disponibilité et limite."
+      },
+      "points": {
+        "1": "Proximité et distance peuvent alterner rapidement à cet âge.",
+        "2": "Une réaction intense n’est pas nécessairement dirigée contre le parent.",
+        "3": "Rester disponible évite de transformer chaque éloignement en rupture.",
+        "4": "Accueillir l’émotion ne signifie pas accepter la violence ou le manque de respect.",
+        "5": "Le parent peut tenir simultanément le lien et le cadre."
+      }
+    },
+    "reseaux": {
+      "title": "Réseaux sociaux, surcharge informationnelle et cerveau en maturation",
+      "p": {
+        "1": "Entre onze et treize ans, le cerveau poursuit une réorganisation importante. Les capacités impliquées dans la planification, l’inhibition et la régulation émotionnelle continuent à se développer, tandis que les systèmes de récompense et la sensibilité sociale sont particulièrement sollicités.",
+        "2": "Les réseaux sociaux ajoutent à cette période une exposition permanente aux notifications, à la comparaison sociale, aux réactions des autres et à des récompenses rapides telles que les « likes ».",
+        "3": "Il faut toutefois éviter une formulation trop simpliste : un « like » ne crée pas à lui seul une addiction et la dopamine n’est pas une « molécule de l’addiction ». Elle participe notamment aux mécanismes de motivation, d’apprentissage et d’anticipation de la récompense.",
+        "4": "Ce sont surtout la répétition, l’imprévisibilité des récompenses, la disponibilité permanente et la difficulté à interrompre l’activité qui peuvent favoriser un usage compulsif chez certains jeunes.",
+        "5": "L’usage tardif des écrans peut également retarder l’endormissement, notamment par la stimulation cognitive et l’exposition lumineuse.",
+        "6": "Un cadre numérique cohérent protège donc non seulement le temps disponible, mais aussi le sommeil, l’attention, les relations réelles et les possibilités de ne rien faire.",
+        "7": "L’ennui aussi laisse au cerveau un espace pour penser."
+      },
+      "points": {
+        "1": "Le cerveau de l’enfant est encore en pleine maturation.",
+        "2": "Les réseaux sociaux sollicitent fortement la comparaison et la recherche de validation sociale.",
+        "3": "Notifications et récompenses rapides peuvent rendre la déconnexion difficile.",
+        "4": "L’usage nocturne peut perturber le sommeil.",
+        "5": "Le cadre numérique gagne à protéger le sommeil, l’attention et les relations plutôt qu’à être présenté uniquement comme une interdiction."
+      }
+    },
+    "charte": {
+      "title": "Charte numérique familiale (11–13 ans)",
+      "p": {
+        "1": "Une charte numérique fonctionne mieux lorsqu’elle est discutée plutôt qu’imposée sans explication.",
+        "2": "Nous vous proposons de discuter, modifier et ajuster ensemble les points suivants, puis de faire signer la charte par les membres de la famille :",
+        "3": "1. Pas de téléphone dans la chambre pendant la nuit.<br></br>2. Pas d’écran au moins une heure avant le coucher.<br></br>3. Les applications utilisées sont connues et discutées.<br></br>4. Les notifications peuvent être limitées.<br></br>5. Un contenu choquant peut être raconté sans peur d’une réaction immédiate.<br></br>6. Le multitâche permanent est limité.<br></br>7. Les adultes et les aînés montrent aussi l’exemple.<br></br>8. Les règles évoluent avec l’âge et la maturité.<br></br>9. La confiance s’accompagne d’un dialogue sur la sécurité et la vie numérique.<br></br>10. Le téléphone ne remplace pas la relation.",
+        "4": "Le document source insiste sur l’idée d’une charte discutée, affinée et évolutive plutôt que d’un règlement figé."
+      },
+      "points": {
+        "1": "Les règles numériques sont plus cohérentes lorsque les adultes les incarnent également.",
+        "2": "Protéger le sommeil constitue une priorité.",
+        "3": "Une charte peut évoluer avec la maturité.",
+        "4": "La sécurité numérique demande suffisamment de confiance pour que l’enfant puisse raconter ce qui dérange ou inquiète.",
+        "5": "L’objectif du cadre est de protéger la relation, pas de remplacer la confiance par la surveillance."
+      },
+      "closing": {
+        "1": "Un repère stable permet à l’enfant de traverser le mouvement sans s’y perdre."
+      }
+    }
+  }
+}

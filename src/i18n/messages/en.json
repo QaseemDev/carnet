@@ -1,0 +1,964 @@
+{
+  "Brand": {
+    "title": "Carnet de Vie",
+    "subtitle": "A story of love to pass on"
+  },
+  "Nav": {
+    "label": "Main navigation",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "origine": "The Origins of Carnet de Vie (Living Memoir)",
+    "quiSommesNous": "Who are we?",
+    "cheminDeVie": "The Life Journey",
+    "guideParental": "The Parenting Guide",
+    "communication": "Compassionate Communication",
+    "exemple": "Virtual carnet",
+    "connexion": "Log in",
+    "creer": "Create your Carnet",
+    "contact": "Contact"
+  },
+  "LanguageSwitcher": {
+    "label": "Language",
+    "fr": "Français",
+    "en": "English"
+  },
+  "Footer": {
+    "legalLabel": "Legal information",
+    "mentionsLegales": "Legal notice",
+    "cgu": "Terms of use",
+    "cgv": "Terms of sale",
+    "charte": "Ethics charter",
+    "confidentialite": "Privacy policy",
+    "copyright": "© Carnet de Vie"
+  },
+  "Legal": {
+    "draftBanner": "Draft document, pending legal review.",
+    "frenchOnly": "The English version is being prepared. Until then, the French text below applies.",
+    "mentionsPending": "The legal notice will be published before the service launches.",
+    "description": "{document} of the Carnet de Vie service."
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "text": "This page doesn't exist, or its address has changed.",
+    "home": "Back to the home page"
+  },
+  "Home": {
+    "quote": {
+      "1": "“A child grows through what they learn,",
+      "2": "but also through the words, gestures and bonds that surround them.”"
+    },
+    "exploreTitle": "Explore Carnet de Vie",
+    "exploreSubtitle": "Different ways to nurture, preserve and pass on what truly matters.",
+    "cardIndicator": "Card {index} of {count}",
+    "cards": {
+      "origine": {
+        "category": "THE ORIGINS OF Carnet de Vie",
+        "title": "A story of love to pass on",
+        "text": "Discover how the idea for Carnet de Vie came about, the values behind it and the wish to pass on much more than memories: a life story.",
+        "link": "Learn more →"
+      },
+      "quiSommesNous": {
+        "category": "WHO ARE WE?",
+        "title": "Professionals supporting families",
+        "text": "We are parents, supporters and observers of life: psychologists, psychiatrists, paediatricians, midwives, coaches...",
+        "link": "Learn more →"
+      },
+      "cheminDeVie": {
+        "category": "THE LIFE JOURNEY",
+        "title": "Growing alongside your child",
+        "text": "From the wish for a child to their 18th birthday, support for every stage of your child's development.",
+        "link": "Learn more →"
+      },
+      "guideParental": {
+        "category": "THE PARENTING GUIDE",
+        "title": "Valuable guidance for the big challenges of everyday life.",
+        "text": "Clear, practical insights into children's physical, psychological and cognitive development from leading specialists.",
+        "link": "Learn more →"
+      },
+      "exemple": {
+        "category": "DISCOVER A VIRTUAL CARNET",
+        "title": "An invitation to explore a Carnet de Vie",
+        "text": "Browse a virtual carnet and explore its chapters, questions and content to get a real feel for this unique experience.",
+        "link": "Explore an example →"
+      },
+      "creer": {
+        "category": "CREATE YOUR Carnet de Vie",
+        "title": "Start today",
+        "text": "In a few simple steps, create your Carnet de Vie and begin collecting memories, messages and precious moments.",
+        "link": "Create my Carnet →"
+      },
+      "connexion": {
+        "category": "LOG IN",
+        "title": "Access your personal space",
+        "text": "Return to your Carnet de Vie securely, add new memories and share them with your loved ones.",
+        "link": "Log in →"
+      },
+      "contact": {
+        "category": "CONTACT US!",
+        "title": "A question? Let's talk!",
+        "text": "We are here to answer your questions and support you with your project.",
+        "link": "Contact us →"
+      }
+    }
+  },
+  "Origine": {
+    "bannerAlt": "Our Origins banner",
+    "title": "The Origins of Carnet de Vie",
+    "subtitle": "Preserve heartfelt memories today, so that one day your child can embrace where they come from and remain free to become who they are.",
+    "cards": {
+      "1": {
+        "step": "1. THE OBSERVATION AND THE FOUNDING IDEA",
+        "title": "Preserving what a photograph cannot capture",
+        "p1": "We have all felt that emotion when rediscovering a trace of our childhood: a photo, a note, a drawing, a memory that seems to whisper: <em>You mattered, you were loved, you were here.</em>",
+        "p2": "Today, we take thousands of photos and videos. But children's words, first experiences, tender gestures, emotions and the perspectives of those who were there become scattered.",
+        "p3": "Carnet de Vie grew from this simple insight: to preserve, from the wish for a child to their 18th birthday, accounts of what was experienced, felt and shared alongside them.",
+        "quote": "We cannot hold back time, but we can preserve some of its traces."
+      },
+      "2": {
+        "step": "2. THE PARENTING GUIDE",
+        "title": "Understanding to support them better",
+        "p1": "At every age, a child develops in three main areas: physical, emotional and cognitive. Their needs, their emotions and the challenges they face change as they grow.",
+        "p2": "The Parenting Guide offers clear, practical guidance, informed by the insights of paediatricians, psychologists, psychiatrists and other professionals recognised in their fields.",
+        "p3": "It does not seek to impose a parenting model, but to help each parent understand what their child is going through, step back and find their own answers, in line with their values.",
+        "quote": "Guidance to light your path, never to choose for you."
+      },
+      "3": {
+        "step": "3. A STORY CREATED TOGETHER",
+        "title": "Words to pass on with kindness",
+        "p1": "A child grows up surrounded by bonds, words, caring eyes and the presence of others. Parents, grandparents, brothers, sisters and loved ones can each pass on a part of their story.",
+        "p2": "Because a true story can also include difficult moments, an artificial intelligence tool inspired by the principles of Nonviolent Communication (NVC) helps people put their accounts into words, so that these do not become a space for judgement, blame or tensions.",
+        "quote": "Carnet de Vie does not set a story in stone. It simply ensures that it is not lost and is passed on with respect and kindness."
+      },
+      "4": {
+        "step": "4. PASSING IT ON: A RITUAL ACROSS GENERATIONS?",
+        "title": "An act of love at 18.",
+        "p1": "At 18, the Carnet is passed on to the child, now a young adult, as an act of love.",
+        "p2": "It allows them to make a story their own, helping them understand the journey they have taken and what has shaped them.",
+        "p3": "The Carnet now belongs to them: they can embrace this story — without having to repair it — give it their own meaning and freely continue their own, remaining free to become themselves.",
+        "quote": "Two voices. One shared commitment: to pass on without confining, to receive without having to repair."
+      }
+    },
+    "closingQuote": "“Carnet de Vie is more than a family photo album. It is a structured foundation for identity that turns the past into energy for growth.”",
+    "closingAuthor": "Luc and Sylvie M. de Barnier"
+  },
+  "About": {
+    "bannerAlt": "Sylvie and Luc - Who we are",
+    "title": "Who are we?",
+    "subtitle": "We are parents, supporters and observers of life: psychologists, psychiatrists, paediatricians, midwives, coaches… a team with complementary talents to support you<br></br><em>But above all, we are people who, over the years, have seen how much the words and gestures directed towards a child can matter throughout their life.</em>",
+    "cards": {
+      "1": {
+        "step": "1. EXPERIENCE PASSED ON",
+        "title": "Sylvie de Barnier",
+        "p1": "Sylvie de Barnier has been a clinical psychologist for more than thirty-five years. She supports adults, teenagers, children and families.",
+        "p2": "Over the years, she has witnessed profound changes in our society and in parenting: parents today are more involved, more attentive and more aware of what they pass on. But they also face greater pressure, caught between wanting to do well, the demands of daily life and an ideal that can be difficult to reach.",
+        "quote": "Supporting parents also means helping them find their own way of being parents."
+      },
+      "2": {
+        "step": "2. RELATIONSHIPS AT THE HEART",
+        "title": "Luc M. de Barnier",
+        "p1": "Luc M. de Barnier is a life coach and psychotherapist. He pays particular attention to the quality of communication within families, couples and sibling relationships, where everyday bonds, tensions and balances take shape.",
+        "p2": "His approach gives a central place to listening, respecting each person and communicating in a way that allows people to express their experiences without hurting others.",
+        "quote": "The quality of a relationship is also built through the way we speak to one another."
+      },
+      "3": {
+        "step": "1. TWO PATHS, ONE SHARED BELIEF",
+        "title": "A shared perspective",
+        "p1": "Through their work, Sylvie and Luc have seen reference points change, family dynamics shift, separations become more common and new blended families form.",
+        "p2": "Above all, they have met parents who search, who doubt and who, despite their vulnerabilities and everyday difficulties, do their best for their child.",
+        "p3": "Carnet de Vie was born from this shared perspective: to guide, support and pass on, without demands or an imposed model.",
+        "quote": "There is no perfect parent. There are parents finding their way."
+      },
+      "4": {
+        "step": "4. COMPLEMENTARY PERSPECTIVES",
+        "title": "A team by your side",
+        "p1": "Carnet de Vie does not rely on a single approach.",
+        "p2": "Sylvie and Luc work with professionals in childhood, adolescence and family life: paediatricians, gynaecologists, family doctors, psychiatrists, primary school teachers and psychologists.",
+        "p3": "Their complementary perspectives address children's development in its physical, psychological, emotional, cognitive, relational and family dimensions.",
+        "quote": "A child grows in many dimensions. Supporting them calls for different perspectives."
+      }
+    },
+    "closingQuote": "Carnet de Vie: a record of memories for the child. A gift passed on by those who love them.",
+    "closingAuthor": "Luc and Sylvie M. de Barnier"
+  },
+  "Guide": {
+    "bannerAlt": "Parenting Guide banner",
+    "title": "The Parenting Guide",
+    "tagline": "Valuable guidance for the big challenges of everyday life",
+    "subtitle": "Clear, practical insights into children's physical, emotional and cognitive development,<br></br>provided by recognised professionals in childhood and adolescence.",
+    "cards": {
+      "1": {
+        "step": "1. UNDERSTANDING WHAT CHANGES",
+        "title": "Development as a whole",
+        "p1": "At every age, children develop in three main areas: physical, emotional and cognitive. The Parenting Guide offers age-appropriate guidance to help you understand these changes and their possible effects on everyday life.",
+        "quote": "Growing up means developing on several levels, sometimes at different paces."
+      },
+      "2": {
+        "step": "2. SHEDDING LIGHT ON THE BIG QUESTIONS",
+        "title": "Everyday challenges",
+        "p1": "Sleep, food, emotions, independence, boundaries, screens, school, relationships, puberty, adolescence... Concerns change as children grow.",
+        "p2": "The Guide offers accessible, practical insights to help you find your footing when difficulties arise.",
+        "quote": "Some worries already begin to ease when we understand more clearly what is happening."
+      },
+      "3": {
+        "step": "3. DRAWING ON PROFESSIONAL EXPERTISE",
+        "title": "A recognised team",
+        "p1": "Paediatricians, psychologists, psychiatrists, gynaecologists, family doctors, teachers and other specialists share insights from their areas of expertise.",
+        "p2": "The Guide does not replace a professional. It helps you understand a situation, find your bearings and, when necessary, identify whom to turn to.",
+        "quote": "Combining perspectives can help us see our concerns in a different light."
+      },
+      "4": {
+        "step": "4. SUPPORTING WITHOUT IMPOSING",
+        "title": "Kind and supportive guidance",
+        "p1": "Carnet de Vie does not seek to promote a single parenting model or tell parents how they should raise their child.",
+        "p2": "The Guide offers reference points to help them step back, reflect and find a response suited to their child, their family and their values.",
+        "quote": "Guidance to light your path, never to choose for you."
+      }
+    },
+    "closingQuote": "Being a parent does not mean knowing everything. It also means seeking the right guidance when you need it.",
+    "closingAuthor": "Luc and Sylvie M. de Barnier"
+  },
+  "Communication": {
+    "bannerAlt": "Compassionate Communication banner",
+    "title": "Compassionate Communication",
+    "tagline": "Words to understand each other, bonds to grow",
+    "subtitle": "An invitation to listen, to express your emotions and to welcome those of others, inspired by Nonviolent Communication and the ESPERE® method.<br></br>Simple guidance for nurturing authentic, respectful and caring relationships within the family.",
+    "cards": {
+      "1": {
+        "step": "1. THE SPIRIT OF OUR APPROACH",
+        "title": "Communicating to meet each other better",
+        "p1": "Communicating is not just about exchanging words. It is also about trying to understand what each person is going through, feeling and trying to express, sometimes clumsily.",
+        "p2": "In the parent–child relationship, emotions, expectations and misunderstandings can make dialogue difficult. Compassion invites us to welcome what is being lived without giving up on expressing our own needs and limits.",
+        "p3": "Carnet de Vie offers another way of talking and listening to each other, where everyone can find their place without having to agree on everything.",
+        "quote": "Compassion does not mean accepting everything, but recognising each person in what they are going through."
+      },
+      "2": {
+        "step": "2. OUR SOURCES OF INSPIRATION",
+        "title": "Guidance, not an imposed method",
+        "p1": "Our approach draws in particular on Nonviolent Communication (NVC), developed by Marshall Rosenberg, which invites us to distinguish facts from judgements, to recognise emotions and needs, and to make requests rather than demands.",
+        "p2": "It is also enriched by Jacques Salomé's ESPERE® method, which gives a central place to the quality of the relationship, to each person's responsibility in exchanges and to respect for differences.",
+        "p3": "Carnet de Vie does not reproduce any of these methods to the letter. It draws on their spirit to offer simple guidance, suited to family life and to passing things on.",
+        "quote": "Drawing on several perspectives to find your own way of relating to others."
+      },
+      "3": {
+        "step": "3. IN EVERYDAY LIFE",
+        "title": "Listen, express, respect",
+        "p1": "A child may express fear through anger, sadness through silence or a need for independence through defiance. Behind a behaviour, there is sometimes something asking to be heard.",
+        "p2": "Compassionate Communication invites parents to step back, to tell what they observe apart from what they interpret, and to speak of their own feelings rather than defining the other person's.",
+        "p3": "It also makes it possible to set limits, express disagreement and work through conflict without seeking to make anyone feel guilty or to belittle them.",
+        "quote": "Listen without disappearing, stand your ground without hurting, guide without imposing."
+      },
+      "4": {
+        "step": "4. SUPPORT WITHIN CARNET DE VIE",
+        "title": "Finding the words to pass on",
+        "p1": "Writing to your child is not always easy. Some memories are happy, others more sensitive. Emotions, regrets or expectations can slip into the words you wish to leave them.",
+        "p2": "When the parent wishes, an artificial intelligence tool helps them phrase their entries. It can suggest a clearer, more respectful wording, without erasing the emotions or changing the meaning of what was lived.",
+        "p3": "The parent always remains free to keep, change or decline its suggestions. The aim is not to embellish the story, but to let it be passed on without placing the weight of the adult's emotions on the child.",
+        "quote": "Preserving the truth of what was lived, with words that leave the other free to receive it."
+      }
+    },
+    "closingQuote": "Communicating with compassion is not always about finding the right words. Above all, it is about seeking to understand the other without giving up on being yourself.",
+    "closingAuthor": "Luc and Sylvie M. de Barnier"
+  },
+  "Chemin": {
+    "bannerAlt": "Life Journey banner",
+    "title": "The Life Journey",
+    "tagline": "Growing alongside your child",
+    "description": "From the wish for a child to their 18th birthday, Carnet de Vie supports every stage of their development and helps you preserve its essential traces.",
+    "stagesLabel": "The stages of the Life Journey",
+    "momentsLabel": "Special moments on the Life Journey",
+    "moments": {
+      "1": "Special birth stories",
+      "2": "Breakup / Separation / Loss",
+      "3": "Official handover document"
+    },
+    "stages": {
+      "1": {
+        "name": "Wishing for<br></br>a child"
+      },
+      "2": {
+        "name": "Pregnancy"
+      },
+      "3": {
+        "name": "Childbirth"
+      },
+      "4": {
+        "name": "Baby",
+        "detail": "0–2 years"
+      },
+      "5": {
+        "name": "Early childhood",
+        "detail": "2–5 years"
+      },
+      "6": {
+        "name": "Childhood",
+        "detail": "5–11 years"
+      },
+      "7": {
+        "name": "Pre-adolescence",
+        "detail": "11–13 years"
+      },
+      "8": {
+        "name": "Adolescence",
+        "detail": "13–18 years"
+      },
+      "9": {
+        "name": "18 years",
+        "detail": "→ Passing on<br></br>the Carnet de Vie"
+      }
+    },
+    "features": {
+      "1": {
+        "step": "1. A CHILD IN CONSTANT TRANSFORMATION",
+        "title": "Developing step by step",
+        "p1": "For each age group, an overview of how children grow helps you better understand their development and their personality at that time.",
+        "quote": "Growing up means constantly changing while gradually building who we are."
+      },
+      "2": {
+        "step": "2. GUIDING QUESTIONS",
+        "title": "Keeping a record of what matters",
+        "p1": "Questions invite you to clarify how you feel at each stage of your child's life and help you identify what you want to gather from them and pass on in their Carnet de Vie.",
+        "quote": "A few questions can sometimes bring to light what we would not want to forget."
+      },
+      "3": {
+        "step": "3. THE RITUALS",
+        "title": "Moments out of time",
+        "p1": "Bonding rituals suited to each stage of your child's life help you create and nurture a secure bond with them.",
+        "quote": "A repeated ritual can become one of childhood's most precious memories."
+      },
+      "4": {
+        "step": "4. LINKS TO HELP YOU",
+        "title": "Guidance that reassures",
+        "p1": "Essential, carefully selected links about childhood and adolescence help you find answers to your questions, doubts and concerns, offering reassurance and guidance.",
+        "quote": "Understanding what a child is going through often helps us support them better."
+      }
+    },
+    "closingQuote": "Every age brings changes, discoveries and challenges. Every stage leaves something to preserve.",
+    "closingAuthor": "Luc and Sylvie M. de Barnier"
+  },
+  "Forms": {
+    "required": "This field is required.",
+    "email": "Please enter a valid email address.",
+    "ok": "Got it",
+    "back": "← Back",
+    "tooShort": "The password must be at least 8 characters long.",
+    "mismatch": "The passwords must match.",
+    "close": "Close"
+  },
+  "Contact": {
+    "title": "Contact us!",
+    "subtitle": "A question, a need for support or feedback to share? We are here to listen.",
+    "name": "Your name",
+    "namePlaceholder": "First name and surname",
+    "email": "Your email address",
+    "emailPlaceholder": "E.g. example@domain.com",
+    "message": "Your message",
+    "messagePlaceholder": "Write your message here...",
+    "submit": "Send message",
+    "sentTitle": "Message sent",
+    "sentText": "Thank you for your message. We will reply as soon as possible."
+  },
+  "Login": {
+    "title": "Log in",
+    "returnTitle": "Return to your Carnet de Vie",
+    "subtitle": "Access your secure Carnet de Vie space",
+    "intro": "Access your personal space to continue your Carnet, revisit your stories and keep passing on what matters to you, at your own pace.",
+    "email": "Your email address",
+    "emailPlaceholder": "E.g. example@domain.com",
+    "password": "Your password",
+    "submit": "Log in",
+    "infoTitle": "Log in",
+    "infoText": "The login feature is under development.",
+    "forgot": "Forgot your password?",
+    "noCarnet": "Don't have a Carnet de Vie yet?",
+    "create": "Create your Carnet de Vie →",
+    "quote": "Your story is waiting where you left it.",
+    "help": {
+      "intro": "Enter the email address associated with your Carnet de Vie.",
+      "email": "Email address",
+      "submit": "Reset my password →",
+      "sent": "No email has been sent. Password reset will be available when the service is activated."
+    }
+  },
+  "Creation": {
+    "title": "Create my Carnet",
+    "subtitle": "Start preserving your child's precious moments",
+    "progress": "Creation steps",
+    "steps": {
+      "offer": "Choose your commitment",
+      "plan": "Your plan",
+      "account": "Create your account",
+      "documents": "Before creating your carnet",
+      "payment": "Payment",
+      "success": "Congratulations!",
+      "carnet": "Enter your carnet"
+    },
+    "back": "Back",
+    "missing": "This step follows the previous ones: start again from the beginning to see it.",
+    "restart": "Back to the start →",
+    "offers": {
+      "title": "Choose your commitment",
+      "lead": "Start at the age that reflects your story today.",
+      "see": "See what's included →",
+      "price": "€{price}",
+      "wasPrice": "€{price} instead of €{was}",
+      "includes": "Every Carnet de Vie for this age group includes:",
+      "features": {
+        "1": {
+          "title": "1. Insightful texts",
+          "text": "Insightful texts to introduce the Carnet Author to important information about the relevant age group."
+        },
+        "2": {
+          "title": "2. Guiding questions",
+          "text": "Guiding questions to help the Carnet Author identify the subjects that matter to them and to the child."
+        },
+        "3": {
+          "title": "3. The Parenting Guide",
+          "text": "Guidance on the child's physical, cognitive, emotional and relational development, drawing on the work of recognised specialists."
+        },
+        "4": {
+          "title": "4. Bonding rituals",
+          "text": "To create and preserve meaningful traces of the child's story, and help you build and nurture a secure bond with them."
+        },
+        "5": {
+          "title": "5. Precious moments",
+          "text": "To freely preserve a memory, an anecdote or a meaningful moment through photos, videos and audio messages, allowing everyone to pass things on in their own words and with their own sensitivity."
+        },
+        "6": {
+          "title": "6. Discovering Nonviolent Communication (NVC)",
+          "text": "To support personal accounts, especially sensitive messages."
+        }
+      },
+      "fondement": {
+        "age": "AGES 0–6",
+        "title": "The foundation",
+        "cta": "Choose The foundation — €{price} →",
+        "intro": {
+          "1": "The early years lay the foundations of a child's story; some moments deserve to be preserved."
+        }
+      },
+      "construction": {
+        "age": "AGES 6–12",
+        "title": "The building years",
+        "cta": "Choose The building years — €{price} →",
+        "intro": {
+          "1": "Children grow, build their identity and discover themselves; some moments deserve to be preserved."
+        }
+      },
+      "transmission": {
+        "age": "AGES 12–18",
+        "title": "Passing it on",
+        "cta": "Choose Passing it on — €{price} →",
+        "extra": {
+          "1": "7. Passing it on — a ritual across generations",
+          "2": "At 18, Carnet de Vie supports the moment when this story can be handed to the young adult.",
+          "3": "A ritual across generations allows the Carnet Author — or the Authors when they wish to pass it on together — to choose what they want to give the young adult and accompany it with their final words.",
+          "4": "Young adults receive more than memories. They discover the perspectives, emotions, words and traces of those who accompanied them through the early years of their life.",
+          "5": "They can then embrace this story as part of their roots, without it determining the person they choose to become.",
+          "6": "Receiving your story means being able to connect with it while remaining free to write what comes next."
+        }
+      },
+      "complet": {
+        "age": "WISHING FOR A CHILD – AGE 18",
+        "title": "Complete Life Journey + Passing it on",
+        "cta": "Choose the complete Life Journey — €{price} →",
+        "intro": {
+          "1": "This access lets you accompany your child's whole story, from wishing for a child to their 18th birthday, without having to decide today which years alone you want to preserve.",
+          "2": "It brings together The foundation, The building years and Passing it on, as well as the final ritual across generations.",
+          "3": "You can move freely through the Carnet, revisit periods, gradually enrich the story and preserve the memories that matter to you.",
+          "4": "The aim is not to tell everything, but to let a rich enough story grow over the years so that one day the child can discover what accompanied their journey.",
+          "5": "€{price} for the entire Life Journey, instead of €{was} for the three periods purchased separately.",
+          "6": "A story is not built in a day. It is passed on throughout a lifetime."
+        }
+      }
+    },
+    "account": {
+      "title": "Create your personal space",
+      "lead": "A few details are all you need to create your Carnet de Vie.",
+      "forWhom": "Who are you creating this carnet for?",
+      "forChild": "For my child",
+      "gift": "As a gift",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "child": "Child's first name",
+      "childPlaceholder": "E.g. Léa",
+      "childHint": "Optional if your story begins with wishing for a child.",
+      "password": "Create a password",
+      "passwordPlaceholder": "Min. 8 characters",
+      "confirm": "Confirm password",
+      "identity": "Who am I / who are we today?",
+      "access": "Access type",
+      "single": "One Author — one personal space",
+      "dual": "Two Authors — two separate spaces",
+      "contributions": "Contributions from other people are not added directly to the Carnet: they are sent to the Carnet Author — or the Authors when there are two separate spaces — who decides whether to include them.",
+      "submit": "Continue →",
+      "submitNote": "Create the carnet",
+      "explore": "Explore the next steps without creating an account →",
+      "returnWelcome": "Return to the founders’ welcome"
+    },
+    "documents": {
+      "title": "Before creating your carnet",
+      "lead": "Read the documents before continuing.",
+      "notice": "Read the four documents below before continuing.",
+      "docs": {
+        "cgu": "Terms of Use",
+        "cgv": "Terms of Sale",
+        "charte": "Ethical Charter for Transmission and Editorial Intelligence",
+        "confidentialite": "Privacy and Data Protection Policy"
+      },
+      "consents": {
+        "cgu": "I have read and accept the Terms of Use.",
+        "cgv": "I have read and accept the Terms of Sale.",
+        "charte": "I have read the Carnet de Vie Ethical Charter.",
+        "confidentialite": "I have read the Privacy and Data Protection Policy."
+      },
+      "hint": "Tick all four boxes to continue.",
+      "continue": "Continue to payment →",
+      "original": "Original document in French."
+    },
+    "payment": {
+      "title": "Payment",
+      "oneOff": "— One-off payment",
+      "notice": "Demo payment: the details below are fictional. Do not enter real bank details.",
+      "legend": "Payment details",
+      "cardNumber": "Card number",
+      "expiry": "Expiry date",
+      "cvc": "CVC",
+      "cardName": "Name on card",
+      "country": "Billing country",
+      "france": "France",
+      "instalments": {
+        "summary": "Would you prefer to spread your payments?",
+        "text": {
+          "1": "A payment option offered by a third-party financial provider may allow the Carnet Author, depending on their eligibility and country, to pay in instalments.",
+          "2": "Any fees or interest are clearly presented by that provider before confirmation.",
+          "3": "Carnet de Vie receives payment under the terms agreed with the financial provider; the instalment arrangement is then between the Carnet Author and that provider.",
+          "4": "This principle is offered for each of the four plans, not only the complete Journey."
+        },
+        "notice": "No instalment payment service is enabled in this demo."
+      },
+      "pay": "Pay €{price} →",
+      "note": "This button simulates payment. No charge is made."
+    },
+    "success": {
+      "title": "Your carnet has been created: congratulations!",
+      "letterTitle": "A welcome from the Founders",
+      "letter": {
+        "1": "Welcome, and thank you for choosing Carnet de Vie for your precious stories.",
+        "2": "If you are here, it already means that someone matters to you.",
+        "3": "And now, if you wish, before going any further, we invite you to take a moment to introduce yourself.",
+        "4": "Not as you would on a form, but as you would to someone who will one day discover these words: the child for whom this Carnet is intended.",
+        "5": "There is nothing you have to say “correctly”.",
+        "6": "You can write a sentence, a few words, or simply read and come back later.",
+        "7": "Carnet de Vie supports you, at your own pace.",
+        "8": "You can begin whenever you wish.",
+        "9": "There is no single way to fill this carnet.",
+        "10": "There is your way."
+      },
+      "signature": "Sylvie et Luc M. de Barnier",
+      "startTitle": "The beginning of Carnet de Vie",
+      "placeDate": "Place – Date",
+      "at": "At",
+      "on": "on",
+      "forAttention": "For the attention of",
+      "for": "For",
+      "guests": "Who have I / have we chosen to invite to contribute to this legacy of memories?",
+      "addGuest": "+ Add a person",
+      "guestName": "Last name",
+      "guestAdd": "Add",
+      "guestRestore": "Restore",
+      "guestRemove": "Remove this person",
+      "reasons": "Why have these people been chosen?",
+      "closing": {
+        "1": "You may choose several people, and they can contribute only to the sections or questions you wish.",
+        "2": "Some may not yet have been identified today.",
+        "3": "You can return to this page as often as necessary."
+      },
+      "backToAccount": "Return to creating your Carnet de Vie →",
+      "enter": "Enter my Carnet de Vie →"
+    },
+    "carnet": {
+      "title": "Enter your carnet",
+      "lead": "Choose a period on the timeline or open a special chapter.",
+      "timeline": "Your timeline",
+      "slider": "Move the slider to choose a period or a year.",
+      "desire": "Wishing for a child",
+      "birth": "Birth",
+      "age": "{age, plural, one {# year} other {# years}}",
+      "ranges": {
+        "desire": "Wishing for a child",
+        "baby": "Ages 0–2",
+        "early": "Ages 2–5",
+        "child": "Ages 5–11",
+        "preteen": "Ages 11–13",
+        "teen": "Ages 13–18",
+        "handover": "Age 18 — Passing it on"
+      },
+      "prev": "← Previous age group",
+      "next": "Next age group →",
+      "open": "Open this period →",
+      "special": "SPECIAL CHAPTERS",
+      "separation": "Break-up, separation, bereavement",
+      "birthStories": "Unique birth stories",
+      "backToTimeline": "← Back to the timeline",
+      "note": "A sentence, a memory, an emotion…",
+      "noteKept": "Your text stays on this page during your visit.",
+      "example": "Explore the ages 4–5 example →"
+    }
+  },
+  "Exemple": {
+    "sidebar": {
+      "tagline": "A story of love to pass on",
+      "journeys": "Particular journeys",
+      "resources": "Other resources",
+      "chemin": "Life Journey",
+      "expression": "Kind communication",
+      "guide": "Parenting guide",
+      "feuilleter": "Browse the carnet",
+      "offres": "Plans & Access"
+    },
+    "header": {
+      "path": "Life Journey",
+      "music": "Music",
+      "audio": "Audio",
+      "video": "Video",
+      "photo": "Photo",
+      "text": "Text",
+      "carnet": "Léa's Carnet de Vie - 4–5 years"
+    },
+    "stage": {
+      "label": "Choose the life stage",
+      "names": {
+        "desir": "Wishing for a child",
+        "grossesse": "Pregnancy",
+        "accouchement": "Childbirth",
+        "parents": "Becoming a parent",
+        "0-3m": "0–3 months",
+        "3-6m": "3–6 months",
+        "6-9m": "6–9 months",
+        "9-12m": "9–12 months",
+        "12-24m": "12–24 months",
+        "2-3": "2–3 years",
+        "3-4": "3–4 years",
+        "4-5": "4–5 years",
+        "5-6": "5–6 years",
+        "6-7": "6–7 years",
+        "7-9": "7–9 years",
+        "9-11": "9–11 years",
+        "11-13": "11–13 years",
+        "13-15": "13–15 years",
+        "15-17": "15–17 years",
+        "17-18": "17–18 years",
+        "18": "18 years",
+        "transmission": "Passing it on",
+        "naissance": "Special birth stories",
+        "rupture": "Breakup, separation, loss"
+      }
+    },
+    "info": {
+      "expression": "A space for listening and kind words to support your child.",
+      "feuilleter": "An overview of all the saved memories.",
+      "audio": "Quick voice recording",
+      "video": "Add a short video",
+      "photo": "Upload a photo",
+      "text": "Write a loving note"
+    },
+    "pictureAlt": "Virtual Carnet illustration",
+    "back": "Back",
+    "continue": "Continue",
+    "create": "Create your carnet",
+    "start": "The journey can begin ...",
+    "startHint": "Click “Welcoming the moment” to enter this stage of their life.",
+    "steps": {
+      "0": {
+        "badge": "1 • WELCOMING THE MOMENT • AGES 4 TO 5",
+        "title": "Welcome to<br></br>their Carnet de Vie",
+        "next": "To the Welcome",
+        "acrostic": {
+          "1": "Create a life story.",
+          "2": "Accompany every stage.",
+          "3": "Record what truly matters.",
+          "4": "Nurture what helps them grow.",
+          "5": "Encourage a person to flourish.",
+          "6": "Transmit what matters most."
+        },
+        "creates": "Carnet de Vie creates:",
+        "items": {
+          "1": "a warm, joyful space to return to each day, like a comforting companion for parents,",
+          "2": "empathetic, science-based guidance on child development,",
+          "3": "emotional support for parents or couples,",
+          "4": "a structured, caring family memory, passed on to the child at 18."
+        },
+        "quote": "Carnet de Vie does not set a story in stone.<br></br>It simply ensures that it is not lost in a fast-moving world that sometimes leaves little room for what matters most."
+      },
+      "1": {
+        "label": "Welcoming the moment",
+        "title": "The hero of ordinary days",
+        "next": "To Guidance",
+        "p": {
+          "1": "Between four and five, something becomes more firmly established. Children no longer simply imagine the world: they want to act upon it.",
+          "2": "Try. Succeed. Show. Children run faster, build higher, take greater care and try to finish what they have started. Above all, they want to share this experience: ‘Look what I’ve done.’",
+          "3": "The adult’s gaze becomes a source of inner support. Through it, children begin to feel that what they do matters, that their actions have value and that they have a place among others.",
+          "4": "A drawing shown several times, a construction that must not be taken apart, a performance repeated over and over can carry an unspoken question: ‘Does what I do have value to you?’",
+          "5": "Every little victory builds confidence."
+        },
+        "quote": "Pride builds. Comparison can undermine."
+      },
+      "2": {
+        "label": "Guidance to support them",
+        "title": "Guidance to support them",
+        "next": "Questions",
+        "intro": "Between four and five, children want to act independently, succeed and be recognised. A sense of competence builds confidence, while groups and friendships become more important. Adults encourage effort without placing excessive pressure on the result.",
+        "quote": "Emotional security remains essential to daring to try.",
+        "more": "→ Explore further: {count} insights from the Parenting Guide"
+      },
+      "3": {
+        "label": "Invitations to share",
+        "title": "Invitations to share",
+        "next": "To the Bonding ritual",
+        "lead": "I can respond to just one invitation. They are simply signposts, a guide. A sentence is enough. A word, a photo or a video too. Or I can come back later.",
+        "more": "Explore more questions",
+        "less": "Show fewer questions",
+        "details": "More specifically:",
+        "detailsPlaceholder": "Your additional detail",
+        "other": "other"
+      },
+      "4": {
+        "label": "Bonding ritual",
+        "title": "The drawn portrait",
+        "subtitle": "The child draws a character that represents them.",
+        "next": "To Precious moments",
+        "p": {
+          "1": "At this age, drawings do more than depict things. They also allow children to express something of themselves.",
+          "2": "The way children draw themselves, where others are placed, the colours chosen, the details omitted or repeated sometimes tell us something about their way of being in the world.",
+          "3": "I do not interpret too quickly. I stay curious. Available.",
+          "4": "Sometimes I photograph a drawing. Not to accumulate memories. But to show the child that what they create matters."
+        },
+        "quote": "Growing up also means feeling that what we bring to the world has a place in the eyes of those we love.",
+        "invite": "We invite you to film or photograph this moment and add it to Carnet de Vie."
+      },
+      "5": {
+        "label": "Precious moments",
+        "title": "What I choose to keep from this year",
+        "next": "End of chapter",
+        "items": {
+          "1": "A drawing.",
+          "2": "A photo or video.",
+          "3": "Their voice.",
+          "4": "A first challenge overcome.",
+          "5": "An important friendship.",
+          "6": "A moment when the child went beyond their limits.",
+          "7": "Or simply a moment I do not want to forget."
+        },
+        "photo": "+ Photo",
+        "video": "+ Video",
+        "audio": "+ Audio",
+        "text": "+ Text",
+        "quote": "I leave our precious moments here,<br></br>to give them to you one day and say thank you."
+      }
+    },
+    "questions": {
+      "1": {
+        "title": "1. During activities, I notice that the child:",
+        "options": {
+          "1": "likes to finish what has been started",
+          "2": "tries to do things independently",
+          "3": "often ask whether “it's good”",
+          "4": "compare themselves with others",
+          "5": "quickly gives up when facing difficulty"
+        },
+        "quote": "Growing up means discovering what you feel capable of."
+      },
+      "2": {
+        "title": "2. When successful, the child:",
+        "options": {
+          "1": "expresses pride — If so, how?",
+          "2": "look for encouragement",
+          "3": "try again to improve",
+          "4": "play down their achievements"
+        },
+        "quote": "Being recognised nurtures inner confidence.",
+        "prompt": "If so, how?"
+      },
+      "3": {
+        "title": "3. When facing failure or frustration, the child:",
+        "options": {
+          "1": "become discouraged",
+          "2": "get angry",
+          "3": "asks for help",
+          "4": "blame others",
+          "5": "keep trying despite the difficulty"
+        },
+        "quote": "Learning also means working through disappointment."
+      },
+      "4": {
+        "title": "4. In relationships with other children:",
+        "options": {
+          "1": "has a special friendship",
+          "2": "stays close to a small group of friends",
+          "3": "looks for their place in the group",
+          "4": "leads the games",
+          "5": "follows others",
+          "6": "sometimes feels left out"
+        },
+        "quote": "Belonging gradually becomes important."
+      },
+      "5": {
+        "title": "5. In role play, the child:",
+        "options": {
+          "1": "likes being the hero",
+          "2": "likes being the victim",
+          "3": "likes being the villain",
+          "4": "chooses valued roles",
+          "5": "accepts supporting roles",
+          "6": "re-enacts experiences from school or elsewhere"
+        },
+        "quote": "Play becomes a space for exploring relationships."
+      },
+      "6": {
+        "title": "6. When making sense of time, the child:",
+        "options": {
+          "1": "understands “yesterday” and “tomorrow”",
+          "2": "still confuses “yesterday” and “tomorrow”",
+          "3": "anticipates certain events",
+          "4": "asks many questions about the future",
+          "5": "finds it hard to wait"
+        },
+        "quote": "A sense of time slowly begins to take shape."
+      },
+      "7": {
+        "title": "7. The bond between us feels:",
+        "options": {
+          "1": "close and understanding",
+          "2": "warm and lively",
+          "3": "sometimes tested by resistance",
+          "4": "coloured by comparison or rivalry",
+          "5": "nurtured by their need to see me as a role model"
+        },
+        "quote": "Children want to grow without losing the connection."
+      },
+      "8": {
+        "title": "8. When the child shows something they have made:",
+        "options": {
+          "1": "waits for my reaction",
+          "2": "watches my face carefully",
+          "3": "insists that I look",
+          "4": "seems disappointed if I do not notice",
+          "5": "seems sad or angry if I overlook it"
+        },
+        "quote": "A parent's attention remains deeply formative."
+      },
+      "9": {
+        "title": "9. During this period, I feel:",
+        "options": {
+          "1": "proud",
+          "2": "sometimes demanding",
+          "3": "worried about comparisons",
+          "4": "amazed by their progress",
+          "5": "mindful of reassuring them of my unconditional love",
+          "6": "committed to valuing effort",
+          "7": "keen to remind the child of their uniqueness"
+        },
+        "quote": "The child moves forward. The parent adapts their support."
+      },
+      "10": {
+        "title": "10. What particularly stands out to me at the moment:",
+        "quote": "The child becomes more capable. I remain a source of guidance."
+      }
+    },
+    "other": {
+      "title": "Tell us more",
+      "prompt": "More specifically:",
+      "audio": "Audio",
+      "save": "Save"
+    },
+    "articleBack": "Back to Guidance",
+    "remember": "Key points for parents",
+    "articles": {
+      "evolution": {
+        "title": "Physical, emotional and cognitive development (4–5 years)",
+        "summary": "The major changes in the body, thinking, language and emotions.",
+        "p": {
+          "1": "Between four and five, development becomes more stable. The body becomes more coordinated and movements more precise. Children run, jump and climb with greater confidence.",
+          "2": "Fine motor skills also develop: cutting, drawing, assembling and handling objects become easier.",
+          "3": "Cognitively, thinking begins to organise actions more effectively. Children understand more of the connections between situations, can anticipate certain steps and follow more complex instructions.",
+          "4": "Language becomes a real tool for thinking and sharing: children tell stories, explain, ask questions and imagine.",
+          "5": "Something also becomes more refined emotionally. Emotions are easier to identify, but remain strongly influenced by the context and the responses of others.",
+          "6": "Feeling capable becomes essential. Adult support plays a profound part in building self-esteem."
+        },
+        "points": {
+          "1": "The body and its movements become more precise.",
+          "2": "Thinking begins to organise and anticipate actions more effectively.",
+          "3": "Language becomes a tool for telling stories, explaining and thinking.",
+          "4": "A sense of competence becomes important.",
+          "5": "An adult's caring attention profoundly supports a child's confidence."
+        }
+      },
+      "estime": {
+        "title": "Self-esteem or self-confidence?",
+        "summary": "Understanding the difference between “I can do it” and “I matter”.",
+        "p": {
+          "1": "At this age, children are developing both self-confidence and self-esteem.",
+          "2": "Self-confidence relates to what children believe they can do: “I am capable.” Completing a task, overcoming a challenge or learning something new nurtures it.",
+          "3": "Self-esteem concerns a sense of personal worth: “I matter.” That worth remains even when a child fails or has doubts.",
+          "4": "At this age, the two can still become confused. Success can make children feel “strong”, while failure can make them feel worth less.",
+          "5": "The adult’s role is therefore essential: valuing effort, recognising progress and offering support without reducing the child to their performance."
+        },
+        "points": {
+          "1": "Self-confidence concerns what children feel capable of doing.",
+          "2": "Self-esteem concerns the feeling of having worth.",
+          "3": "Success and personal worth can still easily become confused.",
+          "4": "Valuing effort and progress avoids defining children by the result.",
+          "5": "Children need to feel that their worth remains, even when an attempt fails."
+        }
+      },
+      "phrases": {
+        "title": "The 5 foundational phrases",
+        "summary": "Words and gestures that can support inner security.",
+        "p": {
+          "1": "Certain phrases can offer lasting support for a sense of inner security. They are not magic: their strength comes from the relationship and their consistency with actions.",
+          "2": "“I love you just as you are.”",
+          "3": "The child feels accepted.",
+          "4": "“You can try.”",
+          "5": "The child feels encouraged.",
+          "6": "“It is OK to make mistakes.”",
+          "7": "The child learns without excessive fear of failure.",
+          "8": "“I am here if you need me.”",
+          "9": "The child feels supported.",
+          "10": "“You matter to me.”",
+          "11": "The child feels that their presence matters.",
+          "12": "Words do not replace gestures, caring attention, availability or physical affection. They accompany them. Together, they gradually build an inner foundation that children can rely on."
+        },
+        "points": {
+          "1": "Words gain their value when they are consistent with the relationship.",
+          "2": "Children need to be loved regardless of their achievements.",
+          "3": "Encouraging children to try builds a stronger foundation than demanding success.",
+          "4": "Being allowed to make mistakes protects the joy of learning.",
+          "5": "Words, gestures, caring attention and affection work together to build inner security."
+        }
+      },
+      "dessin": {
+        "title": "How drawing develops (3–5 years)",
+        "summary": "Drawing as a language and a meaningful trace of the inner world.",
+        "p": {
+          "1": "Between three and five, drawing changes profoundly. At first, children mainly draw for the pleasure of movement: the hand moves, a line appears, and meaning may come afterwards.",
+          "2": "Around three to four, the “tadpole person” often appears: a head with arms and legs, without a distinct body. This is not a mistake, but a representation consistent with how the child perceives a person at that stage.",
+          "3": "Around four to five, figures become more complete. Details appear: eyes, clothes, hair, hands. The space on the page also begins to take shape: ground at the bottom, sky at the top, a house, a family, a sun.",
+          "4": "Drawing gradually becomes a scene from the child's inner world. It is not about judging artistic performance. Drawing is a language.",
+          "5": "Some features may sometimes reflect what a child is experiencing, but parents do not need to interpret them too quickly. They can look, listen and accept. Describe before asking questions. Let the child explain what they have drawn.",
+          "6": "Photographing some drawings can be a gentle way of recognising the value of what is being expressed."
+        },
+        "points": {
+          "1": "Drawing develops alongside a child's representation of the world.",
+          "2": "It is a language as much as a creation.",
+          "3": "There is no need to aim for artistic achievement.",
+          "4": "It is better to let children talk about their drawings than to interpret them too quickly.",
+          "5": "Keeping some creations acknowledges the value of what is expressed."
+        },
+        "closing": {
+          "1": "Children gradually build their place in the world."
+        }
+      }
+    }
+  }
+}

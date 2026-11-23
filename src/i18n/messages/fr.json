@@ -1,0 +1,964 @@
+{
+  "Brand": {
+    "title": "Carnet de Vie",
+    "subtitle": "Une histoire d'Amour à transmettre"
+  },
+  "Nav": {
+    "label": "Navigation principale",
+    "menu": "Menu",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "origine": "L'Origine",
+    "quiSommesNous": "Qui sommes-nous ?",
+    "cheminDeVie": "Le Chemin de Vie",
+    "guideParental": "Le Guide Parental",
+    "communication": "Communication bienveillante",
+    "exemple": "Carnet virtuel",
+    "connexion": "Se connecter",
+    "creer": "Créer votre Carnet",
+    "contact": "Contact"
+  },
+  "LanguageSwitcher": {
+    "label": "Langue",
+    "fr": "Français",
+    "en": "English"
+  },
+  "Footer": {
+    "legalLabel": "Informations légales",
+    "mentionsLegales": "Mentions légales",
+    "cgu": "Conditions générales d'utilisation",
+    "cgv": "Conditions générales de vente",
+    "charte": "Charte éthique",
+    "confidentialite": "Politique de confidentialité",
+    "copyright": "© Carnet de Vie"
+  },
+  "Legal": {
+    "draftBanner": "Document provisoire, en attente de validation juridique.",
+    "frenchOnly": "La version anglaise est en préparation. D’ici là, le texte français ci-dessous s’applique.",
+    "mentionsPending": "Les mentions légales seront publiées avant le lancement du service.",
+    "description": "{document} du service Carnet de Vie."
+  },
+  "NotFound": {
+    "title": "Page introuvable",
+    "text": "Cette page n'existe pas, ou elle a changé d'adresse.",
+    "home": "Retour à l'accueil"
+  },
+  "Home": {
+    "quote": {
+      "1": "« Un enfant grandit de ce qu'il apprend,",
+      "2": "mais aussi des mots, des gestes et des liens qui l'entourent. »"
+    },
+    "exploreTitle": "Explorez Carnet de Vie",
+    "exploreSubtitle": "Différents chemins pour accompagner, préserver et transmettre ce qui compte vraiment.",
+    "cardIndicator": "Carte {index} sur {count}",
+    "cards": {
+      "origine": {
+        "category": "L'ORIGINE DE CARNET DE VIE",
+        "title": "Une histoire d'amour à transmettre",
+        "text": "Découvrez comment est née l'idée de Carnet de Vie, les valeurs qui le portent et l'intention de transmettre bien plus que des souvenirs : une histoire de vie.",
+        "link": "En savoir plus →"
+      },
+      "quiSommesNous": {
+        "category": "QUI SOMMES-NOUS ?",
+        "title": "Des professionnels au service des familles",
+        "text": "Nous sommes des parents, des accompagnants et des observateurs de la vie : psychologues, psychiatres, pédiatres, sages-femmes, coachs...",
+        "link": "En savoir plus →"
+      },
+      "cheminDeVie": {
+        "category": "LE CHEMIN DE VIE",
+        "title": "Grandir avec votre enfant",
+        "text": "Depuis le désir d'enfant jusqu'à ses 18 ans, un accompagnement pour chaque étape du développement de votre enfant.",
+        "link": "En savoir plus →"
+      },
+      "guideParental": {
+        "category": "LE GUIDE PARENTAL",
+        "title": "Des repères précieux pour les grands défis du quotidien.",
+        "text": "Des éclairages simples et concrets sur l'évolution physique, psychique et cognitive de l'enfant par les meilleurs spécialistes.",
+        "link": "En savoir plus →"
+      },
+      "exemple": {
+        "category": "DÉCOUVRIR UN CARNET VIRTUEL",
+        "title": "Une immersion dans un Carnet de Vie",
+        "text": "Feuilletez un Carnet virtuel et explorez ses chapitres, ses questions et ses contenus pour vous faire une idée concrète de cette expérience unique.",
+        "link": "Découvrir un exemple →"
+      },
+      "creer": {
+        "category": "CRÉER VOTRE CARNET DE VIE",
+        "title": "Commencez dès aujourd'hui",
+        "text": "En quelques étapes simples, créez votre Carnet de Vie et commencez à rassembler les souvenirs, les messages et les moments précieux.",
+        "link": "Créer mon Carnet →"
+      },
+      "connexion": {
+        "category": "SE CONNECTER",
+        "title": "Accédez à votre espace",
+        "text": "Retrouvez votre Carnet de Vie en toute sécurité, ajoutez de nouveaux souvenirs et partagez-les avec vos proches.",
+        "link": "Se connecter →"
+      },
+      "contact": {
+        "category": "CONTACTEZ-NOUS !",
+        "title": "Une question ? Parlons-en !",
+        "text": "Nous sommes à votre écoute pour répondre à vos questions et vous accompagner dans votre projet.",
+        "link": "Nous contacter →"
+      }
+    }
+  },
+  "Origine": {
+    "bannerAlt": "Bannière L'Origine",
+    "title": "L'Origine de Carnet de Vie",
+    "subtitle": "Préserver aujourd'hui les traces du cœur, pour qu'un jour l'enfant puisse accueillir d'où il vient et rester libre de devenir qui il est.",
+    "cards": {
+      "1": {
+        "step": "1. LE CONSTAT ET L'IDÉE FONDATRICE",
+        "title": "Préserver ce qui ne se photographie pas",
+        "p1": "Nous avons tous ressenti, un jour, cette émotion en retrouvant une trace de notre enfance : une photo, un mot, un dessin, un souvenir qui semble nous murmurer : <em>Tu as compté, tu as été aimé, tu as existé.</em>",
+        "p2": "Aujourd'hui, nous prenons des milliers de photos et de vidéos. Mais les mots d'enfant, les premières fois, les gestes tendres, les émotions et le regard de ceux qui étaient là se dispersent.",
+        "p3": "Carnet de Vie est né de cette évidence : préserver, du désir d'enfant jusqu'à ses 18 ans, les témoignages de ce qui a été vécu, ressenti et partagé à ses côtés.",
+        "quote": "Nous ne pouvons pas retenir le temps, mais nous pouvons préserver certaines de ses traces."
+      },
+      "2": {
+        "step": "2. LE GUIDE PARENTAL",
+        "title": "Comprendre pour mieux accompagner",
+        "p1": "À chaque âge, l'enfant évolue dans trois grands domaines : physique, affectif et cognitif. Ses besoins, ses émotions et les défis qu'il rencontre changent au fil de son développement.",
+        "p2": "Le Guide parental propose des repères accessibles et concrets, nourris des éclairages de pédiatres, psychologues, psychiatres et autres professionnels reconnus dans leurs domaines de compétence.",
+        "p3": "Il ne cherche pas à imposer un modèle éducatif, mais à aider chaque parent à comprendre ce que traverse son enfant, à prendre du recul et à trouver ses propres réponses, en accord avec ses valeurs.",
+        "quote": "Des repères pour éclairer votre chemin, jamais pour choisir à votre place."
+      },
+      "3": {
+        "step": "3. UNE HISTOIRE QUI SE CONSTRUIT À PLUSIEURS",
+        "title": "Des mots pour transmettre avec bienveillance",
+        "p1": "Un enfant grandit au milieu de liens, de paroles, de regards et de présences. Parents, grands-parents, frères, sœurs et proches peuvent ainsi transmettre chacun une part de son histoire.",
+        "p2": "Parce qu'une histoire vraie peut aussi contenir des moments difficiles, un outil d'intelligence artificielle inspiré des principes de la Communication Non Violente (CNV) accompagne la formulation des témoignages afin qu'ils ne deviennent pas un espace de jugement, de culpabilisation ou de tensions.",
+        "quote": "Carnet de Vie ne fige pas l'histoire. Il veille simplement à ce qu'elle ne se perde pas et soit transmise avec respect et bienveillance."
+      },
+      "4": {
+        "step": "4. LA TRANSMISSION : UN RITUEL TRANSGÉNÉRATIONNEL ?",
+        "title": "Un acte d'Amour à 18 ans.",
+        "p1": "À 18 ans, le Carnet est transmis à l'enfant devenu jeune adulte comme un acte d'Amour.",
+        "p2": "Il lui permet de s'approprier une histoire qui peut l'aider à comprendre le chemin parcouru et ce qui l'a construit.",
+        "p3": "Le Carnet lui appartient désormais : il peut accueillir cette histoire — sans devoir la réparer —, lui donner son propre sens et poursuivre libre la sienne, en restant libre de devenir soi.",
+        "quote": "Deux voix. Une même exigence : transmettre sans enfermer, recevoir sans réparer."
+      }
+    },
+    "closingQuote": "« Carnet de Vie n'est pas un simple album photo familial. C'est un repère identitaire structuré qui transforme le passé en énergie de construction. »",
+    "closingAuthor": "Luc et Sylvie M. de Barnier"
+  },
+  "About": {
+    "bannerAlt": "Sylvie et Luc - Qui sommes-nous",
+    "title": "Qui sommes-nous ?",
+    "subtitle": "Nous sommes des parents, des accompagnants et des observateurs de la vie : psychologues, psychiatres, pédiatres, sages-femmes, coachs… une équipe aux talents complémentaires pour vous accompagner<br></br><em>Mais avant tout, nous sommes des êtres humains qui, au fil des années, ont vu combien les mots, les gestes et les paroles adressés à un enfant peuvent compter pour toute une vie.</em>",
+    "cards": {
+      "1": {
+        "step": "1. UNE EXPÉRIENCE DEVENUE TRANSMISSION",
+        "title": "Sylvie de Barnier",
+        "p1": "Sylvie de Barnier est psychologue clinicienne depuis plus de trente-cinq ans. Elle accompagne des adultes, des adolescents, des enfants et des familles.",
+        "p2": "Au fil des années, elle a été témoin d'une profonde évolution de notre société et de la manière d'être parents : ils sont aujourd'hui plus engagés, plus attentifs, plus conscients de ce qu'ils transmettent. Mais ils sont aussi plus exposés à la pression, entre le désir de bien faire, les exigences du quotidien et un idéal parfois difficile à atteindre.",
+        "quote": "Accompagner les parents, c'est aussi leur permettre de trouver leur propre manière d'être parents."
+      },
+      "2": {
+        "step": "2. LA RELATION AU CŒUR",
+        "title": "Luc M. de Barnier",
+        "p1": "Luc M. de Barnier est life coach et psychothérapeute. Il est particulièrement attentif à la qualité de la communication au sein des familles, des couples et des fratries, là où se jouent les liens, les tensions et les équilibres du quotidien.",
+        "p2": "Son approche accorde une place essentielle à l'écoute, au respect de chacun et à une communication qui permette d'exprimer ce qui est vécu sans blesser l'autre.",
+        "quote": "La qualité d'un lien se construit aussi dans la manière dont nous nous parlons."
+      },
+      "3": {
+        "step": "1. DEUX PARCOURS, UNE MÊME CONVICTION",
+        "title": "Un regard commun",
+        "p1": "Au fil de leurs accompagnements, Sylvie et Luc ont vu les repères changer, les équilibres familiaux se transformer, les séparations se multiplier et les familles se recomposer.",
+        "p2": "Ils ont surtout rencontré des parents qui cherchent, qui doutent et qui, malgré leurs fragilités et les difficultés du quotidien, font de leur mieux pour leur enfant.",
+        "p3": "C'est de ce regard commun qu'est né Carnet de Vie : accompagner, soutenir et transmettre, sans injonction ni modèle imposé.",
+        "quote": "Il n'existe pas de parent parfait. Il existe des parents qui cherchent leur chemin."
+      },
+      "4": {
+        "step": "4. DES REGARDS CROISÉS",
+        "title": "Une équipe à vos côtés",
+        "p1": "Carnet de Vie ne repose pas sur une seule approche.",
+        "p2": "Sylvie et Luc travaillent en équipe avec des professionnels de l'enfance, de l'adolescence et de la famille : pédiatres, gynécologues, médecins de famille, psychiatres, professeurs des écoles et psychologues.",
+        "p3": "Leurs regards croisés permettent d'aborder le développement de l'enfant dans ses dimensions physique, psychique, affective, cognitive, relationnelle et familiale.",
+        "quote": "Un enfant grandit dans plusieurs dimensions. L'accompagner demande de croiser les regards."
+      }
+    },
+    "closingQuote": "Carnet de Vie : une mémoire pour l'enfant. Un geste de transmission pour ceux qui l'aiment.",
+    "closingAuthor": "Luc et Sylvie M. de Barnier"
+  },
+  "Guide": {
+    "bannerAlt": "Guide Parental Bannière",
+    "title": "Le Guide Parental",
+    "tagline": "Des repères précieux pour les grands défis du quotidien",
+    "subtitle": "Des éclairages simples et concrets sur l'évolution physique, affective et cognitive de l'enfant,<br></br>proposés par des professionnels reconnus de l'enfance et de l'adolescence.",
+    "cards": {
+      "1": {
+        "step": "1. COMPRENDRE CE QUI CHANGE",
+        "title": "Une évolution globale",
+        "p1": "À chaque âge, l'enfant évolue dans trois grands domaines : physique, affectif et cognitif. Le Guide Parental vous donne des repères adaptés à son âge pour mieux comprendre ces transformations et ce qu'elles peuvent entraîner dans son quotidien.",
+        "quote": "Grandir, c'est évoluer à plusieurs niveaux, parfois à des rythmes différents."
+      },
+      "2": {
+        "step": "2. ÉCLAIRER LES GRANDES QUESTIONS",
+        "title": "Des défis du quotidien",
+        "p1": "Sommeil, alimentation, émotions, autonomie, limites, écrans, école, relations, puberté, adolescence... Les préoccupations varient avec l'âge de l'enfant.",
+        "p2": "Le Guide propose des éclairages accessibles et concrets pour vous aider à vous positionner au mieux lorsque vous rencontrerez une difficulté.",
+        "quote": "Certaines inquiétudes s'apaisent déjà lorsque l'on comprend mieux ce qui se joue."
+      },
+      "3": {
+        "step": "3. S'APPUYER SUR DES PROFESSIONNELS",
+        "title": "Une équipe reconnue",
+        "p1": "Pédiatres, psychologues, psychiatres, gynécologues, médecins de famille, enseignants et autres spécialistes apportent leurs éclairages dans leur domaine de compétence.",
+        "p2": "Le Guide ne remplace pas le professionnel. Il vous aide à mieux comprendre une situation, à vous orienter et, lorsque cela est nécessaire, à identifier vers qui vous tourner.",
+        "quote": "Croiser les regards permet parfois de voir autrement ce qui nous préoccupe."
+      },
+      "4": {
+        "step": "4. ACCOMPAGNER SANS IMPOSER",
+        "title": "Une guidance bienveillante",
+        "p1": "Carnet de Vie ne cherche pas à proposer un modèle éducatif unique ni à dire aux parents comment ils doivent élever leur enfant.",
+        "p2": "Le Guide leur apporte des repères pour prendre du recul, réfléchir et trouver une réponse adaptée à leur enfant, à leur famille et à leurs valeurs.",
+        "quote": "Des repères pour éclairer votre chemin, jamais pour choisir à votre place."
+      }
+    },
+    "closingQuote": "Être parent, ce n'est pas tout savoir. C'est aussi chercher les bons repères lorsque l'on en a besoin.",
+    "closingAuthor": "Luc et Sylvie M. de Barnier"
+  },
+  "Communication": {
+    "bannerAlt": "Communication Bienveillante Bannière",
+    "title": "La Communication Bienveillante",
+    "tagline": "Des mots pour se comprendre, des liens pour grandir",
+    "subtitle": "Une invitation à écouter, exprimer ses émotions et accueillir celles de l'autre, en s'inspirant de la Communication Non Violente et de la méthode ESPERE®.<br></br>Des repères simples pour cultiver des relations authentiques, respectueuses et bienveillantes au sein de la famille.",
+    "cards": {
+      "1": {
+        "step": "1. L'ESPRIT DE LA DÉMARCHE",
+        "title": "Communiquer pour mieux se rencontrer",
+        "p1": "Communiquer ne consiste pas seulement à échanger des mots. C'est aussi chercher à comprendre ce que chacun vit, ressent et tente d'exprimer, parfois maladroitement.",
+        "p2": "Dans la relation parent-enfant, les émotions, les attentes et les incompréhensions peuvent rendre le dialogue difficile. La bienveillance invite à accueillir ce qui se vit sans renoncer à exprimer ses propres besoins et limites.",
+        "p3": "Carnet de Vie propose une autre manière de se parler et de s'écouter, où chacun peut trouver sa place sans devoir être d'accord sur tout.",
+        "quote": "La bienveillance ne consiste pas à tout accepter, mais à reconnaître chacun dans ce qu'il vit."
+      },
+      "2": {
+        "step": "2. NOS SOURCES D'INSPIRATION",
+        "title": "Des repères, pas une méthode imposée",
+        "p1": "Notre approche s'inspire notamment de la Communication Non Violente (CNV), développée par Marshall Rosenberg, qui invite à distinguer les faits des jugements, à reconnaître les émotions et les besoins, et à formuler des demandes plutôt que des exigences.",
+        "p2": "Elle s'enrichit également de la méthode ESPERE® de Jacques Salomé, qui accorde une place essentielle à la qualité de la relation, à la responsabilité de chacun dans les échanges et au respect des différences.",
+        "p3": "Carnet de Vie ne reproduit aucune de ces méthodes à la lettre. Il s'inspire de leur esprit pour proposer des repères simples, adaptés à la vie familiale et à la transmission.",
+        "quote": "S'inspirer de plusieurs regards pour trouver sa propre manière d'être en relation."
+      },
+      "3": {
+        "step": "3. DANS LA VIE QUOTIDIENNE",
+        "title": "Écouter, exprimer, respecter",
+        "p1": "Un enfant peut exprimer sa peur par la colère, sa tristesse par le silence ou son besoin d'autonomie par l'opposition. Derrière un comportement, il y a parfois quelque chose qui demande à être entendu.",
+        "p2": "La Communication Bienveillante invite le parent à prendre du recul, à distinguer ce qu'il observe de ce qu'il interprète, et à parler de son propre ressenti plutôt que de définir celui de l'autre.",
+        "p3": "Elle permet aussi de poser des limites, d'exprimer un désaccord et de traverser les conflits sans chercher à culpabiliser ou à disqualifier.",
+        "quote": "Écouter sans s'effacer, s'affirmer sans blesser, accompagner sans imposer."
+      },
+      "4": {
+        "step": "4. L'ACCOMPAGNEMENT DANS CARNET DE VIE",
+        "title": "Trouver les mots pour transmettre",
+        "p1": "Écrire à son enfant n'est pas toujours simple. Certains souvenirs sont heureux, d'autres plus sensibles. Il arrive que les émotions, les regrets ou les attentes se glissent dans les mots que l'on souhaite lui laisser.",
+        "p2": "Un outil d'intelligence artificielle accompagne, lorsque le parent le souhaite, la formulation de ses témoignages. Il peut suggérer une expression plus claire et respectueuse, sans effacer les émotions ni modifier le sens de ce qui a été vécu.",
+        "p3": "Le parent reste toujours libre de conserver, modifier ou refuser les propositions. L'objectif n'est pas d'embellir l'histoire, mais de permettre sa transmission sans imposer à l'enfant le poids des émotions de l'adulte.",
+        "quote": "Préserver la vérité de ce qui a été vécu, avec des mots qui laissent à l'autre la liberté de recevoir."
+      }
+    },
+    "closingQuote": "Communiquer avec bienveillance, ce n'est pas toujours trouver les bons mots. C'est avant tout chercher à comprendre l'autre sans renoncer à être soi.",
+    "closingAuthor": "Luc et Sylvie M. de Barnier"
+  },
+  "Chemin": {
+    "bannerAlt": "Chemin de Vie Bannière",
+    "title": "Le Chemin de Vie",
+    "tagline": "Grandir avec votre enfant",
+    "description": "Depuis le désir d'enfant jusqu'à ses 18 ans, Carnet de Vie accompagne chaque étape de son développement et vous aide à en préserver les traces essentielles.",
+    "stagesLabel": "Les étapes du Chemin de Vie",
+    "momentsLabel": "Les moments particuliers du Chemin de Vie",
+    "moments": {
+      "1": "Histoires de naissance particulières",
+      "2": "Rupture / Séparation / Deuil",
+      "3": "Document officiel de transmission"
+    },
+    "stages": {
+      "1": {
+        "name": "Désir<br></br>d'enfant"
+      },
+      "2": {
+        "name": "Grossesse"
+      },
+      "3": {
+        "name": "Accouchement"
+      },
+      "4": {
+        "name": "Bébé",
+        "detail": "0 - 2 ans"
+      },
+      "5": {
+        "name": "Petite enfance",
+        "detail": "2 - 5 ans"
+      },
+      "6": {
+        "name": "Enfance",
+        "detail": "5 - 11 ans"
+      },
+      "7": {
+        "name": "Pré-adolescence",
+        "detail": "11 - 13 ans"
+      },
+      "8": {
+        "name": "Adolescence",
+        "detail": "13 - 18 ans"
+      },
+      "9": {
+        "name": "18 ans",
+        "detail": "→ Transmission<br></br>du Carnet de Vie"
+      }
+    },
+    "features": {
+      "1": {
+        "step": "1. UN ENFANT EN CONSTANTE MÉTAMORPHOSE",
+        "title": "Une évolution étape par étape",
+        "p1": "À chaque tranche d'âge, une présentation de l'évolution de l'enfant vous permet de mieux comprendre son développement et de mieux cerner sa personnalité du moment.",
+        "quote": "Grandir, c'est changer sans cesse tout en construisant peu à peu qui l'on est."
+      },
+      "2": {
+        "step": "2. LES QUESTIONS GUIDES",
+        "title": "Garder la trace de ce qui compte",
+        "p1": "Des questions vous invitent à clarifier ce que vous ressentez vous-même à chaque période de sa vie et vous guident pour identifier ce que vous souhaitez recueillir auprès de l'enfant et transmettre dans son Carnet de Vie.",
+        "quote": "Quelques questions suffisent parfois à faire émerger ce que l'on ne voudrait pas oublier."
+      },
+      "3": {
+        "step": "3. LES RITUELS",
+        "title": "Des moments suspendus",
+        "p1": "Des rituels relationnels adaptés à chaque étape de la vie de l'enfant vous permettent de créer et de nourrir avec lui un lien sécurisant.",
+        "quote": "Un rituel répété devient parfois l'un des souvenirs les plus précieux d'une enfance."
+      },
+      "4": {
+        "step": "4. DES LIENS POUR VOUS AIDER",
+        "title": "Des repères pour rassurer",
+        "p1": "Des liens essentiels et soigneusement sélectionnés dans le domaine de l'enfance et de l'adolescence vous aident à trouver des réponses à vos questions, vos doutes ou vos inquiétudes, afin de vous rassurer et de vous guider.",
+        "quote": "Comprendre ce que traverse un enfant aide souvent à mieux l'accompagner."
+      }
+    },
+    "closingQuote": "À chaque âge ses transformations, ses découvertes et ses défis. À chaque étape, une trace à préserver.",
+    "closingAuthor": "Luc et Sylvie M. de Barnier"
+  },
+  "Forms": {
+    "required": "Ce champ est obligatoire.",
+    "email": "Veuillez saisir une adresse e-mail valide.",
+    "ok": "Compris",
+    "back": "← Retour",
+    "tooShort": "Le mot de passe doit contenir au moins 8 caractères.",
+    "mismatch": "Les mots de passe doivent être identiques.",
+    "close": "Fermer"
+  },
+  "Contact": {
+    "title": "Contactez-nous !",
+    "subtitle": "Une question, un besoin d'accompagnement ou un retour à partager ? Nous sommes à votre écoute.",
+    "name": "Votre nom",
+    "namePlaceholder": "Nom Prénom",
+    "email": "Votre adresse email",
+    "emailPlaceholder": "Ex. exemple@domaine.com",
+    "message": "Votre message",
+    "messagePlaceholder": "Écrivez votre message ici...",
+    "submit": "Envoyer le message",
+    "sentTitle": "Message envoyé",
+    "sentText": "Merci pour votre message. Nous vous répondrons dans les plus brefs délais."
+  },
+  "Login": {
+    "title": "Se connecter",
+    "returnTitle": "Retrouvez votre Carnet de Vie",
+    "subtitle": "Accédez à votre espace sécurisé Carnet de Vie",
+    "intro": "Accédez à votre espace personnel pour poursuivre votre Carnet, retrouver vos témoignages et continuer à transmettre, à votre rythme, ce qui compte pour vous.",
+    "email": "Votre adresse email",
+    "emailPlaceholder": "Ex. exemple@domaine.com",
+    "password": "Votre mot de passe",
+    "submit": "Se connecter",
+    "infoTitle": "Connexion",
+    "infoText": "Fonctionnalité de connexion en cours de développement.",
+    "forgot": "Mot de passe oublié ?",
+    "noCarnet": "Vous n’avez pas encore de Carnet de Vie ?",
+    "create": "Créer votre Carnet de Vie →",
+    "quote": "Votre histoire vous attend là où vous l’avez laissée.",
+    "help": {
+      "intro": "Indiquez l’adresse e-mail associée à votre Carnet de Vie.",
+      "email": "Adresse e-mail",
+      "submit": "Réinitialiser mon mot de passe →",
+      "sent": "Aucun e-mail n’a été envoyé. La réinitialisation sera disponible lorsque le service sera activé."
+    }
+  },
+  "Creation": {
+    "title": "Créer mon Carnet",
+    "subtitle": "Commencez à préserver les moments précieux de votre enfant",
+    "progress": "Étapes de création",
+    "steps": {
+      "offer": "Choisir votre engagement",
+      "plan": "Votre formule",
+      "account": "Créer votre compte",
+      "documents": "Avant de créer votre carnet",
+      "payment": "Paiement",
+      "success": "Félicitations !",
+      "carnet": "Entrer dans votre carnet"
+    },
+    "back": "Retour",
+    "missing": "Cette étape fait suite aux précédentes : reprenez depuis le début pour la découvrir.",
+    "restart": "Revenir au début →",
+    "offers": {
+      "title": "Choisir votre engagement",
+      "lead": "Commencez à l’âge qui correspond aujourd’hui à votre histoire.",
+      "see": "Voir ce qui est inclus →",
+      "price": "{price} €",
+      "wasPrice": "{price} € au lieu de {was} €",
+      "includes": "Tout Carnet de Vie pour cette tranche d’âge comprend :",
+      "features": {
+        "1": {
+          "title": "1. Des textes éclairants",
+          "text": "Des textes éclairants pour faire découvrir à l’Auteur du Carnet les informations importantes relatives à la tranche d’âge concernée."
+        },
+        "2": {
+          "title": "2. Des questions structurantes",
+          "text": "Des questions structurantes pour inviter l’Auteur du Carnet à identifier les sujets importants pour lui et pour l’enfant."
+        },
+        "3": {
+          "title": "3. Le Guide parental",
+          "text": "Des repères sur le développement physique, cognitif, affectif et relationnel de l’enfant, proposés à partir des travaux de spécialistes reconnus."
+        },
+        "4": {
+          "title": "4. Les rituels relationnels",
+          "text": "Pour créer et préserver des traces symboliques de l’histoire de l’enfant, et vous permettre de créer et de nourrir avec lui un lien sécurisant."
+        },
+        "5": {
+          "title": "5. Les Instants précieux",
+          "text": "Pour conserver librement un souvenir, une anecdote ou un moment qui compte à travers des photos, vidéos et messages audio, permettant à chacun de transmettre avec ses propres mots et sa sensibilité."
+        },
+        "6": {
+          "title": "6. La découverte de la Communication NonViolente (CNV)",
+          "text": "Pour accompagner les témoignages et particulièrement les messages sensibles."
+        }
+      },
+      "fondement": {
+        "age": "0–6 ANS",
+        "title": "Le fondement",
+        "cta": "Choisir Le fondement — {price} € →",
+        "intro": {
+          "1": "Les premières années posent les fondations de l’histoire de l’enfant ; certains moments méritent d’en garder la trace."
+        }
+      },
+      "construction": {
+        "age": "6–12 ANS",
+        "title": "La construction",
+        "cta": "Choisir La construction — {price} € →",
+        "intro": {
+          "1": "L’enfant grandit, se construit et se découvre ; certains moments méritent d’en garder la trace."
+        }
+      },
+      "transmission": {
+        "age": "12–18 ANS",
+        "title": "La transmission",
+        "cta": "Choisir La transmission — {price} € →",
+        "extra": {
+          "1": "7. La Transmission — un rituel transgénérationnel",
+          "2": "À 18 ans, Carnet de Vie accompagne le moment où cette histoire peut être remise au jeune adulte.",
+          "3": "Un rituel de transmission transgénérationnel permet à l’Auteur du Carnet — ou aux Auteurs lorsqu’ils souhaitent transmettre ensemble — de choisir ce qu’il souhaite lui remettre et de l’accompagner de ses derniers mots.",
+          "4": "Le jeune adulte ne reçoit pas seulement des souvenirs. Il découvre les regards, les émotions, les paroles et les traces de ceux qui l’ont accompagné pendant les premières années de sa vie.",
+          "5": "Il peut alors accueillir cette histoire comme une part de ses racines, sans qu’elle détermine la personne qu’il choisira de devenir.",
+          "6": "Recevoir son histoire, c’est pouvoir s’y relier sans cesser d’être libre d’écrire la suite."
+        }
+      },
+      "complet": {
+        "age": "DÉSIR D’ENFANT – 18 ANS",
+        "title": "Chemin de Vie complet + Transmission",
+        "cta": "Choisir le Chemin de Vie complet — {price} € →",
+        "intro": {
+          "1": "Cet accès vous permet d’accompagner toute l’histoire de votre enfant, depuis le Désir d’enfant jusqu’à ses 18 ans, sans avoir à choisir aujourd’hui les seules années que vous souhaitez conserver.",
+          "2": "Il réunit Le fondement, La construction et La transmission, ainsi que le rituel transgénérationnel final.",
+          "3": "Vous pourrez avancer librement dans le Carnet, revenir sur certaines périodes, enrichir progressivement son histoire et conserver les traces qui comptent pour vous.",
+          "4": "L’objectif n’est pas de tout raconter, mais de permettre qu’au fil des années se construise une histoire suffisamment riche pour qu’un jour l’enfant puisse découvrir ce qui a accompagné son chemin.",
+          "5": "{price} € pour l’ensemble du Chemin de Vie, au lieu de {was} € pour les trois périodes achetées séparément.",
+          "6": "Une histoire ne se construit pas en un jour. Elle se transmet au fil d’une vie."
+        }
+      }
+    },
+    "account": {
+      "title": "Créez votre espace personnel",
+      "lead": "Quelques informations suffisent pour créer votre Carnet de Vie.",
+      "forWhom": "Pour qui créez-vous ce carnet ?",
+      "forChild": "Pour mon enfant",
+      "gift": "Pour offrir",
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "child": "Prénom de l'enfant",
+      "childPlaceholder": "Ex. Léa",
+      "childHint": "Facultatif si votre histoire commence par le désir d’enfant.",
+      "password": "Créez un mot de passe",
+      "passwordPlaceholder": "Min. 8 caractères",
+      "confirm": "Confirmer le mot de passe",
+      "identity": "Qui suis-je / qui sommes-nous aujourd’hui ?",
+      "access": "Type d’accès",
+      "single": "Un Auteur — un espace personnel",
+      "dual": "Deux Auteurs — deux espaces distincts",
+      "contributions": "Les témoignages de personnes extérieures ne sont pas déposés directement dans le Carnet : ils sont transmis à l’Auteur du Carnet — ou aux Auteurs lorsqu’il existe deux espaces distincts — qui décide de leur intégration.",
+      "submit": "Continuer →",
+      "submitNote": "Créer le carnet",
+      "explore": "Explorer la suite sans créer de compte →",
+      "returnWelcome": "Revenir au mot de bienvenue des fondateurs"
+    },
+    "documents": {
+      "title": "Avant de créer votre carnet",
+      "lead": "Consultez les documents avant de poursuivre.",
+      "notice": "Consultez les quatre documents ci-dessous avant de poursuivre.",
+      "docs": {
+        "cgu": "Conditions Générales d’Utilisation (CGU)",
+        "cgv": "Conditions Générales de Vente (CGV)",
+        "charte": "Charte éthique de la transmission et de l’intelligence éditoriale",
+        "confidentialite": "Politique de confidentialité et de protection des données"
+      },
+      "consents": {
+        "cgu": "J'ai lu et j'accepte les Conditions Générales d'Utilisation (CGU).",
+        "cgv": "J'ai lu et j'accepte les Conditions Générales de Vente (CGV).",
+        "charte": "J'ai pris connaissance de la Charte éthique de Carnet de Vie.",
+        "confidentialite": "J'ai pris connaissance de la Politique de confidentialité et de protection des données."
+      },
+      "hint": "Cochez les quatre cases pour continuer.",
+      "continue": "Continuer vers le paiement →",
+      "original": "Document original en français."
+    },
+    "payment": {
+      "title": "Paiement",
+      "oneOff": "— Paiement unique",
+      "notice": "Paiement de démonstration : les coordonnées ci-dessous sont fictives. Ne saisissez pas de coordonnées bancaires réelles.",
+      "legend": "Informations de paiement",
+      "cardNumber": "Numéro de carte",
+      "expiry": "Date d’expiration",
+      "cvc": "CVC",
+      "cardName": "Nom figurant sur la carte",
+      "country": "Pays de facturation",
+      "france": "France",
+      "instalments": {
+        "summary": "Vous préférez échelonner votre paiement ?",
+        "text": {
+          "1": "Une solution de paiement proposée par un organisme financier tiers pourra permettre à l’Auteur du Carnet, selon son éligibilité et son pays, de régler en plusieurs échéances.",
+          "2": "Les éventuels frais ou intérêts sont clairement présentés par cet organisme avant validation.",
+          "3": "Carnet de Vie reçoit le règlement conformément aux conditions convenues avec le prestataire financier ; l’échelonnement constitue ensuite la relation entre l’Auteur du Carnet et ce prestataire.",
+          "4": "Ce principe est proposé pour chacune des quatre formules, et non uniquement pour le Chemin complet."
+        },
+        "notice": "Aucune solution de paiement fractionné n’est activée dans cette démonstration."
+      },
+      "pay": "Payer {price} € →",
+      "note": "Ce bouton simule le paiement. Aucun débit n’est effectué."
+    },
+    "success": {
+      "title": "Votre carnet est créé : félicitations !",
+      "letterTitle": "Le mot de Bienvenu des Fondateurs",
+      "letter": {
+        "1": "Bienvenu(e) et Merci d'avoir choisi Carnet de Vie pour vos précieux témoignages.",
+        "2": "Si vous êtes ici, c’est déjà que quelqu'un compte pour vous.",
+        "3": "Et maintenant, si vous le souhaitez, avant d’aller plus loin, nous vous proposons de prendre un moment pour vous présenter.",
+        "4": "Non pas comme sur un formulaire, mais comme vous le feriez pour quelqu’un qui découvrira un jour ces mots : l’enfant à qui ce Carnet est destiné.",
+        "5": "Il n’y a rien à “bien” dire.",
+        "6": "Vous pouvez écrire une phrase, quelques mots, ou simplement lire et revenir plus tard.",
+        "7": "Carnet de Vie vous accompagne, à votre rythme.",
+        "8": "Vous pouvez commencer lorsque vous le souhaitez.",
+        "9": "Il n’existe pas une seule façon de remplir ce carnet.",
+        "10": "Il y a la vôtre."
+      },
+      "signature": "Sylvie et Luc M. de Barnier",
+      "startTitle": "Début du Carnet de Vie",
+      "placeDate": "Lieu – Date",
+      "at": "À",
+      "on": "le",
+      "forAttention": "À l’attention de",
+      "for": "Pour",
+      "guests": "Qui ai-je / avons-nous choisi d’inviter à participer à ce témoignage de transmission ?",
+      "addGuest": "+ Ajouter une personne",
+      "guestName": "Nom",
+      "guestAdd": "Ajouter",
+      "guestRestore": "Rétablir",
+      "guestRemove": "Retirer cette personne",
+      "reasons": "Pourquoi ces personnes ont-elles été choisies ?",
+      "closing": {
+        "1": "Les personnes que vous choisirez peuvent être multiples et intervenir uniquement dans les parties ou les questions que vous souhaitez.",
+        "2": "Certaines ne sont peut-être pas encore identifiées aujourd’hui.",
+        "3": "Vous pourrez revenir à cette page autant de fois que nécessaire."
+      },
+      "backToAccount": "Revenir à la création de votre Carnet de Vie →",
+      "enter": "Entrer dans mon Carnet de Vie →"
+    },
+    "carnet": {
+      "title": "Entrer dans votre carnet",
+      "lead": "Choisissez une période sur la frise ou ouvrez un chapitre particulier.",
+      "timeline": "Votre frise chronologique",
+      "slider": "Déplacez le curseur pour choisir une période ou une année.",
+      "desire": "Désir d’enfant",
+      "birth": "Naissance",
+      "age": "{age, plural, one {# an} other {# ans}}",
+      "ranges": {
+        "desire": "Désir d’enfant",
+        "baby": "0–2 ans",
+        "early": "2–5 ans",
+        "child": "5–11 ans",
+        "preteen": "11–13 ans",
+        "teen": "13–18 ans",
+        "handover": "18 ans — Transmission"
+      },
+      "prev": "← Tranche précédente",
+      "next": "Tranche suivante →",
+      "open": "Ouvrir cette période →",
+      "special": "CHAPITRES PARTICULIERS",
+      "separation": "Rupture, séparation, deuil",
+      "birthStories": "Histoires de naissance singulières",
+      "backToTimeline": "← Retour à la frise",
+      "note": "Une phrase, un souvenir, une émotion…",
+      "noteKept": "Votre texte reste dans cette page pendant votre visite.",
+      "example": "Découvrir l’exemple 4–5 ans →"
+    }
+  },
+  "Exemple": {
+    "sidebar": {
+      "tagline": "Une histoire d'amour à transmettre",
+      "journeys": "Parcours particuliers",
+      "resources": "Autres ressources",
+      "chemin": "Chemin de Vie",
+      "expression": "Expression bienveillante",
+      "guide": "Guide parental",
+      "feuilleter": "Feuilleter le carnet",
+      "offres": "Offres & Accès"
+    },
+    "header": {
+      "path": "Chemin de Vie",
+      "music": "Musique",
+      "audio": "Audio",
+      "video": "Vidéo",
+      "photo": "Photo",
+      "text": "Texte",
+      "carnet": "Carnet de Vie de Léa - 4-5 ans"
+    },
+    "stage": {
+      "label": "Choisir l’étape de vie",
+      "names": {
+        "desir": "Désir d’enfant",
+        "grossesse": "Grossesse",
+        "accouchement": "Accouchement et naissance",
+        "parents": "Devenir parent(s)",
+        "0-3m": "0 – 3 mois",
+        "3-6m": "3 – 6 mois",
+        "6-9m": "6 – 9 mois",
+        "9-12m": "9 – 12 mois",
+        "12-24m": "12 – 24 mois",
+        "2-3": "2 – 3 ans",
+        "3-4": "3 – 4 ans",
+        "4-5": "4 – 5 ans",
+        "5-6": "5 – 6 ans",
+        "6-7": "6 – 7 ans",
+        "7-9": "7 – 9 ans",
+        "9-11": "9 – 11 ans",
+        "11-13": "11 – 13 ans",
+        "13-15": "13 – 15 ans",
+        "15-17": "15 – 17 ans",
+        "17-18": "17 – 18 ans",
+        "18": "18 ans",
+        "transmission": "La transmission",
+        "naissance": "Histoires de naissance particulières",
+        "rupture": "Rupture, séparation, deuil"
+      }
+    },
+    "info": {
+      "expression": "Espace d’écoute et de mots doux pour accompagner votre enfant.",
+      "feuilleter": "Aperçu global de l’ensemble des souvenirs enregistrés.",
+      "audio": "Enregistrement vocal rapide",
+      "video": "Ajouter une courte vidéo",
+      "photo": "Importer une photo",
+      "text": "Écrire un mot doux"
+    },
+    "pictureAlt": "Visuel Carnet Virtuel",
+    "back": "Revenir",
+    "continue": "Continuer",
+    "create": "Créer votre carnet",
+    "start": "Le voyage peut commencer ...",
+    "startHint": "Cliquez sur « Accueil du moment » pour entrer dans cette étape de sa vie.",
+    "steps": {
+      "0": {
+        "badge": "1 • ACCUEIL DU MOMENT • 4 À 5 ANS",
+        "title": "Bienvenue dans<br></br>son Carnet de Vie",
+        "next": "Vers l'Accueil",
+        "acrostic": {
+          "1": "Créer une histoire de vie.",
+          "2": "Accompagner chaque étape.",
+          "3": "Recueillir ce qui compte vraiment.",
+          "4": "Nourrir ce qui fait grandir.",
+          "5": "Elever un être.",
+          "6": "Transmettre l'essentiel."
+        },
+        "creates": "Carnet de Vie crée :",
+        "items": {
+          "1": "un espace d’accueil quotidien, tendre et joyeux, comme un doudou parental,",
+          "2": "une guidance scientifique empathique sur le développement de l’enfant,",
+          "3": "un soutien émotionnel pour le(s) parent(s) ou le couple,",
+          "4": "une mémoire familiale structurée et bienveillante, transmise à l’enfant à ses 18 ans."
+        },
+        "quote": "Carnet de Vie ne fige pas l'histoire.<br></br>Il veille simplement à ce qu'elle ne se perde pas dans un monde qui va vite et laisse parfois peu de place à l'essentiel."
+      },
+      "1": {
+        "label": "Accueil du moment",
+        "title": "Le héros des jours ordinaires",
+        "next": "Vers Repères pour accompagner",
+        "p": {
+          "1": "Entre quatre et cinq ans, quelque chose se consolide. L’enfant ne se contente plus d’imaginer le monde : l’enfant veut agir sur lui.",
+          "2": "Essayer. Réussir. Montrer. L’enfant court plus vite, construit plus haut, s’applique davantage et cherche à finir ce qui est commencé. Et surtout, l’enfant cherche le partage de cette expérience : « Regarde ce que j’ai fait. »",
+          "3": "Le regard de l’adulte devient un appui intérieur. À travers lui, l’enfant commence à sentir que ce qui est fait compte, que l’action a une valeur et qu’une place existe parmi les autres.",
+          "4": "Un dessin montré plusieurs fois, une construction qu’il ne faut surtout pas démonter, une performance répétée encore et encore peuvent porter une question silencieuse : « Est-ce que ce que je fais a de la valeur pour toi ? »",
+          "5": "Chaque petite victoire nourrit la confiance."
+        },
+        "quote": "La fierté construit. La comparaison peut fragiliser."
+      },
+      "2": {
+        "label": "Repères pour accompagner",
+        "title": "Repères pour accompagner",
+        "next": "Questions",
+        "intro": "Entre quatre et cinq ans, l’enfant cherche à agir seul, à réussir et à être reconnu. Le sentiment de compétence nourrit la confiance, tandis que le groupe et les amitiés prennent davantage de place. L’adulte encourage l’effort sans faire peser une pression excessive sur le résultat.",
+        "quote": "La sécurité affective reste essentielle pour oser essayer.",
+        "more": "→ Pour aller plus loin : {count} éclairages du Guide parental"
+      },
+      "3": {
+        "label": "Invitations de partage",
+        "title": "Invitations de partage",
+        "next": "Vers Rituel relationnel",
+        "lead": "Je peux répondre à une seule invitation. Elles sont simplement des balises, un guide. Une phrase suffit. Un mot, une photo, une vidéo aussi. Ou revenir plus tard.",
+        "more": "Découvrir d'autres questions",
+        "less": "Réduire les questions",
+        "details": "Plus particulièrement :",
+        "detailsPlaceholder": "Votre précision",
+        "other": "autre"
+      },
+      "4": {
+        "label": "Rituel relationnel",
+        "title": "Le Portrait dessiné",
+        "subtitle": "L’enfant dessine un personnage qui le représente.",
+        "next": "Vers Instants précieux",
+        "p": {
+          "1": "À cet âge, les dessins ne servent pas seulement à représenter. Ils permettent aussi de déposer quelque chose de soi.",
+          "2": "La manière dont l’enfant se dessine, dont les autres sont placés, les couleurs choisies, les détails oubliés ou répétés racontent parfois une façon d’habiter le monde.",
+          "3": "Je n’interprète pas trop vite. Je reste curieux. Disponible.",
+          "4": "Parfois, je photographie un dessin. Pas pour accumuler des souvenirs. Mais pour montrer à l’enfant que ce qui est créé compte."
+        },
+        "quote": "Grandir, c’est aussi sentir que ce que l’on apporte au monde a une place dans le regard de ceux qu’on aime.",
+        "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+      },
+      "5": {
+        "label": "Instants précieux",
+        "title": "Ce que je choisis de garder de cette année",
+        "next": "Fin du chapitre",
+        "items": {
+          "1": "Un dessin.",
+          "2": "Une photo ou une vidéo.",
+          "3": "Sa voix.",
+          "4": "Un premier défi réussi.",
+          "5": "Une amitié importante.",
+          "6": "Un moment où l’enfant s’est dépassé.",
+          "7": "Ou simplement un instant que je ne veux pas oublier."
+        },
+        "photo": "+ Photo",
+        "video": "+ Vidéo",
+        "audio": "+ Audio",
+        "text": "+ Texte",
+        "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+      }
+    },
+    "questions": {
+      "1": {
+        "title": "1. Dans ses activités, je remarque que l’enfant :",
+        "options": {
+          "1": "aime terminer ce qui est commencé",
+          "2": "cherche à faire seul",
+          "3": "demande souvent si « c’est bien »",
+          "4": "se compare aux autres",
+          "5": "abandonne rapidement face à la difficulté"
+        },
+        "quote": "Grandir, c’est découvrir ce dont on se sent capable."
+      },
+      "2": {
+        "title": "2. Face à la réussite, l’enfant :",
+        "options": {
+          "1": "exprime sa fierté — Si oui, comment ?",
+          "2": "cherche les encouragements",
+          "3": "recommence pour améliorer",
+          "4": "minimise ses réussites"
+        },
+        "quote": "Être reconnu nourrit la confiance intérieure.",
+        "prompt": "Si oui, comment ?"
+      },
+      "3": {
+        "title": "3. Face à l’échec ou à la frustration, l’enfant :",
+        "options": {
+          "1": "se décourage",
+          "2": "se met en colère",
+          "3": "demande de l’aide",
+          "4": "accuse les autres",
+          "5": "persévère malgré la difficulté"
+        },
+        "quote": "Apprendre implique aussi de traverser la déception."
+      },
+      "4": {
+        "title": "4. Dans ses relations avec les autres enfants :",
+        "options": {
+          "1": "a une amitié privilégiée",
+          "2": "reste proche d’un petit groupe d’amis",
+          "3": "cherche sa place dans le groupe",
+          "4": "dirige les jeux",
+          "5": "suit les autres",
+          "6": "se sent parfois exclu"
+        },
+        "quote": "L’appartenance devient peu à peu importante."
+      },
+      "5": {
+        "title": "5. Dans les jeux de rôle, l’enfant :",
+        "options": {
+          "1": "aime être le héros",
+          "2": "aime être la victime",
+          "3": "aime être le méchant",
+          "4": "choisit des rôles valorisés",
+          "5": "accepte des rôles secondaires",
+          "6": "rejoue des scènes vécues à l’école ou ailleurs"
+        },
+        "quote": "Le jeu devient un espace pour expérimenter les relations."
+      },
+      "6": {
+        "title": "6. Dans l’organisation du temps, l’enfant :",
+        "options": {
+          "1": "comprend « hier » et « demain »",
+          "2": "confond encore « hier » et « demain »",
+          "3": "anticipe certains événements",
+          "4": "pose beaucoup de questions sur l’avenir",
+          "5": "a du mal à attendre"
+        },
+        "quote": "Le temps commence doucement à se structurer."
+      },
+      "7": {
+        "title": "7. Le lien entre nous me semble :",
+        "options": {
+          "1": "complice",
+          "2": "chaleureux et vivant",
+          "3": "parfois mis à l’épreuve par l’opposition",
+          "4": "teinté de comparaison ou de rivalité",
+          "5": "nourri par le besoin de me prendre comme modèle"
+        },
+        "quote": "L’enfant veut grandir sans perdre le lien."
+      },
+      "8": {
+        "title": "8. Lorsque l’enfant montre quelque chose fait par ses soins :",
+        "options": {
+          "1": "attend ma réaction",
+          "2": "observe attentivement mon visage",
+          "3": "insiste pour que je regarde",
+          "4": "semble déçu si je ne remarque pas",
+          "5": "semble triste ou en colère si je passe à côté"
+        },
+        "quote": "Le regard parental reste profondément structurant."
+      },
+      "9": {
+        "title": "9. Dans cette période, je me sens :",
+        "options": {
+          "1": "fier(ère)",
+          "2": "parfois exigeant(e)",
+          "3": "inquiet(e) face aux comparaisons",
+          "4": "émerveillé(e) par ses progrès",
+          "5": "attentif(ve) à rassurer l’amour inconditionnel",
+          "6": "attaché(e) à valoriser les efforts",
+          "7": "soucieux(se) de rappeler à l’enfant sa singularité"
+        },
+        "quote": "L’enfant avance. Le parent ajuste sa présence."
+      },
+      "10": {
+        "title": "10. Ce qui me marque particulièrement en ce moment :",
+        "quote": "L’enfant devient plus capable. Je reste un repère."
+      }
+    },
+    "other": {
+      "title": "Précisez votre réponse",
+      "prompt": "Plus particulièrement :",
+      "audio": "Audio",
+      "save": "Enregistrer"
+    },
+    "articleBack": "Retour aux Repères",
+    "remember": "À retenir pour les parents",
+    "articles": {
+      "evolution": {
+        "title": "Évolution physique, affective et cognitive (4–5 ans)",
+        "summary": "Les grandes transformations du corps, de la pensée, du langage et des émotions.",
+        "p": {
+          "1": "Entre quatre et cinq ans, le développement gagne en stabilité. Le corps devient plus coordonné et les gestes plus précis. L’enfant court, saute et grimpe avec davantage d’assurance.",
+          "2": "La motricité fine progresse également : découper, dessiner, assembler et manipuler deviennent plus aisés.",
+          "3": "Sur le plan cognitif, la pensée commence à mieux organiser les actions. L’enfant comprend davantage les liens entre les situations, peut anticiper certaines étapes et suivre des consignes plus complexes.",
+          "4": "Le langage devient un véritable outil pour penser et partager : l’enfant raconte, explique, questionne et imagine.",
+          "5": "Sur le plan émotionnel, quelque chose s’affine également. Les émotions sont mieux identifiées, mais restent très dépendantes du contexte et du regard reçu.",
+          "6": "Se sentir capable devient essentiel. Le soutien de l’adulte participe profondément à la construction de l’estime de soi."
+        },
+        "points": {
+          "1": "Le corps et les gestes gagnent en précision.",
+          "2": "La pensée commence à mieux organiser et anticiper les actions.",
+          "3": "Le langage devient un outil pour raconter, expliquer et penser.",
+          "4": "Le sentiment de compétence prend une place importante.",
+          "5": "Le regard de l’adulte soutient profondément la confiance de l’enfant."
+        }
+      },
+      "estime": {
+        "title": "Estime de soi ou confiance en soi ?",
+        "summary": "Comprendre la différence entre « Je suis capable » et « J’ai de l’importance ».",
+        "p": {
+          "1": "À cet âge, l’enfant construit à la fois la confiance en soi et l’estime de soi.",
+          "2": "La confiance en soi concerne ce que l’enfant pense pouvoir faire : « Je suis capable. » Réussir une action, relever un défi ou apprendre quelque chose de nouveau la nourrit.",
+          "3": "L’estime de soi concerne le sentiment de sa propre valeur : « J’ai de l’importance. » Cette valeur demeure même lorsque l’enfant échoue ou doute.",
+          "4": "À cet âge, les deux peuvent encore se confondre. Une réussite peut donner le sentiment d’être « fort », tandis qu’un échec peut donner l’impression de valoir moins.",
+          "5": "Le rôle de l’adulte est alors essentiel : valoriser l’effort, reconnaître les progrès et soutenir sans réduire l’enfant à ses performances."
+        },
+        "points": {
+          "1": "La confiance en soi concerne ce que l’enfant se sent capable de faire.",
+          "2": "L’estime de soi concerne le sentiment d’avoir de la valeur.",
+          "3": "Réussite et valeur personnelle peuvent encore facilement se confondre.",
+          "4": "Valoriser l’effort et la progression évite de réduire l’enfant au résultat.",
+          "5": "L’enfant a besoin de sentir que sa valeur demeure, même lorsqu’une tentative échoue."
+        }
+      },
+      "phrases": {
+        "title": "Les 5 phrases fondatrices",
+        "summary": "Des paroles et des gestes qui peuvent soutenir la sécurité intérieure.",
+        "p": {
+          "1": "Certaines phrases peuvent soutenir durablement le sentiment de sécurité intérieure. Elles ne sont pas magiques : leur force vient de la relation et de leur cohérence avec les gestes.",
+          "2": "« Je t’aime comme tu es. »",
+          "3": "L’enfant se sent accueilli.",
+          "4": "« Tu peux essayer. »",
+          "5": "L’enfant se sent encouragé.",
+          "6": "« Tu as le droit de te tromper. »",
+          "7": "L’enfant apprend sans peur excessive de l’échec.",
+          "8": "« Je suis là si tu as besoin. »",
+          "9": "L’enfant se sent soutenu.",
+          "10": "« Tu es important pour moi. »",
+          "11": "L’enfant sent que sa présence compte.",
+          "12": "Les mots ne remplacent pas les gestes, le regard, la disponibilité ou la tendresse physique. Ils les accompagnent. Peu à peu, l’ensemble construit un socle intérieur sur lequel l’enfant pourra s’appuyer."
+        },
+        "points": {
+          "1": "Les paroles prennent leur valeur lorsqu’elles sont cohérentes avec la relation.",
+          "2": "L’enfant a besoin d’être aimé indépendamment de ses réussites.",
+          "3": "Encourager à essayer est plus structurant qu’exiger de réussir.",
+          "4": "Le droit à l’erreur protège le plaisir d’apprendre.",
+          "5": "Les mots, les gestes, le regard et la tendresse construisent ensemble la sécurité intérieure."
+        }
+      },
+      "dessin": {
+        "title": "L’évolution du dessin (3–5 ans)",
+        "summary": "Le dessin comme langage et trace sensible du monde intérieur.",
+        "p": {
+          "1": "Entre trois et cinq ans, le dessin se transforme profondément. Au début, l’enfant dessine surtout pour le plaisir du geste : la main bouge, le trait apparaît, puis le sens peut venir après.",
+          "2": "Vers trois-quatre ans apparaît souvent le « bonhomme têtard » : une tête entourée de bras et de jambes, sans véritable corps. Ce n’est pas une erreur, mais une représentation cohérente avec la manière dont l’enfant perçoit alors le personnage.",
+          "3": "Vers quatre-cinq ans, les personnages se complètent. Des détails apparaissent : yeux, vêtements, cheveux, mains. L’espace de la feuille commence également à s’organiser : la terre en bas, le ciel en haut, une maison, une famille, un soleil.",
+          "4": "Le dessin devient progressivement une scène intérieure. Il ne s’agit pas d’évaluer une performance artistique. Le dessin est un langage.",
+          "5": "Certaines caractéristiques peuvent parfois accompagner ce qui est vécu par l’enfant, mais le parent n’a pas besoin d’interpréter trop vite. Il peut regarder, écouter et accueillir. Décrire avant de questionner. Laisser l’enfant raconter ce qui a été représenté.",
+          "6": "Photographier certains dessins peut devenir une manière discrète de reconnaître la valeur de ce qui est exprimé."
+        },
+        "points": {
+          "1": "Le dessin évolue en même temps que la représentation du monde.",
+          "2": "Il constitue un langage autant qu’une création.",
+          "3": "Il n’est pas nécessaire de rechercher une performance artistique.",
+          "4": "Mieux vaut laisser l’enfant raconter son dessin que l’interpréter trop rapidement.",
+          "5": "Conserver certaines créations reconnaît la valeur de ce qui est exprimé."
+        },
+        "closing": {
+          "1": "L’enfant construit peu à peu sa place dans le monde."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 6–9 months"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • 6 TO 9 MONTHS"
+    },
+    "1": {
+      "title": "The world is explored, distance becomes possible",
+      "p": {
+        "1": "Between six and nine months, something visible happens. The baby sits up. Perhaps not on their own yet — but little by little, the back straightens, the hands are freed, the gaze rises. From up there, everything is different.",
+        "2": "The baby can grasp, handle things, look around. The floor becomes a place to explore. And the adult becomes a base — the one the child turns back to, to check that all is well.",
+        "3": "The baby moves away a little. Comes back with a look. Then sets off again. This movement — leaving and coming back — is at the heart of these three months. Exploration and attachment grow together."
+      },
+      "quote": "They are learning that the bond holds, even when they are not touching you."
+    },
+    "2": {
+      "intro": "Between six and nine months, the body becomes steadier, exploration grows and attachment becomes more differentiated. The baby can move further away, while still needing to come back to their secure base regularly.",
+      "quote": "The need for security remains central."
+    },
+    "4": {
+      "title": "What disappears comes back",
+      "p": {
+        "1": "Take an object the baby likes to hold — a small ball, a block, a familiar toy. Sit on the floor facing the baby. Show the object. Let the baby look at it, touch it.",
+        "2": "Then, slowly, while they watch, hide it under a cloth or in your closed hand. Wait. Watch their face.",
+        "3": "If the baby searches — reaches out, looks around or looks at you — gently lift the cloth: “There it is!” Often, a laugh comes. That laugh is not trivial: it is the relief of finding what had disappeared. The surprise that the world can be relied on.",
+        "4": "If the baby doesn’t search yet, that’s normal. Show them yourself: lift, name it, smile. Repeat two or three times. No more."
+      },
+      "quote": "What disappears can come back, and the bond remains.",
+      "invite": "We invite you to film or photograph this moment and add it to Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from these three months",
+      "items": {
+        "1": "A word.",
+        "2": "A sentence.",
+        "3": "A photo or a video.",
+        "4": "A burst of laughter.",
+        "5": "A gesture.",
+        "6": "A feeling.",
+        "7": "A moment of exploring.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "Here I keep our precious moments,<br></br>to give them to you one day and say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. When moving around, the baby is now:",
+      "options": {
+        "1": "more mobile",
+        "2": "more confident",
+        "3": "cautious",
+        "4": "a keen explorer"
+      },
+      "quote": "Exploring is a sign of maturity, not of drifting apart."
+    },
+    "2": {
+      "title": "2. When they discover a new object, the baby:",
+      "options": {
+        "1": "looks at it for a long time",
+        "2": "handles it from every angle",
+        "3": "puts it in their mouth",
+        "4": "looks at me to share it"
+      },
+      "quote": "Discovering means learning with the whole body."
+    },
+    "3": {
+      "title": "3. With people they don’t know, the baby:",
+      "options": {
+        "1": "watches from a distance",
+        "2": "moves closer to me",
+        "3": "cries",
+        "4": "alternates between curiosity and withdrawal"
+      },
+      "quote": "Wariness of strangers is a sign of differentiated attachment."
+    },
+    "4": {
+      "title": "4. When I am away, even briefly, the baby:",
+      "options": {
+        "1": "protests",
+        "2": "looks for me",
+        "3": "cries",
+        "4": "barely seems to react"
+      },
+      "field": "Roughly how long, on average:",
+      "blocks": {
+        "1": {
+          "lead": "Who or what soothes them after I leave?",
+          "options": {
+            "1": "the person looking after them",
+            "2": "an object with my scent",
+            "3": "a familiar toy",
+            "4": "a familiar piece of music"
+          }
+        }
+      },
+      "quote": "Separation becomes thinkable because the bond exists."
+    },
+    "5": {
+      "title": "5. I notice that the baby:",
+      "options": {
+        "1": "looks for an object that fell",
+        "2": "repeats an action to see what happens",
+        "3": "tests my reaction",
+        "4": "explores a new space"
+      },
+      "quote": "Understanding that something goes on existing changes the inner world."
+    },
+    "6": {
+      "title": "6. During this period, I feel more at ease:",
+      "options": {
+        "1": "letting them explore",
+        "2": "setting limits",
+        "3": "helping them through fears",
+        "4": "making the space safe"
+      },
+      "quote": "Supporting does not mean preventing: it means making safe."
+    },
+    "7": {
+      "title": "7. The bond between the baby and me feels:",
+      "options": {
+        "1": "more intense",
+        "2": "more exclusive",
+        "3": "sometimes more demanding",
+        "4": "in transformation"
+      },
+      "quote": "The bond deepens when distance becomes possible."
+    },
+    "8": {
+      "title": "8. If there are siblings, I keep a watchful eye and notice that:",
+      "options": {
+        "1": "their curiosity about each other is growing",
+        "2": "tensions are appearing",
+        "3": "tensions are disappearing",
+        "4": "the little one is imitating the older one more",
+        "5": "some older siblings are regressing",
+        "6": "each one is looking for their place"
+      },
+      "quote": "Each child adjusts their place in their own way."
+    },
+    "9": {
+      "title": "9. Has the baby’s environment changed these months, for example after:",
+      "options": {
+        "1": "a move",
+        "2": "starting nursery",
+        "3": "a change of childcare",
+        "4": "a trip"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Since these changes, I notice that the baby:",
+          "options": {
+            "1": "seeks my presence more, as their first attachment figure",
+            "2": "has found a substitute attachment figure when I’m away",
+            "3": "is more wary of new people",
+            "4": "reacts more strongly to separations",
+            "5": "tires more easily",
+            "6": "is gradually adapting"
+          }
+        }
+      },
+      "quote": "Sometimes a change simply needs time to settle."
+    },
+    "10": {
+      "title": "10. What these three months have changed in me as a parent:",
+      "quote": "Growing together transforms the relationship."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development",
+      "p": {
+        "1": "Between six and nine months, the baby enters a phase of active exploration. The body becomes steadier, moving around becomes more organised and handling objects becomes more precise. Emotionally, a major step appears: telling familiar figures apart from unfamiliar ones. Attachment becomes more selective.",
+        "2": "Exploration grows… but the secure base remains essential.",
+        "3": "<b>Motor skills and muscle tone</b>",
+        "4": "Little by little, the baby sits with less help, rolls over more easily, pivots, sometimes crawls on their tummy or starts crawling on all fours. The hands become freer to grab, bang, shake, let go on purpose and pass an object from one hand to the other.",
+        "5": "Sitting up deeply changes the way the world is discovered: the field of vision widens, the hands are free and the baby can observe their surroundings more.",
+        "6": "A safe space on the floor with a few simple objects is often enough. The body needs to find its balance gradually. Each baby follows their own path: some never crawl on their tummy, others never crawl on all fours. What matters is progress, not a set sequence.",
+        "7": "<b>Touch and sensory exploration</b>",
+        "8": "The hands become more and more precise tools for exploring. The baby discovers textures, shapes, weight and the sounds objects make. The mouth also remains a major way of exploring.",
+        "9": "Offering varied objects — soft, smooth, rough, light — lets them explore without overloading their surroundings.",
+        "10": "<b>The senses</b>",
+        "11": "The gaze becomes more intentional and follows movement better. Familiar voices are recognised more easily and tones of voice bring different reactions. The scent of attachment figures remains a soothing landmark.",
+        "12": "Food textures and flavours gradually become more varied, depending on family practices.",
+        "13": "<b>Stimulation and play: following their curiosity</b>",
+        "14": "At this age, the baby learns by doing: repeating, testing, imitating, watching the result of an action. Dropping an object again and again or banging two objects together is not just fidgeting: the baby is experimenting.",
+        "15": "Following their gaze and hands often shows what really interests the child. There is no need to lead the play all the time. Describing what the baby is doing is often enough to enrich the exchange and support the beginnings of language.",
+        "16": "<b>Object permanence: what disappears goes on existing</b>",
+        "17": "Around seven or eight months, the baby gradually begins to understand that an object goes on existing even when it leaves their field of vision. They may look for a ball hidden under a cloth or look behind a hand.",
+        "18": "This also changes the experience of separation: if what disappears goes on existing, absence gradually becomes thinkable. Paradoxically, this can make some separations harder for a while."
+      },
+      "points": {
+        "1": "Mobility and exploration grow together: offering a safe space lets the baby experiment.",
+        "2": "Each child follows their own motor rhythm; progress matters more than the order of milestones.",
+        "3": "Repeating, touching, mouthing, dropping and starting again are ways of learning.",
+        "4": "Object permanence builds up gradually and changes how absence is understood.",
+        "5": "The more the baby explores, the more it matters that they can return to a secure base."
+      }
+    },
+    "etranger": {
+      "title": "“Stranger anxiety” (around 8 months)",
+      "p": {
+        "1": "Around eight months, many babies show wariness of people they don’t know. This can show as crying, tensing up, withdrawing or immediately seeking their attachment figure.",
+        "2": "This is not a step backwards. It marks a step in cognitive and emotional maturity: the baby now tells familiar figures apart from strangers more clearly. They may also protest more when their attachment figure leaves the room.",
+        "3": "John Bowlby (1907–1990) – English psychiatrist and psychoanalyst. Pioneer of attachment in children.",
+        "4": "Bowlby stresses that during this period attachment becomes more selective: the secure base is identified more and more clearly.",
+        "5": "Donald W. Winnicott (1896–1971) – British paediatrician and psychoanalyst.",
+        "6": "Winnicott describes a gradually clearer distinction between self and other: the baby increasingly perceives that they are a separate person.",
+        "7": "T. Berry Brazelton (1918–2018) – American paediatrician, specialist in infant development.",
+        "8": "Brazelton observes that this period can bring temporary phases of disorganisation, especially during major changes.",
+        "9": "<b>Supporting separations</b>",
+        "10": "Announcing departures, even short ones, and coming back predictably gradually helps build trust. It is better not to slip away quietly to avoid tears: the baby needs to experience that the adult leaves and comes back.",
+        "11": "A familiar object, or one carrying a known scent, can sometimes make separation easier. If the baby is looked after by someone else, the stability and predictability of that presence gradually help a new secure bond to form."
+      },
+      "points": {
+        "1": "Wariness of strangers is a common step in maturing, not a step backwards.",
+        "2": "Attachment becomes more differentiated: the baby identifies more and more clearly the people who make up their secure base.",
+        "3": "Separations may become harder to live through for a while.",
+        "4": "Announcing the departure and coming back predictably helps build trust.",
+        "5": "Another stable, available person can gradually become an additional attachment figure."
+      }
+    },
+    "attachement": {
+      "title": "What is an attachment figure?",
+      "p": {
+        "1": "John Bowlby (1907–1990) – English psychiatrist and psychoanalyst. Pioneer of attachment in children.",
+        "2": "Bowlby showed that the baby is born with a biological need for closeness. An attachment figure is a person the child turns to when looking for safety and comfort.",
+        "3": "They become a secure base: the child can explore because they know they can come back. When the main attachment figure is away, the baby can gradually rely on another stable, available and reassuring person. So several attachment bonds can form.",
+        "4": "<b>The four forms of attachment</b>",
+        "5": "These forms describe ways of adapting, not destinies.",
+        "6": "1. Secure attachment — the baby may protest at separation but settles more easily on the adult’s return. They use the adult as a secure base to explore.<br></br>2. Insecure-avoidant attachment — the baby sometimes seems to react little to separation and plays down the expression of their emotional needs.<br></br>3. Insecure-ambivalent attachment — the baby may protest strongly and find it harder to settle on the adult’s return.<br></br>4. Disorganised attachment — the baby may show contradictory or frozen behaviour, especially in very insecure environments.",
+        "7": "So a well-attached child is not necessarily a child who stays close to the adult all the time. The security of the bond is precisely what gradually makes exploration possible.",
+        "8": "<b>Sleep: an often bumpy period</b>",
+        "9": "Sleep can become harder again between six and nine months. Motor development keeps the nervous system busy, separation anxiety may appear at bedtime and teething can also cause some waking.",
+        "10": "Keeping bedtime rituals fairly stable helps preserve landmarks. When the baby wakes at night, a calm, low-key presence can remind them that the adult is still there for them.",
+        "11": "When several major changes come at once — starting nursery, weaning, a change of childcare — spacing them out where possible can make adapting easier.",
+        "12": "<b>What this period asks of the parent</b>",
+        "13": "This period can be intense. The baby’s mobility grows and their need for security remains strong. Paradoxically, the more the baby explores, the more they may need to check that the adult is still there.",
+        "14": "There is no need to be available every moment. Predictability is essential: coming back when you said you would, responding consistently enough and offering a steady gaze when the baby turns round.",
+        "15": "That gaze can be enough to say: “I’m here, you can carry on.”"
+      },
+      "points": {
+        "1": "An attachment figure is a person the child can turn to for safety and comfort.",
+        "2": "Several attachment figures can form when the adults are stable, available and predictable enough.",
+        "3": "A secure attachment does not hold back independence: it gradually makes exploration possible.",
+        "4": "The back and forth between exploring and returning to the adult builds the child.",
+        "5": "Sleep can be temporarily disrupted by new motor skills, separations or teething.",
+        "6": "The baby does not need constant availability, but a presence that is predictable and consistent enough."
+      },
+      "closing": {
+        "1": "They are discovering the world. They are discovering distance. They are discovering that the bond holds. And in these invisible comings and goings, their inner confidence is quietly being built."
+      }
+    }
+  }
+}

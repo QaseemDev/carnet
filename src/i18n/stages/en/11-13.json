@@ -1,0 +1,272 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 11–13 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 11 TO 13"
+    },
+    "1": {
+      "title": "The fire within",
+      "p": {
+        "1": "Between eleven and thirteen, something catches fire.",
+        "2": "The body changes fast. Emotions can become more intense. The child may seem over the top, very sensitive… or, on the contrary, much quieter.",
+        "3": "Criticism shows up more. So does self-assertion. But behind this instability something deep is being built: an identity gradually looking for its shape.",
+        "4": "It is not necessarily against the parent. It is an inner transformation."
+      },
+      "quote": "The fire within transforms without destroying."
+    },
+    "2": {
+      "intro": "Between eleven and thirteen, the body changes quickly, emotions can be intense and critical thinking asserts itself. The need to differentiate grows but, paradoxically, the need for landmarks stays important.<br></br>The adult can welcome the emotion without accepting everything: staying available, holding the framework and keeping respect on all sides.",
+      "quote": "Opposition is not necessarily rejection. It is also part of becoming one’s own person."
+    },
+    "4": {
+      "title": "The “sticky note” ritual",
+      "p": {
+        "1": "When the child boils over, don’t immediately try to convince them or get a conversation going.",
+        "2": "Stay available. Hold the framework. Let the intensity come down.",
+        "3": "When calm returns, you can simply remind them:<br></br>“Even when we don’t agree, I’m here.”",
+        "4": "If words or behaviour were violent, they can be named afterwards: welcoming the emotion does not mean accepting disrespect.",
+        "5": "This way the child can move away to become their own person while knowing the bond is still within reach."
+      },
+      "quote": "Holding on to the bond never stops you holding the framework.",
+      "invite": "Once the storm has passed, we invite you to leave a trace of that moment of calm: a few written words or a voice message added to your Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from this time",
+      "items": {
+        "1": "An intense conversation.",
+        "2": "A conflict we got through.",
+        "3": "A big transformation.",
+        "4": "A step towards independence.",
+        "5": "An opinion stated firmly.",
+        "6": "A moment of closeness after a clash.",
+        "7": "A photo, a video or their voice.",
+        "8": "Or simply a moment I never want to forget."
+      },
+      "quote": "Here I gather our precious moments,<br></br>to give them to you one day and say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. In their relationship with their body, I notice the child:",
+      "options": {
+        "1": "sometimes seems thrown by the physical changes",
+        "2": "may feel out of step with their body",
+        "3": "tests limits through clothes, posture or attitude",
+        "4": "swings between pride in and rejection of their image",
+        "5": "becomes more sensitive to other people’s remarks",
+        "6": "shows a new unease in some situations",
+        "7": "shows more curiosity about sexuality",
+        "8": "closes up on some body-related subjects"
+      },
+      "blocks": {
+        "1": {
+          "lead": "The child’s style references are mostly:",
+          "options": {
+            "1": "a brand",
+            "2": "a family member",
+            "3": "a friend",
+            "4": "a public figure"
+          }
+        }
+      },
+      "quote": "The body gradually becomes part of who they are."
+    },
+    "2": {
+      "title": "2. In their emotions, the child:",
+      "options": {
+        "1": "goes quickly from calm to anger",
+        "2": "seems hypersensitive",
+        "3": "withdraws",
+        "4": "asks for support, sometimes clumsily",
+        "5": "gets emotionally overwhelmed",
+        "6": "finds it hard to calm down again"
+      },
+      "quote": "Intensity is looking for a balance."
+    },
+    "3": {
+      "title": "3. In the bond between us, the child:",
+      "options": {
+        "1": "pushes back more",
+        "2": "still asks for my opinion",
+        "3": "swings between closeness and distance",
+        "4": "refuses some conversations",
+        "5": "shares unexpected confidences",
+        "6": "prefers to confide some things to someone else"
+      },
+      "field": "If so, to whom?",
+      "quote": "Becoming one’s own person does not mean breaking the bond."
+    },
+    "4": {
+      "title": "4. In their thinking and learning, the child:",
+      "options": {
+        "1": "debates and forms personal opinions",
+        "2": "criticises injustice",
+        "3": "questions some rules",
+        "4": "looks for consistency",
+        "5": "often wants to be right",
+        "6": "is committed to their work",
+        "7": "procrastinates",
+        "8": "sometimes lacks method or focus",
+        "9": "compares themselves to others",
+        "10": "takes results as a personal judgement",
+        "11": "is a perfectionist"
+      },
+      "quote": "Their thinking asserts itself without being fully settled yet."
+    },
+    "5": {
+      "title": "5. In their social life, the child:",
+      "options": {
+        "1": "strongly favours the group",
+        "2": "favours a few close friendships",
+        "3": "fears being left out",
+        "4": "often changes groups",
+        "5": "easily follows others",
+        "6": "asserts what makes them different within the group"
+      },
+      "quote": "How others see them takes up more room."
+    },
+    "6": {
+      "title": "6. With screens and social media, the child:",
+      "options": {
+        "1": "shuts themselves away with their phone",
+        "2": "becomes sensitive to “likes”",
+        "3": "compares their image with others’",
+        "4": "seems influenced by certain role models",
+        "5": "finds it hard to manage screen time",
+        "6": "seems to find it hard to switch off",
+        "7": "accepts the rules set"
+      },
+      "quote": "The digital world sometimes amplifies what is already felt."
+    },
+    "7": {
+      "title": "7. Faced with failure, I notice the child:",
+      "options": {
+        "1": "takes it as a personal challenge to who they are",
+        "2": "fears how others see them more than the mistake itself",
+        "3": "judges themselves very harshly",
+        "4": "plays it down to protect themselves",
+        "5": "hides some difficulties",
+        "6": "becomes a perfectionist",
+        "7": "sometimes prefers to give up rather than face the difficulty"
+      },
+      "quote": "Failure can touch their self-image as much as the result."
+    },
+    "8": {
+      "title": "8. In their relationship with authority, the child:",
+      "options": {
+        "1": "challenges it",
+        "2": "tests limits",
+        "3": "looks for explanations",
+        "4": "respects the framework",
+        "5": "plays with the rules",
+        "6": "can become aggressive"
+      },
+      "quote": "A framework can reassure even when it is challenged."
+    },
+    "9": {
+      "title": "9. This year, I feel:",
+      "options": {
+        "1": "proud",
+        "2": "overwhelmed",
+        "3": "worried",
+        "4": "sometimes more distant",
+        "5": "sometimes closer",
+        "6": "still a landmark"
+      },
+      "quote": "Being present does not mean controlling everything."
+    },
+    "10": {
+      "title": "10. What particularly struck me or changed in our life this year:",
+      "field": "If there are siblings, how I feel about the relationships between them:",
+      "blocks": {
+        "1": {
+          "field": "In a blended family, how I feel about the relationships between everyone:"
+        }
+      },
+      "quote": "The relationship changes shape without necessarily losing its depth."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (11–13 years)",
+      "p": {
+        "1": "Between eleven and thirteen, preadolescence gradually sets in. The body changes under the effect of puberty. Self-image becomes more important, modesty may increase and how others see them takes on a new place.",
+        "2": "Peter Blos (1904–1997) – German-American psychoanalyst, specialist in adolescence.",
+        "3": "Blos describes a second individuation process in adolescence: the young person gradually differentiates from the parental figures to build more of their own identity.",
+        "4": "This differentiation can already show at this stage through more distance, criticism, modesty or opposition.",
+        "5": "Jay Giedd (born 1960) – American psychiatrist and neuroscience researcher, specialist in brain development in children and adolescents.",
+        "6": "His brain-imaging work helped show that the brain keeps undergoing major structural changes during adolescence, especially in the prefrontal regions involved in planning, inhibition and regulation.",
+        "7": "Sarah-Jayne Blakemore (born 1974) – British neuroscientist, specialist in brain development in adolescence.",
+        "8": "Her research looks in particular at the development of the “social brain” in adolescence and helps us understand why how others see them, social interactions and self-perception matter so much during this period.",
+        "9": "Taken together, this work shows that the brain’s different systems do not all develop at the same pace during adolescence. The systems involved in emotion, reward and social sensitivity go through major changes while the capacities for planning, inhibition and regulation are also still developing.",
+        "10": "This does not mean reducing the child’s behaviour to hormones or the brain. Personal history, relationships, and the family, school and social context remain essential."
+      },
+      "points": {
+        "1": "Bodily changes can deeply alter how the child relates to themselves.",
+        "2": "Emotional intensity may increase while the ability to regulate is still developing.",
+        "3": "How others see them becomes especially important.",
+        "4": "Swinging between confidence and fragility is common.",
+        "5": "The need to differentiate does not cancel the need for a stable, reliable adult."
+      }
+    },
+    "postit": {
+      "title": "The “sticky note” syndrome",
+      "p": {
+        "1": "The “sticky note syndrome” is a parenting metaphor here, not a clinical concept.",
+        "2": "At this age, the child may strongly seek the parent’s closeness and support and then, shortly after, abruptly pull away under the effect of an emotion, a remark, a conflict or how others see them.",
+        "3": "This back-and-forth can be confusing for the parent.",
+        "4": "The “sticky note” image suggests a simple stance: stay close enough to be found again, without “sticking” so tight that it stops them becoming their own person.",
+        "5": "The parent can welcome a return without humiliating the child for the earlier rejection. But that does not mean accepting everything.",
+        "6": "If words were hurtful or a limit was crossed, it is still important to be able to say calmly: “What happened hurt me. I hear your emotion, but this way of speaking to me is not acceptable.”",
+        "7": "Parental stability means combining availability and limits."
+      },
+      "points": {
+        "1": "Closeness and distance can alternate quickly at this age.",
+        "2": "An intense reaction is not necessarily aimed at the parent.",
+        "3": "Staying available keeps each step away from turning into a break.",
+        "4": "Welcoming the emotion does not mean accepting violence or disrespect.",
+        "5": "The parent can hold the bond and the framework at the same time."
+      }
+    },
+    "reseaux": {
+      "title": "Social media, information overload and a maturing brain",
+      "p": {
+        "1": "Between eleven and thirteen, the brain continues a major reorganisation. The capacities involved in planning, inhibition and emotional regulation are still developing, while the reward systems and social sensitivity are especially stimulated.",
+        "2": "Social media adds constant exposure to notifications, social comparison, other people’s reactions and quick rewards such as “likes”.",
+        "3": "We should avoid an over-simple picture, though: a “like” does not on its own create an addiction, and dopamine is not an “addiction molecule”. It plays a part in motivation, learning and anticipating reward.",
+        "4": "It is mainly repetition, unpredictable rewards, constant availability and difficulty stopping the activity that can encourage compulsive use in some young people.",
+        "5": "Late screen use can also delay falling asleep, through mental stimulation and exposure to light.",
+        "6": "A consistent digital framework therefore protects not only their time, but also sleep, attention, real relationships and the chance to do nothing.",
+        "7": "Boredom, too, leaves the brain room to think."
+      },
+      "points": {
+        "1": "The child’s brain is still maturing.",
+        "2": "Social media strongly draws on comparison and the search for social approval.",
+        "3": "Notifications and quick rewards can make switching off difficult.",
+        "4": "Night-time use can disrupt sleep.",
+        "5": "A digital framework works better when it protects sleep, attention and relationships than when it is presented only as a ban."
+      }
+    },
+    "charte": {
+      "title": "Family digital charter (11–13 years)",
+      "p": {
+        "1": "A digital charter works better when it is discussed rather than imposed without explanation.",
+        "2": "We suggest you discuss, change and adjust the following points together, then have the members of the family sign the charter:",
+        "3": "1. No phone in the bedroom at night.<br></br>2. No screens for at least an hour before bed.<br></br>3. The apps used are known and talked about.<br></br>4. Notifications can be limited.<br></br>5. Shocking content can be talked about without fear of an immediate reaction.<br></br>6. Constant multitasking is limited.<br></br>7. Adults and older family members set an example too.<br></br>8. The rules change with age and maturity.<br></br>9. Trust goes hand in hand with talking about safety and digital life.<br></br>10. The phone does not replace the relationship.",
+        "4": "The source document stresses the idea of a charter that is discussed, refined and changing rather than a fixed set of rules."
+      },
+      "points": {
+        "1": "Digital rules are more consistent when the adults live by them too.",
+        "2": "Protecting sleep is a priority.",
+        "3": "A charter can change as the child matures.",
+        "4": "Digital safety needs enough trust for the child to be able to tell you about what bothers or worries them.",
+        "5": "The aim of the framework is to protect the relationship, not to replace trust with surveillance."
+      },
+      "closing": {
+        "1": "A steady landmark lets the child go through the change without getting lost in it."
+      }
+    }
+  }
+}

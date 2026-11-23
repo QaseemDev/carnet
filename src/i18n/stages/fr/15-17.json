@@ -1,0 +1,294 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 15-17 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 15 À 17 ANS"
+    },
+    "1": {
+      "title": "Le forgeron de soi",
+      "p": {
+        "1": "Entre quinze et dix-sept ans, quelque chose se consolide.",
+        "2": "Le corps s’apaise progressivement. Les traits s’affirment. La voix intérieure devient plus audible.",
+        "3": "« Je façonne qui je suis. »",
+        "4": "Ce n’est plus seulement une transformation. C’est une construction.",
+        "5": "Les choix deviennent plus personnels. Les valeurs s’affirment. Les relations sont davantage choisies. L’avenir commence à devenir concret.",
+        "6": "Sous une assurance parfois nouvelle, une question demeure :",
+        "7": "« Qui ai-je envie de devenir ? »"
+      },
+      "quote": "Se construire, c’est commencer à choisir ce que l’on veut faire de soi."
+    },
+    "2": {
+      "intro": "Entre quinze et dix-sept ans, l’identité personnelle s’affirme, les valeurs se structurent et la pensée devient davantage réflexive et prospective. L’enfant revendique une autonomie croissante tandis que certains choix commencent réellement à engager l’avenir.<br></br>La place du parent évolue : moins décider à la place, davantage dialoguer, questionner, transmettre et rester disponible.<br></br>L’autonomie n’efface pas le besoin de lien. Elle transforme la manière de l’accompagner.",
+      "quote": "L’autorité évolue. Le lien demeure."
+    },
+    "4": {
+      "title": "La lettre de confiance",
+      "p": {
+        "1": "À cet âge, l’avenir commence à prendre forme. Des envies apparaissent, certaines disparaissent, d’autres reviennent. Il ne s’agit pas de prédire ce que l’enfant deviendra, mais de garder une trace de ce qui semble l’animer aujourd’hui.",
+        "2": "Prendre un moment pour écrire quelques lignes sur ce qui est observé : une force, une valeur, une passion, une manière de penser, une qualité relationnelle, mais aussi les chemins qui semblent actuellement attirer l’enfant.",
+        "3": "Pas ce que l’on voudrait que l’enfant devienne.<br></br>Ce que l’on observe aujourd’hui.",
+        "4": "La lettre peut se terminer simplement par :<br></br>« Je ne sais pas encore quel chemin tu choisiras."
+      },
+      "fields": {
+        "1": "Pendant ces deux années, je t’ai senti particulièrement attiré par…"
+      },
+      "after": "Je te fais confiance pour construire progressivement ton chemin. Et si tu as besoin de moi, je suis là. »",
+      "quote": "Faire confiance, c’est aussi accepter de ne pas écrire l’avenir à la place de l’enfant.",
+      "invite": "Nous invitons toute personne désirant garder une trace de ce moment à déposer une lettre, écrite ou enregistrée, dans Carnet de Vie. L’enfant pourra ainsi découvrir un jour ce qui, dans le regard de cette personne, semblait l’animer à cette période de sa vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette période",
+      "items": {
+        "1": "Une discussion décisive.",
+        "2": "Un conflit qui a fait évoluer la relation.",
+        "3": "Un choix important.",
+        "4": "Une étape d’autonomie.",
+        "5": "Une valeur affirmée.",
+        "6": "Une passion.",
+        "7": "Un rêve pour l’avenir.",
+        "8": "Un moment où l’enfant a pris une décision personnelle.",
+        "9": "Une photo, une vidéo ou sa voix.",
+        "10": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Dans son rapport à soi, je remarque que l’enfant :",
+      "options": {
+        "1": "assume davantage ses opinions",
+        "2": "change parfois profondément d’avis",
+        "3": "affirme des choix personnels",
+        "4": "cherche à se distinguer",
+        "5": "doute intérieurement",
+        "6": "exprime une quête de sens"
+      },
+      "quote": "L’identité se forge."
+    },
+    "2": {
+      "title": "2. Dans son rapport à l’autonomie, l’enfant :",
+      "options": {
+        "1": "prend des décisions sans me consulter",
+        "2": "assume certaines responsabilités",
+        "3": "demande davantage de liberté en respectant le cadre",
+        "4": "demande davantage de liberté sans toujours respecter le cadre",
+        "5": "négocie les horaires et les règles",
+        "6": "teste ma confiance",
+        "7": "apprend à gérer son argent",
+        "8": "gère certaines situations complexes de façon autonome",
+        "9": "revient vers moi en cas de difficulté",
+        "10": "revendique son indépendance tout en restant attaché"
+      },
+      "quote": "L’autonomie se construit par essais, erreurs et ajustements."
+    },
+    "3": {
+      "title": "3. Dans ses relations, l’enfant :",
+      "options": {
+        "1": "choisit ses amitiés avec discernement",
+        "2": "semble parfois influencé dans ses choix relationnels",
+        "3": "privilégie des relations respectueuses",
+        "4": "reste parfois dans des relations qui semblent faire souffrir",
+        "5": "vit des relations amoureuses",
+        "6": "sait mettre fin à certains liens",
+        "7": "a du mal à s’éloigner de certaines relations",
+        "8": "se détache progressivement du groupe",
+        "9": "reste profondément attaché au groupe"
+      },
+      "quote": "L’appartenance devient plus sélective."
+    },
+    "4": {
+      "title": "4. Dans ses valeurs et ses convictions, l’enfant :",
+      "options": {
+        "1": "défend certaines causes",
+        "2": "remet en question certaines normes",
+        "3": "s’engage",
+        "4": "développe une pensée personnelle structurée",
+        "5": "adopte parfois des positions très tranchées",
+        "6": "a du mal à faire respecter ses convictions",
+        "7": "sait défendre une position sans imposer"
+      },
+      "quote": "Les valeurs commencent à donner une direction."
+    },
+    "5": {
+      "title": "5. Face à l’avenir, l’enfant :",
+      "options": {
+        "1": "se projette clairement",
+        "2": "hésite fortement",
+        "3": "change souvent d’idée",
+        "4": "ressent la pression scolaire",
+        "5": "semble inquiet face à l’avenir",
+        "6": "cherche parfois à me rassurer",
+        "7": "parle de ses rêves professionnels",
+        "8": "garde certains projets pour soi",
+        "9": "semble animé par une vocation",
+        "10": "doute de ses capacités"
+      },
+      "field": "Ce qui semble particulièrement rendre l’enfant vivant et enthousiaste :",
+      "quote": "L’avenir devient concret sans devoir être déjà décidé."
+    },
+    "6": {
+      "title": "6. Dans son rapport au corps, aux activités et aux écrans, l’enfant :",
+      "options": {
+        "1": "met son corps en valeur",
+        "2": "cache son corps",
+        "3": "cherche à le transformer",
+        "4": "s’investit fortement dans un sport",
+        "5": "abandonne certaines activités",
+        "6": "découvre de nouvelles passions",
+        "7": "s’engage dans une activité artistique ou créative",
+        "8": "gère son temps d’écran de façon autonome",
+        "9": "a du mal à réguler son temps d’écran",
+        "10": "se compare sur les réseaux sociaux",
+        "11": "cherche la validation",
+        "12": "montre une distance critique"
+      },
+      "quote": "Le corps, les passions et les rêves participent à la construction de soi."
+    },
+    "7": {
+      "title": "7. Face à l’échec, l’enfant :",
+      "options": {
+        "1": "relativise",
+        "2": "dramatise",
+        "3": "apprend de ses erreurs",
+        "4": "se montre très exigeant envers soi",
+        "5": "doute profondément",
+        "6": "cherche ce qui peut être amélioré",
+        "7": "a tendance à attribuer la responsabilité uniquement aux autres"
+      },
+      "quote": "L’échec peut devenir une expérience plutôt qu’un verdict."
+    },
+    "8": {
+      "title": "8. Dans le dialogue entre nous, l’enfant :",
+      "options": {
+        "1": "accepte la discussion",
+        "2": "conteste avec des arguments",
+        "3": "évite certains conflits",
+        "4": "recherche parfois la confrontation",
+        "5": "recherche encore mon regard",
+        "6": "accepte que nous ne soyons pas d’accord",
+        "7": "me demande conseil sans nécessairement le suivre"
+      },
+      "quote": "Le dialogue se transforme lorsque chacun peut garder sa place."
+    },
+    "9": {
+      "title": "9. Cette année, je me sens :",
+      "options": {
+        "1": "fier(ère)",
+        "2": "inquiet(e)",
+        "3": "dépassé(e)",
+        "4": "confiant(e)",
+        "5": "ému(e)",
+        "6": "parfois déstabilisé(e) par son autonomie",
+        "7": "toujours un repère"
+      },
+      "quote": "Accompagner devient progressivement apprendre à laisser choisir."
+    },
+    "10": {
+      "title": "10. Ce qui m’a particulièrement marqué ou ce qui a changé dans notre vie cette année :",
+      "field": "Dans le cas d’une fratrie, ce que je ressens du rapport entre chacun :",
+      "blocks": {
+        "1": {
+          "field": "Dans le cas d’une famille recomposée, ce que je ressens du rapport entre chacun :"
+        }
+      },
+      "quote": "Le lien change lorsque l’enfant devient progressivement auteur de ses choix."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (15–17 ans)",
+      "p": {
+        "1": "Entre quinze et dix-sept ans, l’enfant n’est plus tout à fait un enfant et pas encore un adulte.",
+        "2": "Le corps a progressivement trouvé une forme plus stable, même si l’image corporelle peut rester source d’insatisfaction ou de questionnement.",
+        "3": "La question n’est plus seulement :<br></br>« Qui suis-je ? »<br></br>Elle devient aussi :<br></br>« Qui ai-je envie de devenir ? »",
+        "4": "Erik Erikson (1902–1994) – Psychologue et psychanalyste germano-américain, spécialiste du développement psychosocial.",
+        "5": "Erikson décrit l’adolescence comme une période centrale de construction de l’identité. Les valeurs, les choix, les engagements et les différentes appartenances sont progressivement intégrés dans une représentation plus cohérente de soi.",
+        "6": "Peter Blos (1904–1997) – Psychanalyste germano-américain, spécialiste de l’adolescence.",
+        "7": "Blos décrit le second processus d’individuation comme un mouvement permettant progressivement de se différencier des représentations parentales de l’enfance et de construire une position plus autonome.",
+        "8": "Il ne s’agit donc plus seulement de prendre de la distance. Il s’agit progressivement de pouvoir se positionner comme sujet de ses propres choix.",
+        "9": "Sur le plan cérébral, le cortex préfrontal et les réseaux qui participent notamment à la planification, à l’anticipation et au contrôle cognitif poursuivent leur maturation.",
+        "10": "La pensée devient plus réflexive et prospective. L’enfant peut davantage analyser différentes possibilités et se projeter dans l’avenir, même si l’émotion peut encore peser fortement lorsque les enjeux touchent à l’amour, au rejet, à l’appartenance ou à la reconnaissance.",
+        "11": "L’avenir devient plus concret : études, métier, indépendance, relations, société, environnement ou transformations technologiques peuvent désormais susciter autant d’enthousiasme que d’inquiétude.",
+        "12": "Le lien parental se réorganise lui aussi. L’autorité ne disparaît pas nécessairement : elle évolue progressivement vers davantage de dialogue."
+      },
+      "points": {
+        "1": "L’identité se construit progressivement autour des valeurs, des choix et des engagements.",
+        "2": "Se différencier des parents participe à l’autonomie sans nécessiter une rupture du lien.",
+        "3": "Les capacités d’anticipation et de réflexion continuent à se développer.",
+        "4": "L’avenir devient concret et peut susciter à la fois désir et inquiétude.",
+        "5": "L’autorité parentale peut progressivement évoluer vers davantage de dialogue sans disparaître."
+      }
+    },
+    "charte": {
+      "title": "Charte parentale (15–17 ans)",
+      "p": {
+        "1": "À cet âge, accompagner demande un ajustement délicat : rester parent sans continuer à traiter l’enfant comme un petit enfant.",
+        "2": "Le document propose dix repères simples.",
+        "3": "<b>1. Offrir un cadre clair mais évolutif.</b><br></br>Les libertés peuvent augmenter avec la capacité à assumer les responsabilités qui les accompagnent.",
+        "4": "<b>2. Parler en « je », sans jugement ni comparaison.</b><br></br>Dire ce que l’on ressent ou ce dont on a besoin ouvre davantage le dialogue que définir l’autre.",
+        "5": "<b>3. Clarifier ses propres peurs avant de les projeter.</b><br></br>Une inquiétude parentale légitime ne signifie pas nécessairement qu’un danger est présent.",
+        "6": "<b>4. Ouvrir des espaces d’écoute sans interruption.</b><br></br>Écouter avant de répondre permet parfois de découvrir une réalité différente de celle imaginée.",
+        "7": "<b>5. Montrer un intérêt réel pour l’univers de l’enfant.</b><br></br>S’intéresser sans envahir permet de rester relié.",
+        "8": "<b>6. Différencier les désirs et les besoins.</b><br></br>Tout désir n’est pas un besoin, mais tout besoin mérite d’être entendu.",
+        "9": "<b>7. Soutenir les rêves sans imposer les siens.</b><br></br>Le projet de l’enfant n’a pas à réparer ou prolonger celui du parent.",
+        "10": "<b>8. Accepter de demander de l’aide si nécessaire.</b><br></br>Chercher un soutien extérieur peut être une ressource lorsque la situation dépasse ce que la famille peut traverser seule.",
+        "11": "<b>9. Accueillir l’émotion sans proposer immédiatement une solution.</b><br></br>Parfois, être entendu est déjà ce qui est nécessaire.",
+        "12": "<b>10. Rester parent référent, pas ami.</b><br></br>Le dialogue peut devenir plus horizontal sans effacer la différence des places."
+      },
+      "points": {
+        "1": "L’autonomie demande un cadre capable d’évoluer.",
+        "2": "Parler de soi évite davantage de définir ou juger l’enfant.",
+        "3": "Écouter ne signifie pas nécessairement approuver.",
+        "4": "Les rêves de l’enfant n’ont pas à correspondre aux projets du parent.",
+        "5": "La qualité de la relation reste le socle lorsque l’autonomie augmente."
+      }
+    },
+    "vigilance": {
+      "title": "Vulnérabilités et zones de vigilance",
+      "p": {
+        "1": "Entre quinze et dix-sept ans, l’enfant peut paraître beaucoup plus solide tout en traversant encore une période de sensibilité importante.",
+        "2": "Le besoin d’appartenance, d’amour, de reconnaissance et de liberté reste puissant. Certaines expériences peuvent conduire à tester les limites ou à rechercher davantage de sensations.",
+        "3": "Cela peut parfois prendre la forme de conduites à risque : consommation d’alcool ou de substances, sexualité non protégée, exposition à la pornographie, jeux d’argent, défis dangereux ou conduite imprudente.",
+        "4": "Il ne s’agit pas nécessairement d’un basculement durable. Mais banaliser ces conduites serait tout aussi inadéquat que les dramatiser systématiquement.",
+        "5": "D’autres difficultés sont moins visibles : troubles du comportement alimentaire, rapport conflictuel au corps, isolement prolongé, perte d’élan, irritabilité persistante, hyperconnexion numérique ou repli social.",
+        "6": "Ces manifestations ne constituent pas à elles seules un diagnostic. Leur intensité, leur durée, leur accumulation et leur retentissement sur la vie quotidienne doivent être pris en compte.",
+        "7": "Le document source insiste justement sur plusieurs facteurs protecteurs : une présence adulte stable, un cadre sans humiliation, une parole ouverte sur les sujets sensibles et la possibilité de demander de l’aide lorsque cela devient nécessaire.",
+        "8": "La vigilance n’est pas la peur. C’est une attention aimante."
+      },
+      "points": {
+        "1": "Une apparente maturité n’exclut pas une vulnérabilité intérieure.",
+        "2": "Certaines prises de risque peuvent accompagner l’exploration, mais elles ne doivent pas être banalisées.",
+        "3": "Un changement durable de comportement mérite davantage d’attention qu’un épisode isolé.",
+        "4": "Maintenir le dialogue facilite la possibilité de demander de l’aide.",
+        "5": "Lorsque les difficultés deviennent importantes ou persistantes, un professionnel peut apporter un soutien nécessaire."
+      }
+    },
+    "poisons": {
+      "title": "Les 5 poisons relationnels",
+      "p": {
+        "1": "À cet âge, les stratégies de domination risquent de fermer rapidement le dialogue. Le document identifie cinq attitudes particulièrement problématiques dans la relation parent-enfant.",
+        "2": "<b>1. L’injonction</b><br></br>❌ « Fais ce que je te dis. »<br></br>✔ « Je te propose mon approche. Qu’en penses-tu ? »",
+        "3": "<b>2. La menace</b><br></br>❌ « Je t’interdis de faire ceci. »<br></br>✔ « Je ne suis pas d’accord et j’aimerais comprendre ce qui te pousse à prendre ce risque. »",
+        "4": "<b>3. La comparaison, la dévalorisation et le jugement</b><br></br>❌ « Ton frère, à ton âge, y arrivait sans problème. »<br></br>✔ « Qu’est-ce qui te pose problème et comment pourrais-je t’aider ? »",
+        "5": "<b>4. La culpabilisation</b><br></br>❌ « Après tout ce qu’on fait pour toi, tu continues à ignorer la règle des horaires ! »<br></br>✔ « Je suis inquiet lorsque tu rentres tard. J’aimerais que nous en parlions. »",
+        "6": "<b>5. Le chantage affectif</b><br></br>❌ « Si tu continues, ne compte plus sur moi. »<br></br>✔ « J’ai besoin de pouvoir continuer à te faire confiance. Lorsque cet accord n’est pas respecté, j’ai besoin que nous trouvions ensemble comment rétablir cette confiance. »",
+        "7": "La Communication NonViolente invite notamment à distinguer observation, ressenti, besoin et demande, plutôt qu’à définir ou accuser l’autre.",
+        "8": "Cette manière de communiquer ne concerne d’ailleurs pas seulement les parents : le respect attendu doit pouvoir fonctionner dans les deux sens.",
+        "9": "L’autorité n’est pas la domination. Elle peut rester une cohérence, une responsabilité et un cadre."
+      },
+      "points": {
+        "1": "L’injonction, la menace, la comparaison, la culpabilisation et le chantage affectif fragilisent le dialogue.",
+        "2": "Parler en « je » permet d’exprimer une limite sans définir l’autre.",
+        "3": "Comprendre une motivation ne signifie pas accepter le comportement.",
+        "4": "Le respect relationnel doit fonctionner dans les deux sens.",
+        "5": "L’autorité peut rester ferme sans devenir humiliante ou dominante."
+      },
+      "closing": {
+        "1": "Le forgeron travaille le métal chaud. Mais c’est la stabilité du feu qui permet la solidité."
+      }
+    }
+  }
+}

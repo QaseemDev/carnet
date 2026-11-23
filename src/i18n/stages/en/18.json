@@ -1,0 +1,245 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 18 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGE 18"
+    },
+    "1": {
+      "title": "The keeper of their story",
+      "p": {
+        "1": "Eighteen.",
+        "2": "A symbolic age. A threshold.",
+        "3": "In many countries, the child legally becomes an adult. But a life doesn’t suddenly change on the day of a birthday.",
+        "4": "What may change is the way we look back on the road travelled.",
+        "5": "The years gone by can be seen with more distance. What was lived together can appear in a new light.",
+        "6": "The family story doesn’t disappear.<br></br>It can become a resource.",
+        "7": "Receiving a story doesn’t mean having to repeat it. It means being able to recognise what was passed on, to understand what helped shape a person… and to stay free to invent what comes next."
+      },
+      "quote": "A story received can become something to lean on without becoming an imposed path."
+    },
+    "2": {
+      "intro": "At eighteen, psychological, emotional, relational and material independence naturally keeps on growing.<br></br>For those who have walked alongside the child, something changes too: it is no longer only about protecting, guiding or passing on, but gradually about recognising a young adult able to make their own choices.<br></br>Societies have always sought to give this passage a symbolic form. Rites made it possible to recognise that a child was gradually taking on a new responsibility and a different place in the community.<br></br>Carnet de Vie follows this idea in its own way: making a story visible so that it can be recognised without confining anyone.",
+      "quote": "Recognising the road travelled also means setting free the one who will keep writing it."
+    },
+    "4": {
+      "title": "The threshold message",
+      "p": {
+        "1": "Eighteen perhaps deserves something more than a simple “happy birthday”.<br></br>Not necessarily a grand speech.<br></br>Just a few words that acknowledge the passage.",
+        "2": "Anyone who wishes to — parent, grandparent, brother, sister, family member, godparent, friend or loved one — can leave a personal message.",
+        "3": "One question can guide this testimony:<br></br>“When I look at you today, at 18, what do I especially recognise in you, and what would I like to wish you for what comes next?”",
+        "4": "It might be a quality noticed since childhood, a shared memory, a change that is especially moving, a strength discovered over the years, or simply a few words for the future.",
+        "5": "There is no need to give advice.<br></br>There is no need to say what the young adult should become.<br></br>It is simply about bearing witness to what is seen and felt today."
+      },
+      "quote": "Recognising someone also means leaving them free to become other than what we imagine.",
+      "invite": "We invite anyone who wishes to keep a trace of this passage to leave their message, written, audio or video, in Carnet de Vie. One day, the young adult will be able to rediscover how they were seen at the time they turned 18."
+    },
+    "5": {
+      "title": "What I choose to keep from their 18th birthday",
+      "items": {
+        "1": "A photo of the day.",
+        "2": "The people who were there.",
+        "3": "A burst of laughter.",
+        "4": "A voice.",
+        "5": "A party or a very simple moment.",
+        "6": "A project that drives them.",
+        "7": "An important friendship or relationship.",
+        "8": "A symbolic object.",
+        "9": "A song tied to this time.",
+        "10": "A place that matters.",
+        "11": "A few words spoken that day.",
+        "12": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "Here I leave the traces of this threshold,<br></br>so that one day they also tell who you were at 18."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Today, what I especially recognise in this young adult:",
+      "options": {
+        "1": "an ability to make decisions",
+        "2": "a strong sensitivity",
+        "3": "a personal way of thinking about the world",
+        "4": "a creativity all their own",
+        "5": "a clear-sightedness about certain experiences",
+        "6": "an ability to find their own way",
+        "7": "an inner strength",
+        "8": "an ability to build connections"
+      },
+      "quote": "Growing up also means letting a unique way of being in the world emerge."
+    },
+    "2": {
+      "title": "2. Of everything that has changed over the years, what especially moves me today:",
+      "options": {
+        "1": "their independence",
+        "2": "their way of thinking",
+        "3": "their way of loving",
+        "4": "their values",
+        "5": "their sensitivity",
+        "6": "their choices",
+        "7": "their passions",
+        "8": "how they relate to others"
+      },
+      "quote": "Time sometimes reveals what we couldn’t yet see."
+    },
+    "3": {
+      "title": "3. What seems to have changed in their way of being in the world",
+      "blocks": {
+        "1": {
+          "lead": "Today, I notice that this young adult:",
+          "options": {
+            "1": "says more freely what they think",
+            "2": "knows better what suits them and what doesn’t",
+            "3": "makes more personal choices",
+            "4": "takes their place more fully in relationships",
+            "5": "accepts certain differences more easily",
+            "6": "is better at setting their limits",
+            "7": "seems more attentive to their needs",
+            "8": "owns certain vulnerabilities more",
+            "9": "sees others with more nuance",
+            "10": "sees their own story with more nuance"
+          }
+        }
+      },
+      "quote": "Becoming an adult also means gradually building one’s own way of being in the world."
+    },
+    "4": {
+      "title": "4. When I look back on these eighteen years, I feel:",
+      "options": {
+        "1": "appreciation",
+        "2": "pride",
+        "3": "gratitude",
+        "4": "emotion",
+        "5": "wonder at the road travelled",
+        "6": "nostalgia",
+        "7": "confidence in what comes next",
+        "8": "several of these feelings at once"
+      },
+      "quote": "Every story is made of imperfect and precious moments."
+    },
+    "5": {
+      "title": "5. What seems to have mattered most in shaping who they are:",
+      "options": {
+        "1": "certain encounters",
+        "2": "family",
+        "3": "friendships",
+        "4": "a passion",
+        "5": "successes",
+        "6": "certain difficulties overcome",
+        "7": "travels or discoveries",
+        "8": "separations or changes"
+      },
+      "quote": "Some experiences pass. What they built sometimes remains."
+    },
+    "6": {
+      "title": "6. What seems to drive them today:",
+      "options": {
+        "1": "plans for further study",
+        "2": "a career plan",
+        "3": "a passion",
+        "4": "a relationship",
+        "5": "the wish to discover the world",
+        "6": "a commitment",
+        "7": "a creative project",
+        "8": "a search that is still open"
+      },
+      "quote": "At eighteen, not knowing yet can also be part of the journey."
+    },
+    "7": {
+      "title": "7. Of what our family has passed on, what I would especially like to remain a resource:",
+      "options": {
+        "1": "certain values",
+        "2": "a way of loving",
+        "3": "a sense of family",
+        "4": "freedom",
+        "5": "curiosity",
+        "6": "respect",
+        "7": "generosity",
+        "8": "the ability to get back up"
+      },
+      "quote": "Passing on is not asking someone to do the same."
+    },
+    "8": {
+      "title": "8. And of what has been passed on, I also accept that the young adult may:",
+      "options": {
+        "1": "question certain values",
+        "2": "do things differently",
+        "3": "change certain family habits",
+        "4": "choose another way of living",
+        "5": "step back from certain beliefs",
+        "6": "transform what they received"
+      },
+      "quote": "Receiving a story doesn’t oblige anyone to repeat it."
+    },
+    "9": {
+      "title": "9. If there were something I would like to tell them today:",
+      "note": "This message can be written, recorded as audio or filmed.",
+      "quote": "Words passed on can stay with someone for a long time."
+    },
+    "10": {
+      "title": "10. What I want to remember of their 18th birthday:",
+      "field": "The place:",
+      "blocks": {
+        "1": {
+          "field": "The people who were there:"
+        },
+        "2": {
+          "field": "What is happening in their life right now:"
+        },
+        "3": {
+          "field": "What especially struck me:"
+        }
+      },
+      "quote": "A birthday passes. The trace of what it meant can remain."
+    }
+  },
+  "articles": {
+    "rites": {
+      "title": "Rites of passage and transmission",
+      "p": {
+        "1": "In many societies, moving from one age or status to another has been marked by rites.",
+        "2": "The source document recalls several religious or cultural forms: Bar or Bat Mitzvah in Judaism, confirmation in Christianity, Upanayana in some Hindu traditions, as well as various forms of initiation or temporary withdrawal from the community in traditional societies.",
+        "3": "The forms are extremely different, but a shared purpose appears: making a passage visible.",
+        "4": "Arnold van Gennep (1873–1957) – French ethnologist and folklorist.",
+        "5": "Van Gennep devoted his work to rites of passage, which accompany life’s great transitions and allow a change of status to be recognised symbolically. The source document draws on this very idea to think about the passage into adulthood.",
+        "6": "Joseph Campbell (1904–1987) – American professor of literature and specialist in comparative mythology.",
+        "7": "The source document links Campbell to the stories in which the passage from childhood to independence takes the form of a symbolic journey.",
+        "8": "In today’s societies, the markers of entry into adulthood are often more blurred.",
+        "9": "The 18th birthday can then become a symbolic moment: not to declare that a person is suddenly “complete”, but to recognise the road travelled and the new place that is starting to take shape.",
+        "10": "Carnet de Vie can be part of this passage by giving concrete form to a story until now scattered across memories, images, voices and tales."
+      },
+      "points": {
+        "1": "Societies have often marked life’s great transitions with rites.",
+        "2": "A rite makes a change of place or status visible.",
+        "3": "Eighteen can be a symbolic threshold without meaning that development is over.",
+        "4": "Recognising the passage doesn’t mean imposing a direction for what comes next.",
+        "5": "Carnet de Vie can give this recognition a contemporary, family form."
+      }
+    },
+    "histoire": {
+      "title": "Receiving one’s story without having to repeat it",
+      "p": {
+        "1": "A family story passes on much more than memories.",
+        "2": "It passes on values, ways of loving, habits, stories, beliefs, silences, strengths and sometimes vulnerabilities.",
+        "3": "But receiving doesn’t mean having to repeat.",
+        "4": "The source document states this intention very clearly: Carnet de Vie seeks to make a story visible so that it can be received without confining anyone. The aim is to offer something to lean on, from which the young adult can carry on along their own path.",
+        "5": "At eighteen, this distinction becomes especially important.",
+        "6": "The young adult can recognise what they were given and, gradually, decide:<br></br>what they want to keep,<br></br>what they want to transform,<br></br>what they want to understand differently,<br></br>and sometimes what they want to leave behind.",
+        "7": "This takes nothing away from those who passed it on.",
+        "8": "On the contrary, a fully living transmission accepts being transformed by the one who receives it.",
+        "9": "So Carnet de Vie doesn’t say:<br></br>“This is who you are.”<br></br>Rather, it says:<br></br>“Here is part of your story as those who walked alongside you lived it and saw it. Now it’s up to you to carry on along your path.”"
+      },
+      "points": {
+        "1": "A family story can be a resource without becoming an obligation.",
+        "2": "Passing on doesn’t mean asking the young adult to repeat the choices or values of those who came before.",
+        "3": "Some things passed on will be kept, others questioned or transformed.",
+        "4": "Accepting this transformation is part of the process of passing on.",
+        "5": "Carnet de Vie offers a story and traces; it doesn’t define the identity of the one who receives them."
+      },
+      "closing": {
+        "1": "Growing up means making peace with one’s story in order to move forward."
+      }
+    }
+  }
+}

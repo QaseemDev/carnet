@@ -1,0 +1,229 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 9–11 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 9 TO 11"
+    },
+    "1": {
+      "title": "The quiet questioner",
+      "p": {
+        "1": "Between nine and eleven, something shifts inward. The child sometimes talks less, but thinks more. The child observes, compares, wonders.",
+        "2": "“Why does that exist?” “And where do I fit in all this?” The questions grow deeper. The world is no longer always enough as it is: the child seeks to understand its meaning and also begins to look for the place that is theirs.",
+        "3": "Some silences appear. Not necessarily as a withdrawal, but as the gradual building of an inner territory."
+      },
+      "quote": "An inner life is taking shape."
+    },
+    "2": {
+      "intro": "Between nine and eleven, reflection comes before action more often, existential questions emerge and thinking gradually grows more complex. Emotional expression may become more restrained and the first changes of preadolescence may appear.<br></br>The child needs a space of their own while knowing that the adult is still available. Respecting some silences does not mean ignoring possible distress.",
+      "quote": "Being present without intruding lets the child build their inner space."
+    },
+    "4": {
+      "title": "The available moment",
+      "p": {
+        "1": "Choose a calm moment, with no screens or distractions, without necessarily trying to start a conversation.",
+        "2": "You can simply say:<br></br>“If one day you feel like talking to me about something, even if it’s hard to say, I’m here.”",
+        "3": "Then leave the space open.",
+        "4": "If the child talks, listen before asking questions, giving advice or interpreting. If the child doesn’t talk, don’t push.",
+        "5": "What matters is not getting them to confide in you. It is that the child knows a space exists and that they can come back to it."
+      },
+      "quote": "Being available doesn’t need to be intrusive to be felt.",
+      "invite": "We invite you to film or photograph this moment and add it to your Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from this time",
+      "items": {
+        "1": "A big question asked.",
+        "2": "A deep conversation.",
+        "3": "A moment of solitude respected.",
+        "4": "A stand of their own.",
+        "5": "An unexpected thought.",
+        "6": "A new passion.",
+        "7": "A photo, a video or their voice.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "I place our precious moments here,<br></br>to give them to you one day and to say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. In their questioning, I notice that the child:",
+      "options": {
+        "1": "asks philosophical questions",
+        "2": "wonders about death, war or inequality",
+        "3": "asks about origins",
+        "4": "doubts certain certainties",
+        "5": "looks for scientific explanations"
+      },
+      "quote": "Thinking broadens."
+    },
+    "2": {
+      "title": "2. In how they relate to themselves, the child:",
+      "options": {
+        "1": "keeps their emotions more to themselves",
+        "2": "writes or draws more",
+        "3": "seeks moments of solitude",
+        "4": "seems preoccupied",
+        "5": "seems sad",
+        "6": "seems lost in thought"
+      },
+      "quote": "Silence can also be a space for growth."
+    },
+    "3": {
+      "title": "3. In how they relate to their body, the child:",
+      "options": {
+        "1": "sometimes seems ill at ease",
+        "2": "notices the changes",
+        "3": "compares themselves to others",
+        "4": "asks questions about puberty",
+        "5": "becomes more private about their body",
+        "6": "looks for an identity through clothes, hairstyle or accessories",
+        "7": "sometimes challenges hygiene rules",
+        "8": "seems proud of their image"
+      },
+      "quote": "The body becomes a territory."
+    },
+    "4": {
+      "title": "4. In how they relate to adults, the child:",
+      "options": {
+        "1": "questions authority",
+        "2": "looks for consistency",
+        "3": "points out contradictions",
+        "4": "keeps more distance",
+        "5": "looks for other role models outside the close family"
+      },
+      "quote": "Critical thinking emerges."
+    },
+    "5": {
+      "title": "5. In friendship, the child:",
+      "options": {
+        "1": "favours a few strong bonds",
+        "2": "drifts away from some groups",
+        "3": "finds it hard to step away from the group",
+        "4": "shares deeper secrets",
+        "5": "goes through some disappointments in silence"
+      },
+      "quote": "Loyalty is being redefined."
+    },
+    "6": {
+      "title": "6. Faced with the world’s injustices, the child:",
+      "options": {
+        "1": "is outraged",
+        "2": "finds out more",
+        "3": "wants to act",
+        "4": "sometimes feels powerless"
+      },
+      "quote": "Social awareness grows."
+    },
+    "7": {
+      "title": "7. The bond between us seems to me:",
+      "options": {
+        "1": "more subtle",
+        "2": "sometimes distant",
+        "3": "still trusting",
+        "4": "readjusting",
+        "5": "often full of conflict"
+      },
+      "quote": "The child becomes their own person. I stay present."
+    },
+    "8": {
+      "title": "8. Faced with failure, the child:",
+      "options": {
+        "1": "analyses",
+        "2": "doubts inwardly",
+        "3": "compares themselves",
+        "4": "perseveres",
+        "5": "sometimes overreacts"
+      },
+      "quote": "Self-esteem comes more from within."
+    },
+    "9": {
+      "title": "9. During this time, I feel:",
+      "options": {
+        "1": "proud of their maturity",
+        "2": "sometimes kept at a distance",
+        "3": "worried about some silences",
+        "4": "worried about some of their friends",
+        "5": "attentive to what they read and watch, and to the role models they follow on social media",
+        "6": "still a landmark"
+      },
+      "quote": "Supporting also means knowing how to stay close without taking up all the space."
+    },
+    "10": {
+      "title": "10. What particularly struck me or what changed in our life this year:",
+      "field": "With siblings, what I sense about how they get along:",
+      "blocks": {
+        "1": {
+          "field": "In a blended family, what I sense about how everyone gets along:"
+        }
+      },
+      "quote": "The child thinks differently. I support them differently."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (9–11 years)",
+      "p": {
+        "1": "Between nine and eleven, the child goes through a period that is often quiet but deeply formative.",
+        "2": "Thinking gradually becomes more complex. The child is no longer content just to learn: the child compares, works things out, puts them in perspective and begins to question more of what used to seem obvious.",
+        "3": "Sigmund Freud (1856–1939) – Austrian neurologist and founder of psychoanalysis.",
+        "4": "In classical psychoanalytic theory, this period corresponds to the gradual end of the latency period, during which much of the child’s psychic energy goes into learning and social relationships.",
+        "5": "Peter Blos (1904–1997) – German-American psychoanalyst, specialist in adolescence.",
+        "6": "Blos would describe the “second individuation process” in adolescence. Between nine and eleven, some movements of differentiation can already be seen: the child builds more of an inner space of their own without necessarily being openly oppositional.",
+        "7": "Marcel Rufo (born 1944) – French child psychiatrist, specialist in childhood and adolescence.",
+        "8": "This period can be understood as a transition towards preadolescence, important in consolidating self-esteem and a sense of identity.",
+        "9": "The body, too, gradually enters a transition. The first signs of puberty may appear, a sense of privacy about their body may grow and the way the child sees themselves may become more sensitive.",
+        "10": "Donald W. Winnicott (1896–1971) – British paediatrician and psychoanalyst.",
+        "11": "Building a personal psychic space gradually allows the child to have an inner world more distinct from the parents’ gaze.",
+        "12": "So it is no longer only the outside world that interests the child. It is also the place that is theirs in that world."
+      },
+      "points": {
+        "1": "This period can be quiet on the outside while being very rich on the inside.",
+        "2": "Thinking gradually becomes more complex and reflective.",
+        "3": "The need for a personal space grows.",
+        "4": "The first changes of puberty may change how the child relates to their body and their sense of privacy.",
+        "5": "Differentiation can begin without open opposition to the parents."
+      }
+    },
+    "interiorite": {
+      "title": "Inner life and emerging abstract thought",
+      "p": {
+        "1": "Between nine and eleven, the child gradually becomes more able to go beyond what can be directly observed.",
+        "2": "New questions may appear: the meaning of life, death, justice, war, inequality, origins or family values.",
+        "3": "The child can consider several hypotheses, notice contradictions more and compare what is passed on in the family with what they discover at school, in their group or in society.",
+        "4": "This is not yet the abstract thinking typical of adolescence. But the groundwork is being laid.",
+        "5": "The adult’s role then becomes more delicate: listening without answering too quickly, sharing a point of view without imposing it, sometimes accepting not knowing, and respecting some silences.",
+        "6": "The child begins to discover that thinking for oneself does not necessarily mean thinking against one’s parents."
+      },
+      "points": {
+        "1": "Big questions can arise naturally at this age.",
+        "2": "The child begins to weigh different points of view and value systems against each other.",
+        "3": "Noticing contradictions is part of developing critical thinking.",
+        "4": "Parents can pass on their convictions without imposing every answer.",
+        "5": "Respecting a silence doesn’t stop you staying alert to possible distress."
+      }
+    },
+    "blessures": {
+      "title": "The 5 emotional wounds: a way of reading",
+      "p": {
+        "1": "Lise Bourbeau (born 1941) – Quebec author specialising in personal development.",
+        "2": "Lise Bourbeau offers a way of reading based on five “emotional wounds”: rejection, abandonment, humiliation, betrayal and injustice. It is a personal-development model, not a clinical classification or a validated scientific model.",
+        "3": "This framework can nonetheless be used as an invitation to notice what certain experiences touch in the child, subjectively, without putting a label on them.",
+        "4": "Between nine and eleven, sensitivity to how others see them, to comparisons, to belonging and to fairness can grow stronger. Being left out, humiliated, treated unfairly or let down by someone can then be felt intensely. The source document specifically invites us to look at what lies behind reactions rather than locking the child into a category.",
+        "5": "So what matters is less looking for “which wound the child has” than listening to what was felt: feeling rejected, abandoned, humiliated, betrayed or treated unfairly.",
+        "6": "Naming the experience, listening and helping them feel safe can help the child make sense of what they went through."
+      },
+      "points": {
+        "1": "The “five wounds” are a personal-development framework, not a diagnosis.",
+        "2": "An intense reaction may signal that an experience touched something important for the child.",
+        "3": "It is better to listen to what the child went through than to try to label the child.",
+        "4": "Experiences of rejection, humiliation, betrayal or injustice can be especially sensitive at this age.",
+        "5": "Respecting their inner life never stops you staying watchful when a lasting change in behaviour, sadness or isolation is worrying."
+      },
+      "closing": {
+        "1": "Growing up is also learning to think for oneself."
+      }
+    }
+  }
+}

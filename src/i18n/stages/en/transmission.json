@@ -1,0 +1,153 @@
+{
+  "header": {
+    "carnet": "Léa’s Carnet de Vie - Passing it on"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • PASSING IT ON"
+    },
+    "1": {
+      "title": "The symbolic handover",
+      "subtitle": "Passing on. Recognising. Letting you live your own life.",
+      "next": "To Handing on",
+      "p": {
+        "1": "It’s a big day for you…<br></br>But for me, it’s an important moment too.",
+        "2": "For years I have been gathering, in my own way, memories, moments, traces of your path.<br></br>Simple moments, sometimes quiet ones, but which, for me, tell something precious: the story we have shared.",
+        "3": "This Carnet is a trace of that bond.<br></br>A living memory of what I saw, felt and understood as I watched you grow.",
+        "4": "It is not a truth about you.<br></br>It is how I saw things, in my words, with my story and my limits.<br></br>I did my best with who I am.",
+        "5": "Today, I pass it on to you as a gesture of love across the years.<br></br>Perhaps it will help you understand where you come from, what you have been through and who was around you.",
+        "6": "But this Carnet does not define you.<br></br>You remain free to become who you wish to be."
+      },
+      "quote": "Receiving your story means being able to connect with it while staying free to write what comes next."
+    },
+    "2": {
+      "label": "Handing on",
+      "title": "Handing on",
+      "next": "Questions",
+      "intro": "This story was written over time.<br></br>It was made of presence, of bonds, of shared moments.<br></br>What I saw, felt and wished to pass on… is now part of this path.<br></br><br></br>Today, this Carnet passes from my hands to yours.<br></br>You can read it now, later, all at once or in pieces.<br></br>Come back to it.<br></br>Step away from it.<br></br>See it differently as time goes by.<br></br><br></br>What you do with it is yours.<br></br>And perhaps the most beautiful handing-on will be the one you choose to transform, or to create in your turn.",
+      "quote": "Your life is yours."
+    },
+    "3": {
+      "next": "To the handover"
+    },
+    "4": {
+      "label": "The handover",
+      "title": "The handover",
+      "next": "To the optional letter",
+      "fields": {
+        "1": "This Carnet de Vie was handed over today to:",
+        "2": "Signature of the Carnet’s author:",
+        "3": "Signature of the person receiving it:"
+      }
+    },
+    "5": {
+      "label": "Optional letter",
+      "title": "An additional way to pass it on",
+      "lead": "I can choose whether or not to add a personal letter to this Carnet.",
+      "choices": {
+        "1": "I would like to add a personal letter",
+        "2": "I prefer to leave the Carnet as it is"
+      },
+      "quote": "Everyone passes things on in their own way, with their words… or with silence.",
+      "letter": {
+        "title": "Optional letter — “I” version",
+        "p": {
+          "1": "I haven’t said everything in this Carnet.<br></br>And perhaps I haven’t always known how to say things, either.<br></br>But if I were to leave you a few words today, they would be these.",
+          "2": "I watched you grow.<br></br>In your own way.<br></br>With your strengths, your doubts, your drive.",
+          "3": "I saw some things change in you.<br></br>Others stay.",
+          "4": "Sometimes I understood.<br></br>Sometimes not so much.",
+          "5": "I have certainly made mistakes, and there are things I would do differently today.",
+          "6": "But this Carnet was never meant to tell you who you should become.<br></br>It simply tells part of your story as I lived it alongside you.",
+          "7": "I hope it can help you find forgotten moments, voices, faces, emotions, pieces of your childhood and your teenage years.",
+          "8": "You may recognise some things in it.<br></br>Discover others.<br></br>Disagree with some.<br></br>And perhaps see them differently as time goes by.",
+          "9": "What I wanted to pass on to you here is not a model to follow.<br></br>It is a trace.<br></br>A trace of what I saw.<br></br>Of what I felt.<br></br>Of what I tried to understand.<br></br>And above all, of the bond that has joined us all these years.",
+          "10": "What comes next doesn’t belong to me.<br></br>It is yours."
+        },
+        "fields": {
+          "1": "Name:",
+          "2": "Signature:"
+        }
+      }
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. What this moment of handing on means to me",
+      "fields": {
+        "1": "What I feel as I hand you this Carnet today, what this moment stands for to me:"
+      },
+      "quote": "Passing on also means opening up."
+    },
+    "2": {
+      "title": "2. The path I have seen in you",
+      "fields": {
+        "1": "What struck me most as I watched you grow, what I have discovered about you over the years:"
+      },
+      "quote": "Growing up is becoming yourself, step by step."
+    },
+    "3": {
+      "title": "3. What I admire in you today",
+      "fields": {
+        "1": "What I find beautiful in the way you are, what I want to recognise in you today:"
+      },
+      "quote": "Recognising is giving value to what is there."
+    },
+    "4": {
+      "title": "4. What I pass on to you through this Carnet",
+      "fields": {
+        "1": "What I wanted to keep as a trace for you, what made me want to create and nurture this Carnet over the years:"
+      },
+      "quote": "Passing on imposes nothing. It offers."
+    },
+    "5": {
+      "title": "5. The values I have tried to pass on to you",
+      "fields": {
+        "1": "The values I hoped to pass on to you, and the moments when I tried to live them with you:"
+      },
+      "quote": "Values aren’t imposed. They are lived."
+    },
+    "6": {
+      "title": "6. I did my best, sometimes clumsily",
+      "fields": {
+        "1": "Looking back, what I wish I had done, said or understood differently:",
+        "2": "What I might like to tell you about it today:"
+      },
+      "quote": "Recognising your limits is also a way of passing on."
+    },
+    "7": {
+      "title": "7. What I wish for your life",
+      "fields": {
+        "1": "What I deeply wish for you, without choosing for you the path to get there:"
+      },
+      "quote": "Wishing is not steering."
+    },
+    "8": {
+      "title": "8. What I leave you free to become",
+      "fields": {
+        "1": "What it means to me to let you live your life, make your own choices and, if you wish, transform what you have received:"
+      },
+      "quote": "Love leaves room."
+    },
+    "9": {
+      "title": "9. Those who were part of your story",
+      "fields": {
+        "1": "Among those who surrounded you, walked with you, loved you, and who may not have written in this Carnet de Vie, I would like to name:",
+        "2": "Some are no longer here today, but they were part of the path…"
+      },
+      "quote": "Some presences remain, even in their absence."
+    },
+    "10": {
+      "title": "10. This moment, today",
+      "short": {
+        "1": "Date:",
+        "2": "Place:",
+        "3": "Context:",
+        "4": "People present:"
+      },
+      "fields": {
+        "1": "What I would especially like to remember about this moment:"
+      },
+      "quote": "A passage also becomes a story when we keep a trace of it."
+    }
+  }
+}

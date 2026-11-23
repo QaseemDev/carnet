@@ -1,0 +1,285 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 13-15 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 13 À 15 ANS"
+    },
+    "1": {
+      "title": "L’ombre et l’éclat",
+      "p": {
+        "1": "Entre treize et quinze ans, quelque chose se met en scène.",
+        "2": "Le corps n’est plus seulement en transformation. Il devient visible. Il devient langage.",
+        "3": "Le regard des autres compte. Beaucoup.",
+        "4": "« Je veux être vu… mais pas comme tout le monde. »",
+        "5": "L’enfant oscille entre éclat et retrait. Entre affirmation et vulnérabilité. L’enfant cherche sa place, sans vouloir qu’on la lui impose.",
+        "6": "Une remarque peut renforcer. Une moquerie peut blesser profondément. Sous l’assurance apparente se cache parfois une question silencieuse :",
+        "7": "« Est-ce que j’ai une place ? »"
+      },
+      "quote": "L’identité cherche sa place entre le regard des autres et le regard sur soi."
+    },
+    "2": {
+      "intro": "Entre treize et quinze ans, le corps devient un enjeu identitaire, les pairs prennent une place centrale et le regard social influence fortement l’estime de soi. L’enfant expérimente différentes façons d’être, d’appartenir et de se différencier.<br></br>Le groupe influence. Le parent stabilise. Soutenir sans contrôler permet de rester un point de repère lorsque l’image de soi devient plus fragile.",
+      "quote": "Être présent sans définir à la place de l’enfant."
+    },
+    "4": {
+      "title": "Le message qui reste",
+      "p": {
+        "1": "À cet âge, le regard extérieur peut parfois prendre tellement de place que l’enfant finit par confondre ce que les autres pensent avec sa propre valeur.",
+        "2": "Choisis un moment calme. Pas après un conflit. Pas pour convaincre.",
+        "3": "Dis simplement avec tes propres mots :<br></br>« Ta place ne dépend pas du regard des autres. »<br></br>« Tu n’as pas besoin de ressembler aux autres pour avoir de la valeur. »<br></br>« Je suis là, même lorsque tu doutes de toi. »",
+        "4": "N’attends pas nécessairement une réponse. Laisse simplement ces mots exister."
+      },
+      "quote": "Le regard du parent peut rester un refuge lorsque celui des autres devient blessant.",
+      "invite": "Nous t’invitons à écrire ou enregistrer ce message avec ta voix et à le déposer dans Carnet de Vie, pour que l’enfant puisse un jour retrouver la trace de ce regard posé sur lui."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette période",
+      "items": {
+        "1": "Une amitié marquante.",
+        "2": "Une blessure sociale traversée.",
+        "3": "Un moment de fierté.",
+        "4": "Un conflit structurant.",
+        "5": "Une affirmation de soi.",
+        "6": "Un moment où l’enfant a osé ne pas suivre le groupe.",
+        "7": "Une photo, une vidéo ou sa voix.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Dans son rapport au corps et à l’image, l’enfant :",
+      "options": {
+        "1": "soigne particulièrement son apparence",
+        "2": "cherche à se démarquer",
+        "3": "change fréquemment de style",
+        "4": "adopte les codes dominants pour s’intégrer",
+        "5": "se compare beaucoup",
+        "6": "cherche à attirer l’attention",
+        "7": "cache certaines parties de son corps",
+        "8": "cherche à se faire le plus discret possible",
+        "9": "évite les regards",
+        "10": "semble en conflit avec son image",
+        "11": "oscille entre conformité et singularité"
+      },
+      "quote": "Le corps devient message."
+    },
+    "2": {
+      "title": "2. Dans son rapport à la réputation, l’enfant :",
+      "options": {
+        "1": "accorde une grande importance au regard des autres",
+        "2": "craint d’être ridiculisé",
+        "3": "cherche à protéger son image",
+        "4": "évite certaines situations par peur du jugement",
+        "5": "semble indifférent mais réagit fortement en privé"
+      },
+      "quote": "La réputation devient sensible."
+    },
+    "3": {
+      "title": "3. Dans son rapport à la loyauté et aux amitiés, l’enfant :",
+      "options": {
+        "1": "défend intensément ses amis",
+        "2": "supporte mal la trahison",
+        "3": "accepte des compromis pour rester intégré",
+        "4": "garde certains désaccords pour ne pas perdre sa place",
+        "5": "change de posture selon ses amis"
+      },
+      "quote": "Le groupe devient territoire et référent."
+    },
+    "4": {
+      "title": "4. Dans le lien entre nous, je remarque que l’enfant :",
+      "options": {
+        "1": "montre une version différente selon les contextes",
+        "2": "protège certains secrets",
+        "3": "refuse que je voie certaines publications",
+        "4": "revendique un espace privé",
+        "5": "distingue clairement « amis » et « famille »"
+      },
+      "quote": "L’identité s’expérimente."
+    },
+    "5": {
+      "title": "5. Parmi les activités qui font du bien à l’enfant :",
+      "options": {
+        "1": "le sport",
+        "2": "la musique",
+        "3": "écrire, dessiner ou créer",
+        "4": "passer volontairement du temps seul",
+        "5": "passer du temps avec ses amis",
+        "6": "une activité qui donne confiance",
+        "7": "une nouvelle passion"
+      },
+      "field": "Ce qui semble particulièrement apaiser ou rendre l’enfant plus vivant :",
+      "quote": "Se nourrir intérieurement aide à traverser l’exposition extérieure."
+    },
+    "6": {
+      "title": "6. Face à la pression du groupe, l’enfant :",
+      "options": {
+        "1": "sait dire non",
+        "2": "a du mal à refuser",
+        "3": "minimise certaines situations",
+        "4": "rationalise des choix discutables",
+        "5": "semble soumis à la pression",
+        "6": "vient m’en parler après coup"
+      },
+      "quote": "L’appartenance teste le courage."
+    },
+    "7": {
+      "title": "7. Dans son rapport à l’humour et au second degré, l’enfant :",
+      "options": {
+        "1": "utilise le sarcasme",
+        "2": "se protège derrière l’humour",
+        "3": "tourne en dérision certaines émotions",
+        "4": "supporte mal l’ironie à son égard",
+        "5": "teste les limites par la provocation verbale"
+      },
+      "quote": "L’humour peut protéger… ou masquer."
+    },
+    "8": {
+      "title": "8. Dans son rapport aux réseaux sociaux et aux événements sociaux, l’enfant :",
+      "options": {
+        "1": "utilise les réseaux principalement pour échanger",
+        "2": "les utilise pour se mettre en avant",
+        "3": "surveille son image en ligne",
+        "4": "modifie ou filtre ses photos",
+        "5": "consulte fréquemment les réactions à ses contenus",
+        "6": "protège fortement l’accès à son téléphone",
+        "7": "adopte une posture critique face aux contenus",
+        "8": "participe à des tendances ou défis",
+        "9": "rumine après un événement social difficile",
+        "10": "revient vers moi pour comprendre"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Lorsque l’enfant a besoin de partager ou d’être apaisé, la personne recherchée est plutôt :",
+          "options": {
+            "1": "une amitié",
+            "2": "un membre de la fratrie",
+            "3": "moi",
+            "4": "l’autre parent",
+            "5": "un adulte de confiance",
+            "6": "personne"
+          }
+        }
+      },
+      "quote": "Se tourner vers quelqu’un, c’est déjà faire confiance."
+    },
+    "9": {
+      "title": "9. Cette année, je me sens :",
+      "options": {
+        "1": "fier(ère)",
+        "2": "inquiet(e)",
+        "3": "impuissant(e)",
+        "4": "confiant(e)",
+        "5": "parfois blessé(e)",
+        "6": "toujours un repère",
+        "7": "dépassé(e) par les réseaux sociaux",
+        "8": "inquiet(e) pour sa sécurité ou son estime de soi",
+        "9": "capable de poser un cadre clair",
+        "10": "cohérent(e) avec mes valeurs"
+      },
+      "quote": "Je ne contrôle pas tout. Je reste responsable du cadre."
+    },
+    "10": {
+      "title": "10. Ce qui m’a particulièrement marqué ou ce qui a changé dans notre vie cette année :",
+      "field": "Dans le cas d’une fratrie, ce que je ressens du rapport entre chacun :",
+      "blocks": {
+        "1": {
+          "field": "Dans le cas d’une famille recomposée, ce que je ressens du rapport entre chacun :"
+        }
+      },
+      "quote": "Derrière l’éclat, il y a parfois un besoin de refuge."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (13–15 ans)",
+      "p": {
+        "1": "Entre treize et quinze ans, l’enfant n’est plus seulement en transformation. L’image donnée aux autres prend davantage de place.",
+        "2": "Le corps, le style, les codes et les appartenances deviennent des marqueurs identitaires.",
+        "3": "Erik Erikson (1902–1994) – Psychologue et psychanalyste germano-américain, spécialiste du développement psychosocial.",
+        "4": "Erikson décrit l’adolescence comme une période centrale de construction de l’identité. L’enfant expérimente différentes façons d’être, différents groupes, valeurs et modèles avant de construire progressivement une identité plus personnelle.",
+        "5": "Jean Piaget (1896–1980) – Psychologue, biologiste et épistémologue suisse, spécialiste du développement cognitif de l’enfant.",
+        "6": "Piaget situe à l’adolescence l’émergence progressive de la pensée formelle : la capacité à raisonner sur des hypothèses, envisager plusieurs possibilités, argumenter et manipuler des idées abstraites se développe.",
+        "7": "Le groupe devient parallèlement un miroir puissant. Il permet d’expérimenter différentes facettes de soi et de mesurer la façon dont elles sont reçues.",
+        "8": "Cette évolution n’est pas nécessairement une rupture avec les parents. Elle correspond davantage à une redéfinition progressive des places."
+      },
+      "points": {
+        "1": "Le corps, le style et les appartenances participent à l’exploration identitaire.",
+        "2": "L’identité se construit progressivement par essais et expériences.",
+        "3": "La pensée devient capable d’un raisonnement plus abstrait et critique.",
+        "4": "Le groupe sert de miroir et de laboratoire identitaire.",
+        "5": "Se différencier des parents ne signifie pas nécessairement rompre avec eux."
+      }
+    },
+    "regard": {
+      "title": "Le regard social et la construction de l’estime",
+      "p": {
+        "1": "À cet âge, l’estime de soi peut devenir particulièrement sensible au regard social. Une remarque sur le corps, la peau, la taille, la voix, le style ou la façon d’être peut prendre une importance considérable.",
+        "2": "Charles Horton Cooley (1864–1929) – Sociologue américain, spécialiste des interactions sociales et de la construction du soi.",
+        "3": "Cooley a développé la notion de « looking-glass self », le « soi miroir » : une partie de l’image que nous construisons de nous-mêmes se développe à travers la manière dont nous imaginons être perçus par les autres.",
+        "4": "À l’adolescence, ce miroir social peut devenir particulièrement puissant.",
+        "5": "Leon Festinger (1919–1989) – Psychologue social américain, auteur de la théorie de la comparaison sociale.",
+        "6": "Festinger a montré que les individus évaluent notamment leurs opinions et leurs capacités en se comparant aux autres. À l’adolescence, ces comparaisons peuvent concerner fortement l’apparence, la popularité, les performances et l’appartenance.",
+        "7": "Erik Erikson (1902–1994) – Psychologue et psychanalyste germano-américain, spécialiste du développement psychosocial.",
+        "8": "Dans son modèle, cette période correspond à une phase de recherche identitaire particulièrement sensible. Un environnement relationnel suffisamment stable peut fournir un point d’appui pendant que l’image de soi fluctue.",
+        "9": "Le rôle parental n’est donc pas d’empêcher toute blessure sociale — ce qui serait impossible — mais d’aider l’enfant à ne pas réduire sa valeur au jugement du groupe."
+      },
+      "points": {
+        "1": "Le regard social peut influencer fortement l’image que l’enfant construit de soi.",
+        "2": "Les comparaisons deviennent particulièrement sensibles à l’adolescence.",
+        "3": "Une remarque apparemment anodine peut parfois laisser une trace importante.",
+        "4": "Le parent ne peut pas protéger l’enfant de tous les jugements extérieurs.",
+        "5": "Un regard parental stable peut aider à dissocier progressivement valeur personnelle et approbation sociale."
+      }
+    },
+    "appartenance": {
+      "title": "Appartenance, exclusion et loyauté",
+      "p": {
+        "1": "À treize-quinze ans, appartenir à un groupe peut devenir profondément structurant. Être inclus, reconnu ou exclu ne touche plus seulement la vie sociale : cela peut atteindre directement l’image de soi.",
+        "2": "Harry Stack Sullivan (1892–1949) – Psychiatre et psychanalyste américain, fondateur de la théorie interpersonnelle.",
+        "3": "Sullivan a accordé une place majeure aux relations interpersonnelles dans le développement de la personnalité et souligné l’importance croissante des relations intimes avec les pairs à l’approche de l’adolescence.",
+        "4": "Naomi Eisenberger – Psychologue et neuroscientifique américaine, spécialiste des bases neurales des relations sociales et de l’exclusion.",
+        "5": "Ses recherches ont montré que l’expérience du rejet social implique certains systèmes cérébraux également associés aux aspects affectifs de la douleur physique. Il est donc préférable de parler d’un recouvrement partiel de certains mécanismes plutôt que d’affirmer que l’exclusion et la douleur physique activent exactement les mêmes zones.",
+        "6": "Peter Blos (1904–1997) – Psychanalyste germano-américain, spécialiste de l’adolescence.",
+        "7": "Blos décrit l’adolescence comme une période importante d’individuation. Les relations avec les pairs deviennent alors un espace d’expérimentation permettant de prendre progressivement de la distance avec les identifications infantiles.",
+        "8": "Mais le besoin d’appartenance peut aussi conduire à accepter certains comportements contraires à ses propres valeurs pour éviter l’exclusion.",
+        "9": "Une question parentale peut alors être particulièrement utile :<br></br>« Est-ce que tu te sens respecté et libre dans cette relation ? »"
+      },
+      "points": {
+        "1": "L’appartenance au groupe devient profondément structurante.",
+        "2": "L’exclusion peut être vécue comme une atteinte à la valeur personnelle.",
+        "3": "Les relations avec les pairs participent à la construction de l’identité.",
+        "4": "Le besoin d’appartenir peut parfois conduire à renoncer à certaines limites personnelles.",
+        "5": "Aider l’enfant à distinguer appartenance, liberté et respect protège progressivement l’autonomie relationnelle."
+      }
+    },
+    "numerique": {
+      "title": "Image numérique et identité",
+      "p": {
+        "1": "Entre treize et quinze ans, une partie de la construction identitaire se joue également en ligne.",
+        "2": "Les réseaux sociaux rendent la comparaison plus fréquente et plus visible : apparence, nombre d’abonnés, réactions, commentaires et mise en scène de soi peuvent devenir des indicateurs trompeurs de valeur personnelle.",
+        "3": "Leon Festinger (1919–1989) – Psychologue social américain, auteur de la théorie de la comparaison sociale.",
+        "4": "Sa théorie permet de comprendre pourquoi un environnement offrant en permanence des occasions de se comparer peut intensifier l’attention portée à sa propre image.",
+        "5": "Lauren Sherman – Chercheuse américaine en psychologie et neurosciences sociales, spécialiste des médias sociaux et du développement adolescent.",
+        "6": "Dans une étude publiée avec ses collègues en 2016, Sherman a montré que recevoir de nombreux « likes » sur des photographies était associé, chez des adolescents, à une activité accrue de régions cérébrales impliquées notamment dans le traitement de la récompense et la cognition sociale.",
+        "7": "Cela ne signifie pas qu’un « like » provoque automatiquement une addiction. Cela montre plutôt que la validation sociale numérique peut constituer une récompense particulièrement saillante à cet âge.",
+        "8": "Sarah-Jayne Blakemore (née en 1974) – Neuroscientifique britannique, spécialiste du développement du cerveau à l’adolescence.",
+        "9": "Ses travaux montrent que les systèmes cérébraux impliqués dans la cognition sociale et le contrôle cognitif continuent à se développer pendant l’adolescence. Cela contribue à comprendre pourquoi le regard social peut prendre une importance particulière durant cette période.",
+        "10": "Le parent ne peut pas supprimer le regard numérique. Mais le lien familial peut rester un espace dans lequel la valeur n’a pas besoin d’être mesurée en réactions, en visibilité ou en performance."
+      },
+      "points": {
+        "1": "Les réseaux sociaux multiplient les occasions de comparaison sociale.",
+        "2": "La validation numérique peut être particulièrement gratifiante à cet âge.",
+        "3": "La visibilité en ligne ne doit pas devenir une mesure de la valeur personnelle.",
+        "4": "La maturation des capacités de recul et de régulation se poursuit encore à l’adolescence.",
+        "5": "Le lien familial peut offrir un espace dans lequel l’enfant n’a rien à prouver."
+      },
+      "closing": {
+        "1": "Se construire, c’est apprendre à exister parmi les autres sans se perdre."
+      }
+    }
+  }
+}

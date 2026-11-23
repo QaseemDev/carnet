@@ -1,0 +1,219 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 7–9 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 7 TO 9"
+    },
+    "1": {
+      "title": "The wide-open heart",
+      "p": {
+        "1": "Between seven and nine, something deepens. The child no longer only seeks to belong. The child seeks to understand.",
+        "2": "Rules are no longer enough: the child wants them to be fair. “That’s not fair.” “That’s not right.” The world also becomes a world of values.",
+        "3": "Friendships grow deeper. Confidences, loyalties and sometimes disappointments take up more room. Injustice can hurt. Betrayal can leave a mark.",
+        "4": "Empathy grows. The child becomes more attentive to what others feel, but also more sensitive to how others see them."
+      },
+      "quote": "The heart opens… and becomes more vulnerable."
+    },
+    "2": {
+      "intro": "Between seven and nine, logical thinking grows firmer, empathy develops and the sense of justice becomes sharper. Friendships grow deeper and how others see the child weighs more on their self-esteem. The adult helps the child gradually connect rules, values and respect for others.",
+      "quote": "An inner sense of justice begins to take shape."
+    },
+    "4": {
+      "title": "The ritual of the fair and the hurtful",
+      "p": {
+        "1": "When the child tells you about a situation they felt was unfair, take the time to listen without playing it down or deciding straight away who is right.",
+        "2": "Simply ask:<br></br>“What seemed unfair to you?”<br></br>“What hurt you?”<br></br>“What could have been different?”",
+        "3": "Then look together for what could put things right, when that is possible.",
+        "4": "This is how the child discovers that it is possible to stand up for what seems fair, to hear what the other person went through, and to stay firm without becoming hard."
+      },
+      "quote": "Justice can exist without breaking the bond.",
+      "invite": "We invite you to film or photograph this moment and add it to your Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from this time",
+      "items": {
+        "1": "An act of courage.",
+        "2": "Making amends.",
+        "3": "A strong friendship.",
+        "4": "A conflict put behind us.",
+        "5": "A gesture of empathy.",
+        "6": "Something said about what is fair.",
+        "7": "A photo, a video or their voice.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "I place our precious moments here,<br></br>to give them to you one day and to say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. In how they relate to others, I notice that the child:",
+      "options": {
+        "1": "stands up for a classmate",
+        "2": "is outraged by injustice",
+        "3": "tries to make amends",
+        "4": "sometimes judges harshly",
+        "5": "may leave others out in order to belong"
+      },
+      "quote": "Justice becomes inner."
+    },
+    "2": {
+      "title": "2. In friendship, the child:",
+      "options": {
+        "1": "has a very close friendship",
+        "2": "goes through disappointments",
+        "3": "keeps secrets",
+        "4": "commits to loyalty",
+        "5": "changes groups"
+      },
+      "quote": "Friendship becomes a moral commitment."
+    },
+    "3": {
+      "title": "3. When it comes to rules, the child:",
+      "options": {
+        "1": "understands them",
+        "2": "discusses them",
+        "3": "finds them hard to follow",
+        "4": "looks for their consistency",
+        "5": "points out contradictions",
+        "6": "sets high standards for themselves"
+      },
+      "quote": "The rule becomes a principle."
+    },
+    "4": {
+      "title": "4. When the child has hurt someone, they:",
+      "options": {
+        "1": "play it down",
+        "2": "feel guilty",
+        "3": "try to make amends",
+        "4": "avoid it",
+        "5": "show compassion",
+        "6": "show empathy"
+      },
+      "quote": "Responsibility is learned."
+    },
+    "5": {
+      "title": "5. In their emotions, the child:",
+      "options": {
+        "1": "is better at identifying them",
+        "2": "is better at expressing them",
+        "3": "is very sensitive to criticism",
+        "4": "seeks approval",
+        "5": "compares themselves"
+      },
+      "quote": "What others think matters."
+    },
+    "6": {
+      "title": "6. In their way of thinking, the child:",
+      "options": {
+        "1": "reasons in a more structured way",
+        "2": "better understands causes and consequences",
+        "3": "tells intention apart from the act",
+        "4": "questions right and wrong"
+      },
+      "quote": "Thinking grows stronger."
+    },
+    "7": {
+      "title": "7. The bond between us seems to me:",
+      "options": {
+        "1": "more verbal",
+        "2": "sometimes confrontational",
+        "3": "close and playful",
+        "4": "full of questions"
+      },
+      "quote": "The child grows. I adjust."
+    },
+    "8": {
+      "title": "8. When faced with failure, the child:",
+      "options": {
+        "1": "perseveres",
+        "2": "doubts",
+        "3": "compares themselves",
+        "4": "gives up"
+      },
+      "quote": "Self-esteem takes shape."
+    },
+    "9": {
+      "title": "9. During this time, I feel:",
+      "options": {
+        "1": "proud of their maturity",
+        "2": "sometimes called into question",
+        "3": "worried about how the child sees themselves",
+        "4": "still a landmark"
+      },
+      "quote": "The child seeks justice. I remain the foundation."
+    },
+    "10": {
+      "title": "10. What particularly struck me, or what has changed in our life this year:",
+      "field": "With siblings, what I sense about how they get along:",
+      "blocks": {
+        "1": {
+          "field": "In a blended family, what I sense about how everyone gets along:"
+        }
+      },
+      "quote": "The heart opens. Conscience grows sharper."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (7–9 years)",
+      "p": {
+        "1": "Between seven and nine, thinking gradually becomes more logical and structured, while remaining largely tied to concrete situations.",
+        "2": "Jean Piaget (1896–1980) – Swiss psychologist, biologist and epistemologist, specialist in children’s cognitive development.",
+        "3": "Piaget places this period within the stage of concrete operations. The child becomes better able to reason from real situations, to make logical connections and to consider several elements of the same situation.",
+        "4": "Lawrence Kohlberg (1927–1987) – American psychologist, specialist in moral development.",
+        "5": "Moral reasoning gradually evolves. Social approval, the wish to be seen as a “good” person and meeting the group’s expectations become more important.",
+        "6": "Erik Erikson (1902–1994) – German-American psychologist and psychoanalyst, specialist in psychosocial development.",
+        "7": "Erikson places this period in the stage of “industry versus inferiority”: the child seeks to feel capable and recognised for what they achieve.",
+        "8": "Empathy becomes more stable, and emotions become more closely tied to values, fairness and loyalty. Self-esteem also becomes more sensitive to how others see the child.",
+        "9": "A sense of identity thus begins to consolidate through experiences shared with others."
+      },
+      "points": {
+        "1": "Logical thinking progresses but is still largely tied to the concrete.",
+        "2": "The need to feel competent and recognised grows in importance.",
+        "3": "Empathy becomes more stable.",
+        "4": "The values of fairness and loyalty take on more meaning.",
+        "5": "How others see the child weighs more and more on their self-esteem."
+      }
+    },
+    "empathie": {
+      "title": "Empathy and moral conscience",
+      "p": {
+        "1": "Martin L. Hoffman (1924–2022) – American psychologist, specialist in the development of empathy and moral conscience.",
+        "2": "At this age, the child becomes better able to picture another person’s point of view and to understand that an act can hurt, even when the original intention was not to cause harm.",
+        "3": "The notion of justice becomes sharper. The child begins to tell apart equality, fairness and merit more subtly.",
+        "4": "The adult plays an essential role here: helping to name and express emotions, encouraging making amends rather than guilt alone, avoiding excessive shame, and showing through their own behaviour that a value also lives in actions.",
+        "5": "Gradually, the moral sense is no longer limited to following an outside rule. Some values begin to become inner landmarks."
+      },
+      "points": {
+        "1": "The child becomes better able to understand another person’s point of view.",
+        "2": "A harmless intention does not mean an act cannot have hurt.",
+        "3": "Justice, equality and fairness begin to be better told apart.",
+        "4": "Encouraging making amends builds responsibility more than causing shame does.",
+        "5": "Values passed on by example can gradually become inner landmarks."
+      }
+    },
+    "raison": {
+      "title": "The “age of reason”: a time of transition",
+      "p": {
+        "1": "Traditionally placed around the age of seven, the “age of reason” is not a sudden switch. It is rather a time of transition between early childhood and preadolescence.",
+        "2": "Thinking becomes more structured, awareness of consequences grows and the child can reflect more on their actions.",
+        "3": "Socialising also takes on an important place. The child develops greater independence, and their world of relationships gradually reaches beyond the family.",
+        "4": "Moral conscience becomes sharper: the child better understands the responsibility that comes with actions and begins to internalise certain social rules.",
+        "5": "But this change does not mean the child no longer needs guidance. On the contrary, questions sometimes become more complex, and adults’ contradictions are noticed more.",
+        "6": "Moral sense cannot be imposed. It is built through experience, dialogue and example."
+      },
+      "points": {
+        "1": "The “age of reason” is a transition, not an abrupt change.",
+        "2": "The child gradually becomes better able to reflect on the consequences of actions.",
+        "3": "Independence grows but does not remove the need for guidance.",
+        "4": "Contradictions between what adults say and what they do become more visible.",
+        "5": "Moral conscience is built through experience, dialogue and example."
+      },
+      "closing": {
+        "1": "Growing up means learning to connect the heart and the rule."
+      }
+    }
+  }
+}

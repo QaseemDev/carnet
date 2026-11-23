@@ -1,0 +1,237 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 9-12 mois"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 9 À 12 MOIS"
+    },
+    "1": {
+      "title": "Je me lève, je m’éloigne et je reviens vers toi",
+      "p": {
+        "1": "Entre 9 et 12 mois, quelque chose se redresse. Le corps cherche la verticalité. Le sol n’est plus suffisant. Les appuis deviennent plus audacieux.",
+        "2": "Le bébé explore davantage… mais revient encore vérifier que tu es là. Il s’éloigne. Il revient. L’autonomie apparaît. L’attachement demeure la base.",
+        "3": "La motricité s’intensifie, la compréhension progresse rapidement, les émotions deviennent plus différenciées et la frustration apparaît plus clairement. L’imitation se développe.",
+        "4": "L’objet transitionnel peut faire son apparition — le doudou, le tissu, la peluche. Ce premier objet qui reste quand tu pars.",
+        "5": "L’enfant expérimente sa capacité d’agir. Mais il a encore besoin d’un cadre sécurisant."
+      },
+      "quote": "Se lever, s’éloigner, revenir : le lien devient un point d’appui."
+    },
+    "2": {
+      "intro": "Entre 9 et 12 mois, l’enfant expérimente davantage sa capacité d’agir. La motricité, la compréhension et l’imitation progressent, tandis que la frustration et les séparations peuvent devenir plus présentes. Un cadre sécurisant permet d’accompagner cette autonomie naissante.",
+      "quote": "C’est la construction de la confiance."
+    },
+    "4": {
+      "title": "Rituel du doudou",
+      "p": {
+        "1": "Avant de partir — même pour dix minutes — prends le doudou. Pose-le dans ses mains. Laisse ses doigts se refermer dessus.",
+        "2": "Puis dis une phrase, toujours la même. La tienne. Courte : « Je pars. Je reviens. »",
+        "3": "Pas d’explication. Pas de négociation. Juste ces mots-là, dans cet ordre, à chaque fois.",
+        "4": "Au début, l’enfant protestera peut-être quand même. C’est normal — l’apprentissage est encore en cours. Mais peu à peu, le doudou dans les mains et ta voix qui nomme vont former une séquence reconnaissable. Rassurante. Prévisible.",
+        "5": "Et ce qui est prévisible peut être traversé. Ce petit objet usé devient alors bien plus qu’un tissu — il devient une trace tangible du lien quand tu n’es plus là."
+      },
+      "quote": "La sécurité n’est pas dans la proximité constante. Elle est dans la constance.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de ces trois mois",
+      "items": {
+        "1": "Un premier pas.",
+        "2": "Un mot.",
+        "3": "Un geste.",
+        "4": "Un éclat de rire.",
+        "5": "Une chute suivie d’un regard.",
+        "6": "Une photo ou une vidéo.",
+        "7": "Sa voix.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Le bébé actuellement :",
+      "options": {
+        "1": "se met debout",
+        "2": "se déplace en s’appuyant",
+        "3": "tente ses premiers pas",
+        "4": "préfère encore le sol"
+      },
+      "quote": "Se lever, c’est aussi oser."
+    },
+    "2": {
+      "title": "2. Lorsqu’il explore un nouvel espace :",
+      "options": {
+        "1": "s’élance spontanément",
+        "2": "me regarde avant d’avancer",
+        "3": "hésite",
+        "4": "revient rapidement vers moi"
+      },
+      "quote": "Explorer ne signifie pas se détacher."
+    },
+    "3": {
+      "title": "3. Face à une frustration :",
+      "options": {
+        "1": "pleure fortement",
+        "2": "crie",
+        "3": "cherche du réconfort",
+        "4": "se détourne"
+      },
+      "quote": "La frustration fait partie de l’apprentissage."
+    },
+    "4": {
+      "title": "4. Lors des séparations, je remarque :",
+      "options": {
+        "1": "une anticipation",
+        "2": "davantage de protestation",
+        "3": "un apaisement plus rapide",
+        "4": "une meilleure compréhension de mon retour"
+      },
+      "quote": "Comprendre que l’on revient change la séparation."
+    },
+    "5": {
+      "title": "5. Je remarque que le bébé :",
+      "options": {
+        "1": "pointe du doigt",
+        "2": "imite des gestes",
+        "3": "comprend des consignes simples",
+        "4": "répète des sons"
+      },
+      "quote": "Comprendre précède souvent parler."
+    },
+    "6": {
+      "title": "6. Dans cette période, je me sens :",
+      "options": {
+        "1": "fier(e)",
+        "2": "fatigué(e)",
+        "3": "émerveillé(e)",
+        "4": "parfois dépassé(e)",
+        "5": "plus confiant(e)"
+      },
+      "quote": "Grandir demande aussi au parent de s’ajuster."
+    },
+    "7": {
+      "title": "7. Le lien entre nous me semble :",
+      "options": {
+        "1": "plus dynamique",
+        "2": "plus exigeant",
+        "3": "plus interactif",
+        "4": "parfois mis à l’épreuve"
+      },
+      "quote": "L’autonomie ne remplace pas le lien, elle s’y appuie."
+    },
+    "8": {
+      "title": "8. S’il y a une fratrie, je remarque :",
+      "options": {
+        "1": "l’imitation augmente",
+        "2": "la rivalité apparaît",
+        "3": "les jeux communs émergent",
+        "4": "chacun affirme davantage sa place"
+      },
+      "quote": "Chaque enfant redéfinit sa place à mesure que l’autre grandit."
+    },
+    "9": {
+      "title": "9. L’environnement a-t-il changé ces mois ?",
+      "options": {
+        "1": "entrée en crèche",
+        "2": "changement de rythme",
+        "3": "déménagement",
+        "4": "voyage"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Depuis ces changements, le bébé :",
+          "options": {
+            "1": "s’adapte progressivement",
+            "2": "recherche davantage ma présence",
+            "3": "manifeste plus d’opposition"
+          }
+        }
+      },
+      "quote": "Un changement mobilise toujours l’équilibre intérieur."
+    },
+    "10": {
+      "title": "10. Ce que ces trois mois ont changé en moi comme parent :",
+      "quote": "L’enfant se redresse. Le parent aussi."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (9–12 mois)",
+      "p": {
+        "1": "Entre 9 et 12 mois, le développement s’accélère.",
+        "2": "<b>Le corps gagne en assurance</b>",
+        "3": "L’enfant se redresse et cherche la verticalité. Il peut se mettre debout avec appui, se déplacer le long des meubles (« cruising »), tenter parfois quelques pas seul et affiner sa coordination fine. La pince pouce-index émerge.",
+        "4": "Les gestes deviennent plus intentionnels. L’enfant fait tomber un objet pour observer, cherche un objet caché, répète une action pour en comprendre l’effet et manipule avec une précision croissante.",
+        "5": "<b>La pensée évolue rapidement</b>",
+        "6": "L’enfant comprend des consignes simples, associe gestes et mots, pointe du doigt pour désigner et commence à anticiper certains moments du quotidien.",
+        "7": "La permanence de l’objet se consolide. L’enfant comprend progressivement que l’absence n’est pas une disparition. Mais cette compréhension peut aussi rendre la séparation plus intense.",
+        "8": "<b>Les émotions deviennent plus différenciées</b>",
+        "9": "L’enfant exprime plus clairement la frustration, recherche le regard et la validation de l’adulte et peut avoir besoin d’encouragement pour continuer.",
+        "10": "L’enfant expérimente la séparation, mais a encore profondément besoin d’une base stable."
+      },
+      "points": {
+        "1": "La verticalité et les déplacements se développent à un rythme propre à chaque enfant.",
+        "2": "Les gestes deviennent plus intentionnels et l’exploration participe directement aux apprentissages.",
+        "3": "Comprendre précède souvent la capacité de parler.",
+        "4": "La frustration devient plus visible et fait partie du développement.",
+        "5": "L’enfant peut explorer davantage tout en ayant encore profondément besoin d’une base sécurisante."
+      }
+    },
+    "separation": {
+      "title": "L’angoisse de séparation (9–12 mois)",
+      "p": {
+        "1": "À cet âge, la compréhension de la permanence de l’objet rend la séparation plus consciente.",
+        "2": "L’enfant peut pleurer avant même le départ, anticiper l’absence ou protester plus intensément.",
+        "3": "Ce n’est pas une régression. C’est le signe que l’enfant comprend davantage.",
+        "4": "La présence fiable du parent permet progressivement d’intégrer que l’absence est temporaire."
+      },
+      "points": {
+        "1": "Une séparation plus difficile à cet âge n’est pas nécessairement un signe de régression.",
+        "2": "L’enfant comprend de mieux en mieux qu’un départ va avoir lieu et peut donc l’anticiper.",
+        "3": "Nommer simplement le départ aide à le rendre plus prévisible.",
+        "4": "Des retrouvailles suffisamment régulières et fiables permettent progressivement d’intégrer que l’absence est temporaire.",
+        "5": "L’objectif n’est pas d’empêcher toute protestation, mais d’offrir suffisamment de continuité et de sécurité."
+      }
+    },
+    "transitionnel": {
+      "title": "L’objet transitionnel",
+      "p": {
+        "1": "Donald W. Winnicott (1896–1971) – Pédiatre et psychanalyste britannique.",
+        "2": "Entre 8 et 12 mois, quelque chose d’étrange et de précieux peut apparaître : un coin de tissu, une peluche, un doudou toujours le même. Winnicott a nommé cela l’objet transitionnel.",
+        "3": "Ni tout à fait l’enfant. Ni tout à fait la mère. Quelque chose entre les deux.",
+        "4": "Cet objet apparaît au moment où l’enfant commence à comprendre que la figure d’attachement peut partir — et qu’un support peut aider à traverser son absence. Il porte une trace familière : une odeur, une texture, une présence sous une autre forme. Il permet la séparation sans effacer le lien.",
+        "5": "Ce n’est pas un substitut. C’est un pont.",
+        "6": "Éviter de le laver trop souvent ou de le remplacer brutalement permet de préserver ce qui le rend familier et reconnaissable pour l’enfant.",
+        "7": "L’objet transitionnel ne disparaît pas nécessairement du jour au lendemain. Son importance peut diminuer progressivement lorsque l’enfant intègre davantage que l’absence est temporaire et que le lien tient à distance.",
+        "8": "Ce petit bout de tissu usé peut devenir l’un des premiers témoins de sa vie intérieure."
+      },
+      "points": {
+        "1": "L’objet transitionnel peut aider l’enfant à traverser progressivement l’absence de sa figure d’attachement.",
+        "2": "Il ne remplace pas le parent : il constitue un pont entre présence et absence.",
+        "3": "Son odeur, sa texture et sa familiarité participent à sa fonction rassurante.",
+        "4": "Il vaut mieux éviter de le remplacer brutalement sans associer l’enfant à ce changement.",
+        "5": "Son importance diminue généralement progressivement lorsque l’enfant n’en a plus autant besoin."
+      }
+    },
+    "autonomie": {
+      "title": "L’autonomie en construction",
+      "p": {
+        "1": "L’autonomie ne signifie pas indépendance affective.",
+        "2": "L’enfant explore parce qu’il se sent suffisamment sécurisé. Il teste. Il affirme. Il s’oppose parfois. Ce mouvement est une étape normale de différenciation.",
+        "3": "L’adulte reste la base. Le cadre rassure autant qu’il limite.",
+        "4": "L’autonomie se construit donc moins dans l’absence de l’adulte que dans la possibilité d’agir tout en sachant que celui-ci reste suffisamment disponible."
+      },
+      "points": {
+        "1": "L’envie d’agir augmente.",
+        "2": "La frustration fait partie du développement.",
+        "3": "La séparation peut devenir plus intense et l’objet transitionnel peut prendre une place importante.",
+        "4": "Le besoin d’encouragement est central.",
+        "5": "L’autonomie s’appuie sur la sécurité."
+      },
+      "closing": {
+        "1": "L’enfant avance parce qu’il sait qu’il peut revenir."
+      }
+    }
+  }
+}

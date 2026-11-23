@@ -1,0 +1,153 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - La transmission"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • LA TRANSMISSION"
+    },
+    "1": {
+      "title": "La remise symbolique",
+      "subtitle": "Transmettre. Reconnaître. Laisser vivre.",
+      "next": "Vers Transmission",
+      "p": {
+        "1": "C’est un grand jour pour toi…<br></br>Mais pour moi, c’est aussi un moment important.",
+        "2": "Cela fait des années que je rassemble, à ma manière, des souvenirs, des instants, des traces de ton chemin.<br></br>Des moments simples, parfois discrets, mais qui, pour moi, racontent quelque chose de précieux : l’histoire que nous avons partagée.",
+        "3": "Ce Carnet est une trace de ce lien.<br></br>Une mémoire vivante de ce que j’ai vu, ressenti, compris en te regardant grandir.",
+        "4": "Ce n’est pas une vérité sur toi.<br></br>C’est mon regard, avec mes mots, mon histoire, mes limites.<br></br>J’ai fait de mon mieux avec ce que je suis.",
+        "5": "Aujourd’hui, je te le transmets comme un geste d’amour au fil du temps.<br></br>Peut-être t’aidera-t-il à comprendre d’où tu viens, ce que tu as traversé et qui t’a entouré.",
+        "6": "Mais ce Carnet ne te définit pas.<br></br>Tu restes libre de devenir qui tu souhaites être."
+      },
+      "quote": "Recevoir son histoire, c’est pouvoir s’y relier sans cesser d’être libre d’écrire la suite."
+    },
+    "2": {
+      "label": "Transmission",
+      "title": "Transmission",
+      "next": "Questions",
+      "intro": "Cette histoire s’est écrite au fil du temps.<br></br>Elle a été faite de présence, de liens, de moments partagés.<br></br>Ce que j’ai vu, ressenti et souhaité transmettre… fait désormais partie de ce chemin.<br></br><br></br>Aujourd’hui, ce Carnet passe de mes mains aux tiennes.<br></br>Tu pourras le lire maintenant, plus tard, en entier ou par fragments.<br></br>Y revenir.<br></br>T’en éloigner.<br></br>Le regarder autrement avec le temps.<br></br><br></br>Ce que tu en feras t’appartient.<br></br>Et peut-être que la plus belle transmission sera celle que tu choisiras de transformer ou de créer à ton tour.",
+      "quote": "Ta vie t’appartient."
+    },
+    "3": {
+      "next": "Vers La remise"
+    },
+    "4": {
+      "label": "La remise",
+      "title": "La remise",
+      "next": "Vers Lettre optionnelle",
+      "fields": {
+        "1": "Ce Carnet de Vie a été remis ce jour à :",
+        "2": "Signature de l’auteur du Carnet :",
+        "3": "Signature de la personne qui le reçoit :"
+      }
+    },
+    "5": {
+      "label": "Lettre optionnelle",
+      "title": "Option de transmission complémentaire",
+      "lead": "Je peux choisir d’ajouter, ou non, une lettre personnelle à ce Carnet.",
+      "choices": {
+        "1": "Je souhaite ajouter une lettre personnelle",
+        "2": "Je préfère laisser le Carnet tel quel"
+      },
+      "quote": "Chacun transmet à sa manière, avec ses mots… ou avec le silence.",
+      "letter": {
+        "title": "Lettre optionnelle — Version « JE »",
+        "p": {
+          "1": "Je n’ai pas tout dit dans ce Carnet.<br></br>Et peut-être que je n’ai pas toujours su dire les choses non plus.<br></br>Mais si je devais te laisser quelques mots aujourd’hui, ce seraient ceux-ci.",
+          "2": "Je t’ai vu grandir.<br></br>À ta manière.<br></br>Avec tes forces, tes doutes, tes élans.",
+          "3": "J’ai vu certaines choses changer en toi.<br></br>D’autres rester.",
+          "4": "J’ai parfois compris.<br></br>Parfois moins.",
+          "5": "J’ai certainement fait des erreurs et il y a des choses que je ferais autrement aujourd’hui.",
+          "6": "Mais ce Carnet n’a jamais eu pour intention de te dire qui tu devais devenir.<br></br>Il raconte simplement une partie de ton histoire telle que je l’ai vécue à tes côtés.",
+          "7": "J’espère qu’il pourra t’aider à retrouver des moments oubliés, des voix, des visages, des émotions, des morceaux de ton enfance et de ton adolescence.",
+          "8": "Tu pourras y reconnaître certaines choses.<br></br>En découvrir d’autres.<br></br>Ne pas être d’accord avec certaines.<br></br>Et peut-être les regarder autrement avec le temps.",
+          "9": "Ce que j’ai voulu te transmettre ici n’est pas un modèle à suivre.<br></br>C’est une trace.<br></br>Une trace de ce que j’ai vu.<br></br>De ce que j’ai ressenti.<br></br>De ce que j’ai essayé de comprendre.<br></br>Et surtout du lien qui nous a unis pendant toutes ces années.",
+          "10": "La suite ne m’appartient pas.<br></br>Elle est à toi."
+        },
+        "fields": {
+          "1": "Nom :",
+          "2": "Signature :"
+        }
+      }
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Ce que représente pour moi ce moment de transmission",
+      "fields": {
+        "1": "Ce que je ressens en te transmettant ce Carnet aujourd’hui, ce que ce moment vient symboliser pour moi :"
+      },
+      "quote": "Transmettre, c’est aussi se dévoiler."
+    },
+    "2": {
+      "title": "2. Le chemin que j’ai vu en toi",
+      "fields": {
+        "1": "Ce qui m’a le plus marqué en te regardant grandir, ce que j’ai découvert de toi au fil des années :"
+      },
+      "quote": "Grandir, c’est devenir soi, pas à pas."
+    },
+    "3": {
+      "title": "3. Ce que j’admire chez toi aujourd’hui",
+      "fields": {
+        "1": "Ce que je trouve beau dans ta manière d’être, ce que j’ai envie de reconnaître chez toi aujourd’hui :"
+      },
+      "quote": "Reconnaître, c’est donner de la valeur à ce qui est là."
+    },
+    "4": {
+      "title": "4. Ce que je te transmets à travers ce Carnet",
+      "fields": {
+        "1": "Ce que j’ai voulu garder comme trace pour toi, ce qui m’a donné envie de créer et de nourrir ce Carnet au fil des années :"
+      },
+      "quote": "Une transmission n’impose rien. Elle propose."
+    },
+    "5": {
+      "title": "5. Les valeurs que j’ai essayé de te transmettre",
+      "fields": {
+        "1": "Les valeurs que j’ai souhaité te transmettre et les moments où j’ai essayé de les incarner avec toi :"
+      },
+      "quote": "Les valeurs ne s’imposent pas. Elles se vivent."
+    },
+    "6": {
+      "title": "6. J’ai fait de mon mieux, parfois maladroitement",
+      "fields": {
+        "1": "Avec le recul, ce que j’aurais aimé faire, dire ou comprendre autrement :",
+        "2": "Ce que j’aimerais peut-être te dire aujourd’hui à ce sujet :"
+      },
+      "quote": "Reconnaître ses limites, c’est aussi transmettre."
+    },
+    "7": {
+      "title": "7. Ce que je te souhaite pour ta vie",
+      "fields": {
+        "1": "Ce que je te souhaite profondément, sans choisir à ta place le chemin pour y parvenir :"
+      },
+      "quote": "Souhaiter, ce n’est pas diriger."
+    },
+    "8": {
+      "title": "8. Ce que je te laisse libre de devenir",
+      "fields": {
+        "1": "Ce que signifie pour moi te laisser vivre ta vie, faire tes propres choix et transformer, si tu le souhaites, ce que tu as reçu :"
+      },
+      "quote": "L’amour laisse de la place."
+    },
+    "9": {
+      "title": "9. Ceux qui ont fait partie de ton histoire",
+      "fields": {
+        "1": "Parmi ceux qui t’ont entouré(e), accompagné(e), aimé(e), et qui n’ont peut-être pas témoigné dans ce Carnet de Vie, je souhaite citer :",
+        "2": "Certains ne sont plus là aujourd’hui, mais ils/elles ont fait partie du chemin…"
+      },
+      "quote": "Certaines présences restent, même en leur absence."
+    },
+    "10": {
+      "title": "10. Ce moment, aujourd’hui",
+      "short": {
+        "1": "Date :",
+        "2": "Lieu :",
+        "3": "Contexte :",
+        "4": "Personnes présentes :"
+      },
+      "fields": {
+        "1": "Ce que j’aimerais particulièrement garder en mémoire de ce moment :"
+      },
+      "quote": "Un passage devient aussi une histoire lorsqu’on en garde une trace."
+    }
+  }
+}

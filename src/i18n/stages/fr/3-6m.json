@@ -1,0 +1,252 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 3-6 mois"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 3 À 6 MOIS"
+    },
+    "1": {
+      "title": "Le temps de l’échange",
+      "p": {
+        "1": "Entre trois et six mois, quelque chose s’ouvre.",
+        "2": "Les bras sont toujours là. Mais le regard s’anime.",
+        "3": "Le bébé regarde plus longtemps. Sourit. Répond.",
+        "4": "Quelque chose devient échange.",
+        "5": "Le lien ne porte plus seulement : il répond.",
+        "6": "L’enfant découvre progressivement qu’un appel peut recevoir une réponse, qu’un regard peut rencontrer un autre regard.",
+        "7": "Les premiers sons apparaissent, les mains explorent, le corps s’éveille davantage.",
+        "8": "La sécurité reste le premier besoin, mais l’éveil commence à circuler et le lien devient plus vivant, plus interactif.",
+        "9": "Il s’agit d’être présent, d’offrir de la continuité… et de laisser l’éveil se déployer à son rythme."
+      },
+      "quote": "Le monde devient peu à peu dialogue."
+    },
+    "2": {
+      "intro": "Entre trois et six mois, le bébé devient davantage partenaire de l’échange. Le regard, les sons, le rire, les mouvements et l’exploration ouvrent de nouvelles façons d’entrer en relation.",
+      "quote": "La sécurité reste le socle ; l’éveil peut alors se déployer."
+    },
+    "4": {
+      "title": "Le rituel du rire",
+      "p": {
+        "1": "Cherche ce qui provoque un rire.",
+        "2": "Un son inattendu.",
+        "3": "Un visage qui change.",
+        "4": "Un « coucou » qui revient.",
+        "5": "Recommence. Laisse le bébé anticiper.",
+        "6": "Observe ce qui se passe en toi lorsque le rire arrive.",
+        "7": "Ce rire-là appartient à cet instant.",
+        "8": "Il ne reviendra jamais tout à fait pareil."
+      },
+      "quote": "Garde-le.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de ces trois mois",
+      "items": {
+        "1": "Un mot.",
+        "2": "Une phrase.",
+        "3": "Une photo ou une vidéo.",
+        "4": "Sa voix ou son rire.",
+        "5": "Une berceuse.",
+        "6": "Une sensation.",
+        "7": "Une première fois.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Lors des repas, je remarque que le bébé est désormais :",
+      "options": {
+        "1": "plus régulier dans ses demandes",
+        "2": "plus interactif",
+        "3": "encore imprévisible",
+        "4": "plus expressif"
+      },
+      "quote": "Même quand le rythme change, la relation reste le fil."
+    },
+    "2": {
+      "title": "2. Le sommeil du bébé me semble :",
+      "options": {
+        "1": "plus stable",
+        "2": "encore changeant",
+        "3": "en évolution",
+        "4": "source d’ajustement"
+      },
+      "quote": "Le sommeil se construit : il n’obéit pas, il mûrit."
+    },
+    "3": {
+      "title": "3. Quand le bébé me regarde ou vocalise, je me sens :",
+      "options": {
+        "1": "touché(e)",
+        "2": "surpris(e)",
+        "3": "rassuré(e)",
+        "4": "plus en confiance",
+        "5": "ému(e)"
+      },
+      "quote": "Un échange peut être minuscule, et pourtant immense."
+    },
+    "4": {
+      "title": "4. Je remarque que le bébé :",
+      "options": {
+        "1": "attrape",
+        "2": "explore avec la bouche",
+        "3": "se tourne",
+        "4": "rit",
+        "5": "répète des sons — les premiers « areuh »"
+      },
+      "quote": "Explorer est un signe de sécurité, pas de performance."
+    },
+    "5": {
+      "title": "5. Dans cette période, je me sens plus à l’aise pour :",
+      "options": {
+        "1": "porter",
+        "2": "jouer",
+        "3": "reconnaître ses signaux",
+        "4": "organiser nos journées",
+        "5": "trouver mon rythme"
+      },
+      "quote": "La confiance vient par petits pas, pas par certitudes."
+    },
+    "6": {
+      "title": "6. Je me sens encore fragile face à :",
+      "options": {
+        "1": "la fatigue",
+        "2": "les doutes",
+        "3": "les pleurs",
+        "4": "l’équilibre du couple"
+      },
+      "quote": "Être fatigué n’enlève rien à la qualité du lien."
+    },
+    "7": {
+      "title": "7. Le lien entre le bébé et moi me semble :",
+      "options": {
+        "1": "plus fluide",
+        "2": "plus vivant",
+        "3": "plus rassurant",
+        "4": "en construction"
+      },
+      "quote": "Le lien se tisse dans le quotidien, pas dans l’idéal."
+    },
+    "8": {
+      "title": "8. S’il y a une fratrie, je remarque que :",
+      "options": {
+        "1": "la curiosité augmente",
+        "2": "des jalousies apparaissent ou continuent",
+        "3": "les liens se tissent",
+        "4": "chacun cherche sa place"
+      },
+      "quote": "Chaque enfant s’ajuste à sa manière."
+    },
+    "9": {
+      "title": "9. Ces mois ont-ils amené des changements importants ?",
+      "options": {
+        "1": "un retour au travail",
+        "2": "une entrée en crèche ou chez une assistante maternelle",
+        "3": "un déménagement ou un voyage",
+        "4": "l’arrivée ou le départ d’une personne"
+      },
+      "field": "Comment ai-je vécu ce changement ?",
+      "blocks": {
+        "1": {
+          "field": "Comment le bébé semble-t-il s’y adapter ?"
+        }
+      },
+      "quote": "Un changement demande parfois simplement du temps pour se déposer."
+    },
+    "10": {
+      "title": "10. Ce que ces trois mois ont changé en moi et entre nous :",
+      "field": "Dans mon rapport à moi-même comme parent :",
+      "blocks": {
+        "1": {
+          "field": "Dans ma relation avec mon/ma partenaire :"
+        },
+        "2": {
+          "field": "Dans ce que je ressens pour le bébé :"
+        }
+      },
+      "quote": "Grandir ne fait pas toujours de bruit. Mais cela transforme le lien."
+    }
+  },
+  "articles": {
+    "eveil": {
+      "title": "Éveil, échanges et développement (3–6 mois)",
+      "p": {
+        "1": "T. Berry Brazelton (1918–2018) – Pédiatre américain, spécialiste du développement du nourrisson.",
+        "2": "Entre trois et six mois, l’enfant devient de plus en plus actif dans la relation. Le regard se prolonge, les sourires deviennent plus clairement adressés et les premières vocalisations créent de véritables petits échanges.",
+        "3": "Les « areuh », les voyelles allongées et les gazouillis constituent les premières expérimentations vocales. Lorsque l’adulte répond, attend puis laisse le bébé répondre à son tour, quelque chose qui ressemble déjà à une conversation se construit.",
+        "4": "Vers 3–4 mois apparaît souvent le rire. Il peut être déclenché par un visage qui change, un son inattendu, une répétition ou un jeu de « coucou ». Reproduire ce qui provoque le rire permet au bébé d’anticiper et de participer davantage à l’échange.",
+        "5": "<b>Les mains, la bouche et le corps</b>",
+        "6": "Les mains deviennent progressivement exploratrices. Le bébé attrape, porte les objets à la bouche, observe ses mains et expérimente les mouvements de son corps.",
+        "7": "La bouche est alors un véritable outil d’exploration. Porter un objet adapté à la bouche ne signifie pas seulement « vouloir manger » : le bébé recueille aussi des informations sur sa forme, sa texture et sa consistance.",
+        "8": "Le contrôle de la tête et du haut du corps progresse. Certains bébés commencent à se tourner. Ces acquisitions apparaissent progressivement et à des rythmes différents.",
+        "9": "<b>Les autres visages</b>",
+        "10": "Le cercle relationnel s’élargit. Parents, grands-parents, fratrie et personnes régulièrement présentes commencent à être reconnus plus distinctement.",
+        "11": "Le bébé peut réserver des regards, des sons ou des sourires particuliers à certaines personnes.",
+        "12": "L’essentiel n’est pas de provoquer la relation, mais de lui laisser le temps de se construire."
+      },
+      "points": {
+        "1": "Entre trois et six mois, le bébé devient davantage acteur de l’échange.",
+        "2": "Répondre à ses sons, ses regards et ses sourires nourrit les premières formes de dialogue.",
+        "3": "Les mains, la bouche et le mouvement sont des moyens essentiels d’exploration.",
+        "4": "Chaque acquisition apparaît à son propre rythme : il n’y a pas de performance à rechercher.",
+        "5": "Avec les proches, mieux vaut laisser le bébé entrer progressivement dans la relation plutôt que forcer le contact."
+      }
+    },
+    "sommeil": {
+      "title": "Sommeil, dents et diversification alimentaire",
+      "p": {
+        "1": "<b>Le sommeil</b>",
+        "2": "Entre trois et six mois, le sommeil évolue progressivement, mais il peut rester irrégulier. Certaines périodes deviennent plus prévisibles, tandis que d’autres peuvent à nouveau être marquées par davantage de réveils.",
+        "3": "Ces variations ne signifient pas nécessairement qu’une habitude a été « perdue ». Le développement neurologique, les acquisitions motrices, les changements de rythme et les inconforts physiques peuvent temporairement modifier le sommeil.",
+        "4": "<b>Les premières poussées dentaires</b>",
+        "5": "Durant cette période, certains bébés commencent à présenter des signes associés aux premières poussées dentaires : besoin de mordiller, salivation plus importante, gencives sensibles ou irritabilité.",
+        "6": "L’apparition des premières dents varie cependant beaucoup d’un enfant à l’autre.",
+        "7": "<b>La diversification alimentaire</b>",
+        "8": "Entre quatre et six mois peut également commencer, selon les recommandations données à la famille et le développement de l’enfant, la découverte progressive de nouvelles textures et saveurs.",
+        "9": "Au-delà de l’alimentation elle-même, c’est une nouvelle expérience sensorielle : nouvelles odeurs, nouvelles textures, nouvelles façons de manger.",
+        "10": "Il ne s’agit pas d’une course. La découverte peut se faire progressivement, en observant les réactions du bébé et sans transformer le repas en performance."
+      },
+      "points": {
+        "1": "Entre trois et six mois, le sommeil continue de mûrir et peut rester changeant.",
+        "2": "Une période de réveils plus fréquents ne signifie pas nécessairement un recul.",
+        "3": "Les poussées dentaires peuvent créer de l’inconfort, mais leur apparition et leurs manifestations varient selon les enfants.",
+        "4": "La diversification est une découverte progressive des goûts et des textures, pas une performance alimentaire.",
+        "5": "Observer les réactions et respecter le rythme du bébé reste essentiel."
+      }
+    },
+    "separation": {
+      "title": "Séparation, retour au travail et nouvel équilibre familial",
+      "p": {
+        "1": "Entre trois et six mois surviennent parfois les premières séparations régulières : reprise du travail, entrée en crèche, assistante maternelle ou autre mode de garde.",
+        "2": "Pour le parent, cette étape peut faire apparaître des émotions contradictoires : soulagement et culpabilité, plaisir de retrouver une activité et manque du bébé, confiance et inquiétude.",
+        "3": "Ces sentiments peuvent coexister.",
+        "4": "<b>Se séparer et se retrouver</b>",
+        "5": "Une séparation régulière n’efface pas le lien d’attachement.",
+        "6": "Des repères simples et répétitifs peuvent accompagner cette transition : une façon de dire au revoir, quelques mots identiques, un geste familier, puis des retrouvailles suffisamment disponibles.",
+        "7": "L’enfant découvre progressivement qu’une personne peut partir puis revenir.",
+        "8": "<b>Le couple</b>",
+        "9": "La vie à deux continue elle aussi de se réorganiser. Fatigue, nouvelles responsabilités, répartition des tâches, disponibilité affective et sexualité peuvent évoluer.",
+        "10": "Le désir peut revenir rapidement, lentement ou de façon irrégulière. Il n’existe pas de rythme unique.",
+        "11": "Préserver quelques espaces de dialogue permet aussi au couple de continuer à exister au-delà de la fonction parentale.",
+        "12": "<b>Le parent</b>",
+        "13": "À mesure que les semaines passent, le parent commence souvent à mieux reconnaître certains signaux du bébé et à gagner en confiance.",
+        "14": "Cependant, une fatigue intense, une tristesse persistante, une perte de plaisir, un sentiment de vide ou une difficulté importante à créer du lien peuvent aussi apparaître ou persister plusieurs mois après la naissance. En parler à un professionnel reste important.",
+        "15": "<b>La fratrie et les proches</b>",
+        "16": "Les autres enfants de la famille continuent eux aussi à chercher leur nouvelle place. Curiosité, affection, jalousie ou régression peuvent parfois alterner.",
+        "17": "Les proches peuvent devenir de nouvelles figures familières, à condition de respecter le rythme de l’enfant et de ne pas imposer le contact."
+      },
+      "points": {
+        "1": "Les premières séparations peuvent être émotionnellement difficiles pour le parent sans fragiliser nécessairement le lien avec le bébé.",
+        "2": "Des départs et des retrouvailles simples et réguliers offrent progressivement des repères.",
+        "3": "Le couple continue de se transformer après la naissance : chacun peut avoir un rythme différent.",
+        "4": "Une grande fatigue ou une tristesse persistante mérite d’être entendue et accompagnée, même plusieurs mois après l’accouchement.",
+        "5": "La fratrie et les proches ont eux aussi besoin de temps pour trouver leur place autour du bébé."
+      },
+      "closing": {
+        "1": "Entre trois et six mois, le monde s’élargit : la sécurité demeure le socle à partir duquel l’échange, l’exploration et les nouveaux liens peuvent grandir."
+      }
+    }
+  }
+}

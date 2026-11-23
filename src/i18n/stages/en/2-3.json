@@ -1,0 +1,230 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 2–3 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 2 TO 3"
+    },
+    "1": {
+      "title": "The sacred explorer",
+      "p": {
+        "1": "Between two and three, the world becomes immense. The child runs towards it as if there were no limits. They climb. They touch. They open. They want to understand by doing.",
+        "2": "Their energy sometimes overflows. Impulse is quicker than caution. They laugh loudly. They cry just as intensely. They feel powerful. Then they ask for your arms.",
+        "3": "The world is calling them. They want to see everything."
+      },
+      "quote": "To explore is to step fully into the world."
+    },
+    "2": {
+      "intro": "At this age, physical energy is intense, language progresses quickly and the child experiments with their power to act. Their awareness of consequences is still limited: the adult remains the point of reference that keeps exploration contained.",
+      "quote": "Freedom is learned within a framework."
+    },
+    "4": {
+      "title": "The slowing-down ritual",
+      "p": {
+        "1": "Ten minutes before bedtime, relaxing music begins and the light softens. No words are needed. The child’s body receives two signals — sound and light — telling it that the world is slowing down and night is coming.",
+        "2": "Once the child is in bed, sit beside them. Breathe slowly, visibly, without asking them to do the same. Your breathing simply sets the rhythm.",
+        "3": "Then gently place your hands on their back. Make slow circles, with soft, steady pressure, for a few minutes. Without speaking, or very little."
+      },
+      "quote": "In soothing the child, the adult is soothed too. The evening separation becomes a moment of full connection — not a break.",
+      "invite": "We invite you to film or photograph this moment and add it to your Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from this year",
+      "items": {
+        "1": "A wild run.",
+        "2": "An unexpected question.",
+        "3": "A burst of laughter.",
+        "4": "A big fit of anger.",
+        "5": "A step forward in their confidence to approach others.",
+        "6": "A photo or a video.",
+        "7": "Their voice.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "I place our precious moments here,<br></br>to give them to you one day and to say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. The child at the moment:",
+      "options": {
+        "1": "runs without stopping",
+        "2": "climbs everywhere",
+        "3": "explores without gauging danger",
+        "4": "constantly tests limits",
+        "5": "moves forward cautiously",
+        "6": "still looks for me a lot before acting"
+      },
+      "quote": "To explore is to exist in motion."
+    },
+    "2": {
+      "title": "2. When faced with a rule:",
+      "options": {
+        "1": "protests",
+        "2": "negotiates",
+        "3": "forgets quickly",
+        "4": "tests it again"
+      },
+      "quote": "Limits help to contain impulse."
+    },
+    "3": {
+      "title": "3. When they act:",
+      "options": {
+        "1": "acts first, thinks later",
+        "2": "thinks first, acts later",
+        "3": "talks at the same time",
+        "4": "imitates adults",
+        "5": "invents scenarios"
+      },
+      "quote": "Play becomes a laboratory of the world."
+    },
+    "4": {
+      "title": "4. When faced with frustration:",
+      "options": {
+        "1": "explodes",
+        "2": "cries intensely",
+        "3": "calms down quickly",
+        "4": "looks for my presence"
+      },
+      "quote": "The emotion runs through their whole body."
+    },
+    "5": {
+      "title": "5. Language at the moment:",
+      "options": {
+        "1": "simple sentences",
+        "2": "vocabulary growing fast",
+        "3": "frequent questions",
+        "4": "invents words",
+        "5": "shows what they want rather than saying it"
+      },
+      "quote": "Speech opens a new inner space."
+    },
+    "6": {
+      "title": "6. In their play, I notice:",
+      "options": {
+        "1": "a lot of imagination",
+        "2": "repetitive scenarios",
+        "3": "role play",
+        "4": "the presence of transitional objects",
+        "5": "a tendency to get bored quickly",
+        "6": "a need to be stimulated"
+      },
+      "quote": "Play creates a space between the inside and the outside."
+    },
+    "7": {
+      "title": "7. The bond between us seems to me:",
+      "options": {
+        "1": "more intense",
+        "2": "sometimes put to the test",
+        "3": "joyful",
+        "4": "demanding"
+      },
+      "quote": "Growing up calls for new ways of being present."
+    },
+    "8": {
+      "title": "8. With other children:",
+      "options": {
+        "1": "plays alongside them",
+        "2": "is starting to share",
+        "3": "strongly asserts their place",
+        "4": "imitates",
+        "5": "prefers to play alone",
+        "6": "looks for my presence nearby"
+      },
+      "quote": "Socialising begins with imitation."
+    },
+    "9": {
+      "title": "9. During this period, I feel:",
+      "options": {
+        "1": "stimulated",
+        "2": "tired",
+        "3": "full of admiration",
+        "4": "sometimes overwhelmed"
+      },
+      "quote": "The child’s intensity calls for a calm strength."
+    },
+    "10": {
+      "title": "10. What stands out to me most:",
+      "quote": "They are discovering their power. I am discovering my ability to contain it."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (2–3 years)",
+      "p": {
+        "1": "Between two and three, the child enters a period of intense exploration. They act quickly and want to try things for themselves. The pleasure of doing often comes before caution.",
+        "2": "Physically, they run, climb, jump and carry. Their body becomes a real tool for action. But their ability to anticipate consequences is still limited: impulse is often quicker than thought.",
+        "3": "Cognitively, the child still largely understands the world through direct experience.",
+        "4": "Jean Piaget (1896–1980) – Swiss psychologist, biologist and epistemologist, specialist in children’s cognitive development.",
+        "5": "Piaget describes thinking at this stage as still centred on immediate experience. The child reasons from what they see, touch and feel.",
+        "6": "Language progresses quickly and increasingly goes hand in hand with action."
+      },
+      "points": {
+        "1": "Intense exploration is normal at this age.",
+        "2": "The child still understands much of the world by acting on it directly.",
+        "3": "Running, climbing, touching and handling things are all part of their learning.",
+        "4": "Impulsiveness reflects, among other things, a still-limited ability to anticipate consequences.",
+        "5": "The adult’s framework keeps exploration safe enough."
+      }
+    },
+    "langage": {
+      "title": "Language according to Françoise Dolto",
+      "p": {
+        "1": "Françoise Dolto (1908–1988) – French paediatrician and psychoanalyst, specialist in childhood.",
+        "2": "Dolto showed how much the words spoken to a child contribute to their inner construction.",
+        "3": "At this age, language develops quickly. Words gradually make it possible to name people, objects and actions, but also what is happening inside oneself.",
+        "4": "Putting words to the child’s emotions can gradually help them recognise, integrate and understand those emotions.",
+        "5": "Speech does not cancel out emotion. It gradually gives it a shape that can be shared."
+      },
+      "points": {
+        "1": "Language contributes to building the child’s inner world.",
+        "2": "Talking to the child about what they are going through gradually helps them organise their experience.",
+        "3": "Putting words to emotions can, little by little, help them recognise those emotions.",
+        "4": "The child often understands more than they can yet express.",
+        "5": "Words gradually offer another way than gestures, screaming or crying."
+      }
+    },
+    "puissance": {
+      "title": "Donald Winnicott: power and dependence",
+      "p": {
+        "1": "Donald W. Winnicott (1896–1971) – British paediatrician and psychoanalyst.",
+        "2": "Winnicott describes a precious space between reality and imagination. It is in this space, among others, that the child plays, invents and gradually builds their sense of existing as a separate person.",
+        "3": "At this age, the child can feel very powerful… then very dependent. This back-and-forth is normal.",
+        "4": "They need to explore, to try, to decide and sometimes to oppose. But they need just as much for the adult to remain a stable point of reference.",
+        "5": "Exploration is not opposition. It is expansion.",
+        "6": "Limits are not just constraints. They are also a source of security: they give the child a framework stable enough to experiment with their power to act without being left to their own devices."
+      },
+      "points": {
+        "1": "The feeling of power still naturally alternates with the need for dependence.",
+        "2": "Exploring and asserting themselves does not mean rejecting the adult.",
+        "3": "Play and imagination contribute to building a sense of self.",
+        "4": "The child needs to experiment with their power to act while also meeting limits.",
+        "5": "A stable, calm adult remains an essential point of reference."
+      }
+    },
+    "spasmes": {
+      "title": "Breath-holding spells",
+      "p": {
+        "1": "A breath-holding spell is an involuntary reflex pause in breathing. The child cries intensely, breathes out completely, then their breathing briefly stops.",
+        "2": "It can be triggered by a strong emotion — fear, frustration or anger. The child may turn pale or bluish and sometimes briefly lose consciousness. An episode can be very frightening to witness.",
+        "3": "It usually appears in young children and may be particularly common around this age.",
+        "4": "<b>The two forms</b>",
+        "5": "The blue form is the most common. It usually follows a strong emotion, anger or frustration: the child cries, breathes out, then briefly holds their breath.",
+        "6": "The pale form tends to follow pain or a sudden fright. There may be less crying, with marked paleness and sometimes a brief loss of muscle tone.",
+        "7": "<b>What to do in the moment?</b>",
+        "8": "Stay as calm as possible. Make the child safe, ideally lying on their side. Do not shake them and do not blow into their mouth.",
+        "9": "Breathing starts again on its own in the typical episodes described in the source document."
+      },
+      "points": {
+        "1": "A breath-holding spell is involuntary: the child is not doing it on purpose and cannot control it.",
+        "2": "An intense emotion, frustration, fear or pain can trigger it.",
+        "3": "There are two main forms: a blue form and a pale form.",
+        "4": "It is not manipulation.",
+        "5": "During an episode, what matters most is to stay as calm as possible and keep the child safe."
+      },
+      "closing": {
+        "1": "A reassuring framework gives the child the courage to discover the world."
+      }
+    }
+  }
+}

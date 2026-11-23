@@ -1,0 +1,228 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 6–7 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 6 TO 7"
+    },
+    "1": {
+      "title": "The landmark builder",
+      "p": {
+        "1": "Between six and seven, the world becomes more organised. School becomes a central landmark. Rules start to make sense, and the child tries to understand, to adapt and to find their place within a shared framework.",
+        "2": "Learning takes up more room. Reading, writing, counting, understanding: so many new experiences that can bring pride, but can also make the child more sensitive to mistakes and to what others think.",
+        "3": "The child still swings between independence and needing reassurance, between confidence and doubt. The wish to do well grows.",
+        "4": "Clear, stable and consistent landmarks let the child lean on the world to move forward."
+      },
+      "quote": "Growing up also means learning to adjust to the world."
+    },
+    "2": {
+      "intro": "Between six and seven, more logical thinking starts to take shape. The child looks for the meaning of rules, becomes very sensitive to what is fair and unfair, and often wants to do well. Encouraging effort more than results helps build a confidence that depends less on success.",
+      "quote": "Observing without judging is already a way of supporting."
+    },
+    "4": {
+      "title": "The path of progress",
+      "p": {
+        "1": "With the child, choose three things that have changed this year.",
+        "2": "Something learned. Something that was hard and is less so today. Something the child would still like to learn.",
+        "3": "For each one, simply ask: “What helped you?”",
+        "4": "Listen to the answer without correcting, comparing or straight away adding your own view. Then choose a small step forward of your own from this year.",
+        "5": "Together, you can write or draw these four paths on a sheet of paper and date it."
+      },
+      "quote": "Being seen in their efforts helps the child recognise their own path.",
+      "invite": "We invite you to film or photograph this moment and add it to your Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from this year",
+      "items": {
+        "1": "An important thing learned.",
+        "2": "A first reading.",
+        "3": "A moment of pride.",
+        "4": "A mistake put behind us.",
+        "5": "A surprising question.",
+        "6": "A friendship.",
+        "7": "A photo, a video or their voice.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "I place our precious moments here,<br></br>to give them to you one day and to say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. When they come home from school, I notice that the child:",
+      "options": {
+        "1": "adapts well to the school rhythm",
+        "2": "seems tired at the end of the day",
+        "3": "needs to unwind",
+        "4": "needs to do some sport or play",
+        "5": "needs a snack or a rest",
+        "6": "prefers to do homework and then move on",
+        "7": "is enthusiastic about this stage"
+      },
+      "quote": "A rhythm is built over time."
+    },
+    "2": {
+      "title": "2. In everyday life, the child:",
+      "options": {
+        "1": "is becoming more independent",
+        "2": "still needs support",
+        "3": "forgets some steps",
+        "4": "likes doing things alone",
+        "5": "sometimes resists"
+      },
+      "quote": "Independence is built step by step."
+    },
+    "3": {
+      "title": "3. When it comes to learning, the child:",
+      "options": {
+        "1": "discovers with pleasure",
+        "2": "enjoys reading or learning",
+        "3": "needs to feel valued",
+        "4": "makes an effort to improve",
+        "5": "finds some things hard to learn",
+        "6": "gets discouraged easily",
+        "7": "is proud of their successes",
+        "8": "compares themselves to others"
+      },
+      "quote": "Effort counts as much as the result."
+    },
+    "4": {
+      "title": "4. In the way they think, the child:",
+      "options": {
+        "1": "is starting to reason logically",
+        "2": "asks a lot of questions",
+        "3": "tries to understand",
+        "4": "needs things to be concrete",
+        "5": "gets annoyed at not understanding",
+        "6": "finds it hard to do things alone"
+      },
+      "quote": "Understanding takes time."
+    },
+    "5": {
+      "title": "5. Faced with rules, the child:",
+      "options": {
+        "1": "understands them",
+        "2": "needs them to be explained",
+        "3": "applies them rigidly",
+        "4": "questions them",
+        "5": "sometimes rebels against them"
+      },
+      "quote": "Rules feel safe when they are consistent."
+    },
+    "6": {
+      "title": "6. Faced with what is fair and unfair, the child:",
+      "options": {
+        "1": "has a strong sense of justice",
+        "2": "reacts strongly",
+        "3": "better understands “on purpose / not on purpose”",
+        "4": "easily feels guilty",
+        "5": "sometimes thinks they are above the rules"
+      },
+      "quote": "A sense of right and wrong is built little by little."
+    },
+    "7": {
+      "title": "7. In their emotions, the child:",
+      "options": {
+        "1": "is very sensitive",
+        "2": "can be overwhelmed",
+        "3": "puts words to their emotions",
+        "4": "recognises their emotions well",
+        "5": "finds it hard to tell them apart",
+        "6": "swings between confidence and needing reassurance"
+      },
+      "quote": "Emotions need to be welcomed."
+    },
+    "8": {
+      "title": "8. In their relationships with others, the child:",
+      "options": {
+        "1": "tries to be like the others",
+        "2": "adapts easily",
+        "3": "is making friends",
+        "4": "can be exclusive in their friendships",
+        "5": "can feel rejected",
+        "6": "sometimes tries to lead or dominate"
+      },
+      "quote": "The group becomes an important landmark."
+    },
+    "9": {
+      "title": "9. In how they see themselves, the child:",
+      "options": {
+        "1": "is proud of themselves",
+        "2": "has doubts",
+        "3": "needs reassurance",
+        "4": "compares themselves",
+        "5": "wants to do well",
+        "6": "judges themselves harshly"
+      },
+      "quote": "Self-esteem is also built in the way one is seen."
+    },
+    "10": {
+      "title": "10. What particularly struck me, or what has changed in our life this year:",
+      "field": "With siblings, what I sense about how they get along:",
+      "blocks": {
+        "1": {
+          "field": "In a blended family, what I sense about how everyone gets along:"
+        }
+      },
+      "quote": "Every family story evolves in its own way."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (6–7 years)",
+      "p": {
+        "1": "Between six and seven, the child enters a clearer phase of structuring. The body gradually adapts to the demands of school: sitting still, concentrating and following a rhythm become more possible, but still take a lot of energy.",
+        "2": "Attention span grows. The child can concentrate for longer, especially when the activity makes sense to them.",
+        "3": "Cognitively, simple logical thinking starts to settle in. The child better understands cause and effect, organises their actions more and can follow more complex instructions.",
+        "4": "Rules are no longer only imposed. They start to be understood and can become reassuring.",
+        "5": "Emotionally, fairness and unfairness take up more room. The child wants to do well, to succeed and to meet expectations.",
+        "6": "How the adult sees them remains central, while how the group sees them also starts to matter."
+      },
+      "points": {
+        "1": "Adapting to the school rhythm still takes a lot of energy.",
+        "2": "Attention span grows, especially when the child understands the point of what is asked.",
+        "3": "Simple logical thinking starts to take shape.",
+        "4": "Rules gradually become understandable and reassuring.",
+        "5": "How the adult sees the child still gives structure, even as how others see them matters more."
+      }
+    },
+    "regles": {
+      "title": "Making sense of rules and the framework",
+      "p": {
+        "1": "At this age, rules take on a new dimension. They are no longer only felt as constraints: they gradually become landmarks.",
+        "2": "The child asks “why?” more often, questions and compares.",
+        "3": "A framework feels safe when it is clear, stable, consistent and explained. On the other hand, inconsistency can unsettle, while excessive rigidity can hold the child back.",
+        "4": "The child gradually discovers that rules are not only there to get obedience: they also make it possible to live, learn and play together.",
+        "5": "The adult embodies this consistency through the way they are, their constancy and their responses. It is on this stability that the child can gradually rely."
+      },
+      "points": {
+        "1": "A rule is better taken on board when the child can understand its meaning.",
+        "2": "A reassuring framework is clear, stable, consistent and explained.",
+        "3": "Inconsistency unsettles more than the limit itself.",
+        "4": "A framework that is too rigid can stop the child from gradually developing their own judgement.",
+        "5": "The adult’s consistency gives the child a landmark to rely on."
+      }
+    },
+    "bienfaire": {
+      "title": "Learning to do well… without losing oneself",
+      "p": {
+        "1": "Between six and seven, the child often wants to do well. To succeed. To meet expectations. To be recognised.",
+        "2": "This drive supports learning, but it can also make the child fragile when their sense of worth starts to depend too much on results.",
+        "3": "The child may then doubt, compare themselves, fear mistakes or judge themselves harshly.",
+        "4": "The adult’s role is to help keep a balance: encourage effort, value the process, allow mistakes and remind the child that understanding sometimes takes time.",
+        "5": "A mistake does not say what the child is worth. It simply says that learning is still under way.",
+        "6": "This is how a steadier confidence can gradually be built, one that depends less on immediate success."
+      },
+      "points": {
+        "1": "Wanting to do well can support learning but can also create inner pressure.",
+        "2": "Comparison and fear of mistakes can weaken confidence.",
+        "3": "Valuing effort keeps the child from being reduced to results.",
+        "4": "Making mistakes is part of the learning process.",
+        "5": "The child’s worth does not depend on success."
+      },
+      "closing": {
+        "1": "Consistent landmarks let the child gradually build their own."
+      }
+    }
+  }
+}

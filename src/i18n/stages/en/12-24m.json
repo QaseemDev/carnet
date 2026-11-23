@@ -1,0 +1,250 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 12–24 months"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • 12 TO 24 MONTHS"
+    },
+    "1": {
+      "title": "Walking, saying “no”, becoming “I”",
+      "p": {
+        "1": "Between one and two years, something asserts itself. The child stands up and walks away without holding your hand. They choose. They insist. They say “no” with conviction.",
+        "2": "They no longer just explore the world. They begin to take their place in it. Sometimes they laugh. Sometimes they get very angry. Sometimes they want to do everything alone… then come back looking for your arms.",
+        "3": "Security is still there. But it is no longer lived only in being carried. It is lived in the freedom to try.",
+        "4": "The child is learning that they can be distinct. Without being separate."
+      },
+      "quote": "Saying no is the beginning of becoming “I”."
+    },
+    "2": {
+      "intro": "Between one and two years, walking becomes steady, language emerges and the child discovers that they can want things. Emotions remain intense and hard to regulate alone: a consistent, reassuring framework supports this budding self-assertion.",
+      "quote": "It is not opposition against you. It is them building themselves."
+    },
+    "4": {
+      "title": "The hands ritual",
+      "p": {
+        "1": "Take a blank sheet of paper, a pencil or some paint. Place your hand. The child places theirs.",
+        "2": "Trace the outlines of your two hands. Date this moment, then add the drawing to Carnet de Vie."
+      },
+      "quote": "A framework does not prevent self-assertion. It makes it possible.",
+      "invite": "We invite you to film or photograph this moment and add it to Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from this year",
+      "items": {
+        "1": "Their first “no”.",
+        "2": "A fall followed by a laugh.",
+        "3": "An unexpected word.",
+        "4": "A hand pulling away.",
+        "5": "A photo or a video.",
+        "6": "Their voice.",
+        "7": "A moment when the child wanted to do it alone.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "I place our precious moments here,<br></br>to give them to you one day and to say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. The child at the moment:",
+      "options": {
+        "1": "walks alone",
+        "2": "already runs",
+        "3": "climbs everywhere",
+        "4": "explores fearlessly",
+        "5": "explores cautiously"
+      },
+      "quote": "Walking is also choosing your direction."
+    },
+    "2": {
+      "title": "2. When they explore:",
+      "options": {
+        "1": "goes far for a long time",
+        "2": "still checks that I am there",
+        "3": "calls me",
+        "4": "comes back on their own"
+      },
+      "quote": "Moving away does not mean pulling away."
+    },
+    "3": {
+      "title": "3. The word “no” comes up:",
+      "options": {
+        "1": "rarely",
+        "2": "often",
+        "3": "intensely",
+        "4": "about almost everything"
+      },
+      "quote": "Saying “no” is a first step towards oneself."
+    },
+    "4": {
+      "title": "4. When frustrated:",
+      "options": {
+        "1": "cries",
+        "2": "shouts",
+        "3": "rolls on the floor",
+        "4": "throws things",
+        "5": "seeks my arms"
+      },
+      "quote": "The storm is sometimes bigger than they are."
+    },
+    "5": {
+      "title": "5. Language at the moment:",
+      "options": {
+        "1": "a few single words",
+        "2": "puts two words together",
+        "3": "repeats",
+        "4": "understands far more than they say"
+      },
+      "quote": "Speaking transforms the inner world."
+    },
+    "6": {
+      "title": "6. During separations:",
+      "options": {
+        "1": "still protests strongly",
+        "2": "seems to understand the return better",
+        "3": "anticipates",
+        "4": "calms down more quickly"
+      },
+      "blocks": {
+        "1": {
+          "lead": "When I am away, are they still reassured by:<br></br>the same person (or people)",
+          "choices": {
+            "1": "yes",
+            "2": "no"
+          },
+          "field": "Who?"
+        },
+        "2": {
+          "lead": "the same object(s)",
+          "choices": {
+            "1": "yes",
+            "2": "no"
+          },
+          "field": "Which one(s)?"
+        }
+      },
+      "quote": "Understanding absence does not cancel it."
+    },
+    "7": {
+      "title": "7. The bond between us seems to me:",
+      "options": {
+        "1": "more intense",
+        "2": "sometimes more conflictual",
+        "3": "richer",
+        "4": "changing"
+      },
+      "quote": "Growing up changes the relationship."
+    },
+    "8": {
+      "title": "8. If there are siblings, I notice:",
+      "options": {
+        "1": "imitation increases",
+        "2": "rivalry appears",
+        "3": "rivalry disappears",
+        "4": "self-assertion grows stronger",
+        "5": "each one tests their place"
+      },
+      "quote": "Each child asserts their uniqueness."
+    },
+    "9": {
+      "title": "9. During this period, I feel:",
+      "options": {
+        "1": "patient",
+        "2": "overwhelmed at times",
+        "3": "proud",
+        "4": "tired",
+        "5": "surprised"
+      },
+      "quote": "The child’s autonomy calls for a new adjustment from the parent."
+    },
+    "10": {
+      "title": "10. What stands out to me most in this period:",
+      "quote": "They are discovering their strength. I am discovering mine."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (12–24 months)",
+      "p": {
+        "1": "Between one and two years, development speeds up visibly. The child no longer just explores: they act, decide, insist.",
+        "2": "<b>The body becomes a tool for autonomy</b>",
+        "3": "The child walks, climbs, pushes, pulls, carries. They try out their strength and discover the limits of their body.",
+        "4": "<b>The world begins to be thought about</b>",
+        "5": "On the cognitive side, something opens up. The child begins to picture situations in their mind. They anticipate, understand, make connections.",
+        "6": "The world is no longer only lived. It begins to be thought about.",
+        "7": "<b>A new self-assertion</b>",
+        "8": "On the emotional side, a major step appears. The child discovers that they are distinct, that they can want something different and that they can oppose.",
+        "9": "Emotions are intense, sometimes overwhelming. The adult remains the main support.",
+        "10": "Between dependence and autonomy, the child swings back and forth. And in this swinging, their sense of being one whole person is gradually built."
+      },
+      "points": {
+        "1": "Being able to move on their own lets the child act more on their surroundings.",
+        "2": "Exploring, moving things, climbing and starting again all feed directly into learning.",
+        "3": "The child begins to anticipate better and to picture situations.",
+        "4": "Emotions remain intense and still need the adult’s support.",
+        "5": "Autonomy does not remove the need for a stable emotional base."
+      }
+    },
+    "non": {
+      "title": "“No” and separation–individuation",
+      "p": {
+        "1": "The appearance of “no” marks a decisive step in development. The child discovers that they can want something different from the adult.",
+        "2": "Margaret Mahler (1897–1985) – Hungarian-born psychiatrist and psychoanalyst, specialist in early child development.",
+        "3": "Mahler describes this period as a phase of separation–individuation. The child feels their ability to be distinct. They experience difference, sometimes intensely.",
+        "4": "Donald W. Winnicott (1896–1971) – British paediatrician and psychoanalyst.",
+        "5": "Winnicott shows that this self-assertion helps build the self. Saying “no” lets the child feel like a person in their own right.",
+        "6": "John Bowlby (1907–1990) – English psychiatrist and psychoanalyst. A pioneer of attachment in children.",
+        "7": "Bowlby reminds us that a secure enough attachment allows this opposition without breaking the bond. The child can oppose because they gradually know that the relationship holds.",
+        "8": "When “no” becomes constant, it can wear the parent out. It then helps to remember that the child is not necessarily trying to provoke. They are testing their ability to exist.",
+        "9": "Staying calm, setting a clear and consistent framework and avoiding emotional escalation help them take in that the bond remains, even when wishes differ.",
+        "10": "Conflict is not a break. It is a step towards becoming a separate person."
+      },
+      "points": {
+        "1": "“No” is part of gradually building an “I”.",
+        "2": "Opposing lets the child experience that they can want something different from the adult.",
+        "3": "Opposition does not mean the bond is broken.",
+        "4": "A clear and consistent framework lets the child assert themselves without losing their bearings.",
+        "5": "Secure attachment gradually supports becoming a separate person."
+      }
+    },
+    "tempetes": {
+      "title": "Understanding emotional “storms”",
+      "p": {
+        "1": "At this age, the child’s brain is still being built. The areas involved in regulating emotions, in particular the prefrontal cortex, are very immature. They will keep maturing until early adulthood.",
+        "2": "On the other hand, the structures involved in immediate emotional reactions are already very active.",
+        "3": "When frustration arises, the emotion can therefore overwhelm the child before they can moderate it. They do not yet have the inner tools they need to calm down alone.",
+        "4": "What is sometimes called a “tantrum” is usually not manipulation. It is the expression of being overwhelmed.",
+        "5": "The child is not necessarily trying to provoke. They need help getting through what they feel. The adult’s calm presence then acts as an outside regulator, until their own abilities develop."
+      },
+      "points": {
+        "1": "At this age, the brain abilities needed to regulate emotions are still very immature.",
+        "2": "An emotional “storm” is often being overwhelmed rather than manipulation.",
+        "3": "The child cannot yet always calm down alone.",
+        "4": "The adult’s calm presence is part of co-regulation.",
+        "5": "Welcoming the emotion does not stop you from keeping a clear limit."
+      }
+    },
+    "langage": {
+      "title": "The beginning of symbolic language",
+      "p": {
+        "1": "Between one and two years, language progresses quickly. Words appear, combinations form and understanding often goes beyond what the child can say.",
+        "2": "Jean Piaget (1896–1980) – Swiss psychologist, biologist and epistemologist, specialist in children’s cognitive development.",
+        "3": "Piaget describes the gradual emergence of the symbolic function: the child becomes able to picture in their mind what is not immediately present.",
+        "4": "Françoise Dolto (1908–1988) – French paediatrician and psychoanalyst, specialist in childhood.",
+        "5": "Dolto stressed the importance of speaking to the child in building their inner world.",
+        "6": "Putting words to what the child is living through helps them gradually organise their experiences and emotions.",
+        "7": "Language does not remove frustration. But it changes the way it is lived through. Speaking becomes a new way of existing."
+      },
+      "points": {
+        "1": "Understanding language often comes well before being able to speak.",
+        "2": "Words gradually make it possible to picture what is not immediately present.",
+        "3": "Talking to the child about what is happening helps them organise their experience.",
+        "4": "Putting words to an emotion can gradually help regulate it.",
+        "5": "Language gradually offers another way than gestures, shouting or crying to express what is lived."
+      },
+      "closing": {
+        "1": "The child moves forward because the bond holds."
+      }
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "header": {
+    "carnet": "Léa’s Carnet de Vie - Special birth stories"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • SPECIAL BIRTH STORIES"
+    },
+    "1": {
+      "title": "A different path. A wait. A meeting.",
+      "subtitle": "Adoption, surrogacy and other singular journeys",
+      "p": {
+        "1": "Some stories of arriving in a family take different paths.",
+        "2": "Adoption, surrogacy or other singular journeys can be marked by waiting, uncertainty, hope, and sometimes hardship.",
+        "3": "Before the meeting, there may be long procedures, silences, unpredictable delays or difficult decisions to go through.",
+        "4": "Sometimes the child is imagined for a long time before being met. Sometimes the meeting happens at birth. And sometimes the child has already lived part of their story before joining their new family.",
+        "5": "These paths take nothing away from the depth of the bond. They simply remind us that it is not always born in the same circumstances, nor at the same moment.",
+        "6": "It may begin before the meeting, or grow gradually, through presence, care, adjustments and time shared.",
+        "7": "These journeys deserve to be recognised for what they are.",
+        "8": "Without comparison, without ranking, without any need to justify.",
+        "9": "Each story has its own coherence, even when it is not immediately readable or fully known.",
+        "10": "There is no need to tell everything. Some parts may stay unknown, incomplete, or be told later.",
+        "11": "The story can change over time, respecting the child’s history, their age and what they will be able to hear and understand."
+      },
+      "quote": "A family can begin in different ways. The bond grows in the story that is shared."
+    },
+    "2": {
+      "intro": "Every story of arrival is singular.<br></br>The bond may begin before the meeting, or grow gradually after it.<br></br>What can be named today is enough.",
+      "quote": "A story does not need to be fully known to begin to be passed on."
+    },
+    "4": {
+      "title": "The two lights",
+      "p": {
+        "1": "A few days before meeting the child or before their arrival, light a candle for a few minutes.",
+        "2": "Take this time to think of the child who is about to join the family, say a few words to them, or simply imagine the meeting to come.",
+        "3": "This first light stands for the place being prepared for them.",
+        "4": "A few days after their arrival, light a candle a second time.",
+        "5": "This time, take a moment to think, with gratitude and with respect for everyone’s story, of the people who took part in the path that made this meeting possible: birth family, the woman who carried the child, foster family, professionals, social services, the medical team, loved ones, or anyone else who had a place in this story.",
+        "6": "There is no need to know every name or the whole story.",
+        "7": "A thought can be enough."
+      },
+      "quote": "Two lights: one to await the meeting, the other to acknowledge the path that made it possible.",
+      "invite": "We invite whoever wishes to keep a trace of this ritual to photograph the candles or record the few words spoken at these two moments, then place them in Carnet de Vie. One day the child will be able to discover something of the wait that came before their arrival, and of the gratitude offered to those who took part in their story."
+    },
+    "5": {
+      "title": "What I choose to keep from this journey",
+      "items": {
+        "1": "A photograph of the meeting.",
+        "2": "A date.",
+        "3": "A place.",
+        "4": "A document.",
+        "5": "A letter.",
+        "6": "A message received during the wait.",
+        "7": "A photograph of the two candles.",
+        "8": "A voice.",
+        "9": "A piece of music.",
+        "10": "A sentence.",
+        "11": "An object linked to the child’s story.",
+        "12": "The memory of someone important.",
+        "13": "A detail from the first day together.",
+        "14": "Or simply something I don’t want to forget."
+      },
+      "fields": {
+        "1": "What I would like to add or share:"
+      },
+      "quote": "Some traces make it possible, one day, to trace back the path that came before the meeting."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. The path to this child",
+      "lead": "Before the meeting, this path was for me:",
+      "options": {
+        "1": "long",
+        "2": "uncertain",
+        "3": "unexpected",
+        "4": "full of hope",
+        "5": "trying",
+        "6": "fairly calm"
+      },
+      "quote": "Naming this path does not mean having to explain it all."
+    },
+    "2": {
+      "title": "2. The wait before the meeting",
+      "lead": "Before meeting this child, I thought of them:",
+      "options": {
+        "1": "often",
+        "2": "now and then",
+        "3": "impatiently",
+        "4": "with worry",
+        "5": "with deep emotion",
+        "6": "in my own way"
+      },
+      "quote": "Waiting can already be a form of bond."
+    },
+    "3": {
+      "title": "3. What stood out most on this journey",
+      "lead": "A moment, a period, a step or an event that especially mattered:",
+      "quote": "What mattered can be told simply."
+    },
+    "4": {
+      "title": "4. The meeting",
+      "lead": "I experienced the meeting as:",
+      "options": {
+        "1": "something that just felt right",
+        "2": "an intense emotion",
+        "3": "an upheaval",
+        "4": "a relief",
+        "5": "a time of adjustment",
+        "6": "something hard to describe"
+      },
+      "field": "What I especially remember:",
+      "quote": "A meeting doesn’t need to be ideal to become a founding moment."
+    },
+    "5": {
+      "title": "5. The people who mattered along the way",
+      "lead": "Some people may have taken part, directly or indirectly, in this story: birth family, the woman who carried the child, foster family, professionals, social services, medical staff, loved ones or others met along the way.",
+      "field": "Those I would like to keep a trace of:",
+      "blocks": {
+        "1": {
+          "options": {
+            "1": "I don’t know who they are",
+            "2": "I’d rather not write it today"
+          }
+        }
+      },
+      "quote": "Acknowledging someone’s presence takes nothing away from anyone’s place."
+    },
+    "6": {
+      "title": "6. What this journey changed in me",
+      "lead": "What this path changed, shifted or helped grow in me:",
+      "quote": "Some paths change us before we are even fully aware of it."
+    },
+    "7": {
+      "title": "7. Emotionally, I feel rather:",
+      "options": {
+        "1": "at peace",
+        "2": "reassured",
+        "3": "happy",
+        "4": "sad",
+        "5": "tense",
+        "6": "stressed",
+        "7": "worried",
+        "8": "overwhelmed"
+      },
+      "quote": "An emotion, a feeling, is never final."
+    },
+    "8": {
+      "title": "8. In my working life, I feel rather:",
+      "options": {
+        "1": "confident",
+        "2": "stable",
+        "3": "available",
+        "4": "tired",
+        "5": "under pressure",
+        "6": "uncertain"
+      },
+      "quote": "Not everything needs to be clear today."
+    },
+    "9": {
+      "title": "9. Financially, I feel rather:",
+      "options": {
+        "1": "at ease",
+        "2": "careful",
+        "3": "worried",
+        "4": "fairly balanced",
+        "5": "still thinking it over"
+      },
+      "quote": "Being careful can be a form of care."
+    },
+    "10": {
+      "title": "10. With the people around me, I feel rather:",
+      "options": {
+        "1": "supported",
+        "2": "surrounded",
+        "3": "understood",
+        "4": "rather alone",
+        "5": "fragile",
+        "6": "under strain"
+      },
+      "quote": "Support around you can take very different forms."
+    }
+  },
+  "articles": {
+    "attachement": {
+      "title": "Attachment after the meeting",
+      "p": {
+        "1": "Attachment does not depend only on a biological tie, nor on one precise moment when a family begins.",
+        "2": "John Bowlby (1907–1990) – British psychiatrist and psychoanalyst, founder of attachment theory.",
+        "3": "Bowlby’s work showed that the attachment bond grows in the relationship between the child and the people who care for them in a way that is stable and available enough.",
+        "4": "In adoption as in other family journeys, this relationship can grow gradually through daily care, presence, responses to the child’s needs and the continuity of shared experiences.",
+        "5": "Depending on their age and earlier history, the child may need time to trust a new environment and the people welcoming them.",
+        "6": "The adults, for their part, may also need time to discover this real child, different from the one they had sometimes imagined for a long time.",
+        "7": "So the bond does not have to be immediate to become deep."
+      },
+      "points": {
+        "1": "Attachment grows in the relationship and does not rest only on a biological tie.",
+        "2": "Stable, available and continuous care contributes to the child’s security.",
+        "3": "Some children may need more time to trust.",
+        "4": "Adults too may need time to find their place in the relationship.",
+        "5": "A bond that grows gradually can become a deep source of security."
+      }
+    },
+    "resilience": {
+      "title": "Early ruptures, security and resilience",
+      "p": {
+        "1": "Some adopted children have experienced, before their arrival, separations, changes in who cared for them, or hard living conditions.",
+        "2": "Not all adopted children, however, have had the same experiences, and their story should not be reduced to the idea of trauma.",
+        "3": "Boris Cyrulnik (born 1937) – French neuropsychiatrist, known above all for his work and writing on resilience.",
+        "4": "The idea of resilience helps us understand that a story marked by adversity does not, on its own, determine a child’s future development.",
+        "5": "Meeting people who are stable, available and reassuring can offer new relational experiences and help build, or rebuild, a sense of security.",
+        "6": "This does not mean a new family erases what came before.",
+        "7": "The child’s earlier history still belongs to them.",
+        "8": "What matters, rather, is letting them build new bonds while respecting what is already part of their story."
+      },
+      "points": {
+        "1": "Not all adopted children have lived the same story before their arrival.",
+        "2": "Early ruptures can affect how some children relate to others.",
+        "3": "A hard story does not, on its own, determine a child’s future.",
+        "4": "Stable, reassuring relationships can offer new emotional experiences.",
+        "5": "Building a new security does not require erasing the earlier story."
+      }
+    },
+    "origines": {
+      "title": "Telling the story of origins",
+      "p": {
+        "1": "Every child gradually builds a picture of their story: where they come from, how they arrived in their family, and who took part in their journey.",
+        "2": "In an adoption, a surrogacy or another singular journey, some information may be known, some partial, and some sometimes missing.",
+        "3": "Françoise Dolto (1908–1988) – French paediatrician and psychoanalyst, known above all for her work on childhood, speech and the child’s place in their family story.",
+        "4": "Dolto’s thinking gives great importance to true words spoken to the child about their own story.",
+        "5": "This does not mean telling everything at once, nor giving a young child information they cannot yet understand.",
+        "6": "The story can change as they grow.",
+        "7": "What matters is not to build their story around a lie, and to be able to tell apart what is known, what is not, and what can be explained later.",
+        "8": "In some stories, questions about origins can become especially sensitive. Psychological support can then help the adults find words that respect reality, the child’s age and everyone involved."
+      },
+      "points": {
+        "1": "The story of their origins gradually shapes the child’s identity.",
+        "2": "There is no need to tell everything at the same time.",
+        "3": "The words and the level of detail can change with the child’s age and understanding.",
+        "4": "What is unknown can be presented as unknown rather than replaced by an imagined explanation.",
+        "5": "When the story is especially complex or painful, professional support can help find the right words."
+      },
+      "closing": {
+        "1": "Some paths begin long before the meeting. One day, they become a shared story."
+      }
+    }
+  }
+}

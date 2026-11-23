@@ -1,0 +1,254 @@
+{
+  "header": {
+    "carnet": "Léa’s Carnet de Vie - Pregnancy"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • PREGNANCY"
+    },
+    "1": {
+      "title": "A time of waiting. A movement within. A life drawing near.",
+      "p": {
+        "1": "Pregnancy is a time apart, lived differently by each person.",
+        "2": "For the mother, it is also lived in the body: the body changes, its rhythm shifts and something gradually takes shape.",
+        "3": "When a father, a second parent or a partner is present, their experience is necessarily different. Some feel like parents straight away. Others need time.",
+        "4": "And sometimes pregnancy is lived alone, by choice or because life decided otherwise.",
+        "5": "The bond with the child can grow through scans, conversations, movements felt, thoughts addressed to them, or simply through the images that slowly take shape.",
+        "6": "This time can bring all kinds of feelings: joy, impatience, pride, worry, a sense of responsibility, fear of not being up to it, or questions about the place the child will take in your life.",
+        "7": "Pregnancy is not always calm or light. It can hold joy, but also discomfort, doubts, fragile moments or a sense of loneliness. Life goes on around it: personal, family, relationship or work events can also cross this time.",
+        "8": "During these months, a bond begins to form. The child is thought about, imagined, sometimes named, sometimes simply felt.",
+        "9": "This bond does not need to be constant or intense to be real. It can be quiet, changing, silent. It grows in its own way.",
+        "10": "Here, telling the story of the pregnancy is not about getting it right. It is about recognising this time as a human journey, made of strengths and fragilities.",
+        "11": "This Carnet is here to hold this experience as it was, without correcting it, without idealising it."
+      },
+      "quote": "Every pregnancy has its own story, its own rhythm and its own way of creating a bond."
+    },
+    "2": {
+      "intro": "Every pregnancy is unique.<br></br>Feelings can change, and sometimes contradict each other.<br></br>The bond with the child can be quiet, changing or silent… and still be real.",
+      "quote": "The bond does not need to be immediate to start growing."
+    },
+    "4": {
+      "title": "Hands on the belly",
+      "p": {
+        "1": "From time to time, take a few moments around the belly.",
+        "2": "The mother-to-be can simply place her hands on her belly and speak to the child.",
+        "3": "If other people share this wait — a father, a second parent, a brother, a sister or someone close — they can join in too, if it feels natural.",
+        "4": "Call the child by their name if it has already been chosen, by a nickname, or simply talk to them.",
+        "5": "There is nothing in particular to get right. A few seconds can be enough.",
+        "6": "A hand resting.<br></br>A word.<br></br>A silence.<br></br>A movement felt."
+      },
+      "quote": "In this simple gesture, the bond is already there.",
+      "invite": "We invite anyone who wishes to keep a trace of this moment to photograph it, film it or simply record a few words, and place it in Carnet de Vie. One day the child will be able to discover something of this bond that was already forming before they were born."
+    },
+    "5": {
+      "title": "What I choose to keep from this pregnancy",
+      "items": {
+        "1": "A scan.",
+        "2": "A photo of the growing bump.",
+        "3": "A movement felt for the first time.",
+        "4": "A voice speaking to the child.",
+        "5": "Music listened to during this time.",
+        "6": "A name or a nickname.",
+        "7": "A conversation.",
+        "8": "Clothes or an object prepared for their arrival.",
+        "9": "A moment shared with someone close.",
+        "10": "A quote, a film or a memory linked to this time.",
+        "11": "Or simply something I don’t want to forget."
+      },
+      "fields": {
+        "1": "What I would like to add or share:"
+      },
+      "quote": "Today’s small traces may one day tell of the waiting that came before the meeting."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. When this pregnancy arrived",
+      "lead": "When this pregnancy arrived, I experienced it as:",
+      "options": {
+        "1": "expected",
+        "2": "surprising",
+        "3": "obvious",
+        "4": "unsettling",
+        "5": "mixed"
+      },
+      "quote": "Naming a first impression commits you to nothing."
+    },
+    "2": {
+      "title": "2. The moment in my life",
+      "lead": "At that point in my life, this pregnancy came:",
+      "options": {
+        "1": "at a time that felt right",
+        "2": "during a time of change",
+        "3": "when life was already full",
+        "4": "at an unexpected time"
+      },
+      "quote": "There is no universal “right time”."
+    },
+    "3": {
+      "title": "3. My body during this pregnancy — for the mother-to-be",
+      "lead": "If I am the one carrying the child, during these months my body was:",
+      "options": {
+        "1": "an ally",
+        "2": "an ordeal",
+        "3": "both",
+        "4": "something to get used to",
+        "5": "changing",
+        "6": "hard to recognise at times"
+      },
+      "quote": "A body carrying a child goes through a story of its own too."
+    },
+    "4": {
+      "title": "4. What I felt",
+      "lead": "The feelings that ran most through this pregnancy:",
+      "options": {
+        "1": "serenity",
+        "2": "joy",
+        "3": "fear",
+        "4": "sadness",
+        "5": "anger",
+        "6": "shame",
+        "7": "tiredness",
+        "8": "worry",
+        "9": "a rollercoaster"
+      },
+      "quote": "Every feeling has the right to exist here."
+    },
+    "5": {
+      "title": "5. The more fragile moments",
+      "lead": "Were there more fragile or heavier times?",
+      "options": {
+        "1": "yes",
+        "2": "no",
+        "3": "I don’t know"
+      },
+      "field": "If so, what comes back to me today:",
+      "quote": "Naming a fragile time does not lessen what was lived through."
+    },
+    "6": {
+      "title": "6. The bond with the child during pregnancy",
+      "lead": "During this pregnancy, the bond with the child was rather:",
+      "options": {
+        "1": "easy",
+        "2": "quiet",
+        "3": "changing",
+        "4": "intense",
+        "5": "difficult",
+        "6": "still forming",
+        "7": "different from one moment to another"
+      },
+      "quote": "A bond can’t be measured. It grows at its own pace."
+    },
+    "7": {
+      "title": "7. Emotionally, I feel rather:",
+      "options": {
+        "1": "calm",
+        "2": "reassured",
+        "3": "happy",
+        "4": "sad",
+        "5": "tense",
+        "6": "stressed",
+        "7": "worried"
+      },
+      "quote": "What is felt here belongs to this moment."
+    },
+    "8": {
+      "title": "8. In my working life, I feel rather:",
+      "options": {
+        "1": "confident",
+        "2": "settled",
+        "3": "available",
+        "4": "tired",
+        "5": "under pressure",
+        "6": "uncertain"
+      },
+      "quote": "Not everything needs to be clear today."
+    },
+    "9": {
+      "title": "9. Financially, I feel rather:",
+      "options": {
+        "1": "at ease",
+        "2": "careful",
+        "3": "worried",
+        "4": "fairly balanced",
+        "5": "still thinking it over"
+      },
+      "quote": "Being careful can be a form of care."
+    },
+    "10": {
+      "title": "10. With the people around me, I feel rather:",
+      "options": {
+        "1": "supported",
+        "2": "surrounded",
+        "3": "understood",
+        "4": "rather alone",
+        "5": "fragile",
+        "6": "under strain"
+      },
+      "quote": "Support around you can take very different forms."
+    }
+  },
+  "articles": {
+    "lien": {
+      "title": "The bond before birth",
+      "p": {
+        "1": "During pregnancy, the bond with the child can begin to form long before birth. This bond can be very present, but also quieter, changing or hard to feel.",
+        "2": "Daniel Stern (1934–2012) – American psychiatrist and psychoanalyst, specialist in early development and parent–child relationships.",
+        "3": "Stern’s work explored in particular the images that form around the child and around parenthood.",
+        "4": "During pregnancy, a person can gradually imagine the child, anticipate certain interactions and begin to picture themselves in their new role.",
+        "5": "But there is no single way to experience this bond.",
+        "6": "Some people feel very close to the child even before birth. For others, the bond becomes more real with the scans, the baby’s movements, the birth or the first interactions.",
+        "7": "So birth is not the end point of a bond that should already be fully in place. It opens a new stage in a relationship that will keep on growing."
+      },
+      "points": {
+        "1": "The bond with the child can begin before birth.",
+        "2": "It can be intense, quiet, changing, or form later on.",
+        "3": "There is no single way of already feeling like a parent during pregnancy.",
+        "4": "The images imagined during pregnancy will change on meeting the real child.",
+        "5": "The bond will keep growing long after birth."
+      }
+    },
+    "preoccupation": {
+      "title": "“Primary maternal preoccupation”",
+      "p": {
+        "1": "Pregnancy and the time around birth can bring a particular sensitivity to the child and to everything about their arrival.",
+        "2": "Donald Winnicott (1896–1971) – British paediatrician and psychoanalyst, specialist in early emotional development and the mother–baby relationship.",
+        "3": "Winnicott put forward the idea of “primary maternal preoccupation” to describe a state of heightened sensitivity that appears in many mothers towards the end of pregnancy and in the first weeks after birth.",
+        "4": "This particular availability can help the mother become very attentive to the newborn’s signals and needs.",
+        "5": "It does not mean a mother should constantly feel an intense closeness to her baby, nor that all women experience pregnancy or the first weeks in the same way.",
+        "6": "The concept describes a possible process, not a model one should match."
+      },
+      "points": {
+        "1": "A particular sensitivity to the baby can appear during pregnancy and around birth.",
+        "2": "This availability can help with gradually adjusting to the newborn’s needs.",
+        "3": "Not all mothers experience this time in the same way.",
+        "4": "Not feeling an intense closeness straight away does not mean the bond cannot grow.",
+        "5": "The relationship with the child develops gradually through real interactions."
+      }
+    },
+    "entourage": {
+      "title": "A child’s arrival and the bonds around you",
+      "p": {
+        "1": "The arrival of a child changes the balance of relationships around the person becoming a parent.",
+        "2": "When there is a couple, responsibilities, expectations and each person’s place can shift. The arrival of a child can deeply change the couple’s life: the daily rhythm changes, responsibilities grow and new adjustments become necessary.",
+        "3": "John Gottman (born 1942) – American psychologist, a researcher known for his work on couple and family relationships.",
+        "4": "His research on couples has looked in particular at the transition to parenthood and the changes in relationships that can come with a child’s arrival.",
+        "5": "Tiredness, how responsibilities are shared, less time for the couple and each person’s different expectations can alter the earlier balance.",
+        "6": "When there is a couple, being able to talk about these changes, express one’s needs and recognise that each person may experience this transition differently helps gradually build a new balance.",
+        "7": "But support around a child’s arrival does not necessarily rest on a couple.",
+        "8": "For someone going through pregnancy alone, by choice or because life’s circumstances led them there, ties with family, friends or other close people can take on a particularly important place.",
+        "9": "So there is no single relationship setting for welcoming a child. What also matters is being able to find, where possible, bonds to lean on."
+      },
+      "points": {
+        "1": "A child’s arrival can change your relationships with the people around you.",
+        "2": "When there is a couple, each person may experience this transition differently.",
+        "3": "Tiredness and new responsibilities can change the balance of a relationship.",
+        "4": "Support can come from a partner, but also from family, friends or other close people.",
+        "5": "There is no single family or relationship setting for welcoming a child."
+      },
+      "closing": {
+        "1": "I couldn’t see you yet. And yet, every day, you were already changing my life."
+      }
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 12-24 mois"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 12 À 24 MOIS"
+    },
+    "1": {
+      "title": "Marcher, dire « non », devenir « Je »",
+      "p": {
+        "1": "Entre un et deux ans, quelque chose s’affirme. L’enfant se lève et s’éloigne sans te tenir la main. Il choisit. Il insiste. Il dit « non » avec conviction.",
+        "2": "Il ne se contente plus d’explorer le monde. Il commence à s’y positionner. Parfois il rit. Parfois il se fâche très fort. Parfois il veut tout faire seul… puis revient chercher tes bras.",
+        "3": "La sécurité est toujours là. Mais elle ne se vit plus seulement dans le portage. Elle se vit dans la possibilité d’essayer.",
+        "4": "L’enfant apprend qu’il peut être distinct. Sans être séparé."
+      },
+      "quote": "Dire non, c’est commencer à devenir « je »."
+    },
+    "2": {
+      "intro": "Entre un et deux ans, la marche s’assure, le langage émerge et l’enfant découvre qu’il peut vouloir. Les émotions restent intenses et difficiles à réguler seul : un cadre constant et rassurant accompagne cette affirmation naissante.",
+      "quote": "Ce n’est pas une opposition contre toi. C’est une construction de lui."
+    },
+    "4": {
+      "title": "Le rituel des mains",
+      "p": {
+        "1": "Prends une feuille blanche, un crayon ou de la peinture. Pose ta main. L’enfant pose la sienne.",
+        "2": "Tracez les contours de vos deux mains. Datez ce moment, puis déposez le dessin dans Carnet de Vie."
+      },
+      "quote": "Le cadre n’empêche pas l’affirmation. Il la rend possible.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette année",
+      "items": {
+        "1": "Son premier « non ».",
+        "2": "Une chute suivie d’un rire.",
+        "3": "Un mot inattendu.",
+        "4": "Une main qui se retire.",
+        "5": "Une photo ou une vidéo.",
+        "6": "Sa voix.",
+        "7": "Un moment où l’enfant a voulu faire seul.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. L’enfant actuellement :",
+      "options": {
+        "1": "marche seul",
+        "2": "court déjà",
+        "3": "grimpe partout",
+        "4": "explore sans crainte",
+        "5": "explore avec prudence"
+      },
+      "quote": "Marcher, c’est aussi choisir sa direction."
+    },
+    "2": {
+      "title": "2. Lorsqu’il explore :",
+      "options": {
+        "1": "s’éloigne longtemps",
+        "2": "vérifie encore ma présence",
+        "3": "m’appelle",
+        "4": "revient spontanément"
+      },
+      "quote": "S’éloigner ne signifie pas se détacher."
+    },
+    "3": {
+      "title": "3. Le mot « non » apparaît :",
+      "options": {
+        "1": "rarement",
+        "2": "souvent",
+        "3": "intensément",
+        "4": "dans presque tout"
+      },
+      "quote": "Dire « non » est un premier pas vers soi."
+    },
+    "4": {
+      "title": "4. Face à une frustration :",
+      "options": {
+        "1": "pleure",
+        "2": "crie",
+        "3": "se roule au sol",
+        "4": "jette des objets",
+        "5": "cherche mes bras"
+      },
+      "quote": "La tempête est parfois plus grande que lui."
+    },
+    "5": {
+      "title": "5. Le langage actuellement :",
+      "options": {
+        "1": "quelques mots isolés",
+        "2": "associe deux mots",
+        "3": "répète",
+        "4": "comprend beaucoup plus qu’il ne dit"
+      },
+      "quote": "Parler transforme le monde intérieur."
+    },
+    "6": {
+      "title": "6. Lors des séparations :",
+      "options": {
+        "1": "proteste encore fortement",
+        "2": "semble mieux comprendre le retour",
+        "3": "anticipe",
+        "4": "s’apaise plus vite"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Est-il toujours rassuré en mon absence par :<br></br>la (les) même(s) personne(s)",
+          "choices": {
+            "1": "oui",
+            "2": "non"
+          },
+          "field": "Qui ?"
+        },
+        "2": {
+          "lead": "le(s) même(s) objet(s)",
+          "choices": {
+            "1": "oui",
+            "2": "non"
+          },
+          "field": "Lequel / lesquels ?"
+        }
+      },
+      "quote": "Comprendre l’absence ne l’annule pas."
+    },
+    "7": {
+      "title": "7. Le lien entre nous me semble :",
+      "options": {
+        "1": "plus intense",
+        "2": "plus conflictuel parfois",
+        "3": "plus riche",
+        "4": "en transformation"
+      },
+      "quote": "Grandir modifie la relation."
+    },
+    "8": {
+      "title": "8. S’il y a une fratrie, je remarque :",
+      "options": {
+        "1": "l’imitation augmente",
+        "2": "la rivalité apparaît",
+        "3": "la rivalité disparaît",
+        "4": "l’affirmation se renforce",
+        "5": "chacun teste sa place"
+      },
+      "quote": "Chaque enfant affirme sa singularité."
+    },
+    "9": {
+      "title": "9. Dans cette période, je me sens :",
+      "options": {
+        "1": "patient(e)",
+        "2": "dépassé(e) parfois",
+        "3": "fier(e)",
+        "4": "fatigué(e)",
+        "5": "surpris(e)"
+      },
+      "quote": "L’autonomie de l’enfant demande un nouvel ajustement parental."
+    },
+    "10": {
+      "title": "10. Ce qui me marque particulièrement dans cette période :",
+      "quote": "Il découvre sa force. Je découvre la mienne."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (12–24 mois)",
+      "p": {
+        "1": "Entre un et deux ans, le développement connaît une accélération visible. L’enfant ne se contente plus d’explorer : il agit, décide, insiste.",
+        "2": "<b>Le corps devient un outil d’autonomie</b>",
+        "3": "L’enfant marche, grimpe, pousse, tire, transporte. Il expérimente sa force et découvre les limites de son corps.",
+        "4": "<b>Le monde commence à être pensé</b>",
+        "5": "Sur le plan cognitif, quelque chose s’ouvre. L’enfant commence à se représenter mentalement les situations. Il anticipe, comprend, relie.",
+        "6": "Le monde n’est plus seulement vécu. Il commence à être pensé.",
+        "7": "<b>Une nouvelle affirmation de soi</b>",
+        "8": "Sur le plan affectif, une étape majeure apparaît. L’enfant découvre qu’il est distinct, qu’il peut vouloir autrement et qu’il peut s’opposer.",
+        "9": "Les émotions sont intenses, parfois débordantes. L’adulte reste le principal soutien.",
+        "10": "Entre dépendance et autonomie, l’enfant oscille. Et dans cette oscillation se construit progressivement son sentiment d’être un."
+      },
+      "points": {
+        "1": "L’autonomie motrice permet à l’enfant d’agir davantage sur son environnement.",
+        "2": "Explorer, déplacer, grimper et recommencer participent directement aux apprentissages.",
+        "3": "L’enfant commence à mieux anticiper et à se représenter les situations.",
+        "4": "Les émotions restent intenses et nécessitent encore l’accompagnement de l’adulte.",
+        "5": "L’autonomie ne supprime pas le besoin d’une base affective stable."
+      }
+    },
+    "non": {
+      "title": "Le « non » et la séparation–individuation",
+      "p": {
+        "1": "L’apparition du « non » marque une étape décisive du développement. L’enfant découvre qu’il peut vouloir autrement que l’adulte.",
+        "2": "Margaret Mahler (1897–1985) – Psychiatre et psychanalyste d’origine hongroise, spécialiste du développement précoce de l’enfant.",
+        "3": "Mahler décrit cette période comme une phase de séparation–individuation. L’enfant éprouve sa capacité à être distinct. Il expérimente la différence, parfois avec intensité.",
+        "4": "Donald W. Winnicott (1896–1971) – Pédiatre et psychanalyste britannique.",
+        "5": "Winnicott montre que cette affirmation participe à la construction du self. Dire « non » permet à l’enfant de se sentir sujet.",
+        "6": "John Bowlby (1907–1990) – Psychiatre et psychanalyste anglais. Pionnier de l’Attachement chez l’enfant.",
+        "7": "Bowlby rappelle qu’un attachement suffisamment sécurisé permet cette opposition sans rupture du lien. L’enfant peut s’opposer parce qu’il sait, progressivement, que la relation tient.",
+        "8": "Lorsque le « non » devient systématique, il peut épuiser le parent. Il est alors utile de se rappeler que l’enfant ne cherche pas nécessairement à provoquer. Il éprouve sa capacité d’exister.",
+        "9": "Rester calme, poser un cadre clair et constant et éviter l’escalade émotionnelle l’aident à intégrer que le lien demeure, même lorsque les volontés diffèrent.",
+        "10": "Le conflit n’est pas une rupture. Il est un pas vers la différenciation."
+      },
+      "points": {
+        "1": "Le « non » participe à la construction progressive d’un « je ».",
+        "2": "S’opposer permet à l’enfant d’expérimenter qu’il peut vouloir différemment de l’adulte.",
+        "3": "L’opposition ne signifie pas une rupture du lien.",
+        "4": "Un cadre clair et constant permet à l’enfant de s’affirmer sans perdre ses repères.",
+        "5": "L’attachement sécurisé soutient progressivement la différenciation."
+      }
+    },
+    "tempetes": {
+      "title": "Comprendre les « tempêtes » émotionnelles",
+      "p": {
+        "1": "À cet âge, le cerveau de l’enfant est encore en construction. Les régions impliquées dans la régulation des émotions, notamment le cortex préfrontal, sont très immatures. Leur maturation se poursuivra jusqu’au début de l’âge adulte.",
+        "2": "En revanche, les structures impliquées dans les réactions émotionnelles immédiates sont déjà très actives.",
+        "3": "Lorsque la frustration apparaît, l’émotion peut donc submerger l’enfant avant qu’il puisse la moduler. Il ne dispose pas encore des outils internes nécessaires pour se calmer seul.",
+        "4": "Ce que l’on nomme parfois « caprice » n’est généralement pas une manipulation. C’est l’expression d’un débordement.",
+        "5": "L’enfant ne cherche pas nécessairement à provoquer. Il a besoin d’être aidé à traverser ce qu’il ressent. La présence calme de l’adulte agit alors comme un régulateur externe, en attendant que ses propres capacités se construisent."
+      },
+      "points": {
+        "1": "À cet âge, les capacités cérébrales nécessaires à la régulation émotionnelle sont encore très immatures.",
+        "2": "Une « tempête » émotionnelle est souvent un débordement plutôt qu’une manipulation.",
+        "3": "L’enfant ne sait pas encore toujours revenir seul au calme.",
+        "4": "La présence calme de l’adulte participe à la co-régulation.",
+        "5": "Accueillir l’émotion n’empêche pas de maintenir une limite claire."
+      }
+    },
+    "langage": {
+      "title": "Le début du langage symbolique",
+      "p": {
+        "1": "Entre un et deux ans, le langage progresse rapidement. Les mots apparaissent, les associations se forment et la compréhension dépasse souvent l’expression.",
+        "2": "Jean Piaget (1896–1980) – Psychologue, biologiste et épistémologue suisse, spécialiste du développement cognitif de l’enfant.",
+        "3": "Piaget décrit l’émergence progressive de la fonction symbolique : l’enfant devient capable de représenter mentalement ce qui n’est pas immédiatement présent.",
+        "4": "Françoise Dolto (1908–1988) – Pédiatre et psychanalyste française, spécialiste de l’enfance.",
+        "5": "Dolto a souligné l’importance de la parole adressée à l’enfant dans la construction de son monde intérieur.",
+        "6": "Mettre des mots sur ce que l’enfant vit l’aide à organiser progressivement ses expériences et ses émotions.",
+        "7": "Le langage ne supprime pas la frustration. Mais il transforme la manière de la traverser. Parler devient une nouvelle façon d’exister."
+      },
+      "points": {
+        "1": "La compréhension du langage précède souvent largement la capacité à parler.",
+        "2": "Les mots permettent progressivement de représenter ce qui n’est pas immédiatement présent.",
+        "3": "Parler à l’enfant de ce qui se passe l’aide à organiser son expérience.",
+        "4": "Mettre des mots sur une émotion peut progressivement soutenir sa régulation.",
+        "5": "Le langage offre peu à peu une autre voie que le geste, le cri ou les pleurs pour exprimer ce qui est vécu."
+      },
+      "closing": {
+        "1": "L’enfant avance parce que le lien tient."
+      }
+    }
+  }
+}

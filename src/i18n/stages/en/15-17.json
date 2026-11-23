@@ -1,0 +1,294 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 15–17 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 15 TO 17"
+    },
+    "1": {
+      "title": "The forger of self",
+      "p": {
+        "1": "Between fifteen and seventeen, something settles into shape.",
+        "2": "The body gradually calms down. Features become defined. The inner voice grows easier to hear.",
+        "3": "“I am shaping who I am.”",
+        "4": "It is no longer just a transformation. It is a construction.",
+        "5": "Choices become more personal. Values take hold. Relationships are chosen more deliberately. The future starts to become real.",
+        "6": "Beneath a sometimes new-found confidence, one question remains:",
+        "7": "“Who do I want to become?”"
+      },
+      "quote": "Building yourself means starting to choose what you want to make of yourself."
+    },
+    "2": {
+      "intro": "Between fifteen and seventeen, personal identity takes hold, values become structured and thinking grows more reflective and forward-looking. The child claims more and more autonomy, while some choices start to genuinely shape the future.<br></br>The parent’s place changes: less deciding for them, more talking, asking, passing on and staying available.<br></br>Autonomy does not erase the need for connection. It changes the way we accompany them.",
+      "quote": "Authority evolves. The bond remains."
+    },
+    "4": {
+      "title": "The letter of trust",
+      "p": {
+        "1": "At this age, the future starts to take shape. Wishes appear, some fade, others come back. The point is not to predict what the child will become, but to keep a trace of what seems to bring them alive today.",
+        "2": "Take a moment to write a few lines about what you see: a strength, a value, a passion, a way of thinking, a way of relating to others, and also the paths the child currently seems drawn to.",
+        "3": "Not what we would like the child to become.<br></br>What we see today.",
+        "4": "The letter can simply end with:<br></br>“I don’t know yet which path you will choose."
+      },
+      "fields": {
+        "1": "Over these two years, I’ve felt you were especially drawn to…"
+      },
+      "after": "I trust you to build your path step by step. And if you need me, I’m here.”",
+      "quote": "Trusting also means accepting not to write the future in the child’s place.",
+      "invite": "We invite anyone who wishes to keep a trace of this moment to add a letter, written or recorded, to the Carnet de Vie. One day the child will be able to discover what, in this person’s eyes, seemed to bring them alive at this time of their life."
+    },
+    "5": {
+      "title": "What I choose to keep from this time",
+      "items": {
+        "1": "A decisive conversation.",
+        "2": "A conflict that moved the relationship forward.",
+        "3": "An important choice.",
+        "4": "A step towards autonomy.",
+        "5": "A value they stood up for.",
+        "6": "A passion.",
+        "7": "A dream for the future.",
+        "8": "A moment when the child made a decision of their own.",
+        "9": "A photo, a video or their voice.",
+        "10": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "Here I gather our precious moments,<br></br>to give them to you one day and say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. In how they relate to themselves, I notice that the child:",
+      "options": {
+        "1": "owns their opinions more",
+        "2": "sometimes changes their mind completely",
+        "3": "makes personal choices",
+        "4": "tries to stand out",
+        "5": "has inner doubts",
+        "6": "is searching for meaning"
+      },
+      "quote": "Identity is being forged."
+    },
+    "2": {
+      "title": "2. In how they relate to autonomy, the child:",
+      "options": {
+        "1": "makes decisions without consulting me",
+        "2": "takes on certain responsibilities",
+        "3": "asks for more freedom while respecting the framework",
+        "4": "asks for more freedom without always respecting the framework",
+        "5": "negotiates times and rules",
+        "6": "tests my trust",
+        "7": "is learning to manage their money",
+        "8": "handles some complex situations on their own",
+        "9": "comes back to me when things get hard",
+        "10": "claims their independence while staying attached"
+      },
+      "quote": "Autonomy is built through trial, error and adjustment."
+    },
+    "3": {
+      "title": "3. In their relationships, the child:",
+      "options": {
+        "1": "chooses their friendships wisely",
+        "2": "sometimes seems influenced in their choice of relationships",
+        "3": "favours respectful relationships",
+        "4": "sometimes stays in relationships that seem to hurt them",
+        "5": "has romantic relationships",
+        "6": "knows how to end certain bonds",
+        "7": "finds it hard to step away from certain relationships",
+        "8": "is gradually drifting away from the group",
+        "9": "remains deeply attached to the group"
+      },
+      "quote": "Belonging becomes more selective."
+    },
+    "4": {
+      "title": "4. In their values and beliefs, the child:",
+      "options": {
+        "1": "stands up for certain causes",
+        "2": "questions certain norms",
+        "3": "gets involved",
+        "4": "is developing a structured way of thinking of their own",
+        "5": "sometimes takes very clear-cut positions",
+        "6": "finds it hard to have their beliefs respected",
+        "7": "can defend a position without imposing it"
+      },
+      "quote": "Values start to give a direction."
+    },
+    "5": {
+      "title": "5. Facing the future, the child:",
+      "options": {
+        "1": "can clearly picture themselves",
+        "2": "hesitates a lot",
+        "3": "often changes their mind",
+        "4": "feels the pressure of school",
+        "5": "seems worried about the future",
+        "6": "sometimes tries to reassure me",
+        "7": "talks about their career dreams",
+        "8": "keeps some plans to themselves",
+        "9": "seems driven by a calling",
+        "10": "doubts their abilities"
+      },
+      "field": "What seems to make the child especially alive and enthusiastic:",
+      "quote": "The future becomes real without having to be decided already."
+    },
+    "6": {
+      "title": "6. In how they relate to their body, their activities and screens, the child:",
+      "options": {
+        "1": "shows off their body",
+        "2": "hides their body",
+        "3": "tries to change it",
+        "4": "is deeply committed to a sport",
+        "5": "is giving up certain activities",
+        "6": "is discovering new passions",
+        "7": "takes up an artistic or creative activity",
+        "8": "manages their screen time on their own",
+        "9": "finds it hard to regulate their screen time",
+        "10": "compares themselves on social media",
+        "11": "seeks validation",
+        "12": "shows critical distance"
+      },
+      "quote": "The body, passions and dreams all play a part in building oneself."
+    },
+    "7": {
+      "title": "7. Facing failure, the child:",
+      "options": {
+        "1": "puts things in perspective",
+        "2": "dramatises",
+        "3": "learns from their mistakes",
+        "4": "is very demanding of themselves",
+        "5": "has deep doubts",
+        "6": "looks for what can be improved",
+        "7": "tends to put the blame only on others"
+      },
+      "quote": "Failure can become an experience rather than a verdict."
+    },
+    "8": {
+      "title": "8. In the dialogue between us, the child:",
+      "options": {
+        "1": "is open to discussion",
+        "2": "argues back with reasons",
+        "3": "avoids certain conflicts",
+        "4": "sometimes looks for confrontation",
+        "5": "still looks for my approval",
+        "6": "accepts that we don’t agree",
+        "7": "asks my advice without necessarily following it"
+      },
+      "quote": "Dialogue changes when each person can keep their place."
+    },
+    "9": {
+      "title": "9. This year, I feel:",
+      "options": {
+        "1": "proud",
+        "2": "worried",
+        "3": "overwhelmed",
+        "4": "confident",
+        "5": "moved",
+        "6": "sometimes unsettled by their autonomy",
+        "7": "still a landmark"
+      },
+      "quote": "Accompanying gradually becomes learning to let them choose."
+    },
+    "10": {
+      "title": "10. What particularly struck me or what changed in our life this year:",
+      "field": "With siblings, how I feel about the bond between each of them:",
+      "blocks": {
+        "1": {
+          "field": "In a blended family, how I feel about the bond between each of them:"
+        }
+      },
+      "quote": "The bond changes as the child gradually becomes the author of their own choices."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (15–17 years)",
+      "p": {
+        "1": "Between fifteen and seventeen, the child is no longer quite a child and not yet an adult.",
+        "2": "The body has gradually found a more stable shape, even if body image can still be a source of dissatisfaction or questioning.",
+        "3": "The question is no longer only:<br></br>“Who am I?”<br></br>It also becomes:<br></br>“Who do I want to become?”",
+        "4": "Erik Erikson (1902–1994) – German-American psychologist and psychoanalyst, specialist in psychosocial development.",
+        "5": "Erikson describes adolescence as a central period in building identity. Values, choices, commitments and the different groups one belongs to are gradually brought together into a more coherent sense of self.",
+        "6": "Peter Blos (1904–1997) – German-American psychoanalyst, specialist in adolescence.",
+        "7": "Blos describes the second individuation process as a movement that gradually allows the young person to separate from their childhood images of their parents and to build a more autonomous position.",
+        "8": "So it is no longer only about taking distance. It is gradually about being able to stand as the author of one’s own choices.",
+        "9": "In the brain, the prefrontal cortex and the networks involved in planning, anticipation and cognitive control in particular continue to mature.",
+        "10": "Thinking becomes more reflective and forward-looking. The child can better weigh different possibilities and imagine their future, even though emotion can still weigh heavily when love, rejection, belonging or recognition are at stake.",
+        "11": "The future becomes more real: studies, work, independence, relationships, society, the environment or technological change can now spark as much enthusiasm as worry.",
+        "12": "The parental bond reorganises too. Authority does not necessarily disappear: it gradually shifts towards more dialogue."
+      },
+      "points": {
+        "1": "Identity is built gradually around values, choices and commitments.",
+        "2": "Separating from the parents is part of autonomy and does not require breaking the bond.",
+        "3": "The capacities to anticipate and reflect keep developing.",
+        "4": "The future becomes real and can bring both desire and worry.",
+        "5": "Parental authority can gradually move towards more dialogue without disappearing."
+      }
+    },
+    "charte": {
+      "title": "Parents’ charter (15–17 years)",
+      "p": {
+        "1": "At this age, accompanying the child calls for a delicate adjustment: staying a parent without continuing to treat them like a little child.",
+        "2": "The document offers ten simple landmarks.",
+        "3": "<b>1. Offer a clear but evolving framework.</b><br></br>Freedoms can grow along with the ability to take on the responsibilities that come with them.",
+        "4": "<b>2. Speak in “I”, without judging or comparing.</b><br></br>Saying what you feel or what you need opens the dialogue more than defining the other person.",
+        "5": "<b>3. Clarify your own fears before projecting them.</b><br></br>A legitimate parental worry does not necessarily mean a danger is present.",
+        "6": "<b>4. Make room for listening without interrupting.</b><br></br>Listening before answering sometimes reveals a reality different from the one we imagined.",
+        "7": "<b>5. Show real interest in the child’s world.</b><br></br>Taking an interest without intruding helps you stay connected.",
+        "8": "<b>6. Tell wants apart from needs.</b><br></br>Not every want is a need, but every need deserves to be heard.",
+        "9": "<b>7. Support their dreams without imposing your own.</b><br></br>The child’s plans do not have to repair or extend the parent’s.",
+        "10": "<b>8. Be willing to ask for help when needed.</b><br></br>Seeking outside support can be a resource when a situation goes beyond what the family can get through alone.",
+        "11": "<b>9. Welcome the emotion without offering a solution straight away.</b><br></br>Sometimes being heard is already what is needed.",
+        "12": "<b>10. Stay the parent they can rely on, not a friend.</b><br></br>Dialogue can become more equal without erasing the difference in places."
+      },
+      "points": {
+        "1": "Autonomy needs a framework that can evolve.",
+        "2": "Talking about yourself avoids defining or judging the child.",
+        "3": "Listening does not necessarily mean approving.",
+        "4": "The child’s dreams do not have to match the parent’s plans.",
+        "5": "The quality of the relationship remains the foundation as autonomy grows."
+      }
+    },
+    "vigilance": {
+      "title": "Vulnerabilities and things to watch for",
+      "p": {
+        "1": "Between fifteen and seventeen, the child can seem much stronger while still going through a period of real sensitivity.",
+        "2": "The need for belonging, love, recognition and freedom remains powerful. Some experiences can lead them to test limits or seek more thrills.",
+        "3": "This can sometimes take the form of risky behaviour: drinking alcohol or taking substances, unprotected sex, exposure to pornography, gambling, dangerous challenges or reckless driving.",
+        "4": "It is not necessarily a lasting shift. But brushing this behaviour off would be just as unhelpful as always dramatising it.",
+        "5": "Other difficulties are less visible: eating disorders, a conflicted relationship with their body, prolonged isolation, loss of drive, persistent irritability, being constantly online or social withdrawal.",
+        "6": "These signs alone are not a diagnosis. Their intensity, how long they last, how they add up and how they affect daily life all need to be taken into account.",
+        "7": "The source document stresses several protective factors: a stable adult presence, a framework without humiliation, open talk about sensitive subjects and the possibility of asking for help when it becomes necessary.",
+        "8": "Vigilance is not fear. It is loving attention."
+      },
+      "points": {
+        "1": "Apparent maturity does not rule out inner vulnerability.",
+        "2": "Some risk-taking can be part of exploring, but it should not be brushed off.",
+        "3": "A lasting change in behaviour deserves more attention than a one-off episode.",
+        "4": "Keeping the dialogue going makes it easier to ask for help.",
+        "5": "When difficulties become serious or persistent, a professional can offer the support needed."
+      }
+    },
+    "poisons": {
+      "title": "The 5 relationship poisons",
+      "p": {
+        "1": "At this age, strategies of domination can quickly shut down the dialogue. The document identifies five attitudes that are especially harmful in the parent–child relationship.",
+        "2": "<b>1. Orders</b><br></br>❌ “Do as I say.”<br></br>✔ “Here’s how I’d go about it. What do you think?”",
+        "3": "<b>2. Threats</b><br></br>❌ “I forbid you to do this.”<br></br>✔ “I don’t agree, and I’d like to understand what’s pushing you to take this risk.”",
+        "4": "<b>3. Comparison, belittling and judgement</b><br></br>❌ “Your brother managed it easily at your age.”<br></br>✔ “What’s making this hard for you, and how could I help?”",
+        "5": "<b>4. Guilt-tripping</b><br></br>❌ “After everything we do for you, you still ignore the curfew!”<br></br>✔ “I worry when you come home late. I’d like us to talk about it.”",
+        "6": "<b>5. Emotional blackmail</b><br></br>❌ “If you carry on like this, don’t count on me any more.”<br></br>✔ “I need to be able to keep trusting you. When this agreement isn’t kept, I need us to find together how to rebuild that trust.”",
+        "7": "Nonviolent Communication invites us in particular to tell apart observation, feeling, need and request, rather than defining or accusing the other person.",
+        "8": "This way of communicating is not only for parents: the respect expected has to work both ways.",
+        "9": "Authority is not domination. It can remain consistency, responsibility and a framework."
+      },
+      "points": {
+        "1": "Orders, threats, comparison, guilt-tripping and emotional blackmail weaken the dialogue.",
+        "2": "Speaking in “I” lets you set a limit without defining the other person.",
+        "3": "Understanding a motive does not mean accepting the behaviour.",
+        "4": "Respect in a relationship has to work both ways.",
+        "5": "Authority can stay firm without becoming humiliating or domineering."
+      },
+      "closing": {
+        "1": "The blacksmith works hot metal. But it is the steadiness of the fire that makes it strong."
+      }
+    }
+  }
+}

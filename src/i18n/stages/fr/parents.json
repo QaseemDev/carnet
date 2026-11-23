@@ -1,0 +1,248 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - Devenir parent(s)"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • DEVENIR PARENT(S)"
+    },
+    "1": {
+      "title": "Une histoire personnelle. Un contexte. Des ajustements.",
+      "p": {
+        "1": "Devenir parent ne se fait jamais dans le vide.",
+        "2": "Cela s’inscrit dans une histoire plus large : celle de notre enfance, de notre vie affective et relationnelle, de notre vie professionnelle, de notre environnement familial, social et culturel.",
+        "3": "Ces dimensions existent déjà avant l’arrivée d’un enfant et continuent d’accompagner la parentalité.",
+        "4": "Elles peuvent soutenir, questionner, fragiliser ou simplement colorer cette période.",
+        "5": "Devenir parent peut se vivre à deux, mais aussi seul, par choix ou parce que la vie en a décidé autrement. Dans chaque situation, l’arrivée d’un enfant vient modifier des repères, des priorités, des rythmes et parfois la manière de se percevoir soi-même.",
+        "6": "Certains éléments de notre propre histoire peuvent également revenir : des souvenirs d’enfance, ce que nous avons reçu, ce qui nous a manqué, ce que nous souhaitons transmettre ou, au contraire, vivre autrement.",
+        "7": "Le contexte n’est pas toujours clairement identifié au moment où l’on devient parent.",
+        "8": "Cette partie propose un espace pour situer le moment de vie dans lequel cet enfant est arrivé.",
+        "9": "Il ne s’agit pas d’analyser ni d’expliquer, mais de reconnaître ce qui était présent autour de soi : un cadre, un rythme, des contraintes, des ressources, parfois mêlés.",
+        "10": "Ce qui est écrit ici peut être partiel ou fragmentaire. Certaines choses peuvent aussi rester en blanc."
+      },
+      "quote": "Devenir parent, c’est aussi découvrir peu à peu la manière dont on souhaite l’être."
+    },
+    "2": {
+      "intro": "Chaque personne devient parent avec son histoire.<br></br>Certains éléments du passé peuvent redevenir plus présents à ce moment-là. Les reconnaître peut permettre de mieux comprendre ce qui se joue, sans chercher nécessairement à les corriger.<br></br>Devenir parent ne signifie pas savoir immédiatement comment l’être. Une manière personnelle d’accompagner son enfant se construit aussi dans le temps, à travers les expériences et les ajustements.",
+      "quote": "On ne devient pas parent en un instant. On continue à le devenir au fil de la relation."
+    },
+    "4": {
+      "title": "La phrase d’engagement",
+      "p": {
+        "1": "Choisir une phrase qui exprime la manière dont on souhaite être présent auprès de cet enfant.",
+        "2": "Lorsqu’il y a deux parents, cette phrase peut être choisie ensemble et devenir un repère commun :",
+        "3": "« Nous sommes une équipe. »<br></br>« Nous avançons ensemble. »<br></br>« Nous faisons de notre mieux. »<br></br>« Nous apprenons en même temps que toi. »",
+        "4": "Lorsqu’une personne devient parent seule, elle peut choisir une phrase qui exprime son propre engagement :",
+        "5": "« Je serai là pour toi. »<br></br>« Je ferai de mon mieux. »<br></br>« J’apprendrai aussi en avançant avec toi. »<br></br>« Je veux t’accompagner en respectant la personne que tu deviendras. »"
+      },
+      "fields": {
+        "1": "Il est également possible de créer sa propre phrase :"
+      },
+      "after": "Elle peut être encadrée dans la chambre de l’enfant, conservée dans un téléphone, enregistrée avec sa voix ou simplement déposée dans Carnet de Vie.",
+      "quote": "Ni parfait, ni figé — simplement en chemin.",
+      "invite": "Nous invitons la personne ou les personnes désirant garder cette trace à déposer cette phrase, écrite ou enregistrée, dans Carnet de Vie. L’enfant pourra ainsi découvrir un jour quelque chose de l’engagement qui accompagnait les premiers temps de cette histoire."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de ce moment où je deviens parent",
+      "items": {
+        "1": "Une phrase.",
+        "2": "Une photographie.",
+        "3": "Une voix.",
+        "4": "Une date.",
+        "5": "Une image.",
+        "6": "Une musique.",
+        "7": "Un objet.",
+        "8": "Un moment de doute.",
+        "9": "Une première décision prise comme parent.",
+        "10": "Une chose que j’ai découverte sur moi-même.",
+        "11": "Un souvenir de ma propre enfance revenu à ce moment-là.",
+        "12": "Une personne qui m’a soutenu(e).",
+        "13": "Ou simplement quelque chose que je ne veux pas oublier."
+      },
+      "fields": {
+        "1": "Ce que j’aimerais ajouter ou partager :"
+      },
+      "quote": "Les premiers pas comme parent font aussi partie de l’histoire de l’enfant."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Mon rapport à ma propre enfance",
+      "lead": "Le souvenir global que j’ai de mon enfance est plutôt :",
+      "options": {
+        "1": "sécurisant",
+        "2": "heureux",
+        "3": "contrasté",
+        "4": "difficile",
+        "5": "peu présent"
+      },
+      "quote": "Reconnaître ce souvenir suffit."
+    },
+    "2": {
+      "title": "2. Les échos de mon enfance aujourd’hui",
+      "field": "Ce que le fait de devenir parent fait revenir de ma propre enfance :",
+      "quote": "Certains souvenirs reviennent avec une netteté inattendue, d’autres restent plus difficiles à saisir."
+    },
+    "3": {
+      "title": "3. La place de cet enfant dans mon histoire familiale",
+      "lead": "À mes yeux, cet enfant est arrivé comme :",
+      "options": {
+        "1": "une continuité",
+        "2": "un renouveau",
+        "3": "une surprise",
+        "4": "un tournant",
+        "5": "une nouvelle étape"
+      },
+      "blocks": {
+        "1": {
+          "lead": "S’il existe déjà une fratrie, cette arrivée a pu être vécue comme :",
+          "options": {
+            "1": "un désir attendu depuis longtemps",
+            "2": "une étape naturelle",
+            "3": "un bouleversement",
+            "4": "un ajustement pour chacun",
+            "5": "une réorganisation familiale",
+            "6": "une nouvelle place à trouver",
+            "7": "une surprise de la vie",
+            "8": "une naissance vécue comme réparatrice",
+            "9": "une joie partagée"
+          }
+        }
+      },
+      "quote": "Une place se construit et peut évoluer avec le temps."
+    },
+    "4": {
+      "title": "4. Travail, rythme de vie et parentalité",
+      "lead": "À ce moment-là, concilier ma vie professionnelle, mon rythme de vie et ma nouvelle place de parent me semblait :",
+      "options": {
+        "1": "assez naturel",
+        "2": "possible mais à organiser",
+        "3": "inquiétant",
+        "4": "difficile",
+        "5": "conflictuel",
+        "6": "encore difficile à imaginer",
+        "7": "je ne m’étais pas encore posé la question"
+      },
+      "quote": "Trouver un nouvel équilibre demande souvent plusieurs ajustements."
+    },
+    "5": {
+      "title": "5. Ce qui m’a surpris(e) dans le fait de devenir parent",
+      "field": "Ce que je n’avais pas anticipé en devenant parent :",
+      "quote": "Ce qui surprend n’est pas toujours ce qui dérange."
+    },
+    "6": {
+      "title": "6. Ce que j’ai dû ajuster ou laisser de côté",
+      "field": "Ce que cette arrivée m’a amené(e) à modifier, ralentir, réorganiser ou reconsidérer :",
+      "quote": "Certains changements se choisissent, d’autres s’imposent peu à peu."
+    },
+    "7": {
+      "title": "7. Émotionnellement, je me sens plutôt :",
+      "options": {
+        "1": "apaisé(e)",
+        "2": "rassuré(e)",
+        "3": "heureux(se)",
+        "4": "triste",
+        "5": "stressé(e)",
+        "6": "inquiet(ète)",
+        "7": "partagé(e)"
+      },
+      "quote": "Ce qui est ressenti aujourd’hui n’est pas figé."
+    },
+    "8": {
+      "title": "8. Dans ma vie professionnelle, je me sens plutôt :",
+      "options": {
+        "1": "confiant(e)",
+        "2": "stable",
+        "3": "disponible",
+        "4": "fatigué(e)",
+        "5": "sous pression",
+        "6": "incertain(e)"
+      },
+      "quote": "Toutes les dimensions de la vie n’ont pas besoin de trouver leur équilibre en même temps."
+    },
+    "9": {
+      "title": "9. Financièrement, je me sens plutôt :",
+      "options": {
+        "1": "serein(e)",
+        "2": "prudent(e)",
+        "3": "inquiet(ète)",
+        "4": "en équilibre",
+        "5": "en réorganisation"
+      },
+      "quote": "Un nouvel équilibre peut se construire progressivement."
+    },
+    "10": {
+      "title": "10. Dans mon environnement familial et relationnel, je me sens plutôt :",
+      "options": {
+        "1": "soutenu(e)",
+        "2": "entouré(e)",
+        "3": "compris(e)",
+        "4": "plutôt seul(e)",
+        "5": "partagé(e)",
+        "6": "fragile",
+        "7": "sous tension"
+      },
+      "quote": "Devenir parent transforme parfois aussi les liens qui nous entourent."
+    }
+  },
+  "articles": {
+    "transformation": {
+      "title": "La transformation intérieure en devenant parent",
+      "p": {
+        "1": "Devenir parent ne consiste pas uniquement à accueillir et prendre soin d’un enfant. Cette expérience peut également modifier la manière dont une personne se perçoit, envisage son avenir et organise ses priorités.",
+        "2": "Daniel Stern (1934–2012) – Psychiatre et psychanalyste américain, spécialiste du développement précoce et des relations parents-enfant.",
+        "3": "Stern a notamment décrit ce qu’il appelle la « constellation maternelle », une réorganisation psychique particulière pouvant apparaître chez la mère avec l’arrivée d’un enfant.",
+        "4": "Plus largement, devenir parent peut amener une personne à penser autrement la protection de l’enfant, sa responsabilité, ses propres relations et l’avenir.",
+        "5": "Cette transformation n’est pas nécessairement immédiate. Certaines personnes se sentent parents très tôt ; d’autres découvrent progressivement cette nouvelle dimension d’elles-mêmes.",
+        "6": "Elle peut continuer à évoluer au rythme du développement de l’enfant et des expériences vécues ensemble."
+      },
+      "points": {
+        "1": "Devenir parent peut transformer la manière de se percevoir et de penser l’avenir.",
+        "2": "Le sentiment d’être parent n’apparaît pas nécessairement de la même manière ni au même moment pour chacun.",
+        "3": "De nouvelles priorités peuvent progressivement émerger.",
+        "4": "Cette transformation continue au fil de la relation avec l’enfant.",
+        "5": "Il n’existe pas une seule manière de devenir parent."
+      }
+    },
+    "enfance": {
+      "title": "L’influence de notre propre enfance",
+      "p": {
+        "1": "L’arrivée d’un enfant peut faire revenir des éléments de sa propre histoire.",
+        "2": "Donald Winnicott (1896–1971) – Pédiatre et psychanalyste britannique, spécialiste du développement affectif précoce et de la relation parent-enfant.",
+        "3": "Notre manière d’être parent peut être influencée par ce que nous avons nous-mêmes vécu comme enfant : la manière dont nous avons été accompagnés, sécurisés, consolés, encouragés ou parfois blessés.",
+        "4": "Certains souvenirs reviennent consciemment. D’autres influences peuvent être plus discrètes et apparaître dans nos réactions, nos attentes ou nos peurs.",
+        "5": "Cela ne signifie pas que nous sommes condamnés à reproduire notre histoire.",
+        "6": "Prendre conscience de certains héritages peut au contraire permettre de distinguer ce que l’on souhaite transmettre, ce que l’on veut transformer et ce que l’on choisit de construire autrement."
+      },
+      "points": {
+        "1": "Devenir parent peut réactiver certains souvenirs ou ressentis de sa propre enfance.",
+        "2": "Notre histoire influence parfois nos réactions sans que nous en ayons immédiatement conscience.",
+        "3": "Être influencé par son passé ne signifie pas être condamné à le répéter.",
+        "4": "Identifier certaines répétitions peut permettre de prendre davantage de distance.",
+        "5": "Chacun peut progressivement construire sa propre manière d’être parent."
+      }
+    },
+    "ajustements": {
+      "title": "Les ajustements progressifs de la parentalité",
+      "p": {
+        "1": "Devenir parent est un processus qui continue bien après l’arrivée de l’enfant.",
+        "2": "T. Berry Brazelton (1918–2018) – Pédiatre américain, reconnu pour ses travaux sur le développement du nourrisson et les relations précoces entre parents et enfants.",
+        "3": "Brazelton a notamment décrit les périodes de réorganisation qui accompagnent les grandes étapes du développement de l’enfant.",
+        "4": "Lorsque l’enfant change, les adultes qui l’accompagnent doivent eux aussi ajuster leurs réponses : comprendre de nouveaux besoins, modifier certaines habitudes, trouver un autre rythme ou redéfinir certaines limites.",
+        "5": "Ces moments peuvent parfois donner l’impression qu’un équilibre précédemment trouvé disparaît.",
+        "6": "Ils ne signifient pas nécessairement que quelque chose ne va pas.",
+        "7": "Ils peuvent simplement indiquer qu’une nouvelle étape commence et qu’un nouvel ajustement devient nécessaire."
+      },
+      "points": {
+        "1": "La parentalité continue à se construire au fil du développement de l’enfant.",
+        "2": "Chaque nouvelle étape peut demander de nouveaux ajustements.",
+        "3": "Un équilibre familial n’est pas nécessairement définitif.",
+        "4": "Une période de désorganisation peut accompagner une étape normale du développement.",
+        "5": "Parent et enfant apprennent progressivement à s’ajuster l’un à l’autre."
+      },
+      "closing": {
+        "1": "Devenir parent n’est pas savoir d’avance. Il n’existe pas d’école des parents : c’est aussi apprendre, ajuster et grandir dans la relation."
+      }
+    }
+  }
+}

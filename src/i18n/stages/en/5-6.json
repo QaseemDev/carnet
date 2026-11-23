@@ -1,0 +1,224 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 5–6 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 5 TO 6"
+    },
+    "1": {
+      "title": "The bond builder",
+      "p": {
+        "1": "Between five and six, something widens. The child no longer just wants to do things. The child wants to do things with others.",
+        "2": "Teams. Shared games. Joint projects.",
+        "3": "“Shall we do it together?”",
+        "4": "The world is no longer limited to personal initiative. The child discovers the pleasure of belonging.",
+        "5": "Being included becomes important. An invitation. A chosen partner. A place in the group.",
+        "6": "Friendship grows deeper. Being left out can hurt. What others think starts to matter."
+      },
+      "quote": "Belonging supports inner balance."
+    },
+    "2": {
+      "intro": "Between five and six, the pleasure of being with others becomes central. The child learns to cooperate, to negotiate and to respect shared rules. Friendship takes up more room, and being included or left out can be felt intensely.<br></br>The group grows wider, but the family bond remains the foundation.",
+      "quote": "The child learns to be themselves among others."
+    },
+    "4": {
+      "title": "The circle of bonds",
+      "p": {
+        "1": "With the child, choose a few people who mattered this year: a friend, a family member, a teacher, someone with whom a special moment was shared.",
+        "2": "For each one, simply ask:",
+        "3": "“What do you like doing with this person?”",
+        "4": "The child can answer with a word, a sentence, a drawing or a memory.",
+        "5": "Listen without correcting or adding. This little circle tells of the bonds that are starting to matter outside the family, while reminding everyone that the family bond remains the foundation."
+      },
+      "quote": "Growing up also means discovering that several bonds can matter without replacing one another.",
+      "invite": "We invite you to film or photograph this moment and add it to your Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from this year",
+      "items": {
+        "1": "A strong friendship.",
+        "2": "An invitation.",
+        "3": "An argument put behind us.",
+        "4": "A project carried out as a team.",
+        "5": "A moment of cooperation.",
+        "6": "A photo or a video with friends.",
+        "7": "The child’s voice telling of a friendship.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "I place our precious moments here,<br></br>to give them to you one day and to say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. In group activities, I notice that the child:",
+      "options": {
+        "1": "cooperates easily",
+        "2": "prefers to lead",
+        "3": "prefers to follow",
+        "4": "needs an adult to keep things on track",
+        "5": "avoids groups"
+      },
+      "quote": "Cooperation is learned."
+    },
+    "2": {
+      "title": "2. When it comes to rules, the child:",
+      "options": {
+        "1": "understands them",
+        "2": "accepts them",
+        "3": "tries to negotiate them",
+        "4": "gets around them",
+        "5": "reminds others of them"
+      },
+      "quote": "Rules start to give structure."
+    },
+    "3": {
+      "title": "3. When the child feels left out, they:",
+      "options": {
+        "1": "withdraw",
+        "2": "get angry",
+        "3": "look for another group",
+        "4": "come and tell me",
+        "5": "play it down"
+      },
+      "quote": "Belonging touches self-esteem."
+    },
+    "4": {
+      "title": "4. In friendship, the child:",
+      "options": {
+        "1": "has a close friend",
+        "2": "often changes friends",
+        "3": "has conflicts",
+        "4": "seeks to make up",
+        "5": "isn’t afraid of falling out"
+      },
+      "quote": "Friendship becomes commitment."
+    },
+    "5": {
+      "title": "5. In their language, the child:",
+      "options": {
+        "1": "argues their point",
+        "2": "negotiates",
+        "3": "explains",
+        "4": "contradicts",
+        "5": "tells about complex situations",
+        "6": "may change reality in the telling",
+        "7": "doesn’t like to lie, or doesn’t know how"
+      },
+      "quote": "Speech becomes a social tool."
+    },
+    "6": {
+      "title": "6. In the way they think, the child:",
+      "options": {
+        "1": "better understands cause and effect",
+        "2": "is starting to plan",
+        "3": "asks more logical questions",
+        "4": "better tells intention from accident"
+      },
+      "quote": "Thinking is getting organised."
+    },
+    "7": {
+      "title": "7. The bond between us seems to me:",
+      "options": {
+        "1": "steady",
+        "2": "sometimes tested by the group’s influence",
+        "3": "close and playful",
+        "4": "changing"
+      },
+      "quote": "The group does not erase the bond."
+    },
+    "8": {
+      "title": "8. Faced with unfairness, the child:",
+      "options": {
+        "1": "protests",
+        "2": "stands up for another child",
+        "3": "asks for it to be put right",
+        "4": "looks for an adult to settle it"
+      },
+      "quote": "A moral sense is emerging."
+    },
+    "9": {
+      "title": "9. During this period, I feel:",
+      "options": {
+        "1": "proud of their independence",
+        "2": "worried about the group’s influence",
+        "3": "touched by their friendships",
+        "4": "sometimes left out",
+        "5": "still a point of reference"
+      },
+      "quote": "The child opens up to the world. The parent adjusts their place."
+    },
+    "10": {
+      "title": "10. What particularly struck me, or what has changed in our life this year:",
+      "quote": "The child is learning to be with others. I remain the foundation."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (5–6 years)",
+      "p": {
+        "1": "Between five and six, motor coordination allows more structured group activities: team games, shared physical activities, movements coordinated with others.",
+        "2": "The body becomes more available for acting together.",
+        "3": "Jean Piaget (1896–1980) – Swiss psychologist, biologist and epistemologist, specialist in children’s cognitive development.",
+        "4": "Thinking gradually becomes more organised and logical, even though it is still largely tied to the concrete. The child better understands rules, causes and consequences, and is starting to anticipate certain situations.",
+        "5": "Lawrence Kohlberg (1927–1987) – American psychologist, specialist in moral development.",
+        "6": "The first forms of moral reasoning take shape. The child no longer follows a rule only to avoid punishment: justice, fairness and intention are starting to mean more.",
+        "7": "Erik Erikson (1902–1994) – German-American psychologist and psychoanalyst, specialist in psychosocial development.",
+        "8": "The sense of competence gradually extends to the group. Doing something with others, taking part and being recognised as a member of the group become important.",
+        "9": "Donald W. Winnicott (1896–1971) – British paediatrician and psychoanalyst.",
+        "10": "Opening up socially can happen all the more calmly when the emotional environment stays stable enough.",
+        "11": "The child thus discovers that the bond is no longer limited to the family. It also becomes social."
+      },
+      "points": {
+        "1": "The body allows increasingly coordinated group activities.",
+        "2": "Thinking gradually becomes more organised, while staying concrete.",
+        "3": "The child is starting to better understand rules and what they are for.",
+        "4": "The sense of competence is also built through experiences shared with others.",
+        "5": "Opening up to the group still rests on the stability of the family bond."
+      }
+    },
+    "moral": {
+      "title": "Moral development and the sense of justice",
+      "p": {
+        "1": "Between five and six, the child gradually stops being content just to obey: the child increasingly wants to understand.",
+        "2": "Why this rule? Why is the other one allowed? Why is it unfair?",
+        "3": "Jean Piaget (1896–1980) – Swiss psychologist, biologist and epistemologist, specialist in children’s cognitive development.",
+        "4": "Piaget describes a gradual shift from a morality based mainly on rules imposed by the adult towards a more cooperative understanding of rules.",
+        "5": "In particular, the child is starting to better tell an imposed rule from an understood one, intention from accident, and fairness from unfairness.",
+        "6": "Lawrence Kohlberg (1927–1987) – American psychologist, specialist in moral development.",
+        "7": "Kohlberg extended this thinking by describing a gradual development of moral reasoning. At this age, that thinking is still concrete, but it is starting to take shape.",
+        "8": "The adult can support this movement without immediately giving all the answers: explaining what a rule is for, telling intention from consequence, helping to name what happened and encouraging the child to make amends when someone else has been hurt.",
+        "9": "A moral sense is built within the relationship."
+      },
+      "points": {
+        "1": "The need to understand rules becomes more important.",
+        "2": "The child gradually starts to tell intention from accident.",
+        "3": "The sense of justice takes up more room.",
+        "4": "Explaining what a rule is for helps the child take it on board.",
+        "5": "Repairing a relationship teaches more than punishment alone."
+      }
+    },
+    "groupe": {
+      "title": "Finding their place in the group",
+      "p": {
+        "1": "At five or six, the sense of belonging takes shape. The child no longer just wants to be with others. The child wants to find a place among them.",
+        "2": "Being included. Being chosen. Being recognised. And sometimes being left out.",
+        "3": "These experiences can have a strong emotional impact. The child gradually learns to cooperate, wait their turn, adjust to others and accept not always being the one who decides.",
+        "4": "The group thus becomes a place of learning.",
+        "5": "The child discovers that others can want different things, that rules make it possible to play together and that bonds are built through exchange.",
+        "6": "But this stage can also be a sensitive one. The child may compare themselves, doubt their place, strongly seek approval or fear being left out.",
+        "7": "The adult’s role remains essential: listening to what the child is going through, helping them put it into words, reassuring them of their worth and encouraging cooperation rather than constant comparison."
+      },
+      "points": {
+        "1": "The sense of belonging becomes important at this age.",
+        "2": "Being included or left out can have a strong emotional impact.",
+        "3": "The group teaches the child to cooperate, wait, negotiate and adjust.",
+        "4": "The child’s worth should not depend only on what others think.",
+        "5": "The family bond remains a foundation as social life widens."
+      },
+      "closing": {
+        "1": "The child learns to live with others without losing their own place."
+      }
+    }
+  }
+}

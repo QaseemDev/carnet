@@ -1,0 +1,232 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - Rupture, séparation, deuil"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • RUPTURE, SÉPARATION, DEUIL"
+    },
+    "1": {
+      "title": "Une perte. Une transformation. Un nouvel équilibre.",
+      "p": {
+        "1": "Certaines étapes de la vie familiale sont traversées par une rupture, une séparation ou un deuil.",
+        "2": "Il peut s’agir de la fin d’une relation, de la perte d’une personne importante ou d’un changement profond dans la structure familiale.",
+        "3": "Ces événements peuvent survenir brutalement ou se dessiner progressivement. Ils marquent souvent un avant et un après.",
+        "4": "Une séparation et un deuil ne sont pas la même expérience. L’une transforme les relations et les places ; l’autre confronte à une absence définitive. Mais chacun de ces événements peut bouleverser les repères, les émotions et l’équilibre de la famille.",
+        "5": "Ce temps n’a pas besoin d’être expliqué ni justifié.",
+        "6": "Il n’appelle ni récit exhaustif, ni cohérence immédiate. Il peut être traversé dans le silence, la confusion, la colère, la tristesse, le soulagement parfois, ou avec des mots encore fragiles.",
+        "7": "Les rythmes ne sont pas les mêmes, les ressentis non plus. Ce qui est clair pour l’un peut rester flou pour l’autre.",
+        "8": "Et l’enfant peut lui aussi vivre ce changement à sa manière, selon son âge, son histoire et ce qu’il comprend de la situation.",
+        "9": "Cette partie ouvre un espace pour reconnaître ce qui a été perdu, transformé ou déplacé.",
+        "10": "Sans chercher à réparer, ni à conclure.",
+        "11": "Simplement pour laisser une trace de ce moment tel qu’il a été vécu."
+      },
+      "quote": "Un même événement peut être vécu très différemment par chacun."
+    },
+    "2": {
+      "intro": "Les émotions peuvent évoluer, se contredire ou rester difficiles à identifier.<br></br>Dans une période de rupture, de séparation ou de deuil, l’enfant n’a pas besoin de tout savoir pour sentir qu’un changement a eu lieu. Des mots simples, vrais et adaptés à son âge peuvent l’aider à donner du sens à ce qu’il traverse.<br></br>Nommer ce qui est là aujourd’hui suffit.",
+      "quote": "Lorsque les repères changent, une parole simple peut aider à retrouver un peu de continuité."
+    },
+    "4": {
+      "title": "La photo ou l’assemblage de souvenirs",
+      "p": {
+        "1": "Lors d’une rupture, d’une séparation ou d’un deuil, certains souvenirs peuvent devenir particulièrement précieux.",
+        "2": "Choisir une photographie ou réaliser un assemblage de plusieurs images représentant des moments importants de l’histoire : un voyage, une fête, un anniversaire, un moment du quotidien, une personne aimée ou simplement un instant que l’on souhaite préserver.",
+        "3": "Il ne s’agit ni d’idéaliser le passé ni d’effacer ce qui a été difficile.",
+        "4": "Il s’agit de reconnaître qu’avant que les choses changent, une histoire a existé.",
+        "5": "Dans une séparation, ces images peuvent permettre à l’enfant de conserver des traces de son histoire sans lui demander de choisir entre les personnes qu’il aime.",
+        "6": "Dans un deuil, elles peuvent garder présente la mémoire d’une personne et des moments vécus avec elle.",
+        "7": "Une phrase, une date, un souvenir ou une anecdote peuvent être ajoutés à chaque photographie."
+      },
+      "quote": "Ce qui change aujourd’hui n’efface pas ce qui a été vécu hier.",
+      "invite": "Nous invitons la personne désirant garder cette trace à déposer cette photographie ou cet assemblage dans Carnet de Vie, accompagné, si elle le souhaite, d’un message écrit ou enregistré racontant simplement ce souvenir."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette période",
+      "items": {
+        "1": "Une photographie.",
+        "2": "Une date.",
+        "3": "Une lettre.",
+        "4": "Une voix.",
+        "5": "Une phrase.",
+        "6": "Un objet.",
+        "7": "Une musique.",
+        "8": "Un lieu.",
+        "9": "Un souvenir heureux.",
+        "10": "Une personne qui a compté.",
+        "11": "Une parole qui a aidé.",
+        "12": "Un moment difficile dont je souhaite aussi garder la trace.",
+        "13": "Ou quelque chose que je ne veux simplement pas oublier."
+      },
+      "fields": {
+        "1": "Ce que j’aimerais ajouter ou partager :"
+      },
+      "quote": "Garder une trace ne signifie pas rester dans le passé. Cela permet parfois de lui donner une place dans l’histoire."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Ce qui a changé",
+      "lead": "Ce que j’ai traversé à ce moment-là concernait :",
+      "options": {
+        "1": "une séparation",
+        "2": "un divorce",
+        "3": "le décès d’une personne importante",
+        "4": "un changement important dans la famille",
+        "5": "une autre forme de rupture ou de perte"
+      },
+      "quote": "Nommer n’oblige pas à tout expliquer."
+    },
+    "2": {
+      "title": "2. Le moment de vie dans lequel cela est arrivé",
+      "lead": "Ce changement est survenu dans une période que je vivais comme :",
+      "options": {
+        "1": "plutôt stable",
+        "2": "déjà fragile",
+        "3": "chargée",
+        "4": "inattendue",
+        "5": "en transition"
+      },
+      "quote": "Le contexte fait aussi partie de ce que nous traversons."
+    },
+    "3": {
+      "title": "3. Ce que cette rupture ou cette perte a bouleversé en moi",
+      "lead": "Ce qui a été le plus ébranlé intérieurement :",
+      "quote": "Certains bouleversements mettent du temps à trouver leurs mots."
+    },
+    "4": {
+      "title": "4. Ce qui a été le plus difficile à porter",
+      "lead": "Ce qui m’a pesé le plus durant cette période :",
+      "quote": "Ce qui est difficile peut être reconnu sans avoir à tout raconter."
+    },
+    "5": {
+      "title": "5. Ce qui m’a aidé à traverser",
+      "lead": "Ce qui m’a soutenu(e), même partiellement :",
+      "options": {
+        "1": "une personne",
+        "2": "ma famille",
+        "3": "des amis",
+        "4": "le temps",
+        "5": "le travail",
+        "6": "la prière ou la spiritualité",
+        "7": "le sport",
+        "8": "un professionnel"
+      },
+      "quote": "Un soutien peut être discret et pourtant essentiel."
+    },
+    "6": {
+      "title": "6. Ce que cette épreuve a transformé en moi",
+      "lead": "Ce que cette rupture, cette séparation ou cette perte a changé dans ma manière d’être parent ou d’être présent auprès de l’enfant :",
+      "quote": "Certaines transformations ne deviennent visibles qu’avec le temps."
+    },
+    "7": {
+      "title": "7. Émotionnellement, je me sens plutôt :",
+      "options": {
+        "1": "apaisé(e)",
+        "2": "soulagé(e)",
+        "3": "triste",
+        "4": "en colère",
+        "5": "stressé(e)",
+        "6": "inquiet(ète)",
+        "7": "perdu(e)",
+        "8": "partagé(e)"
+      },
+      "quote": "Les états intérieurs peuvent se déplacer avec le temps."
+    },
+    "8": {
+      "title": "8. Dans ma vie professionnelle, je me sens plutôt :",
+      "options": {
+        "1": "confiant(e)",
+        "2": "stable",
+        "3": "soutenu(e)",
+        "4": "fatigué(e)",
+        "5": "sous pression",
+        "6": "incertain(e)"
+      },
+      "quote": "Tout n’a pas besoin d’être stabilisé en même temps."
+    },
+    "9": {
+      "title": "9. Financièrement, je me sens plutôt :",
+      "options": {
+        "1": "serein(e)",
+        "2": "prudent(e)",
+        "3": "inquiet(ète)",
+        "4": "en équilibre",
+        "5": "en réorganisation"
+      },
+      "quote": "Un nouvel équilibre peut demander du temps."
+    },
+    "10": {
+      "title": "10. Ce que j’aimerais que l’enfant puisse retenir de cette période",
+      "field": "Au-delà de ce qui a changé ou de ce qui a été perdu, ce que j’aimerais qu’il puisse comprendre un jour de cette période :",
+      "blocks": {
+        "1": {
+          "field": "Un souvenir, une parole ou quelque chose d’important que j’aimerais lui transmettre :"
+        }
+      },
+      "quote": "Une histoire peut garder la trace de ce qui a été difficile sans être réduite à cette épreuve."
+    }
+  },
+  "articles": {
+    "separation": {
+      "title": "Couple conjugal et parentalité après la séparation",
+      "p": {
+        "1": "Lorsqu’un couple se sépare, la relation entre les adultes change. La relation de chacun avec l’enfant, elle, ne disparaît pas pour autant.",
+        "2": "Françoise Dolto (1908–1988) – Pédiatre et psychanalyste française, particulièrement connue pour ses travaux sur l’enfance, la parole et la place de l’enfant dans son histoire familiale.",
+        "3": "La pensée de Dolto permet notamment de distinguer la fin de la relation conjugale de la permanence des places parentales.",
+        "4": "Le couple amoureux peut se terminer. La responsabilité et la place de parent continuent autour de l’enfant lorsque les deux parents restent présents dans sa vie.",
+        "5": "Cette distinction peut être importante pour l’enfant : la séparation des adultes ne signifie pas qu’il doit lui-même se séparer affectivement de l’un d’eux ou prendre parti.",
+        "6": "Lorsque cela est possible et compatible avec sa sécurité, préserver sa liberté d’aimer chacun de ses parents peut l’aider à ne pas devenir l’enjeu du conflit entre adultes.",
+        "7": "Dans certaines situations, cependant, la relation avec un parent peut être absente, très limitée ou devoir être protégée. La sécurité de l’enfant reste alors prioritaire."
+      },
+      "points": {
+        "1": "La fin du couple amoureux ne signifie pas la fin de la parentalité.",
+        "2": "L’enfant ne devrait pas avoir à choisir affectivement entre ses parents.",
+        "3": "Les conflits entre adultes gagnent autant que possible à ne pas être déplacés sur l’enfant.",
+        "4": "La continuité des places parentales doit toujours être pensée en tenant compte de sa sécurité.",
+        "5": "Une séparation transforme la famille ; elle n’efface pas son histoire."
+      }
+    },
+    "securite": {
+      "title": "Séparations et sécurité de l’enfant",
+      "p": {
+        "1": "Une séparation peut modifier de nombreux repères : lieux de vie, rythmes, habitudes, disponibilité des adultes ou fréquence des rencontres.",
+        "2": "John Bowlby (1907–1990) – Psychiatre et psychanalyste britannique, fondateur de la théorie de l’attachement.",
+        "3": "Les travaux de Bowlby ont montré l’importance, pour l’enfant, de pouvoir compter sur des figures d’attachement suffisamment disponibles et prévisibles.",
+        "4": "La sécurité ne repose donc pas simplement sur le fait d’éviter toute séparation.",
+        "5": "Ce qui compte aussi est la possibilité pour l’enfant de retrouver des relations fiables, une certaine continuité et des adultes capables de répondre à ses besoins.",
+        "6": "Après une séparation familiale, des repères simples peuvent devenir particulièrement importants : savoir où il sera, qui viendra le chercher, quand il retrouvera une personne importante ou ce qui restera stable dans son quotidien.",
+        "7": "Selon son âge, des explications adaptées peuvent également l’aider à comprendre que les changements entre adultes ne sont pas de sa responsabilité."
+      },
+      "points": {
+        "1": "Une séparation peut bouleverser les repères quotidiens de l’enfant.",
+        "2": "Des relations suffisamment stables et prévisibles contribuent à son sentiment de sécurité.",
+        "3": "La continuité peut aussi passer par des habitudes et des repères simples.",
+        "4": "L’enfant a besoin de comprendre, avec des mots adaptés à son âge, qu’il n’est pas responsable de la séparation.",
+        "5": "Sa sécurité affective et physique reste prioritaire dans l’organisation des liens."
+      }
+    },
+    "deuil": {
+      "title": "Les réactions face au deuil",
+      "p": {
+        "1": "La perte d’une personne importante peut provoquer des réactions très différentes d’une personne à l’autre et au fil du temps.",
+        "2": "Elisabeth Kübler-Ross (1926–2004) – Psychiatre helvético-américaine, connue pour ses travaux sur la fin de vie, la mort et les réactions associées à la perte.",
+        "3": "Les travaux de Kübler-Ross ont contribué à décrire différentes réactions pouvant apparaître face à la mort et à la perte, comme le déni, la colère, la tristesse, la négociation ou une forme d’acceptation.",
+        "4": "Ces réactions ne constituent cependant ni des étapes obligatoires, ni un parcours linéaire.",
+        "5": "Une personne peut ressentir plusieurs émotions simultanément, revenir à certaines d’entre elles ou ne jamais en éprouver certaines.",
+        "6": "Chez l’enfant également, le deuil peut s’exprimer de manière discontinue. Il peut être triste à un moment puis retourner jouer peu après, poser plusieurs fois les mêmes questions ou comprendre progressivement la réalité de la mort à mesure qu’il grandit.",
+        "7": "L’accompagner consiste notamment à lui permettre de poser ses questions et à lui proposer des mots vrais, simples et adaptés à son âge."
+      },
+      "points": {
+        "1": "Il n’existe pas une seule manière de vivre un deuil.",
+        "2": "Les réactions ne suivent pas nécessairement des étapes dans un ordre déterminé.",
+        "3": "Un enfant peut alterner rapidement entre tristesse, questions et moments ordinaires de jeu.",
+        "4": "Sa compréhension de la mort évolue avec son développement.",
+        "5": "Une parole vraie, simple et adaptée à son âge peut l’aider à donner progressivement du sens à ce qu’il vit."
+      },
+      "closing": {
+        "1": "Certains liens changent, certaines présences disparaissent. Ce qui a été vécu continue pourtant de faire partie de l’histoire."
+      }
+    }
+  }
+}

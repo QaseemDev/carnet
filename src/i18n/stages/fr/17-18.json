@@ -1,0 +1,251 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 17-18 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 17 À 18 ANS"
+    },
+    "1": {
+      "title": "Le veilleur du seuil",
+      "p": {
+        "1": "Entre dix-sept et dix-huit ans, quelque chose commence à se rassembler.",
+        "2": "Le corps est presque adulte. Les émotions trouvent peu à peu leur place dans une histoire plus large.",
+        "3": "Certaines questions reviennent :",
+        "4": "« D’où je viens ? »<br></br>« Qu’est-ce que je garde ? »<br></br>« Qu’est-ce que je transforme ? »",
+        "5": "Ce moment n’est pas seulement un passage vers le monde extérieur.",
+        "6": "C’est aussi un moment intérieur : celui où l’on commence à regarder sa propre vie comme une histoire.",
+        "7": "Il ne s’agit plus seulement de devenir.",
+        "8": "Il devient possible de reconnaître ce qui a été vécu et de commencer à choisir ce que l’on souhaite en faire."
+      },
+      "quote": "Grandir, c’est relier plutôt que séparer."
+    },
+    "2": {
+      "intro": "Entre dix-sept et dix-huit ans, l’autonomie devient plus concrète, les liens se redéfinissent et l’histoire personnelle peut commencer à être relue avec davantage de recul.<br></br>La pensée permet de mieux relier les expériences, les choix et leurs conséquences. L’identité continue de se construire, mais une continuité devient progressivement perceptible entre ce qui a été vécu, ce qui est aujourd’hui et ce qui pourrait devenir demain.<br></br>La place de l’adulte évolue encore : écouter sans imposer, questionner sans orienter, soutenir sans contrôler.",
+      "quote": "Accompagner le passage, c’est rester présent sans retenir."
+    },
+    "4": {
+      "title": "Relire le chemin",
+      "p": {
+        "1": "Ce rituel est différent des précédents.",
+        "2": "Le Carnet arrive au terme des années qu’il était destiné à accompagner.",
+        "3": "Prendre un moment pour revenir aux premières traces : le désir d’enfant, la grossesse ou l’arrivée dans la famille, les premiers mois, les premières années.",
+        "4": "Puis parcourir quelques pages au hasard.",
+        "5": "Une photo.<br></br>Une voix.<br></br>Un dessin.<br></br>Une phrase oubliée.<br></br>Un moment difficile.<br></br>Un éclat de rire.",
+        "6": "Il n’est pas nécessaire de tout relire.",
+        "7": "Il s’agit simplement de regarder le chemin parcouru et de choisir une trace qui représente particulièrement ce voyage.",
+        "8": "Puis laisser un dernier message :"
+      },
+      "fields": {
+        "1": "« Lorsque je regarde tout ce chemin, ce que j’ai envie de te dire aujourd’hui est… »"
+      },
+      "after": "Ce message n’a pas besoin de donner un conseil ni d’expliquer l’histoire. Il peut simplement dire ce qui est ressenti au moment où le Carnet arrive à son terme.",
+      "quote": "Transmettre, ce n’est pas expliquer une vie. C’est offrir les traces qui permettront un jour de la relire.",
+      "invite": "Nous invitons toute personne désirant garder une trace de ce passage à déposer ce dernier message, écrit ou enregistré, dans Carnet de Vie. Il restera comme le regard porté sur ce chemin au moment où une nouvelle étape commence."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette dernière année",
+      "items": {
+        "1": "Une décision importante.",
+        "2": "Un projet d’avenir.",
+        "3": "Une dernière année scolaire.",
+        "4": "Une réussite ou un échec qui a compté.",
+        "5": "Un départ.",
+        "6": "Une relation importante.",
+        "7": "Un moment de liberté.",
+        "8": "Une phrase qui résume cette période.",
+        "9": "Une photo, une vidéo ou une voix.",
+        "10": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir aujourd’hui et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Ce que j’ai vu grandir au fil des années",
+      "lead": "Aujourd’hui, je reconnais chez l’enfant une capacité à :",
+      "options": {
+        "1": "prendre des décisions personnelles",
+        "2": "questionner le monde",
+        "3": "affirmer des choix",
+        "4": "construire une manière personnelle de penser",
+        "5": "exprimer une sensibilité propre",
+        "6": "faire preuve de lucidité",
+        "7": "créer"
+      },
+      "quote": "Grandir n’est pas seulement changer. C’est devenir davantage soi."
+    },
+    "2": {
+      "title": "2. Ce qui me surprend encore aujourd’hui",
+      "lead": "Je remarque encore :",
+      "options": {
+        "1": "une recherche de sa place",
+        "2": "une certaine prudence pour avancer",
+        "3": "des hésitations autour de certains désirs",
+        "4": "des difficultés à choisir",
+        "5": "une assurance nouvelle",
+        "6": "des contradictions qui m’étonnent"
+      },
+      "quote": "Un être reste toujours en partie un mystère."
+    },
+    "3": {
+      "title": "3. Les passages difficiles que nous avons traversés",
+      "lead": "Aujourd’hui, je me sens davantage entendu au niveau :",
+      "options": {
+        "1": "de la qualité de nos échanges",
+        "2": "du respect de certaines limites",
+        "3": "des responsabilités acceptées",
+        "4": "de l’organisation du quotidien"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Et certaines difficultés demeurent autour :",
+          "options": {
+            "1": "du respect de certaines limites",
+            "2": "de la reconnaissance attendue",
+            "3": "du langage utilisé dans les tensions",
+            "4": "du partage des responsabilités"
+          }
+        }
+      },
+      "quote": "Tout n’a pas besoin d’être résolu. Certaines choses ont simplement besoin d’être reconnues."
+    },
+    "4": {
+      "title": "4. Ce que je souhaite pour la suite",
+      "lead": "Aujourd’hui, ce que je souhaite avant tout est de voir l’enfant :",
+      "options": {
+        "1": "trouver un chemin personnel",
+        "2": "rester fidèle à soi",
+        "3": "construire des relations solides",
+        "4": "préserver sa sensibilité",
+        "5": "explorer la vie librement",
+        "6": "savoir que l’amour reçu ne dépend pas de ses choix"
+      },
+      "quote": "Les souhaits de ceux qui aiment ne sont pas des directions. Ce sont des élans."
+    },
+    "5": {
+      "title": "5. Ce que j’ai appris en accompagnant l’enfant",
+      "lead": "Au fil de ces années, j’ai appris :",
+      "options": {
+        "1": "la patience",
+        "2": "l’humilité",
+        "3": "l’écoute",
+        "4": "le lâcher-prise",
+        "5": "la confiance",
+        "6": "à questionner certaines de mes croyances"
+      },
+      "quote": "Un enfant ne grandit pas seul. Le lien transforme aussi ceux qui accompagnent."
+    },
+    "6": {
+      "title": "6. Ce que j’aimerais transmettre",
+      "field": "S’il ne devait rester qu’une chose de toutes ces années, ce serait :",
+      "quote": "Les mots simples voyagent parfois plus loin que les longs discours."
+    },
+    "7": {
+      "title": "7. Si je devais décrire notre lien aujourd’hui",
+      "lead": "Notre relation ressemble davantage à :",
+      "options": {
+        "1": "un lien de confiance",
+        "2": "un dialogue encore en construction",
+        "3": "une relation en transformation",
+        "4": "une proximité tranquille",
+        "5": "une distance respectueuse"
+      },
+      "quote": "Les liens peuvent changer de forme sans disparaître."
+    },
+    "8": {
+      "title": "8. Ce qui restera toujours pour moi",
+      "field": "Parmi tout ce que nous avons vécu, ce qui restera profondément inscrit est :",
+      "quote": "Certaines traces deviennent des repères."
+    },
+    "9": {
+      "title": "9. Au seuil de la vie adulte",
+      "lead": "Aujourd’hui, en regardant ce passage, je ressens :",
+      "options": {
+        "1": "de la fierté",
+        "2": "de la gratitude",
+        "3": "de la confiance",
+        "4": "une pointe de nostalgie",
+        "5": "plusieurs de ces émotions à la fois"
+      },
+      "quote": "L’enfance ne disparaît pas. Elle change de place dans l’histoire."
+    },
+    "10": {
+      "title": "10. Ce qui m’a particulièrement marqué ou ce qui a changé dans notre vie cette année :",
+      "field": "Dans le cas d’une fratrie, ce que je ressens du rapport entre chacun :",
+      "blocks": {
+        "1": {
+          "field": "Dans le cas d’une famille recomposée, ce que je ressens du rapport entre chacun :"
+        }
+      },
+      "quote": "Chaque famille traverse les années à sa manière."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (17–18 ans)",
+      "p": {
+        "1": "Entre dix-sept et dix-huit ans, le passage vers l’âge adulte devient plus concret.",
+        "2": "Le corps approche de sa maturité adulte, même si le développement cérébral se poursuit au-delà de dix-huit ans.",
+        "3": "Sur le plan affectif, les expériences peuvent progressivement être replacées dans une histoire plus continue. Les relations amoureuses, amicales et familiales participent à cette construction.",
+        "4": "Erik Erikson (1902–1994) – Psychologue et psychanalyste germano-américain, spécialiste du développement psychosocial.",
+        "5": "Erikson situe l’adolescence autour de la construction de l’identité. À l’approche de l’âge adulte, les différentes expériences, appartenances, valeurs et choix peuvent progressivement s’organiser dans un sentiment plus cohérent de soi.",
+        "6": "Peter Blos (1904–1997) – Psychanalyste germano-américain, spécialiste de l’adolescence.",
+        "7": "Le second processus d’individuation décrit par Blos permet de comprendre le mouvement de différenciation progressive vis-à-vis des figures parentales. L’enjeu n’est pas de supprimer les liens, mais de pouvoir exister davantage comme sujet distinct.",
+        "8": "Sur le plan cognitif, la capacité à mettre les expériences en perspective, envisager plusieurs possibilités et anticiper certaines conséquences continue de progresser.",
+        "9": "La question peut alors évoluer :<br></br>« Qui suis-je ? »<br></br>vers :<br></br>« Que vais-je faire de ce que j’ai reçu et de ce que j’ai vécu ? »",
+        "10": "C’est précisément cette possibilité de relire et d’intégrer l’histoire personnelle qui donne à cette dernière étape sa place particulière dans Carnet de Vie. Le document source la présente comme un moment d’« intégration et séparation symbolique »."
+      },
+      "points": {
+        "1": "Dix-huit ans constitue un seuil social et juridique, mais le développement ne s’arrête évidemment pas à cet âge.",
+        "2": "L’identité continue à se construire et à se réorganiser.",
+        "3": "La capacité à relire son histoire avec davantage de recul progresse.",
+        "4": "Se différencier ne signifie pas effacer les liens antérieurs.",
+        "5": "La transmission peut aider à relier ce qui a été vécu à ce qui reste à construire."
+      }
+    },
+    "auteur": {
+      "title": "Devenir l’auteur de sa propre vie",
+      "p": {
+        "1": "À cet âge, une étape essentielle peut commencer : passer progressivement de l’histoire reçue à l’histoire choisie.",
+        "2": "L’enfant a grandi dans une famille, une culture, des relations et un environnement. Des valeurs, des repères, des croyances, des limites et une histoire ont été transmis.",
+        "3": "Devenir adulte ne signifie pas devoir tout conserver ni tout rejeter.",
+        "4": "Trois questions peuvent progressivement apparaître :<br></br>Qu’est-ce que je garde ?<br></br>Qu’est-ce que je transforme ?<br></br>Qu’est-ce que je laisse ?",
+        "5": "Carl Gustav Jung (1875–1961) – Psychiatre suisse et fondateur de la psychologie analytique.",
+        "6": "La pensée jungienne accorde une place centrale au processus d’individuation, par lequel une personne cherche progressivement à devenir davantage elle-même plutôt qu’à rester uniquement définie par les attentes, rôles ou identifications reçus.",
+        "7": "Cette construction ne se réalise pas en une fois et certainement pas à dix-huit ans. Mais le seuil de l’âge adulte peut constituer un moment symbolique important : commencer à distinguer ce qui appartient à l’histoire reçue de ce que l’on souhaite consciemment poursuivre.",
+        "8": "Le rôle parental se transforme alors encore :<br></br>écouter sans imposer,<br></br>questionner sans orienter,<br></br>soutenir sans contrôler.",
+        "9": "Le jeune adulte peut progressivement devenir auteur de sa vie sans avoir à nier ceux qui ont participé à ses premières pages."
+      },
+      "points": {
+        "1": "Devenir auteur de sa vie ne signifie pas rompre avec son histoire.",
+        "2": "Certaines transmissions seront conservées, d’autres transformées ou laissées.",
+        "3": "Cette différenciation demande du temps, des expériences, des essais et parfois des erreurs.",
+        "4": "Le parent peut accompagner sans choisir à la place.",
+        "5": "Transmettre signifie aussi accepter que ce qui est transmis puisse être transformé."
+      }
+    },
+    "vigilance": {
+      "title": "Vulnérabilités et zones de vigilance",
+      "p": {
+        "1": "À dix-sept-dix-huit ans, une apparence de maturité peut faire oublier que certaines fragilités restent présentes.",
+        "2": "Les enjeux affectifs peuvent être intenses, notamment dans les relations amoureuses, amicales et sociales. Le besoin de reconnaissance, d’appartenance et de liberté coexiste avec une autonomie croissante.",
+        "3": "Les prises de risque peuvent concerner l’alcool ou d’autres substances, la sexualité non protégée, les comportements impulsifs, la conduite, les jeux d’argent ou certains usages numériques.",
+        "4": "Toutes les expérimentations ne signalent pas une difficulté psychologique. Mais la répétition, l’intensité, la perte de contrôle ou les conséquences sur la vie quotidienne méritent une attention particulière.",
+        "5": "Certaines fragilités sont moins visibles : anxiété face à l’avenir, perte durable de motivation, isolement, difficultés à se projeter, troubles du comportement alimentaire ou souffrance psychologique.",
+        "6": "L’enjeu n’est plus de contrôler en permanence.<br></br>Il est de préserver suffisamment de lien pour qu’un retour reste possible.",
+        "7": "Pouvoir partir est important. Savoir qu’un lien reste accessible l’est aussi."
+      },
+      "points": {
+        "1": "Une apparente maturité ne signifie pas que toute vulnérabilité a disparu.",
+        "2": "L’autonomie augmente alors que certaines capacités de régulation continuent encore à se développer.",
+        "3": "Une expérimentation isolée et une conduite répétée avec perte de contrôle ne signifient pas la même chose.",
+        "4": "Un changement durable de comportement ou de fonctionnement mérite une attention particulière.",
+        "5": "Le lien reste protecteur lorsqu’il permet de demander de l’aide sans craindre immédiatement le jugement."
+      },
+      "closing": {
+        "1": "Grandir, c’est commencer à choisir ce que l’on emporte avec soi."
+      }
+    }
+  }
+}

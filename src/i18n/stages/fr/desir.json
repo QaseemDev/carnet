@@ -1,0 +1,232 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - Désir d’enfant"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • DÉSIR D’ENFANT"
+    },
+    "1": {
+      "title": "Une question. Un frémissement. Un possible.",
+      "p": {
+        "1": "Le désir d’enfant, parfois, arrive sans prévenir.<br></br>Parfois, il est là depuis longtemps, nous renvoyant à notre propre enfance.<br></br>Parfois, il se glisse doucement, presque sans bruit.",
+        "2": "Il peut être clair ou flou.<br></br>Parfois partagé, parfois porté davantage par l’un des deux.<br></br>Il peut cohabiter avec de la joie, des questions, des peurs ou beaucoup d’hésitations.",
+        "3": "Il n’existe pas une seule manière de désirer un enfant.",
+        "4": "Ce désir se tisse avec ce que nous avons vécu, ce que nous portons en nous, ce que nous espérons… et aussi ce qui nous inquiète.",
+        "5": "Ici, il n’est pas question de décider ni de trancher.<br></br>Ce Carnet n’attend pas une réponse.<br></br>Il propose simplement un espace tranquille pour écouter ce qui est là — même fragile, contradictoire ou encore sans mots.",
+        "6": "Donner une place à ce désir — ou à son absence — est déjà une manière de prendre soin de soi."
+      },
+      "quote": "Un désir peut commencer par une pensée, une émotion… ou simplement une question."
+    },
+    "2": {
+      "intro": "Nommer une hésitation n’annule pas le désir.<br></br>Écouter ce qui est ressenti permet déjà de lui donner une place.",
+      "quote": "Avant même qu’une histoire commence, quelque chose peut déjà se mettre en mouvement."
+    },
+    "4": {
+      "title": "Les premiers prénoms imaginés",
+      "p": {
+        "1": "Parler d’un prénom peut être l’un des premiers moments où un enfant encore imaginaire commence à prendre une place dans les pensées.",
+        "2": "Il ne s’agit pas encore de choisir définitivement.",
+        "3": "Seul(e) ou à deux, laisser venir les prénoms qui plaisent, ceux qui évoquent quelque chose, ceux qui viennent de l’histoire familiale ou, au contraire, ceux qui ouvrent vers quelque chose de nouveau.",
+        "4": "Un prénom peut être évoqué avec enthousiasme.<br></br>Un autre abandonné quelques jours plus tard.<br></br>Certains peuvent revenir au fil du temps.",
+        "5": "Ce qui compte ici n’est pas le choix définitif, mais la trace de ces premiers prénoms imaginés."
+      },
+      "fields": {
+        "1": "Prénom(s) auquel(s) j’ai pensé :",
+        "2": "Pourquoi celui-ci ou ceux-ci :",
+        "3": "Un souvenir, une personne, une émotion ou une histoire associés à ce prénom :"
+      },
+      "quote": "Parfois, imaginer un prénom est déjà une première manière de faire une place.",
+      "invite": "Nous invitons toute personne désirant garder une trace de ce moment à déposer ces premiers prénoms, par écrit ou avec sa voix, dans Carnet de Vie. Ils permettront un jour à l’enfant de découvrir les noms qui existaient déjà dans les pensées, bien avant que son propre prénom ne soit choisi."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de ce moment",
+      "items": {
+        "1": "Un mot.",
+        "2": "Une pensée.",
+        "3": "Une citation.",
+        "4": "Une musique.",
+        "5": "Un film.",
+        "6": "Une conversation.",
+        "7": "Un prénom imaginé.",
+        "8": "Une photo liée à cette période.",
+        "9": "Un message audio.",
+        "10": "Ou simplement quelque chose que je ne veux pas oublier."
+      },
+      "fields": {
+        "1": "Lequel / laquelle / lesquels ?",
+        "2": "Ce que j’aimerais ajouter ou partager :"
+      },
+      "quote": "Les petites traces d’aujourd’hui peuvent devenir les précieux souvenirs de demain."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. La première étincelle",
+      "lead": "Quand l’idée d’un enfant est entrée dans ma vie, c’était plutôt :",
+      "options": {
+        "1": "récemment",
+        "2": "depuis longtemps",
+        "3": "doucement, sans bruit",
+        "4": "comme une surprise",
+        "5": "difficile à situer"
+      },
+      "quote": "Nommer le début n’oblige à rien."
+    },
+    "2": {
+      "title": "2. Là où j’en suis aujourd’hui",
+      "lead": "Aujourd’hui, ce désir me semble :",
+      "options": {
+        "1": "clair",
+        "2": "flou",
+        "3": "un peu contradictoire",
+        "4": "changeant selon les jours",
+        "5": "difficile à définir"
+      },
+      "quote": "Un désir a le droit de bouger."
+    },
+    "3": {
+      "title": "3. Seul(e) ou dans le couple",
+      "lead": "Aujourd’hui, ce désir est, tel que je le ressens :",
+      "options": {
+        "1": "un désir que je porte seul(e)",
+        "2": "partagé dans notre couple",
+        "3": "surtout porté par moi",
+        "4": "surtout porté par l’autre",
+        "5": "vécu différemment par chacun",
+        "6": "difficile à définir"
+      },
+      "quote": "Chaque désir d’enfant s’inscrit dans une histoire singulière."
+    },
+    "4": {
+      "title": "4. Ce qui m’attire",
+      "lead": "Ce qui me touche, m’attire ou m’émeut dans l’idée de devenir parent :",
+      "quote": "Parfois, un mot ou une image suffit à raconter un désir."
+    },
+    "5": {
+      "title": "5. Ce qui me fait hésiter",
+      "lead": "Ce qui me fait peur, me freine ou me questionne :",
+      "quote": "Les peurs peuvent accompagner le désir sans l’annuler."
+    },
+    "6": {
+      "title": "6. Les pressions autour de moi",
+      "lead": "En ce moment, je ressens surtout :",
+      "options": {
+        "1": "le temps qui passe",
+        "2": "les attentes de l’entourage",
+        "3": "le regard de la société",
+        "4": "des questions liées à mon âge",
+        "5": "peu ou pas de pression"
+      },
+      "quote": "Un désir personnel peut parfois se mêler aux attentes des autres."
+    },
+    "7": {
+      "title": "7. Émotionnellement, je me sens plutôt :",
+      "options": {
+        "1": "apaisé(e)",
+        "2": "rassuré(e)",
+        "3": "heureux(se)",
+        "4": "triste",
+        "5": "tendu(e)",
+        "6": "inquiet(ète)",
+        "7": "partagé(e)"
+      },
+      "quote": "Une émotion n’est jamais définitive. Elle peut évoluer."
+    },
+    "8": {
+      "title": "8. Dans ma vie professionnelle, je me sens plutôt :",
+      "options": {
+        "1": "confiant(e)",
+        "2": "stable",
+        "3": "disponible",
+        "4": "fatigué(e)",
+        "5": "sous pression",
+        "6": "incertain(e)"
+      },
+      "quote": "Tout n’a pas besoin d’être parfaitement aligné aujourd’hui."
+    },
+    "9": {
+      "title": "9. Financièrement, je me sens plutôt :",
+      "options": {
+        "1": "serein(e)",
+        "2": "prudent(e)",
+        "3": "inquiet(ète)",
+        "4": "dans une forme d’équilibre",
+        "5": "en réflexion"
+      },
+      "quote": "La prudence peut aussi être une manière de prendre soin de ce qui pourrait venir."
+    },
+    "10": {
+      "title": "10. Familialement, je me sens plutôt :",
+      "options": {
+        "1": "soutenu(e)",
+        "2": "entouré(e)",
+        "3": "partagé(e)",
+        "4": "fragile",
+        "5": "sous tension",
+        "6": "plutôt seul(e) face à cette réflexion"
+      },
+      "quote": "Même lorsque tout n’est pas simple, une réflexion peut continuer à cheminer."
+    }
+  },
+  "articles": {
+    "ambivalence": {
+      "title": "Désir et ambivalence parentale",
+      "p": {
+        "1": "Le désir d’enfant peut s’accompagner d’émotions contradictoires : de la joie et de l’élan, mais aussi des doutes, des hésitations ou des inquiétudes.",
+        "2": "Donald Winnicott (1896–1971) – Pédiatre et psychanalyste britannique, spécialiste du développement affectif précoce et de la relation parent-enfant.",
+        "3": "Les travaux de Winnicott permettent de penser la parentalité sans exiger du parent qu’il soit parfaitement sûr, disponible ou débarrassé de toute ambivalence. Devenir parent implique aussi des remaniements psychiques et une adaptation progressive à une réalité nouvelle.",
+        "4": "L’hésitation ne signifie donc pas nécessairement que le désir n’est pas réel. Elle peut aussi témoigner de ce que représente l’arrivée possible d’un enfant : responsabilités, changements de vie, transformations du couple ou interrogation sur sa propre capacité à devenir parent.",
+        "5": "Reconnaître ces émotions permet de les entendre sans avoir immédiatement à les résoudre."
+      },
+      "points": {
+        "1": "Le désir d’enfant peut coexister avec des doutes ou des inquiétudes.",
+        "2": "L’ambivalence ne signifie pas nécessairement une absence de désir.",
+        "3": "Devenir parent engage des transformations personnelles, conjugales et familiales.",
+        "4": "Il n’est pas nécessaire d’avoir immédiatement une réponse à toutes les interrogations.",
+        "5": "Mettre des mots sur ce qui est ressenti peut déjà permettre de mieux comprendre ce qui se joue."
+      }
+    },
+    "imagine": {
+      "title": "L’enfant imaginé",
+      "p": {
+        "1": "Bien avant une éventuelle naissance, un enfant peut déjà commencer à exister dans l’imaginaire.",
+        "2": "Un visage est parfois imaginé.<br></br>Un caractère.<br></br>Un prénom.<br></br>Une ressemblance.<br></br>Une relation future.",
+        "3": "Serge Lebovici (1915–2000) – Psychiatre, psychanalyste et pédopsychiatre français, spécialiste des interactions précoces entre parents et enfants.",
+        "4": "Lebovici a notamment travaillé sur les représentations que les parents construisent autour de l’enfant et sur la manière dont leur propre histoire psychique participe à ces représentations.",
+        "5": "Cet enfant imaginé n’est évidemment pas encore l’enfant réel.",
+        "6": "Si un enfant vient, la rencontre permettra progressivement de découvrir une personne singulière, avec son tempérament, ses besoins et sa manière propre d’entrer en relation.",
+        "7": "Le passage de l’enfant imaginé à l’enfant réel demande alors des ajustements : certaines représentations disparaissent, d’autres se transforment."
+      },
+      "points": {
+        "1": "Un enfant peut commencer à être imaginé bien avant sa naissance.",
+        "2": "Ces représentations peuvent concerner son apparence, son caractère, son prénom ou la relation future.",
+        "3": "L’enfant imaginé est aussi influencé par l’histoire et les attentes de l’adulte.",
+        "4": "L’enfant réel ne correspondra jamais exactement à l’enfant imaginé.",
+        "5": "La relation se construit progressivement en découvrant l’enfant tel qu’il est."
+      }
+    },
+    "transmission": {
+      "title": "Transmission entre les générations",
+      "p": {
+        "1": "Désirer un enfant peut aussi réveiller sa propre histoire.",
+        "2": "Des souvenirs reviennent.<br></br>Des modèles familiaux apparaissent.<br></br>Certaines choses donnent envie d’être transmises.<br></br>D’autres donnent envie de faire autrement.",
+        "3": "Françoise Dolto (1908–1988) – Pédiatre et psychanalyste française, particulièrement connue pour ses travaux sur l’enfance, la parole et la place de l’enfant dans l’histoire familiale.",
+        "4": "La pensée de Dolto accorde une place importante à l’inscription de l’enfant dans une histoire familiale et à ce qui circule entre les générations, notamment à travers les paroles, les non-dits et les représentations familiales.",
+        "5": "Devenir parent peut ainsi conduire à revisiter sa propre enfance : ce que l’on a reçu, ce qui a manqué, ce que l’on souhaite transmettre et ce que l’on aimerait vivre autrement.",
+        "6": "Reconnaître cette histoire ne signifie pas y être condamné.",
+        "7": "Elle peut devenir un point de départ à partir duquel une nouvelle relation pourra se construire."
+      },
+      "points": {
+        "1": "Le désir d’enfant peut réveiller des souvenirs de sa propre enfance.",
+        "2": "Une histoire familiale transmet des valeurs, des modèles et des représentations.",
+        "3": "Certaines transmissions sont conscientes, d’autres beaucoup moins.",
+        "4": "Reconnaître ce que l’on a reçu permet aussi de réfléchir à ce que l’on souhaite transformer.",
+        "5": "Un nouvel enfant s’inscrit dans une histoire familiale tout en ouvrant une histoire nouvelle."
+      },
+      "closing": {
+        "1": "Un jour, tu n’étais qu’un rêve. Et pourtant, tu avais déjà une place dans mon cœur."
+      }
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 7-9 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 7 À 9 ANS"
+    },
+    "1": {
+      "title": "Le cœur grand ouvert",
+      "p": {
+        "1": "Entre sept et neuf ans, quelque chose s’approfondit. L’enfant ne cherche plus seulement à appartenir. L’enfant cherche à comprendre.",
+        "2": "Les règles ne suffisent plus : l’enfant veut qu’elles soient justes. « Ce n’est pas équitable. » « Ce n’est pas normal. » Le monde devient aussi un monde de valeurs.",
+        "3": "Les amitiés deviennent plus profondes. Les confidences, les loyautés et parfois les déceptions prennent davantage de place. L’injustice peut blesser. La trahison peut marquer.",
+        "4": "L’empathie grandit. L’enfant devient plus attentif à ce que les autres ressentent, mais aussi plus sensible à leur regard."
+      },
+      "quote": "Le cœur s’ouvre… et devient plus vulnérable."
+    },
+    "2": {
+      "intro": "Entre sept et neuf ans, la pensée logique s’affermit, l’empathie se développe et le sens de la justice s’affine. Les amitiés deviennent plus profondes et le regard social influence davantage l’estime de soi. L’adulte aide l’enfant à relier progressivement règles, valeurs et respect de l’autre.",
+      "quote": "La justice intérieure commence à se construire."
+    },
+    "4": {
+      "title": "Le rituel du juste et du blessant",
+      "p": {
+        "1": "Quand l’enfant raconte une situation vécue comme injuste, prends le temps d’écouter sans minimiser ni décider immédiatement qui a raison.",
+        "2": "Demande simplement :<br></br>« Qu’est-ce qui t’a semblé injuste ? »<br></br>« Qu’est-ce qui t’a blessé ? »<br></br>« Qu’est-ce qui aurait pu être différent ? »",
+        "3": "Puis cherchez ensemble ce qui pourrait réparer, lorsque cela est possible.",
+        "4": "L’enfant découvre ainsi qu’il est possible de défendre ce qui semble juste, d’entendre ce que l’autre a vécu et de rester ferme sans devenir dur."
+      },
+      "quote": "La justice peut exister sans rompre le lien.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette période",
+      "items": {
+        "1": "Un acte de courage.",
+        "2": "Une réparation.",
+        "3": "Une amitié forte.",
+        "4": "Un conflit dépassé.",
+        "5": "Un geste d’empathie.",
+        "6": "Une parole sur ce qui est juste.",
+        "7": "Une photo, une vidéo ou sa voix.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Dans son rapport aux autres, je remarque que l’enfant :",
+      "options": {
+        "1": "défend un camarade",
+        "2": "s’indigne face à l’injustice",
+        "3": "cherche à réparer",
+        "4": "juge parfois sévèrement",
+        "5": "peut exclure pour appartenir"
+      },
+      "quote": "La justice devient intérieure."
+    },
+    "2": {
+      "title": "2. Dans l’amitié, l’enfant :",
+      "options": {
+        "1": "a une amitié très proche",
+        "2": "vit des déceptions",
+        "3": "garde des secrets",
+        "4": "s’engage dans la loyauté",
+        "5": "change de groupe"
+      },
+      "quote": "L’amitié devient engagement moral."
+    },
+    "3": {
+      "title": "3. Face aux règles, l’enfant :",
+      "options": {
+        "1": "les comprend",
+        "2": "les discute",
+        "3": "a du mal à les respecter",
+        "4": "cherche leur cohérence",
+        "5": "pointe les contradictions",
+        "6": "s’impose des exigences"
+      },
+      "quote": "La règle devient principe."
+    },
+    "4": {
+      "title": "4. Lorsque l’enfant a blessé quelqu’un :",
+      "options": {
+        "1": "minimise",
+        "2": "culpabilise",
+        "3": "cherche à réparer",
+        "4": "évite",
+        "5": "fait preuve de compassion",
+        "6": "se montre empathique"
+      },
+      "quote": "La responsabilité s’apprend."
+    },
+    "5": {
+      "title": "5. Dans ses émotions, l’enfant :",
+      "options": {
+        "1": "arrive mieux à les identifier",
+        "2": "arrive mieux à les exprimer",
+        "3": "est très sensible aux critiques",
+        "4": "cherche l’approbation",
+        "5": "se compare"
+      },
+      "quote": "Le regard des autres compte."
+    },
+    "6": {
+      "title": "6. Dans sa manière de penser, l’enfant :",
+      "options": {
+        "1": "raisonne de façon plus structurée",
+        "2": "comprend mieux les causes et les conséquences",
+        "3": "distingue l’intention et l’acte",
+        "4": "questionne le bien et le mal"
+      },
+      "quote": "La pensée se consolide."
+    },
+    "7": {
+      "title": "7. Le lien entre nous me semble :",
+      "options": {
+        "1": "plus verbal",
+        "2": "parfois confrontant",
+        "3": "complice",
+        "4": "questionnant"
+      },
+      "quote": "L’enfant grandit. Je m’ajuste."
+    },
+    "8": {
+      "title": "8. Face à l’échec, l’enfant :",
+      "options": {
+        "1": "persévère",
+        "2": "doute",
+        "3": "se compare",
+        "4": "abandonne"
+      },
+      "quote": "L’estime de soi se structure."
+    },
+    "9": {
+      "title": "9. Dans cette période, je me sens :",
+      "options": {
+        "1": "fier(ère) de sa maturité",
+        "2": "parfois remis(e) en question",
+        "3": "inquiet(e) du regard que l’enfant porte sur soi",
+        "4": "toujours un repère"
+      },
+      "quote": "L’enfant cherche la justice. Je reste le socle."
+    },
+    "10": {
+      "title": "10. Ce qui m’a particulièrement marqué ou ce qui a changé dans notre vie cette année :",
+      "field": "Dans le cas d’une fratrie, ce que je ressens du rapport entre chacun :",
+      "blocks": {
+        "1": {
+          "field": "Dans le cas d’une famille recomposée, ce que je ressens du rapport entre chacun :"
+        }
+      },
+      "quote": "Le cœur s’ouvre. La conscience s’affine."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive (7–9 ans)",
+      "p": {
+        "1": "Entre sept et neuf ans, la pensée devient progressivement plus logique et structurée, tout en restant largement liée aux situations concrètes.",
+        "2": "Jean Piaget (1896–1980) – Psychologue, biologiste et épistémologue suisse, spécialiste du développement cognitif de l’enfant.",
+        "3": "Piaget situe cette période dans celle des opérations concrètes. L’enfant devient davantage capable de raisonner à partir de situations réelles, d’établir des relations logiques et de considérer plusieurs éléments d’une même situation.",
+        "4": "Lawrence Kohlberg (1927–1987) – Psychologue américain, spécialiste du développement moral.",
+        "5": "Le raisonnement moral évolue progressivement. L’approbation sociale, le désir d’être considéré comme quelqu’un de « bien » et le respect des attentes du groupe prennent davantage d’importance.",
+        "6": "Erik Erikson (1902–1994) – Psychologue et psychanalyste germano-américain, spécialiste du développement psychosocial.",
+        "7": "Erikson situe cette période dans le stade de « compétence versus infériorité » : l’enfant cherche à se sentir capable et reconnu dans ce qui est accompli.",
+        "8": "L’empathie devient plus stable et les émotions se relient davantage aux valeurs, à l’équité et à la loyauté. L’estime de soi devient également plus sensible au regard social.",
+        "9": "Le sentiment d’identité commence ainsi à se consolider à travers les expériences vécues avec les autres."
+      },
+      "points": {
+        "1": "La pensée logique progresse mais reste encore largement liée au concret.",
+        "2": "Le besoin de se sentir compétent et reconnu prend de l’importance.",
+        "3": "L’empathie devient plus stable.",
+        "4": "Les valeurs d’équité et de loyauté prennent davantage de sens.",
+        "5": "Le regard social influence de plus en plus l’estime de soi."
+      }
+    },
+    "empathie": {
+      "title": "Empathie et conscience morale",
+      "p": {
+        "1": "Martin L. Hoffman (1924–2022) – Psychologue américain, spécialiste du développement de l’empathie et de la conscience morale.",
+        "2": "À cet âge, l’enfant devient davantage capable de se représenter le point de vue d’une autre personne et de comprendre qu’un acte peut blesser, même lorsque l’intention initiale n’était pas de faire du mal.",
+        "3": "La notion de justice s’affine. L’enfant commence à différencier plus subtilement égalité, équité et mérite.",
+        "4": "L’adulte joue ici un rôle essentiel : aider à nommer et exprimer les émotions, encourager la réparation plutôt que la seule culpabilité, éviter la honte excessive et montrer par son propre comportement qu’une valeur s’incarne aussi dans les actes.",
+        "5": "Le sens moral ne se limite progressivement plus à respecter une règle extérieure. Certaines valeurs commencent à devenir des repères intérieurs."
+      },
+      "points": {
+        "1": "L’enfant devient davantage capable de comprendre le point de vue de l’autre.",
+        "2": "Une intention non malveillante n’empêche pas qu’un acte puisse avoir blessé.",
+        "3": "Justice, égalité et équité commencent à être mieux différenciées.",
+        "4": "Encourager la réparation construit davantage la responsabilité que provoquer la honte.",
+        "5": "Les valeurs transmises par l’exemple peuvent progressivement devenir des repères intérieurs."
+      }
+    },
+    "raison": {
+      "title": "L’« âge de raison » : une période de transition",
+      "p": {
+        "1": "Traditionnellement situé autour de sept ans, l’« âge de raison » ne correspond pas à un basculement soudain. Il désigne plutôt une période de transition entre la petite enfance et la préadolescence.",
+        "2": "La pensée devient plus structurée, la conscience des conséquences progresse et l’enfant peut davantage réfléchir à ses actes.",
+        "3": "La socialisation prend également une place importante. L’enfant développe une plus grande autonomie et le monde relationnel dépasse progressivement le cadre familial.",
+        "4": "La conscience morale s’affine : l’enfant comprend davantage la responsabilité liée aux actes et commence à intérioriser certaines règles sociales.",
+        "5": "Mais cette évolution ne signifie pas que l’enfant n’a plus besoin d’être guidé. Au contraire, les questions deviennent parfois plus complexes et les contradictions des adultes sont davantage repérées.",
+        "6": "Le sens moral ne s’impose pas. Il se construit dans l’expérience, le dialogue et l’exemple."
+      },
+      "points": {
+        "1": "L’« âge de raison » est une transition, pas un changement brutal.",
+        "2": "L’enfant devient progressivement plus capable de réfléchir aux conséquences des actes.",
+        "3": "L’autonomie augmente mais ne supprime pas le besoin d’être guidé.",
+        "4": "Les contradictions entre les paroles et les actes des adultes deviennent plus visibles.",
+        "5": "La conscience morale se construit dans l’expérience, le dialogue et l’exemple."
+      },
+      "closing": {
+        "1": "Grandir, c’est apprendre à relier le cœur et la règle."
+      }
+    }
+  }
+}

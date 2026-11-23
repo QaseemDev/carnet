@@ -1,0 +1,245 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 18 ans"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 18 ANS"
+    },
+    "1": {
+      "title": "Le gardien de son histoire",
+      "p": {
+        "1": "Dix-huit ans.",
+        "2": "Un âge symbolique. Un seuil.",
+        "3": "L’enfant devient juridiquement un adulte dans beaucoup de pays. Mais une vie ne change pas soudainement le jour d’un anniversaire.",
+        "4": "Ce qui change peut-être, c’est la manière de regarder le chemin parcouru.",
+        "5": "Les années traversées peuvent être regardées avec davantage de recul. Ce qui a été vécu ensemble peut apparaître autrement.",
+        "6": "L’histoire familiale ne disparaît pas.<br></br>Elle peut devenir une ressource.",
+        "7": "Recevoir une histoire ne signifie pas devoir la reproduire. C’est pouvoir reconnaître ce qui a été transmis, comprendre ce qui a contribué à construire une personne… et rester libre d’inventer la suite."
+      },
+      "quote": "Une histoire reçue peut devenir un point d’appui sans devenir un chemin imposé."
+    },
+    "2": {
+      "intro": "À dix-huit ans, l’autonomie psychologique, affective, relationnelle et matérielle continue naturellement à se construire.<br></br>Pour ceux qui ont accompagné l’enfant, quelque chose change également : il ne s’agit plus seulement de protéger, guider ou transmettre, mais progressivement de reconnaître un jeune adulte capable de faire ses propres choix.<br></br>Depuis toujours, les sociétés ont cherché à donner une forme symbolique à ce passage. Les rites permettaient de reconnaître qu’un enfant accédait progressivement à une responsabilité nouvelle et prenait une autre place dans la communauté.<br></br>Carnet de Vie s’inscrit, à sa manière, dans cette logique : rendre visible une histoire pour qu’elle puisse être reconnue sans enfermer.",
+      "quote": "Reconnaître le chemin parcouru, c’est aussi laisser libre celui qui va continuer à l’écrire."
+    },
+    "4": {
+      "title": "Le message du seuil",
+      "p": {
+        "1": "Dix-huit ans mérite peut-être autre chose qu’un simple « joyeux anniversaire ».<br></br>Pas nécessairement un grand discours.<br></br>Simplement quelques mots qui reconnaissent le passage.",
+        "2": "Toute personne qui le souhaite — parent, grand-parent, frère, sœur, membre de la famille, parrain, marraine, ami ou proche — peut laisser un message personnel.",
+        "3": "Une question peut guider ce témoignage :<br></br>« Lorsque je te regarde aujourd’hui, à 18 ans, qu’est-ce que je reconnais particulièrement en toi et qu’est-ce que j’aimerais te souhaiter pour la suite ? »",
+        "4": "Il peut s’agir d’une qualité observée depuis l’enfance, d’un souvenir partagé, d’une évolution qui touche particulièrement, d’une force découverte au fil des années ou simplement de quelques mots pour l’avenir.",
+        "5": "Il n’est pas nécessaire de conseiller.<br></br>Il n’est pas nécessaire de dire ce que le jeune adulte devrait devenir.<br></br>Il s’agit simplement de témoigner de ce qui est vu et ressenti aujourd’hui."
+      },
+      "quote": "Reconnaître quelqu’un, c’est aussi lui laisser la liberté de devenir autrement que ce que l’on imagine.",
+      "invite": "Nous invitons toute personne désirant garder une trace de ce passage à déposer son message, écrit, audio ou vidéo, dans Carnet de Vie. Le jeune adulte pourra ainsi retrouver un jour les regards qui étaient posés sur lui au moment de ses 18 ans."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de ses 18 ans",
+      "items": {
+        "1": "Une photo de ce jour.",
+        "2": "Les personnes présentes.",
+        "3": "Un éclat de rire.",
+        "4": "Une voix.",
+        "5": "Une fête ou un moment très simple.",
+        "6": "Un projet qui l’anime.",
+        "7": "Une amitié ou une relation importante.",
+        "8": "Un objet symbolique.",
+        "9": "Une musique associée à cette période.",
+        "10": "Un lieu qui compte.",
+        "11": "Quelques mots prononcés ce jour-là.",
+        "12": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici les traces de ce seuil,<br></br>pour qu’un jour elles racontent aussi qui tu étais à 18 ans."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Aujourd’hui, ce que je reconnais particulièrement chez ce jeune adulte :",
+      "options": {
+        "1": "une capacité à prendre des décisions",
+        "2": "une sensibilité affirmée",
+        "3": "une manière personnelle de penser le monde",
+        "4": "une créativité qui lui appartient",
+        "5": "une lucidité sur certaines expériences",
+        "6": "une capacité à tracer sa propre voie",
+        "7": "une force intérieure",
+        "8": "une capacité à créer des liens"
+      },
+      "quote": "Grandir, c’est aussi laisser apparaître une manière singulière d’être au monde."
+    },
+    "2": {
+      "title": "2. Parmi tout ce qui a changé au fil des années, ce qui me touche particulièrement aujourd’hui :",
+      "options": {
+        "1": "son autonomie",
+        "2": "sa manière de penser",
+        "3": "sa façon d’aimer",
+        "4": "ses valeurs",
+        "5": "sa sensibilité",
+        "6": "ses choix",
+        "7": "ses passions",
+        "8": "sa relation aux autres"
+      },
+      "quote": "Le temps révèle parfois ce que l’on ne voyait pas encore."
+    },
+    "3": {
+      "title": "3. Ce qui me semble avoir évolué dans sa manière d’être au monde",
+      "blocks": {
+        "1": {
+          "lead": "Aujourd’hui, je remarque que ce jeune adulte :",
+          "options": {
+            "1": "exprime plus librement ce qu’il pense",
+            "2": "sait davantage ce qui lui convient ou ne lui convient pas",
+            "3": "fait des choix plus personnels",
+            "4": "prend davantage sa place dans les relations",
+            "5": "accepte mieux certaines différences",
+            "6": "sait davantage poser ses limites",
+            "7": "semble plus à l’écoute de ses besoins",
+            "8": "assume davantage certaines fragilités",
+            "9": "porte un regard plus nuancé sur les autres",
+            "10": "porte un regard plus nuancé sur sa propre histoire"
+          }
+        }
+      },
+      "quote": "Devenir adulte, c’est aussi construire progressivement sa manière d’être au monde."
+    },
+    "4": {
+      "title": "4. Lorsque je regarde ces dix-huit années, je ressens :",
+      "options": {
+        "1": "de la reconnaissance",
+        "2": "de la fierté",
+        "3": "de la gratitude",
+        "4": "de l’émotion",
+        "5": "de l’étonnement devant le chemin parcouru",
+        "6": "de la nostalgie",
+        "7": "de la confiance pour la suite",
+        "8": "plusieurs de ces émotions à la fois"
+      },
+      "quote": "Chaque histoire est faite de moments imparfaits et précieux."
+    },
+    "5": {
+      "title": "5. Ce qui me semble avoir particulièrement compté dans sa construction :",
+      "options": {
+        "1": "certaines rencontres",
+        "2": "la famille",
+        "3": "des amitiés",
+        "4": "une passion",
+        "5": "des réussites",
+        "6": "certaines difficultés traversées",
+        "7": "des voyages ou des découvertes",
+        "8": "des séparations ou des changements"
+      },
+      "quote": "Certaines expériences passent. Ce qu’elles ont construit demeure parfois."
+    },
+    "6": {
+      "title": "6. Ce qui semble l’animer aujourd’hui :",
+      "options": {
+        "1": "un projet d’études",
+        "2": "un projet professionnel",
+        "3": "une passion",
+        "4": "une relation",
+        "5": "l’envie de découvrir le monde",
+        "6": "un engagement",
+        "7": "une création",
+        "8": "une recherche encore ouverte"
+      },
+      "quote": "À dix-huit ans, ne pas savoir encore peut aussi faire partie du chemin."
+    },
+    "7": {
+      "title": "7. Parmi ce que notre famille lui a transmis, ce que j’aimerais particulièrement voir rester comme une ressource :",
+      "options": {
+        "1": "certaines valeurs",
+        "2": "une manière d’aimer",
+        "3": "le sens de la famille",
+        "4": "la liberté",
+        "5": "la curiosité",
+        "6": "le respect",
+        "7": "la générosité",
+        "8": "la capacité à se relever"
+      },
+      "quote": "Transmettre n’est pas demander de reproduire."
+    },
+    "8": {
+      "title": "8. Et parmi ce qui a été transmis, j’accepte aussi que le jeune adulte puisse :",
+      "options": {
+        "1": "questionner certaines valeurs",
+        "2": "faire autrement",
+        "3": "changer certaines habitudes familiales",
+        "4": "choisir une autre manière de vivre",
+        "5": "prendre de la distance avec certaines croyances",
+        "6": "transformer ce qui a été reçu"
+      },
+      "quote": "Recevoir une histoire n’oblige pas à la répéter."
+    },
+    "9": {
+      "title": "9. S’il y avait aujourd’hui quelque chose que j’aimerais lui dire :",
+      "note": "Ce message peut être écrit, enregistré avec la voix ou filmé.",
+      "quote": "Une parole transmise peut accompagner longtemps."
+    },
+    "10": {
+      "title": "10. Ce que je souhaite garder en mémoire de ses 18 ans :",
+      "field": "Le lieu :",
+      "blocks": {
+        "1": {
+          "field": "Les personnes présentes :"
+        },
+        "2": {
+          "field": "Ce qui se passe dans sa vie à ce moment précis :"
+        },
+        "3": {
+          "field": "Ce qui m’a particulièrement marqué :"
+        }
+      },
+      "quote": "Un anniversaire passe. La trace de ce qu’il représentait peut rester."
+    }
+  },
+  "articles": {
+    "rites": {
+      "title": "Les rites de passage et de transmission",
+      "p": {
+        "1": "Dans de nombreuses sociétés, le passage d’un âge ou d’un statut à un autre a été marqué par des rites.",
+        "2": "Le document source rappelle plusieurs formes religieuses ou culturelles : Bar ou Bat Mitsvah dans le judaïsme, confirmation dans le christianisme, Upanayana dans certaines traditions hindoues, mais aussi différentes formes d’initiation ou de retrait temporaire de la communauté dans des sociétés traditionnelles.",
+        "3": "Les formes sont extrêmement différentes, mais une fonction commune apparaît : rendre visible un passage.",
+        "4": "Arnold van Gennep (1873–1957) – Ethnologue et folkloriste français.",
+        "5": "Van Gennep a consacré ses travaux aux rites de passage, qui accompagnent les grandes transitions de l’existence et permettent de reconnaître symboliquement un changement de statut. Le document source s’appuie précisément sur cette notion pour penser le passage vers l’âge adulte.",
+        "6": "Joseph Campbell (1904–1987) – Professeur américain de littérature et spécialiste de mythologie comparée.",
+        "7": "Le document source associe Campbell aux récits dans lesquels le passage de l’enfance vers l’autonomie prend la forme d’un chemin symbolique.",
+        "8": "Dans nos sociétés contemporaines, les marqueurs de l’entrée dans l’âge adulte sont souvent plus diffus.",
+        "9": "L’anniversaire des 18 ans peut alors devenir un moment symbolique : non pour déclarer qu’une personne est soudainement « achevée », mais pour reconnaître le chemin parcouru et la nouvelle place qui commence à se dessiner.",
+        "10": "Carnet de Vie peut participer à ce passage en donnant une forme concrète à une histoire jusque-là dispersée dans les souvenirs, les images, les voix et les récits."
+      },
+      "points": {
+        "1": "Les sociétés ont souvent marqué les grandes transitions de la vie par des rites.",
+        "2": "Un rite permet de rendre visible un changement de place ou de statut.",
+        "3": "Dix-huit ans peut constituer un seuil symbolique sans signifier que le développement est terminé.",
+        "4": "Reconnaître le passage n’oblige pas à imposer une direction pour la suite.",
+        "5": "Carnet de Vie peut donner une forme contemporaine et familiale à cette reconnaissance."
+      }
+    },
+    "histoire": {
+      "title": "Recevoir son histoire sans avoir à la répéter",
+      "p": {
+        "1": "Une histoire familiale transmet beaucoup plus que des souvenirs.",
+        "2": "Elle transmet des valeurs, des manières d’aimer, des habitudes, des récits, des croyances, des silences, des forces et parfois des fragilités.",
+        "3": "Mais recevoir ne signifie pas devoir reproduire.",
+        "4": "Le document source formule très clairement cette intention : Carnet de Vie cherche à rendre visible une histoire afin qu’elle puisse être reçue sans enfermer. Il s’agit d’offrir un point d’appui à partir duquel le jeune adulte pourra continuer son propre chemin.",
+        "5": "À dix-huit ans, cette distinction devient particulièrement importante.",
+        "6": "Le jeune adulte peut reconnaître ce qui lui a été donné et, progressivement, décider :<br></br>ce qu’il souhaite conserver,<br></br>ce qu’il souhaite transformer,<br></br>ce qu’il souhaite comprendre autrement,<br></br>et parfois ce qu’il souhaite laisser derrière lui.",
+        "7": "Ce mouvement ne retire rien à ceux qui ont transmis.",
+        "8": "Au contraire, une transmission pleinement vivante accepte d’être transformée par celui qui la reçoit.",
+        "9": "Carnet de Vie ne dit donc pas :<br></br>« Voilà qui tu es. »<br></br>Il dit plutôt :<br></br>« Voilà une partie de ton histoire telle que ceux qui t’ont accompagné l’ont vécue et regardée. À toi, désormais, de poursuivre ton chemin. »"
+      },
+      "points": {
+        "1": "Une histoire familiale peut être une ressource sans devenir une obligation.",
+        "2": "Transmettre ne signifie pas demander au jeune adulte de reproduire les choix ou les valeurs de ceux qui l’ont précédé.",
+        "3": "Certaines transmissions seront conservées, d’autres questionnées ou transformées.",
+        "4": "Accepter cette transformation fait partie du processus de transmission.",
+        "5": "Carnet de Vie propose un récit et des traces ; il ne définit pas l’identité de celui qui les reçoit."
+      },
+      "closing": {
+        "1": "Grandir, c’est faire la paix avec son histoire pour pouvoir avancer."
+      }
+    }
+  }
+}

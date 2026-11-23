@@ -1,0 +1,232 @@
+{
+  "header": {
+    "carnet": "Léa’s Carnet de Vie - Breakup, separation, loss"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • BREAKUP, SEPARATION, LOSS"
+    },
+    "1": {
+      "title": "A loss. A transformation. A new balance.",
+      "p": {
+        "1": "Some stages of family life are marked by a breakup, a separation or a bereavement.",
+        "2": "It may be the end of a relationship, the loss of someone important, or a deep change in the shape of the family.",
+        "3": "These events can happen suddenly or take shape gradually. They often mark a before and an after.",
+        "4": "A separation and a bereavement are not the same experience. One changes relationships and roles; the other brings you face to face with a permanent absence. But each of these events can unsettle the family’s landmarks, emotions and balance.",
+        "5": "This time does not need to be explained or justified.",
+        "6": "It calls for neither a full account nor immediate coherence. It may be lived through in silence, confusion, anger, sadness, sometimes relief, or with words that are still fragile.",
+        "7": "People move at different paces, and feel different things. What is clear to one may stay blurred for another.",
+        "8": "And the child, too, may live this change in their own way, depending on their age, their story and what they understand of the situation.",
+        "9": "This part opens a space to acknowledge what has been lost, transformed or moved.",
+        "10": "Without trying to repair, or to conclude.",
+        "11": "Simply to leave a trace of this moment as it was lived."
+      },
+      "quote": "The same event can be lived very differently by each person."
+    },
+    "2": {
+      "intro": "Emotions can shift, contradict each other or remain hard to name.<br></br>In a time of breakup, separation or bereavement, the child does not need to know everything to sense that something has changed. Simple, true words suited to their age can help them make sense of what they are going through.<br></br>Naming what is here today is enough.",
+      "quote": "When landmarks change, a few simple words can help restore a little continuity."
+    },
+    "4": {
+      "title": "The photo or the collage of memories",
+      "p": {
+        "1": "In a breakup, a separation or a bereavement, some memories can become especially precious.",
+        "2": "Choose a photograph, or make a collage of several pictures showing important moments of the story: a trip, a party, a birthday, an everyday moment, a loved one, or simply a moment you want to keep.",
+        "3": "It is not about idealising the past, nor erasing what was hard.",
+        "4": "It is about recognising that before things changed, a story existed.",
+        "5": "In a separation, these pictures can let the child keep traces of their story without asking them to choose between the people they love.",
+        "6": "In a bereavement, they can keep alive the memory of a person and of the moments shared with them.",
+        "7": "A sentence, a date, a memory or an anecdote can be added to each photograph."
+      },
+      "quote": "What changes today does not erase what was lived yesterday.",
+      "invite": "We invite whoever wishes to keep this trace to place this photograph or collage in Carnet de Vie, with, if they wish, a written or recorded message simply telling this memory."
+    },
+    "5": {
+      "title": "What I choose to keep from this time",
+      "items": {
+        "1": "A photograph.",
+        "2": "A date.",
+        "3": "A letter.",
+        "4": "A voice.",
+        "5": "A sentence.",
+        "6": "An object.",
+        "7": "A piece of music.",
+        "8": "A place.",
+        "9": "A happy memory.",
+        "10": "Someone who mattered.",
+        "11": "Words that helped.",
+        "12": "A difficult moment I also want to keep a trace of.",
+        "13": "Or something I simply don’t want to forget."
+      },
+      "fields": {
+        "1": "What I would like to add or share:"
+      },
+      "quote": "Keeping a trace does not mean staying in the past. Sometimes it gives the past a place in the story."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. What changed",
+      "lead": "What I went through at that time was:",
+      "options": {
+        "1": "a separation",
+        "2": "a divorce",
+        "3": "the death of someone important",
+        "4": "a major change in the family",
+        "5": "another kind of breakup or loss"
+      },
+      "quote": "Naming something does not mean having to explain it all."
+    },
+    "2": {
+      "title": "2. The time of life when it happened",
+      "lead": "This change came at a time I was living as:",
+      "options": {
+        "1": "fairly stable",
+        "2": "already fragile",
+        "3": "busy",
+        "4": "unexpected",
+        "5": "in transition"
+      },
+      "quote": "The context is also part of what we go through."
+    },
+    "3": {
+      "title": "3. What this breakup or loss shook up in me",
+      "lead": "What was most shaken inside me:",
+      "quote": "Some upheavals take time to find their words."
+    },
+    "4": {
+      "title": "4. What was hardest to carry",
+      "lead": "What weighed on me most during this time:",
+      "quote": "What is hard can be acknowledged without telling it all."
+    },
+    "5": {
+      "title": "5. What helped me get through",
+      "lead": "What supported me, even partly:",
+      "options": {
+        "1": "a person",
+        "2": "my family",
+        "3": "friends",
+        "4": "time",
+        "5": "work",
+        "6": "prayer or spirituality",
+        "7": "sport",
+        "8": "a professional"
+      },
+      "quote": "Support can be discreet and still essential."
+    },
+    "6": {
+      "title": "6. What this ordeal changed in me",
+      "lead": "What this breakup, separation or loss changed in how I am a parent, or how I am there for the child:",
+      "quote": "Some changes only become visible with time."
+    },
+    "7": {
+      "title": "7. Emotionally, I feel rather:",
+      "options": {
+        "1": "at peace",
+        "2": "relieved",
+        "3": "sad",
+        "4": "angry",
+        "5": "stressed",
+        "6": "worried",
+        "7": "lost",
+        "8": "torn"
+      },
+      "quote": "Inner states can shift over time."
+    },
+    "8": {
+      "title": "8. In my working life, I feel rather:",
+      "options": {
+        "1": "confident",
+        "2": "stable",
+        "3": "supported",
+        "4": "tired",
+        "5": "under pressure",
+        "6": "uncertain"
+      },
+      "quote": "Not everything needs to settle at the same time."
+    },
+    "9": {
+      "title": "9. Financially, I feel rather:",
+      "options": {
+        "1": "at ease",
+        "2": "careful",
+        "3": "worried",
+        "4": "balanced",
+        "5": "reorganising"
+      },
+      "quote": "A new balance can take time."
+    },
+    "10": {
+      "title": "10. What I would like the child to remember of this time",
+      "field": "Beyond what changed or what was lost, what I would like them to understand one day about this time:",
+      "blocks": {
+        "1": {
+          "field": "A memory, a word or something important I would like to pass on to them:"
+        }
+      },
+      "quote": "A story can keep the trace of what was hard without being reduced to that ordeal."
+    }
+  },
+  "articles": {
+    "separation": {
+      "title": "Partners and parents after separation",
+      "p": {
+        "1": "When a couple separates, the relationship between the adults changes. Each one’s relationship with the child, however, does not disappear.",
+        "2": "Françoise Dolto (1908–1988) – French paediatrician and psychoanalyst, known above all for her work on childhood, speech and the child’s place in their family story.",
+        "3": "Dolto’s thinking helps distinguish the end of the couple’s relationship from the lasting place of each parent.",
+        "4": "The romantic couple can end. The responsibility and place of parent go on around the child when both parents remain present in their life.",
+        "5": "This distinction can matter to the child: the adults’ separation does not mean that they must themselves separate emotionally from one of them, or take sides.",
+        "6": "When possible and compatible with their safety, keeping the child free to love each of their parents can help them not become the stake in the adults’ conflict.",
+        "7": "In some situations, however, the relationship with a parent may be absent, very limited or need to be protected. The child’s safety then comes first."
+      },
+      "points": {
+        "1": "The end of the romantic couple does not mean the end of parenthood.",
+        "2": "The child should not have to choose emotionally between their parents.",
+        "3": "Conflicts between adults are best kept away from the child as far as possible.",
+        "4": "The continuity of each parent’s place must always be thought through with the child’s safety in mind.",
+        "5": "A separation transforms the family; it does not erase its story."
+      }
+    },
+    "securite": {
+      "title": "Separations and the child’s sense of security",
+      "p": {
+        "1": "A separation can change many landmarks: where the child lives, rhythms, habits, how available the adults are, or how often they see each other.",
+        "2": "John Bowlby (1907–1990) – British psychiatrist and psychoanalyst, founder of attachment theory.",
+        "3": "Bowlby’s work showed how important it is for a child to be able to rely on attachment figures who are available and predictable enough.",
+        "4": "Security, then, is not simply about avoiding every separation.",
+        "5": "What also matters is the child being able to find reliable relationships, some continuity, and adults able to meet their needs.",
+        "6": "After a family separation, simple landmarks can become especially important: knowing where they will be, who will pick them up, when they will see someone important again, or what will stay the same in their daily life.",
+        "7": "Depending on their age, explanations suited to them can also help them understand that changes between adults are not their responsibility."
+      },
+      "points": {
+        "1": "A separation can upset the child’s everyday landmarks.",
+        "2": "Relationships that are stable and predictable enough contribute to their sense of security.",
+        "3": "Continuity can also come through simple habits and landmarks.",
+        "4": "The child needs to understand, in words suited to their age, that they are not responsible for the separation.",
+        "5": "Their emotional and physical safety comes first in how relationships are organised."
+      }
+    },
+    "deuil": {
+      "title": "Reactions to grief",
+      "p": {
+        "1": "Losing someone important can bring very different reactions from one person to another, and over time.",
+        "2": "Elisabeth Kübler-Ross (1926–2004) – Swiss-American psychiatrist, known for her work on the end of life, death and reactions to loss.",
+        "3": "Kübler-Ross’s work helped describe different reactions that can appear in the face of death and loss, such as denial, anger, sadness, bargaining or a form of acceptance.",
+        "4": "These reactions, however, are neither compulsory stages nor a straight path.",
+        "5": "A person may feel several emotions at once, come back to some of them, or never feel some at all.",
+        "6": "In children too, grief can come and go. They may be sad one moment and go back to playing soon after, ask the same questions several times, or grasp the reality of death gradually as they grow up.",
+        "7": "Supporting them means, in particular, letting them ask their questions and offering them true, simple words suited to their age."
+      },
+      "points": {
+        "1": "There is no single way to grieve.",
+        "2": "Reactions do not necessarily follow stages in a set order.",
+        "3": "A child may switch quickly between sadness, questions and ordinary moments of play.",
+        "4": "Their understanding of death develops as they grow.",
+        "5": "True, simple words suited to their age can help them gradually make sense of what they are living through."
+      },
+      "closing": {
+        "1": "Some bonds change, some presences disappear. What was lived remains part of the story."
+      }
+    }
+  }
+}

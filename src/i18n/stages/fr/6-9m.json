@@ -1,0 +1,257 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - 6-9 mois"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • 6 À 9 MOIS"
+    },
+    "1": {
+      "title": "Le monde s’explore, la distance devient possible",
+      "p": {
+        "1": "Entre six et neuf mois, quelque chose de visible se passe. Le bébé s’assoit. Pas encore tout seul peut-être — mais progressivement, le dos se redresse, les mains se libèrent, le regard monte. De là-haut, tout est différent.",
+        "2": "Le bébé peut saisir, manipuler, regarder autour de lui. Le sol devient un terrain d’exploration. Et l’adulte devient une base — celle vers laquelle l’enfant se retourne pour vérifier que tout va bien.",
+        "3": "Le bébé s’éloigne un peu. Revient du regard. Puis repart. Ce mouvement — partir et revenir — est au cœur de ces trois mois. Exploration et attachement progressent ensemble."
+      },
+      "quote": "Il apprend que le lien tient, même quand il ne te touche pas."
+    },
+    "2": {
+      "intro": "Entre six et neuf mois, le corps gagne en stabilité, l’exploration s’intensifie et l’attachement devient plus différencié. Le bébé peut davantage s’éloigner tout en ayant besoin de retrouver régulièrement sa base de sécurité.",
+      "quote": "Le besoin de sécurité reste central."
+    },
+    "4": {
+      "title": "Ce qui disparaît revient",
+      "p": {
+        "1": "Prends un objet que le bébé aime tenir — une petite balle, un cube, un jouet familier. Assieds-toi face au bébé, au sol. Montre l’objet. Laisse le bébé le regarder, le toucher.",
+        "2": "Puis, lentement, sous son regard, cache-le sous un tissu ou dans ta main fermée. Attends. Observe son visage.",
+        "3": "Si le bébé cherche — tend la main, regarde autour ou te regarde — soulève doucement le tissu : « Le voilà ! » Souvent, un rire apparaît. Ce rire n’est pas anodin : c’est le soulagement de retrouver ce qui avait disparu. La surprise que le monde soit fiable.",
+        "4": "Si le bébé ne cherche pas encore, c’est normal. Montre toi-même : soulève, nomme, souris. Répète deux ou trois fois. Pas plus."
+      },
+      "quote": "Ce qui disparaît peut revenir, et le lien reste.",
+      "invite": "Nous t’invitons à filmer ou à photographier ce moment pour le déposer dans Carnet de Vie."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de ces trois mois",
+      "items": {
+        "1": "Un mot.",
+        "2": "Une phrase.",
+        "3": "Une photo ou une vidéo.",
+        "4": "Un éclat de rire.",
+        "5": "Un geste.",
+        "6": "Une sensation.",
+        "7": "Un moment d’exploration.",
+        "8": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "quote": "Je dépose ici nos instants précieux,<br></br>pour te les offrir un jour et te dire merci."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Dans ses déplacements, le bébé est désormais :",
+      "options": {
+        "1": "plus mobile",
+        "2": "plus assuré",
+        "3": "prudent",
+        "4": "très explorateur"
+      },
+      "quote": "Explorer est un signe de maturité, pas d’éloignement."
+    },
+    "2": {
+      "title": "2. Lorsqu’il découvre un nouvel objet, le bébé :",
+      "options": {
+        "1": "l’observe longuement",
+        "2": "le manipule sous tous les angles",
+        "3": "le met à la bouche",
+        "4": "me regarde pour partager"
+      },
+      "quote": "Découvrir, c’est apprendre avec tout son corps."
+    },
+    "3": {
+      "title": "3. Face aux personnes inconnues, le bébé :",
+      "options": {
+        "1": "observe à distance",
+        "2": "se rapproche de moi",
+        "3": "pleure",
+        "4": "alterne curiosité et retrait"
+      },
+      "quote": "L’inquiétude face à l’étranger est un signe d’attachement différencié."
+    },
+    "4": {
+      "title": "4. Lors de mes absences, même brèves, le bébé :",
+      "options": {
+        "1": "proteste",
+        "2": "me cherche",
+        "3": "pleure",
+        "4": "semble peu réagir"
+      },
+      "field": "Durée moyenne approximative :",
+      "blocks": {
+        "1": {
+          "lead": "Qui ou qu’est-ce qui apaise après mon départ ?",
+          "options": {
+            "1": "la personne qui le garde",
+            "2": "un objet avec mon odeur",
+            "3": "un jouet familier",
+            "4": "une musique habituelle"
+          }
+        }
+      },
+      "quote": "La séparation devient pensable parce que le lien existe."
+    },
+    "5": {
+      "title": "5. Je remarque que le bébé :",
+      "options": {
+        "1": "cherche un objet tombé",
+        "2": "répète une action pour voir l’effet",
+        "3": "teste ma réaction",
+        "4": "explore un espace nouveau"
+      },
+      "quote": "Comprendre que quelque chose continue d’exister change le monde intérieur."
+    },
+    "6": {
+      "title": "6. Dans cette période, je me sens plus à l’aise pour :",
+      "options": {
+        "1": "laisser explorer",
+        "2": "poser un cadre",
+        "3": "accompagner les peurs",
+        "4": "sécuriser l’espace"
+      },
+      "quote": "Accompagner, ce n’est pas empêcher : c’est sécuriser."
+    },
+    "7": {
+      "title": "7. Le lien entre le bébé et moi me semble :",
+      "options": {
+        "1": "plus intense",
+        "2": "plus exclusif",
+        "3": "parfois plus exigeant",
+        "4": "en transformation"
+      },
+      "quote": "Le lien s’approfondit quand la distance devient possible."
+    },
+    "8": {
+      "title": "8. S’il y a une fratrie, je continue d’être vigilant(e) et remarque que :",
+      "options": {
+        "1": "la curiosité mutuelle augmente",
+        "2": "des tensions apparaissent",
+        "3": "des tensions disparaissent",
+        "4": "l’imitation du plus petit envers le plus grand se développe",
+        "5": "certains aînés régressent",
+        "6": "chacun cherche sa place"
+      },
+      "quote": "Chaque enfant ajuste sa place à sa manière."
+    },
+    "9": {
+      "title": "9. L’environnement du bébé a-t-il changé ces mois, notamment suite à :",
+      "options": {
+        "1": "un déménagement",
+        "2": "l’entrée en crèche",
+        "3": "un changement de garde",
+        "4": "un voyage"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Depuis ces changements, je remarque que le bébé :",
+          "options": {
+            "1": "recherche davantage ma présence en tant que première figure d’attachement",
+            "2": "a identifié une figure d’attachement de substitution en mon absence",
+            "3": "manifeste plus d’inquiétude face aux personnes nouvelles",
+            "4": "réagit plus fortement aux séparations",
+            "5": "se fatigue plus facilement",
+            "6": "s’adapte progressivement"
+          }
+        }
+      },
+      "quote": "Un changement demande parfois simplement du temps pour se déposer."
+    },
+    "10": {
+      "title": "10. Ce que ces trois mois ont changé en moi comme parent :",
+      "quote": "Grandir ensemble transforme la relation."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Évolution physique, affective et cognitive",
+      "p": {
+        "1": "Entre six et neuf mois, le bébé entre dans une phase d’exploration active. Le corps devient plus stable, les déplacements s’organisent et la manipulation des objets se précise. Sur le plan affectif, une étape majeure apparaît : la différenciation entre figures familières et inconnues. L’attachement devient plus sélectif.",
+        "2": "L’exploration augmente… mais la base de sécurité reste indispensable.",
+        "3": "<b>Motricité et tonus</b>",
+        "4": "Le bébé tient progressivement assis avec moins d’aide, se retourne plus facilement, pivote, rampe parfois ou commence le quatre pattes. Les mains deviennent plus disponibles pour attraper, frapper, secouer, lâcher volontairement et transférer un objet d’une main à l’autre.",
+        "5": "La position assise transforme profondément la façon de découvrir le monde : le champ de vision s’élargit, les mains sont libres et le bébé peut observer davantage son environnement.",
+        "6": "Un espace sécurisé au sol avec quelques objets simples suffit souvent. Le corps a besoin de trouver son équilibre progressivement. Chaque bébé suit son propre chemin : certains ne rampent jamais, d’autres ne font pas de quatre pattes. Ce qui compte est la progression, pas une séquence imposée.",
+        "7": "<b>Le toucher et l’exploration sensorielle</b>",
+        "8": "Les mains deviennent des instruments d’exploration de plus en plus précis. Le bébé découvre les textures, les formes, le poids et les sons produits par les objets. La bouche reste également un organe majeur d’exploration.",
+        "9": "Proposer des objets variés — doux, lisses, rugueux, légers — permet d’explorer sans surcharger l’environnement.",
+        "10": "<b>Les sens</b>",
+        "11": "Le regard devient plus intentionnel et suit davantage les déplacements. Les voix familières sont mieux reconnues et les intonations suscitent des réactions différentes. L’odeur des figures d’attachement reste un repère apaisant.",
+        "12": "Les textures et les saveurs alimentaires deviennent progressivement plus variées selon les pratiques familiales.",
+        "13": "<b>Stimulation et jeu : suivre sa curiosité</b>",
+        "14": "À cet âge, le bébé apprend en faisant : répéter, tester, imiter, observer les conséquences d’une action. Faire tomber plusieurs fois un objet ou frapper deux objets l’un contre l’autre n’est pas simplement de l’agitation : le bébé expérimente.",
+        "15": "Suivre le regard et les mains permet souvent de comprendre ce qui intéresse réellement l’enfant. Il n’est pas nécessaire de diriger constamment le jeu. Commenter ce que fait le bébé suffit souvent à enrichir l’échange et à soutenir l’émergence du langage.",
+        "16": "<b>La permanence de l’objet : ce qui disparaît continue d’exister</b>",
+        "17": "Vers sept ou huit mois, le bébé commence progressivement à comprendre qu’un objet continue d’exister même lorsqu’il disparaît de son champ visuel. Il peut chercher une balle cachée sous un tissu ou regarder derrière une main.",
+        "18": "Cette acquisition transforme également l’expérience de la séparation : si ce qui disparaît continue d’exister, l’absence devient progressivement pensable. Cela peut paradoxalement rendre certaines séparations plus difficiles pendant quelque temps."
+      },
+      "points": {
+        "1": "La mobilité et l’exploration progressent ensemble : offrir un espace sécurisé permet au bébé d’expérimenter.",
+        "2": "Chaque enfant suit son propre rythme moteur ; la progression compte davantage que l’ordre des acquisitions.",
+        "3": "Répéter, toucher, mettre à la bouche, faire tomber et recommencer sont des façons d’apprendre.",
+        "4": "La permanence de l’objet se construit progressivement et transforme la compréhension de l’absence.",
+        "5": "Plus le bébé explore, plus la possibilité de retrouver une base de sécurité reste importante."
+      }
+    },
+    "etranger": {
+      "title": "Le « syndrome de l’étranger » (vers 8 mois)",
+      "p": {
+        "1": "Autour de huit mois, de nombreux bébés manifestent une inquiétude face aux personnes inconnues. Cela peut se traduire par des pleurs, une crispation, un retrait ou une recherche immédiate de la figure d’attachement.",
+        "2": "Ce phénomène n’est pas une régression. Il marque une étape de maturation cognitive et affective : le bébé distingue désormais plus clairement les figures familières des personnes inconnues. Il peut également protester davantage lorsque sa figure d’attachement quitte la pièce.",
+        "3": "John Bowlby (1907–1990) – Psychiatre et psychanalyste anglais. Pionnier de l’Attachement chez l’enfant.",
+        "4": "Bowlby souligne qu’à cette période l’attachement devient plus sélectif : la base de sécurité est de mieux en mieux identifiée.",
+        "5": "Donald W. Winnicott (1896–1971) – Pédiatre et psychanalyste britannique.",
+        "6": "Winnicott décrit progressivement une différenciation plus nette entre soi et l’autre : le bébé perçoit davantage qu’il constitue une personne distincte.",
+        "7": "T. Berry Brazelton (1918–2018) – Pédiatre américain, spécialiste du développement du nourrisson.",
+        "8": "Brazelton observe que cette période peut s’accompagner de phases temporaires de désorganisation, notamment lors de changements importants.",
+        "9": "<b>Accompagner les séparations</b>",
+        "10": "Annoncer les départs, même brefs, et revenir de manière prévisible aide progressivement à construire la confiance. Il est préférable de ne pas disparaître discrètement pour éviter les pleurs : le bébé a besoin d’expérimenter que l’adulte part et revient.",
+        "11": "Un objet familier ou porteur d’une odeur connue peut parfois faciliter la séparation. Si le bébé est gardé par une autre personne, la stabilité et la prévisibilité de cette présence favorisent progressivement la création d’un nouveau lien sécurisant."
+      },
+      "points": {
+        "1": "L’inquiétude face aux personnes inconnues est une étape fréquente de maturation, et non un recul.",
+        "2": "L’attachement devient plus différencié : le bébé identifie de mieux en mieux les personnes qui constituent sa base de sécurité.",
+        "3": "Les séparations peuvent temporairement devenir plus difficiles à vivre.",
+        "4": "Annoncer le départ et revenir de manière prévisible participe à la construction de la confiance.",
+        "5": "Une autre personne stable et disponible peut progressivement devenir une figure d’attachement complémentaire."
+      }
+    },
+    "attachement": {
+      "title": "Qu’est-ce qu’une figure d’attachement ?",
+      "p": {
+        "1": "John Bowlby (1907–1990) – Psychiatre et psychanalyste anglais. Pionnier de l’Attachement chez l’enfant.",
+        "2": "Bowlby a montré que le bébé naît avec un besoin biologique de proximité. Une figure d’attachement est une personne vers laquelle l’enfant se tourne lorsqu’il cherche sécurité et réconfort.",
+        "3": "Elle devient une base de sécurité : l’enfant peut explorer parce qu’il sait qu’il peut revenir. Lorsque la figure d’attachement principale est absente, le bébé peut progressivement s’appuyer sur une autre personne stable, disponible et rassurante. Plusieurs liens d’attachement peuvent donc se construire.",
+        "4": "<b>Les quatre formes d’attachement</b>",
+        "5": "Ces formes décrivent des stratégies d’adaptation, pas des destins.",
+        "6": "1. Attachement sécure — le bébé peut protester lors de la séparation mais retrouve plus facilement son apaisement au retour. Il utilise l’adulte comme base de sécurité pour explorer.<br></br>2. Attachement insécure évitant — le bébé semble parfois peu réagir à la séparation et minimise l’expression de ses besoins affectifs.<br></br>3. Attachement insécure ambivalent — le bébé peut protester fortement et avoir davantage de difficulté à retrouver son apaisement au retour.<br></br>4. Attachement désorganisé — le bébé peut présenter des comportements contradictoires ou figés, notamment dans des environnements très insécurisants.",
+        "7": "Un enfant bien attaché n’est donc pas nécessairement un enfant qui reste constamment près de l’adulte. La sécurité du lien permet justement progressivement l’exploration.",
+        "8": "<b>Le sommeil : une période souvent chahutée</b>",
+        "9": "Le sommeil peut redevenir plus difficile entre six et neuf mois. Le développement moteur mobilise le système nerveux, l’anxiété de séparation peut apparaître au moment de l’endormissement et les poussées dentaires peuvent également provoquer certains réveils.",
+        "10": "Maintenir des rituels d’endormissement suffisamment stables aide à préserver des repères. Lors d’un réveil nocturne, une présence calme et peu stimulante peut rappeler au bébé que l’adulte reste disponible.",
+        "11": "Lorsque plusieurs changements importants surviennent — entrée en crèche, sevrage, changement de garde — les espacer lorsque cela est possible peut faciliter l’adaptation.",
+        "12": "<b>Ce que cette période demande au parent</b>",
+        "13": "Cette période peut être intense. La mobilité du bébé augmente et son besoin de sécurité reste important. Paradoxalement, plus le bébé explore, plus il peut avoir besoin de vérifier que l’adulte est toujours là.",
+        "14": "Il n’est pas nécessaire d’être disponible à chaque instant. La prévisibilité est essentielle : revenir lorsque cela a été annoncé, répondre de manière suffisamment cohérente et offrir un regard stable lorsque le bébé se retourne.",
+        "15": "Ce regard peut suffire à dire : « Je suis là, tu peux continuer. »"
+      },
+      "points": {
+        "1": "Une figure d’attachement est une personne vers laquelle l’enfant peut se tourner pour retrouver sécurité et réconfort.",
+        "2": "Plusieurs figures d’attachement peuvent se construire lorsque les adultes sont suffisamment stables, disponibles et prévisibles.",
+        "3": "Un attachement sécurisant ne freine pas l’autonomie : il permet progressivement l’exploration.",
+        "4": "Les allers-retours entre exploration et retour vers l’adulte sont structurants.",
+        "5": "Le sommeil peut être temporairement perturbé par les acquisitions motrices, les séparations ou les poussées dentaires.",
+        "6": "Le bébé n’a pas besoin d’une disponibilité permanente, mais d’une présence suffisamment prévisible et cohérente."
+      },
+      "closing": {
+        "1": "Il découvre le monde. Il découvre la distance. Il découvre que le lien tient. Et dans ces allers-retours invisibles, se construit doucement sa confiance intérieure."
+      }
+    }
+  }
+}

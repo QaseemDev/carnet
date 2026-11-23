@@ -1,0 +1,285 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 13–15 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 13 TO 15"
+    },
+    "1": {
+      "title": "Shadow and shine",
+      "p": {
+        "1": "Between thirteen and fifteen, something takes the stage.",
+        "2": "The body is no longer only changing. It becomes visible. It becomes a language.",
+        "3": "What others think matters. A lot.",
+        "4": "“I want to be seen… but not like everyone else.”",
+        "5": "The child swings between shining and pulling back. Between asserting themselves and feeling vulnerable. The child is looking for their place, without wanting it imposed on them.",
+        "6": "One remark can build them up. One taunt can hurt deeply. Beneath the apparent confidence there is sometimes a silent question:",
+        "7": "“Do I have a place?”"
+      },
+      "quote": "Identity looks for its place between how others see us and how we see ourselves."
+    },
+    "2": {
+      "intro": "Between thirteen and fifteen, the body becomes part of who one is, peers take a central place and how others see them strongly shapes self-esteem. The child tries out different ways of being, of belonging and of standing apart.<br></br>The group sways. The parent steadies. Supporting without controlling lets you stay a landmark when the child’s self-image becomes more fragile.",
+      "quote": "Being there without defining the child in their place."
+    },
+    "4": {
+      "title": "The message that stays",
+      "p": {
+        "1": "At this age, how others see them can sometimes take up so much room that the child ends up mistaking what others think for their own worth.",
+        "2": "Choose a calm moment. Not after a conflict. Not to convince.",
+        "3": "Simply say, in your own words:<br></br>“Your place doesn’t depend on how others see you.”<br></br>“You don’t need to look like the others to be worth something.”<br></br>“I’m here, even when you doubt yourself.”",
+        "4": "Don’t necessarily wait for an answer. Just let these words exist."
+      },
+      "quote": "A parent’s gaze can remain a refuge when other people’s becomes hurtful.",
+      "invite": "We invite you to write this message or record it in your own voice and add it to your Carnet de Vie, so that one day the child can find the trace of how you saw them."
+    },
+    "5": {
+      "title": "What I choose to keep from this time",
+      "items": {
+        "1": "A friendship that mattered.",
+        "2": "A social hurt they got through.",
+        "3": "A moment of pride.",
+        "4": "A conflict that shaped us.",
+        "5": "A moment of standing up for themselves.",
+        "6": "A time the child dared not to follow the group.",
+        "7": "A photo, a video or their voice.",
+        "8": "Or simply a moment I never want to forget."
+      },
+      "quote": "Here I gather our precious moments,<br></br>to give them to you one day and say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. In how they relate to their body and image, the child:",
+      "options": {
+        "1": "takes particular care over their appearance",
+        "2": "tries to stand out",
+        "3": "often changes style",
+        "4": "adopts the dominant codes to fit in",
+        "5": "compares themselves a lot",
+        "6": "tries to attract attention",
+        "7": "hides certain parts of their body",
+        "8": "tries to be as unnoticed as possible",
+        "9": "avoids people’s eyes",
+        "10": "seems at odds with their image",
+        "11": "swings between fitting in and standing out"
+      },
+      "quote": "The body becomes a message."
+    },
+    "2": {
+      "title": "2. In how they relate to their reputation, the child:",
+      "options": {
+        "1": "cares a great deal about how others see them",
+        "2": "is afraid of being made fun of",
+        "3": "tries to protect their image",
+        "4": "avoids some situations for fear of being judged",
+        "5": "seems indifferent but reacts strongly in private"
+      },
+      "quote": "Reputation becomes a sensitive matter."
+    },
+    "3": {
+      "title": "3. In loyalty and friendships, the child:",
+      "options": {
+        "1": "defends their friends fiercely",
+        "2": "finds betrayal hard to bear",
+        "3": "makes compromises to stay part of the group",
+        "4": "keeps some disagreements to themselves so as not to lose their place",
+        "5": "changes stance depending on their friends"
+      },
+      "quote": "The group becomes both territory and reference point."
+    },
+    "4": {
+      "title": "4. In the bond between us, I notice that the child:",
+      "options": {
+        "1": "shows a different version of themselves depending on the setting",
+        "2": "keeps certain secrets",
+        "3": "won’t let me see some of their posts",
+        "4": "claims a private space",
+        "5": "draws a clear line between “friends” and “family”"
+      },
+      "quote": "Identity is being tried out."
+    },
+    "5": {
+      "title": "5. Among the activities that do the child good:",
+      "options": {
+        "1": "sport",
+        "2": "music",
+        "3": "writing, drawing or creating",
+        "4": "choosing to spend time alone",
+        "5": "spending time with friends",
+        "6": "an activity that builds confidence",
+        "7": "a new passion"
+      },
+      "field": "What seems to calm the child most, or make them feel most alive:",
+      "quote": "Feeding the inner self helps one get through being exposed to the outside."
+    },
+    "6": {
+      "title": "6. Under pressure from the group, the child:",
+      "options": {
+        "1": "can say no",
+        "2": "finds it hard to refuse",
+        "3": "plays down some situations",
+        "4": "finds reasons for questionable choices",
+        "5": "seems to give in to the pressure",
+        "6": "comes to talk to me about it afterwards"
+      },
+      "quote": "Belonging puts courage to the test."
+    },
+    "7": {
+      "title": "7. In their relationship with humour and irony, the child:",
+      "options": {
+        "1": "uses sarcasm",
+        "2": "hides behind humour",
+        "3": "makes fun of some emotions",
+        "4": "finds it hard when irony is aimed at them",
+        "5": "tests limits through provocative remarks"
+      },
+      "quote": "Humour can protect… or mask."
+    },
+    "8": {
+      "title": "8. In their relationship with social media and social events, the child:",
+      "options": {
+        "1": "uses social media mainly to keep in touch",
+        "2": "uses it to show themselves off",
+        "3": "keeps an eye on their image online",
+        "4": "edits or filters their photos",
+        "5": "often checks the reactions to their posts",
+        "6": "fiercely guards access to their phone",
+        "7": "takes a critical view of what they see",
+        "8": "joins in trends or challenges",
+        "9": "dwells on things after a difficult social event",
+        "10": "comes back to me to make sense of it"
+      },
+      "blocks": {
+        "1": {
+          "lead": "When the child needs to share or to be comforted, they tend to turn to:",
+          "options": {
+            "1": "a friend",
+            "2": "a brother or sister",
+            "3": "me",
+            "4": "the other parent",
+            "5": "a trusted adult",
+            "6": "no one"
+          }
+        }
+      },
+      "quote": "Turning to someone is already an act of trust."
+    },
+    "9": {
+      "title": "9. This year, I feel:",
+      "options": {
+        "1": "proud",
+        "2": "worried",
+        "3": "powerless",
+        "4": "confident",
+        "5": "sometimes hurt",
+        "6": "still a landmark",
+        "7": "overwhelmed by social media",
+        "8": "worried about their safety or self-esteem",
+        "9": "able to set a clear framework",
+        "10": "true to my values"
+      },
+      "quote": "I don’t control everything. I remain responsible for the framework."
+    },
+    "10": {
+      "title": "10. What particularly struck me or what changed in our life this year:",
+      "field": "With siblings, how I feel about the bond between each of them:",
+      "blocks": {
+        "1": {
+          "field": "In a blended family, how I feel about the bond between each of them:"
+        }
+      },
+      "quote": "Behind the shine, there is sometimes a need for refuge."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (13–15 years)",
+      "p": {
+        "1": "Between thirteen and fifteen, the child is no longer only changing. The image they give to others takes up more room.",
+        "2": "The body, style, codes and the groups they belong to become markers of identity.",
+        "3": "Erik Erikson (1902–1994) – German-American psychologist and psychoanalyst, specialist in psychosocial development.",
+        "4": "Erikson describes adolescence as a central period in building identity. The child tries out different ways of being, different groups, values and models before gradually building a more personal identity.",
+        "5": "Jean Piaget (1896–1980) – Swiss psychologist, biologist and epistemologist, specialist in children’s cognitive development.",
+        "6": "Piaget places the gradual emergence of formal thinking in adolescence: the ability to reason about hypotheses, consider several possibilities, argue and handle abstract ideas develops.",
+        "7": "At the same time, the group becomes a powerful mirror. It lets the child try out different sides of themselves and see how they are received.",
+        "8": "This change is not necessarily a break with the parents. It is more a gradual redefining of each person’s place."
+      },
+      "points": {
+        "1": "The body, style and belonging are part of exploring identity.",
+        "2": "Identity is built gradually, through trial and experience.",
+        "3": "Thinking becomes capable of more abstract and critical reasoning.",
+        "4": "The group acts as a mirror and a testing ground for identity.",
+        "5": "Standing apart from one’s parents does not necessarily mean breaking away from them."
+      }
+    },
+    "regard": {
+      "title": "How others see us and the building of self-esteem",
+      "p": {
+        "1": "At this age, self-esteem can become particularly sensitive to how others see us. A remark about the body, skin, height, voice, style or way of being can take on enormous importance.",
+        "2": "Charles Horton Cooley (1864–1929) – American sociologist, specialist in social interaction and the building of the self.",
+        "3": "Cooley developed the idea of the “looking-glass self”: part of the image we build of ourselves develops through the way we imagine others see us.",
+        "4": "In adolescence, this social mirror can become particularly powerful.",
+        "5": "Leon Festinger (1919–1989) – American social psychologist, author of social comparison theory.",
+        "6": "Festinger showed that people assess their opinions and abilities, among other things, by comparing themselves with others. In adolescence, these comparisons can focus strongly on appearance, popularity, performance and belonging.",
+        "7": "Erik Erikson (1902–1994) – German-American psychologist and psychoanalyst, specialist in psychosocial development.",
+        "8": "In his model, this period is a particularly sensitive phase of searching for identity. A stable enough relational environment can offer something to lean on while the self-image fluctuates.",
+        "9": "The parent’s role is therefore not to prevent every social hurt — which would be impossible — but to help the child not to reduce their worth to the group’s judgement."
+      },
+      "points": {
+        "1": "How others see them can strongly shape the image the child builds of themselves.",
+        "2": "Comparisons become particularly sensitive in adolescence.",
+        "3": "A seemingly harmless remark can sometimes leave a lasting mark.",
+        "4": "The parent cannot protect the child from every outside judgement.",
+        "5": "A steady parental gaze can gradually help separate personal worth from social approval."
+      }
+    },
+    "appartenance": {
+      "title": "Belonging, exclusion and loyalty",
+      "p": {
+        "1": "At thirteen to fifteen, belonging to a group can shape a child deeply. Being included, recognised or excluded no longer affects only social life: it can strike directly at the child’s self-image.",
+        "2": "Harry Stack Sullivan (1892–1949) – American psychiatrist and psychoanalyst, founder of interpersonal theory.",
+        "3": "Sullivan gave a major place to interpersonal relationships in the development of personality and stressed the growing importance of close relationships with peers as adolescence approaches.",
+        "4": "Naomi Eisenberger – American psychologist and neuroscientist, specialist in the neural bases of social relationships and exclusion.",
+        "5": "Her research has shown that the experience of social rejection involves some brain systems also associated with the emotional side of physical pain. It is therefore better to speak of a partial overlap of certain mechanisms than to claim that exclusion and physical pain activate exactly the same areas.",
+        "6": "Peter Blos (1904–1997) – German-American psychoanalyst, specialist in adolescence.",
+        "7": "Blos describes adolescence as an important period of individuation. Relationships with peers then become a space for experimenting, allowing the young person to gradually distance themselves from childhood identifications.",
+        "8": "But the need to belong can also lead a child to accept behaviour that goes against their own values, to avoid being excluded.",
+        "9": "A question from a parent can then be particularly useful:<br></br>“Do you feel respected and free in this relationship?”"
+      },
+      "points": {
+        "1": "Belonging to the group becomes deeply formative.",
+        "2": "Exclusion can feel like an attack on one’s personal worth.",
+        "3": "Relationships with peers are part of building identity.",
+        "4": "The need to belong can sometimes lead to giving up certain personal limits.",
+        "5": "Helping the child tell belonging, freedom and respect apart gradually protects their independence in relationships."
+      }
+    },
+    "numerique": {
+      "title": "Online image and identity",
+      "p": {
+        "1": "Between thirteen and fifteen, part of building an identity also happens online.",
+        "2": "Social media makes comparison more frequent and more visible: appearance, number of followers, reactions, comments and the way one presents oneself can become misleading measures of personal worth.",
+        "3": "Leon Festinger (1919–1989) – American social psychologist, author of social comparison theory.",
+        "4": "His theory helps us understand why an environment that constantly offers chances to compare oneself can heighten the attention paid to one’s own image.",
+        "5": "Lauren Sherman – American researcher in psychology and social neuroscience, specialist in social media and adolescent development.",
+        "6": "In a study published with colleagues in 2016, Sherman showed that receiving many “likes” on photos was associated, in teenagers, with greater activity in brain regions involved in particular in processing reward and in social cognition.",
+        "7": "This does not mean that a “like” automatically causes addiction. Rather, it shows that online social validation can be a particularly striking reward at this age.",
+        "8": "Sarah-Jayne Blakemore (born 1974) – British neuroscientist, specialist in brain development in adolescence.",
+        "9": "Her work shows that the brain systems involved in social cognition and cognitive control continue to develop during adolescence. This helps explain why how others see them can matter so much during this period.",
+        "10": "The parent cannot remove the online gaze. But the family bond can remain a space where worth does not need to be measured in reactions, visibility or performance."
+      },
+      "points": {
+        "1": "Social media multiplies the chances for social comparison.",
+        "2": "Online validation can be particularly rewarding at this age.",
+        "3": "Visibility online should not become a measure of personal worth.",
+        "4": "The ability to step back and self-regulate is still maturing in adolescence.",
+        "5": "The family bond can offer a space where the child has nothing to prove."
+      },
+      "closing": {
+        "1": "Growing up means learning to exist among others without losing oneself."
+      }
+    }
+  }
+}

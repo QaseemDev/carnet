@@ -1,0 +1,237 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 9–12 months"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • 9 TO 12 MONTHS"
+    },
+    "1": {
+      "title": "I stand up, I move away and I come back to you",
+      "p": {
+        "1": "Between 9 and 12 months, something straightens up. The body reaches for the upright. The floor is no longer enough. The footholds become bolder.",
+        "2": "The baby explores more… but still comes back to check that you are there. They move away. They come back. Autonomy appears. Attachment remains the foundation.",
+        "3": "Movement intensifies, understanding progresses quickly, emotions become more differentiated and frustration shows more clearly. Imitation develops.",
+        "4": "The transitional object may make its appearance — the comforter, the cloth, the soft toy. That first object that stays when you leave.",
+        "5": "The child is trying out their ability to act. But they still need a secure framework."
+      },
+      "quote": "Standing up, moving away, coming back: the bond becomes something to lean on."
+    },
+    "2": {
+      "intro": "Between 9 and 12 months, the child tries out their ability to act more and more. Movement, understanding and imitation progress, while frustration and separations can become more present. A secure framework helps support this budding autonomy.",
+      "quote": "This is how trust is built."
+    },
+    "4": {
+      "title": "The comforter ritual",
+      "p": {
+        "1": "Before you leave — even for ten minutes — take the comforter. Place it in their hands. Let their fingers close around it.",
+        "2": "Then say one sentence, always the same. Your own. Short: “I’m going. I’ll be back.”",
+        "3": "No explanation. No negotiation. Just those words, in that order, every time.",
+        "4": "At first, the child may protest anyway. That’s normal — they are still learning. But little by little, the comforter in their hands and your voice naming the moment will form a sequence they recognise. Reassuring. Predictable.",
+        "5": "And what is predictable can be lived through. That small, worn object then becomes much more than a piece of cloth — it becomes a tangible trace of the bond when you are not there."
+      },
+      "quote": "Security does not lie in constant closeness. It lies in constancy.",
+      "invite": "We invite you to film or photograph this moment and add it to Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from these three months",
+      "items": {
+        "1": "A first step.",
+        "2": "A word.",
+        "3": "A gesture.",
+        "4": "A burst of laughter.",
+        "5": "A fall followed by a look.",
+        "6": "A photo or a video.",
+        "7": "Their voice.",
+        "8": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "Here I keep our precious moments,<br></br>to give them to you one day and say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. At the moment, the baby:",
+      "options": {
+        "1": "stands up",
+        "2": "gets around by holding on",
+        "3": "is trying their first steps",
+        "4": "still prefers the floor"
+      },
+      "quote": "Standing up is also daring."
+    },
+    "2": {
+      "title": "2. When exploring a new space, they:",
+      "options": {
+        "1": "dash off straight away",
+        "2": "look at me before moving forward",
+        "3": "hesitate",
+        "4": "quickly come back to me"
+      },
+      "quote": "Exploring does not mean pulling away."
+    },
+    "3": {
+      "title": "3. When frustrated, they:",
+      "options": {
+        "1": "cry loudly",
+        "2": "shout",
+        "3": "look for comfort",
+        "4": "turn away"
+      },
+      "quote": "Frustration is part of learning."
+    },
+    "4": {
+      "title": "4. When we separate, I notice:",
+      "options": {
+        "1": "they see it coming",
+        "2": "more protest",
+        "3": "they settle more quickly",
+        "4": "a better understanding that I will come back"
+      },
+      "quote": "Understanding that someone comes back changes separation."
+    },
+    "5": {
+      "title": "5. I notice that the baby:",
+      "options": {
+        "1": "points",
+        "2": "imitates gestures",
+        "3": "understands simple instructions",
+        "4": "repeats sounds"
+      },
+      "quote": "Understanding often comes before speaking."
+    },
+    "6": {
+      "title": "6. At this time, I feel:",
+      "options": {
+        "1": "proud",
+        "2": "tired",
+        "3": "amazed",
+        "4": "sometimes overwhelmed",
+        "5": "more confident"
+      },
+      "quote": "Growing up also asks the parent to adjust."
+    },
+    "7": {
+      "title": "7. The bond between us seems to me:",
+      "options": {
+        "1": "more lively",
+        "2": "more demanding",
+        "3": "more interactive",
+        "4": "sometimes put to the test"
+      },
+      "quote": "Autonomy does not replace the bond, it rests on it."
+    },
+    "8": {
+      "title": "8. If there are siblings, I notice:",
+      "options": {
+        "1": "imitation increases",
+        "2": "rivalry appears",
+        "3": "shared games emerge",
+        "4": "each one asserts their place more"
+      },
+      "quote": "Each child redefines their place as the other grows."
+    },
+    "9": {
+      "title": "9. Has their environment changed these past months?",
+      "options": {
+        "1": "starting nursery",
+        "2": "a change of routine",
+        "3": "moving house",
+        "4": "a trip"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Since these changes, the baby:",
+          "options": {
+            "1": "is gradually adapting",
+            "2": "seeks my presence more",
+            "3": "shows more opposition"
+          }
+        }
+      },
+      "quote": "A change always calls on one’s inner balance."
+    },
+    "10": {
+      "title": "10. What these three months have changed in me as a parent:",
+      "quote": "The child stands up. So does the parent."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (9–12 months)",
+      "p": {
+        "1": "Between 9 and 12 months, development speeds up.",
+        "2": "<b>The body grows more confident</b>",
+        "3": "The child straightens up and reaches for the upright. They may stand with support, move along the furniture (“cruising”), sometimes try a few steps on their own and refine their fine coordination. The thumb-and-finger pincer grasp emerges.",
+        "4": "Gestures become more intentional. The child drops an object to watch, looks for a hidden object, repeats an action to understand its effect and handles things with growing precision.",
+        "5": "<b>Thinking develops quickly</b>",
+        "6": "The child understands simple instructions, links gestures and words, points to show things and starts to anticipate certain moments of the day.",
+        "7": "Object permanence becomes firmer. The child gradually understands that absence is not disappearance. But this understanding can also make separation more intense.",
+        "8": "<b>Emotions become more differentiated</b>",
+        "9": "The child expresses frustration more clearly, looks for the adult’s gaze and approval and may need encouragement to keep going.",
+        "10": "The child is experiencing separation, but still deeply needs a stable base."
+      },
+      "points": {
+        "1": "Standing and getting around develop at each child’s own pace.",
+        "2": "Gestures become more intentional and exploring feeds directly into learning.",
+        "3": "Understanding often comes before the ability to speak.",
+        "4": "Frustration becomes more visible and is part of development.",
+        "5": "The child can explore more while still deeply needing a secure base."
+      }
+    },
+    "separation": {
+      "title": "Separation anxiety (9–12 months)",
+      "p": {
+        "1": "At this age, understanding object permanence makes separation more conscious.",
+        "2": "The child may cry even before you leave, anticipate the absence or protest more intensely.",
+        "3": "This is not a regression. It is a sign that the child understands more.",
+        "4": "The parent’s reliable presence gradually helps them take in that absence is temporary."
+      },
+      "points": {
+        "1": "A harder separation at this age is not necessarily a sign of regression.",
+        "2": "The child understands better and better that a departure is about to happen, and so can anticipate it.",
+        "3": "Simply naming the departure helps make it more predictable.",
+        "4": "Reunions that are regular and reliable enough gradually help them take in that absence is temporary.",
+        "5": "The aim is not to prevent all protest, but to offer enough continuity and security."
+      }
+    },
+    "transitionnel": {
+      "title": "The transitional object",
+      "p": {
+        "1": "Donald W. Winnicott (1896–1971) – British paediatrician and psychoanalyst.",
+        "2": "Between 8 and 12 months, something strange and precious may appear: a corner of cloth, a soft toy, a comforter that is always the same. Winnicott called this the transitional object.",
+        "3": "Not quite the child. Not quite the mother. Something in between.",
+        "4": "This object appears just as the child starts to understand that the attachment figure can leave — and that something to hold can help them get through that absence. It carries a familiar trace: a smell, a texture, a presence in another form. It allows separation without erasing the bond.",
+        "5": "It is not a substitute. It is a bridge.",
+        "6": "Avoiding washing it too often or replacing it abruptly helps preserve what makes it familiar and recognisable to the child.",
+        "7": "The transitional object does not necessarily disappear overnight. Its importance may fade gradually as the child takes in more fully that absence is temporary and that the bond holds across distance.",
+        "8": "This small, worn piece of cloth can become one of the first witnesses of their inner life."
+      },
+      "points": {
+        "1": "The transitional object can help the child gradually get through the absence of their attachment figure.",
+        "2": "It does not replace the parent: it is a bridge between presence and absence.",
+        "3": "Its smell, its texture and its familiarity are part of what makes it reassuring.",
+        "4": "It is better not to replace it abruptly without involving the child in the change.",
+        "5": "Its importance usually fades gradually once the child no longer needs it as much."
+      }
+    },
+    "autonomie": {
+      "title": "Autonomy in the making",
+      "p": {
+        "1": "Autonomy does not mean emotional independence.",
+        "2": "The child explores because they feel secure enough. They test. They assert themselves. Sometimes they push back. This movement is a normal stage of becoming a separate person.",
+        "3": "The adult remains the base. Boundaries reassure as much as they limit.",
+        "4": "Autonomy is therefore built less in the adult’s absence than in the chance to act while knowing the adult remains available enough."
+      },
+      "points": {
+        "1": "The urge to act grows.",
+        "2": "Frustration is part of development.",
+        "3": "Separation can become more intense and the transitional object can take on an important place.",
+        "4": "The need for encouragement is central.",
+        "5": "Autonomy rests on security."
+      },
+      "closing": {
+        "1": "The child moves forward because they know they can come back."
+      }
+    }
+  }
+}

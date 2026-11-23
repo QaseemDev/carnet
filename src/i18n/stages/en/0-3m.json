@@ -1,0 +1,377 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 0–3 months"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • 0 TO 3 MONTHS"
+    },
+    "1": {
+      "title": "The world in our arms",
+      "p": {
+        "1": "(A time of dependence, regulation and meeting)",
+        "2": "The first three months are a time of great dependence.",
+        "3": "The baby discovers the world through the arms that hold them, the voices they hear, the looks and the repeated gestures.",
+        "4": "They cannot yet regulate themselves.",
+        "5": "Crying is their first language; sleep is still immature.",
+        "6": "Little by little, they discover that when tension rises, someone can be there to soothe it.",
+        "7": "The bond is built in these simple gestures: holding, looking, speaking softly, feeding, responding.",
+        "8": "It is not about “succeeding”, but about observing, adjusting and starting again."
+      },
+      "quote": "Being there, enough, is already building the bond."
+    },
+    "2": {
+      "intro": "The baby still depends on the adult to regulate their tensions and gradually find their rhythm. A regular, sensitive presence slowly builds their inner security.",
+      "quote": "Observe, adjust, start again: the bond does not ask for perfection."
+    },
+    "4": {
+      "title": "The hand ritual",
+      "p": {
+        "1": "Place your index finger in their palm.",
+        "2": "Feel whether their fingers close around it.",
+        "3": "This reflex is also a gesture of trust.",
+        "4": "They are holding you."
+      },
+      "quote": "In this simple gesture, the bond is already there.",
+      "invite": "We invite you to film or photograph this moment and add it to Carnet de Vie."
+    },
+    "5": {
+      "title": "What I choose to keep from these first months",
+      "items": {
+        "1": "A written word.",
+        "2": "Their voice, a cry or a laugh.",
+        "3": "A photo or a video.",
+        "4": "A piece of music or a lullaby.",
+        "5": "A symbolic object.",
+        "6": "A first time I don’t want to forget.",
+        "7": "Or simply a precious moment from these first months."
+      },
+      "quote": "Here I keep our precious moments,<br></br>to give them to you one day and say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. For me, the first weeks were:",
+      "options": {
+        "1": "gentle",
+        "2": "intense",
+        "3": "tiring",
+        "4": "disorienting",
+        "5": "overwhelming",
+        "6": "lonely",
+        "7": "a mix"
+      },
+      "field": "The words that come to me:",
+      "quote": "A beginning can be messy: it is still a foundation."
+    },
+    "2": {
+      "title": "2. In my body, I felt:",
+      "options": {
+        "1": "recovering",
+        "2": "exhausted",
+        "3": "fragile",
+        "4": "strong",
+        "5": "overwhelmed"
+      },
+      "field": "What my body was going through:",
+      "quote": "The body is allowed to need time."
+    },
+    "3": {
+      "title": "3. Sleep",
+      "lead": "The baby’s sleep is:",
+      "options": {
+        "1": "very broken",
+        "2": "irregular",
+        "3": "fairly calm",
+        "4": "restless",
+        "5": "variable depending on the moment",
+        "6": "difficult"
+      },
+      "blocks": {
+        "1": {
+          "lead": "To fall asleep, they need:",
+          "options": {
+            "1": "to be carried",
+            "2": "to be rocked",
+            "3": "to hear my voice",
+            "4": "to suckle",
+            "5": "time"
+          },
+          "field": "What this asks of me:"
+        },
+        "2": {
+          "lead": "The parents’ sleep is:",
+          "options": {
+            "1": "very disrupted",
+            "2": "interrupted",
+            "3": "caught up during the day",
+            "4": "exhausting",
+            "5": "bearable",
+            "6": "supported by someone taking over"
+          },
+          "field": "How I live with this lack of sleep or this adjustment:"
+        }
+      },
+      "quote": "Sleep moves forward through adjustments, not performance."
+    },
+    "4": {
+      "title": "4. Baby’s feeds",
+      "lead": "The baby is mainly fed:",
+      "options": {
+        "1": "breastfed",
+        "2": "by bottle",
+        "3": "with expressed milk",
+        "4": "a mix"
+      },
+      "blocks": {
+        "1": {
+          "lead": "Feeds feel:",
+          "options": {
+            "1": "simple",
+            "2": "irregular",
+            "3": "tiring",
+            "4": "soothing",
+            "5": "full of doubt"
+          },
+          "field": "How I experience these moments:"
+        },
+        "2": {
+          "lead": "During feeds, I feel:",
+          "options": {
+            "1": "confident",
+            "2": "still learning",
+            "3": "tired",
+            "4": "reassured",
+            "5": "full of doubts"
+          },
+          "field": "A memorable moment around feeding:"
+        }
+      },
+      "quote": "Feeding is also a way of meeting each other."
+    },
+    "5": {
+      "title": "5. When the baby cries, I feel:",
+      "options": {
+        "1": "calm",
+        "2": "worried",
+        "3": "overwhelmed",
+        "4": "helpless",
+        "5": "attentive",
+        "6": "irritated"
+      },
+      "field": "What seems to soothe them fastest:",
+      "quote": "A cry is a call for regulation, not a judgement on you."
+    },
+    "6": {
+      "title": "6. Do I feel I am starting to understand their signals?",
+      "options": {
+        "1": "yes, more and more",
+        "2": "sometimes",
+        "3": "not yet",
+        "4": "it depends"
+      },
+      "field": "An example:",
+      "blocks": {
+        "1": {
+          "field": "Over these three months, I am discovering that as a parent I am:"
+        }
+      },
+      "quote": "Understanding often comes after simply being there."
+    },
+    "7": {
+      "title": "7. The emotional surroundings",
+      "lead": "Our relationship as a couple during these three months is:",
+      "options": {
+        "1": "closer",
+        "2": "more fragile",
+        "3": "adjusting",
+        "4": "tired",
+        "5": "stronger",
+        "6": "changing"
+      },
+      "field": "What this changes between us:",
+      "blocks": {
+        "1": {
+          "lead": "As for me, I felt supported by:",
+          "options": {
+            "1": "family",
+            "2": "friends",
+            "3": "the medical team",
+            "4": "neighbours"
+          }
+        }
+      },
+      "quote": "Asking for support protects the stability of the bond."
+    },
+    "8": {
+      "title": "8. Brothers and sisters (if there are other children)",
+      "lead": "Since the baby arrived, the brothers and sisters seem:",
+      "options": {
+        "1": "curious",
+        "2": "protective",
+        "3": "indifferent",
+        "4": "jealous",
+        "5": "regressing",
+        "6": "unsettled"
+      },
+      "field": "How I feel towards them since this birth:",
+      "note": "You can add first names if there are several brothers and sisters, as each child may react differently to this birth. If the parents agree, the brothers and sisters can answer the questions and add a comment themselves.",
+      "quote": "When a child reacts strongly, they mostly want to check that their place still holds."
+    },
+    "9": {
+      "title": "9. Everyday care",
+      "lead": "(Bath, nappy changes, umbilical cord, body care)",
+      "blocks": {
+        "1": {
+          "lead": "For the baby, care feels:",
+          "options": {
+            "1": "soothing",
+            "2": "uncomfortable",
+            "3": "variable",
+            "4": "a cause of crying",
+            "5": "moments of connection"
+          },
+          "field": "What I feel during this care, what I enjoy doing, what I find hard to do:"
+        }
+      },
+      "quote": "Repeated care builds security."
+    },
+    "10": {
+      "title": "10. In what surroundings does the baby spend their first months?",
+      "field": "Describe the home and the spaces where they spend the most time:",
+      "blocks": {
+        "1": {
+          "field": "Which objects matter to the baby? (Comforter, blanket, piece of clothing, a gift, something handed down, etc.)"
+        },
+        "2": {
+          "lead": "What were the important first times during these first three months?<br></br>You could note, for example:",
+          "items": {
+            "1": "the first bath",
+            "2": "the first smile",
+            "3": "the first outing or the first trip",
+            "4": "the first slightly longer night",
+            "5": "a magical moment",
+            "6": "a difficult moment"
+          }
+        }
+      },
+      "quote": "First times shape the story, even when they seem tiny."
+    }
+  },
+  "articles": {
+    "attachement": {
+      "title": "Dependence & Attachment (0–3 months)",
+      "p": {
+        "1": "John Bowlby (1907–1990) – English psychiatrist and psychoanalyst",
+        "2": "<b>Attachment theory</b>",
+        "3": "For Bowlby, the need to be close to a protective figure is a primary need of the newborn, just like feeding. When this figure responds in a consistent, regular and sensitive way, the child develops a secure attachment: they can explore the world knowing they have a “secure base”.",
+        "4": "If the responses are unpredictable, intrusive or absent, other forms of attachment can emerge (insecure avoidant, ambivalent, disorganised). These first bonds have a lasting influence on emotional regulation, trust and future relationships.",
+        "5": "Donald Winnicott (1896–1971) – British paediatrician and psychoanalyst, pioneer of attachment in children",
+        "6": "<b>Absolute dependence and “holding”</b>",
+        "7": "Winnicott speaks of absolute dependence at the start of life. For him, “there is no such thing as a baby”: a baby always exists within a relationship. They need a good-enough environment, where the parent figure adapts closely to their needs.",
+        "8": "Where Bowlby speaks of a “secure base”, Winnicott speaks of “holding”: carrying and containing, physically and psychologically. This gradual adaptation lets the baby develop a continuous sense of existing.",
+        "9": "T. Berry Brazelton (1918–2018) – American paediatrician, specialist in infant development",
+        "10": "<b>Reading the baby’s signals</b>",
+        "11": "Brazelton spent his life observing babies and their parents in the very first moments of life. What interested him above all: what happens between them.",
+        "12": "<b>What he showed in practice</b>",
+        "13": "A baby is not passive. From birth, they send precise signals that the parent can learn to read:<br></br>— They look away when they have had too much stimulation<br></br>— They open their eyes wide and turn their face towards you when they are seeking contact<br></br>— They wave their arms and tense up when something is too much for them<br></br>— They slow their breathing and relax when they feel safe",
+        "14": "For Brazelton, responding well does not mean responding perfectly. It means observing, adjusting, starting again. This back-and-forth — the baby’s signal, the parent’s response, a new signal — is what he calls co-regulation.",
+        "15": "<b>What this changes for the parent</b>",
+        "16": "You don’t have to guess. You have to look.",
+        "17": "The baby tells you what they need — not with words, but with their body, their gaze, their breathing, the way they tense or relax.",
+        "18": "Brazelton also stresses periods of disorganisation: the baby may regress, cry more, sleep less well — often just before a developmental leap. This is not a step back. It is a sign that something is being built.",
+        "19": "<b>His deep conviction</b>",
+        "20": "What matters is not the perfection of the parent’s response, but its regularity and sensitivity. A parent who observes, tries, gets it wrong and tries again — that is exactly what a baby needs to learn that the world is reliable.",
+        "21": "<b>In more detail</b>",
+        "22": "<b>Overview: a system under construction</b>",
+        "23": "The newborn’s body is still immature. They move quickly from one state to another: calm, agitation, crying, settling — without controlling these changes. What the baby goes through is not disorganised: it is a system under construction.",
+        "24": "<b>Crying in detail</b>",
+        "25": "Crying is their first language. It can express:<br></br>— hunger<br></br>— tiredness<br></br>— physical discomfort<br></br>— a need for contact<br></br>— inner tension<br></br>— sometimes, no identifiable cause",
+        "26": "Responding to crying does not create a habit. It builds inner security. A soothed baby gradually learns to soothe themselves.",
+        "27": "<b>Sleep in detail</b>",
+        "28": "Cycles are short and waking is frequent: this is physiological. The baby is not “sleeping badly”. They are gradually building their rhythms. Accompanied falling asleep — carrying, voice, contact — is often needed at this age.",
+        "29": "<b>Rhythm and comparison</b>",
+        "30": "Every baby has their own rhythm. Comparing often weakens more than it helps. Observing the baby rather than applying a method is already a fine adjustment. What you do “well enough” is already precious.",
+        "31": "<b>The parent who is learning</b>",
+        "32": "You are learning at the same time as the baby. Doubting, feeling your way, being tired, sometimes feeling overwhelmed: all of this is normal. There is no single right way to do it. The bond is also built through adjustments, attempts, mistakes and reconnections.",
+        "33": "<b>Postpartum depression — signs and support</b>",
+        "34": "This period can bring great physical and mental tiredness. Sometimes:<br></br>— a lasting sadness<br></br>— a feeling of emptiness<br></br>— a sense of being out of step with the baby<br></br>— difficulty feeling pleasure",
+        "35": "This can be part of postpartum depression. It is neither rare nor anyone’s fault. Talking about it is a form of care. A parent does not grow on their own: leaning on someone you trust, a loved one, a professional or occasional help is part of the balance. Asking for help does not weaken the bond. It protects it.",
+        "36": "<b>Babies born prematurely — in detail</b>",
+        "37": "Some babies are born prematurely. The start of the relationship may then be marked by:<br></br>— a hospital stay<br></br>— medical care<br></br>— physical separation<br></br>— a different rhythm",
+        "38": "The bond does not disappear. It is woven differently. The voice, the gaze, the presence, even from a distance, remain deeply structuring. The parent may sometimes feel helpless, worried, or distant from their role. These feelings are legitimate. The bond is built, even in these conditions.",
+        "39": "<b>The baby’s body</b>",
+        "40": "The newborn’s body is still immature. Their movements are mainly reflexive, spontaneous and global. Their body is often curled up, recalling the foetal position.",
+        "41": "Arms and legs move in jerks, sometimes unevenly. They may stretch out for a long time, then relax. Little by little they discover inner sensations: tension, release, support.",
+        "42": "The hands are often closed at first. The baby can grip a finger tightly (the grasp reflex). Around 2–3 months, they start looking at their hands, as if discovering them. Muscle tone varies: very tense moments, then very relaxed ones. These variations are normal: the nervous system is maturing.",
+        "43": "<b>The senses</b>",
+        "44": "Sight: the baby mostly sees at 20–30 cm. They are drawn to faces, strong contrasts and simple shapes. Around 2–3 months, their gaze becomes more present and more engaged.",
+        "45": "Hearing: well developed from birth. The baby recognises their parents’ voices and reacts to sounds. They are more sensitive to tone than to words. Soft, sung and rhythmic voices are especially reassuring.",
+        "46": "Taste: present from birth. The baby recognises the taste of milk very early and shows a natural preference for sweet. Feeding is as much an experience of taste as of affection.",
+        "47": "Smell: one of the most developed senses in a newborn. They recognise the smell of their mother or main parent and can calm down when close to a piece of clothing carrying that smell.",
+        "48": "Touch: the baby’s first language. Carrying, skin-to-skin and swaddling all help them regulate. Before words, it is the body that reassures.",
+        "49": "<b>Primitive reflexes</b>",
+        "50": "These reflexes are normal and temporary:<br></br>— Sucking reflex: to feed and to soothe<br></br>— Grasp reflex: gripping with the hands or feet<br></br>— Moro reflex: a startle with the arms opening<br></br>— Rooting reflex: turning the head towards a touch on the cheek",
+        "51": "They are the neurological foundations of future movements."
+      },
+      "points": {
+        "1": "The baby is in absolute dependence: at least one attachment figure needs to reassure them emotionally, regularly.",
+        "2": "Adjustments happen gradually, sometimes imperceptibly.",
+        "3": "Every baby has their own rhythm.",
+        "4": "Observing without comparing is already a form of care.",
+        "5": "The baby’s body “learns the world” before understanding it."
+      },
+      "closing": {
+        "1": "There is no single way to live these first months: every family finds its own rhythm."
+      }
+    },
+    "sommeil": {
+      "title": "Sleep (0–3 months): 3 guideposts to get through this period",
+      "p": {
+        "1": "A newborn’s sleep is physiologically immature. Cycles are short, waking is frequent. This is neither a bad habit nor a parenting problem.",
+        "2": "Accompanied falling asleep builds the inner foundation that will later let the child fall asleep on their own. Reassuring does not create dependence: it builds security.",
+        "3": "<b>The 3 guideposts</b>",
+        "4": "<b>1. Crying at bedtime</b>",
+        "5": "At this age, crying is often a sign of tiredness, tension or a need for closeness. The baby does not yet know how to soothe themselves. Holding them close, rocking them, speaking softly helps their body settle. If they calm down in your arms, it means your presence is regulating their nervous system.",
+        "6": "<b>2. Night waking</b>",
+        "7": "Sleep cycles are short and immature. Waking is frequent and physiological. It is neither a bad habit nor a parenting problem. The rhythm takes shape gradually as the nervous system matures.",
+        "8": "<b>3. Accompanied falling asleep</b>",
+        "9": "Some babies need movement, others silence, others contact or sucking. Observing what soothes them helps more than comparing or applying a rigid method. Independent sleep is built on safe sleep."
+      },
+      "closing": {
+        "1": "At this age, reassuring does not create dependence: it builds the inner foundation that will later let the child fall asleep on their own."
+      }
+    },
+    "retour": {
+      "title": "The return of periods after birth",
+      "p": {
+        "1": "After giving birth, the body takes some time to return to its usual hormonal rhythm. The return of periods is the moment when:<br></br>• ovulation starts again<br></br>• then the first period comes back",
+        "2": "Not to be confused: just after the birth, there is bleeding called lochia (for 2 to 6 weeks).<br></br>This is not the return of periods, but a normal healing process of the uterus.",
+        "3": "The return of periods means that:<br></br>• fertility is coming back<br></br>• so a pregnancy is possible even before that first period",
+        "4": "The timing varies, mainly depending on breastfeeding:<br></br>• Without breastfeeding: usually between 6 and 8 weeks after the birth<br></br>• With breastfeeding: it can be much later (several months, sometimes not until breastfeeding stops)",
+        "5": "More precisely, when a woman breastfeeds, two hormones dominate:<br></br>• Prolactin: it stimulates milk production, but inhibits ovulation and often reduces sexual desire.<br></br>• Oxytocin: the hormone of bonding and attachment, it encourages closeness with the baby… but can “saturate” the need for physical contact.",
+        "6": "<b>Common effects</b><br></br>• Lower libido (not always, but often)<br></br>• Vaginal dryness (linked to lower oestrogen)<br></br>• Less mental availability for the partner<br></br>• A feeling of already being “very much in demand physically”",
+        "7": "Many women describe something like:<br></br>“My body is turned towards the baby, not towards sexuality.”",
+        "8": "Without breastfeeding:<br></br>• Oestrogen levels rise faster<br></br>• The hormonal cycle resumes more quickly<br></br>• The body finds its physiological bearings sooner",
+        "9": "Effects:<br></br>• Libido often returns sooner<br></br>• Less dryness<br></br>• Easier reconnection with desire (but not automatic)",
+        "10": "Breastfeeding does not “block” sexuality. But it deeply changes the hormonal and emotional ground.",
+        "11": "And above all:<br></br>• Some breastfeeding women have a fully present libido<br></br>• Others who don’t breastfeed may feel very little desire",
+        "12": "So it is not a rule, but a biological + contextual tendency.",
+        "13": "<b>What helps (or slows) the return of sexuality</b>",
+        "14": "Factors that help:<br></br>• Less pain (healing of the perineum, caesarean)<br></br>• Hormonal recovery (rising oestrogen → libido)<br></br>• Less intense tiredness, more stable family routines<br></br>• Finding intimacy as a couple again",
+        "15": "Factors that slow it:<br></br>• Great tiredness, lack of sleep<br></br>• Lower libido (especially with breastfeeding → high prolactin)<br></br>• Pain or vaginal dryness<br></br>• A changed body image<br></br>• The mental load of caring for the baby<br></br>• Sometimes fear of another pregnancy",
+        "16": "That said, there is no “peak” of sexuality linked to the return of periods: it is rather a gradual reopening of intimate life, which varies a great deal between women and couples.",
+        "17": "Postpartum libido is not only hormonal.<br></br>It also depends on:<br></br>• the quality of the couple’s bond<br></br>• the feeling of safety<br></br>• tiredness<br></br>• the room left for the woman as a woman (not only as a mother)",
+        "18": "Statistically, sexuality gradually resumes around the time periods return, but this is neither automatic nor the same for everyone.",
+        "19": "Perinatal health studies show that:<br></br>• some couples resume sex between 6 and 8 weeks after the birth<br></br>• around 3 months postpartum, most women have resumed sexual activity<br></br>• at 6 months, the great majority of couples have resumed, though sometimes with a different frequency or quality than before",
+        "20": "The return of periods often coincides with this phase, because it marks a hormonal recovery… but it is not the main trigger."
+      },
+      "points": {
+        "1": "Accompanied falling asleep builds the inner foundation that will later let the child fall asleep on their own.",
+        "2": "Responding well to a baby does not mean responding perfectly. It means observing, adjusting, starting again. This back-and-forth — the baby’s signal, the parent’s response, a new signal — is called co-regulation.",
+        "3": "Sexuality often resumes around the same time as periods return, but it depends mostly on physical, hormonal and psychological factors.",
+        "4": "Breastfeeding can reduce fertility, but it does not prevent ovulation from returning, and so a pregnancy."
+      }
+    }
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "header": {
+    "carnet": "Léa's Carnet de Vie - 17–18 years"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • AGES 17 TO 18"
+    },
+    "1": {
+      "title": "The watcher at the threshold",
+      "p": {
+        "1": "Between seventeen and eighteen, something begins to come together.",
+        "2": "The body is almost adult. Emotions gradually find their place in a larger story.",
+        "3": "Certain questions keep coming back:",
+        "4": "“Where do I come from?”<br></br>“What do I keep?”<br></br>“What do I transform?”",
+        "5": "This moment is not only a passage towards the outside world.",
+        "6": "It is also an inner moment: the one when you begin to look at your own life as a story.",
+        "7": "It is no longer only about becoming.",
+        "8": "It becomes possible to recognise what has been lived and to begin choosing what you want to make of it."
+      },
+      "quote": "Growing up is connecting rather than separating."
+    },
+    "2": {
+      "intro": "Between seventeen and eighteen, autonomy becomes more concrete, bonds are redefined and one’s personal story can begin to be reread with more distance.<br></br>Thinking makes it easier to connect experiences, choices and their consequences. Identity keeps taking shape, but a continuity gradually becomes perceptible between what has been lived, what is today and what could become tomorrow.<br></br>The adult’s place changes again: listening without imposing, questioning without steering, supporting without controlling.",
+      "quote": "Accompanying the passage means staying present without holding on."
+    },
+    "4": {
+      "title": "Rereading the path",
+      "p": {
+        "1": "This ritual is different from the previous ones.",
+        "2": "The Carnet is reaching the end of the years it was meant to accompany.",
+        "3": "Take a moment to go back to the first traces: the wish for a child, the pregnancy or the arrival in the family, the first months, the first years.",
+        "4": "Then leaf through a few pages at random.",
+        "5": "A photo.<br></br>A voice.<br></br>A drawing.<br></br>A forgotten sentence.<br></br>A difficult moment.<br></br>A burst of laughter.",
+        "6": "There is no need to reread everything.",
+        "7": "It is simply about looking at the path travelled and choosing one trace that particularly stands for this journey.",
+        "8": "Then leave a last message:"
+      },
+      "fields": {
+        "1": "“When I look at this whole path, what I want to tell you today is…”"
+      },
+      "after": "This message does not need to give advice or explain the story. It can simply say what is felt at the moment the Carnet comes to its end.",
+      "quote": "Passing on is not explaining a life. It is offering the traces that will one day let it be reread.",
+      "invite": "We invite anyone who wishes to keep a trace of this passage to leave this last message, written or recorded, in Carnet de Vie. It will remain as the way this path was seen at the moment a new stage begins."
+    },
+    "5": {
+      "title": "What I choose to keep from this last year",
+      "items": {
+        "1": "An important decision.",
+        "2": "A plan for the future.",
+        "3": "A last school year.",
+        "4": "A success or a failure that mattered.",
+        "5": "A departure.",
+        "6": "An important relationship.",
+        "7": "A moment of freedom.",
+        "8": "A sentence that sums up this period.",
+        "9": "A photo, a video or a voice.",
+        "10": "Or simply a moment I don’t want to forget."
+      },
+      "quote": "Here I gather our precious moments,<br></br>to give them to you today and say thank you."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. What I have seen grow over the years",
+      "lead": "Today, I recognise in the child an ability to:",
+      "options": {
+        "1": "make personal decisions",
+        "2": "question the world",
+        "3": "stand by their choices",
+        "4": "build a personal way of thinking",
+        "5": "express a sensitivity of their own",
+        "6": "show clear-sightedness",
+        "7": "create"
+      },
+      "quote": "Growing up is not only changing. It is becoming more oneself."
+    },
+    "2": {
+      "title": "2. What still surprises me today",
+      "lead": "I still notice:",
+      "options": {
+        "1": "a search for their place",
+        "2": "a certain caution in moving forward",
+        "3": "hesitation around certain desires",
+        "4": "difficulty choosing",
+        "5": "a new self-assurance",
+        "6": "contradictions that surprise me"
+      },
+      "quote": "A person always remains partly a mystery."
+    },
+    "3": {
+      "title": "3. The difficult times we have been through",
+      "lead": "Today, I feel more heard when it comes to:",
+      "options": {
+        "1": "the quality of our exchanges",
+        "2": "respect for certain limits",
+        "3": "responsibilities taken on",
+        "4": "how daily life is organised"
+      },
+      "blocks": {
+        "1": {
+          "lead": "And some difficulties remain around:",
+          "options": {
+            "1": "respect for certain limits",
+            "2": "the recognition hoped for",
+            "3": "the language used when tensions rise",
+            "4": "sharing responsibilities"
+          }
+        }
+      },
+      "quote": "Not everything needs to be resolved. Some things simply need to be acknowledged."
+    },
+    "4": {
+      "title": "4. What I wish for what comes next",
+      "lead": "Today, what I wish above all is to see the child:",
+      "options": {
+        "1": "find a path of their own",
+        "2": "stay true to themselves",
+        "3": "build strong relationships",
+        "4": "keep their sensitivity",
+        "5": "explore life freely",
+        "6": "know that the love they received does not depend on their choices"
+      },
+      "quote": "The wishes of those who love are not directions. They are impulses."
+    },
+    "5": {
+      "title": "5. What I have learned by accompanying the child",
+      "lead": "Over these years, I have learned:",
+      "options": {
+        "1": "patience",
+        "2": "humility",
+        "3": "listening",
+        "4": "letting go",
+        "5": "trust",
+        "6": "to question some of my beliefs"
+      },
+      "quote": "A child does not grow up alone. The bond also transforms those who accompany them."
+    },
+    "6": {
+      "title": "6. What I would like to pass on",
+      "field": "If only one thing were to remain from all these years, it would be:",
+      "quote": "Simple words sometimes travel further than long speeches."
+    },
+    "7": {
+      "title": "7. If I had to describe our bond today",
+      "lead": "Our relationship looks more like:",
+      "options": {
+        "1": "a bond of trust",
+        "2": "a dialogue still being built",
+        "3": "a relationship in transformation",
+        "4": "a quiet closeness",
+        "5": "a respectful distance"
+      },
+      "quote": "Bonds can change shape without disappearing."
+    },
+    "8": {
+      "title": "8. What will always stay with me",
+      "field": "Of everything we have lived through, what will remain deeply etched is:",
+      "quote": "Some traces become landmarks."
+    },
+    "9": {
+      "title": "9. On the threshold of adult life",
+      "lead": "Today, looking at this passage, I feel:",
+      "options": {
+        "1": "pride",
+        "2": "gratitude",
+        "3": "trust",
+        "4": "a touch of nostalgia",
+        "5": "several of these emotions at once"
+      },
+      "quote": "Childhood does not disappear. It changes its place in the story."
+    },
+    "10": {
+      "title": "10. What particularly struck me or what changed in our life this year:",
+      "field": "With siblings, how I feel about the bond between each of them:",
+      "blocks": {
+        "1": {
+          "field": "In a blended family, how I feel about the bond between each of them:"
+        }
+      },
+      "quote": "Every family goes through the years in its own way."
+    }
+  },
+  "articles": {
+    "evolution": {
+      "title": "Physical, emotional and cognitive development (17–18 years)",
+      "p": {
+        "1": "Between seventeen and eighteen, the passage to adulthood becomes more concrete.",
+        "2": "The body approaches adult maturity, even though brain development continues beyond eighteen.",
+        "3": "Emotionally, experiences can gradually be placed within a more continuous story. Romantic relationships, friendships and family relationships all take part in this construction.",
+        "4": "Erik Erikson (1902–1994) – German-American psychologist and psychoanalyst, specialist in psychosocial development.",
+        "5": "Erikson places adolescence around the construction of identity. As adulthood approaches, different experiences, belongings, values and choices can gradually come together into a more coherent sense of self.",
+        "6": "Peter Blos (1904–1997) – German-American psychoanalyst, specialist in adolescence.",
+        "7": "The second individuation process described by Blos helps to understand the gradual movement of differentiation from parental figures. The aim is not to remove the bonds, but to be able to exist more fully as a distinct person.",
+        "8": "Cognitively, the ability to put experiences into perspective, consider several possibilities and anticipate certain consequences keeps progressing.",
+        "9": "The question can then shift from:<br></br>“Who am I?”<br></br>to:<br></br>“What will I do with what I have received and what I have lived?”",
+        "10": "It is precisely this possibility of rereading and integrating one’s personal story that gives this last stage its special place in Carnet de Vie. The source document presents it as a moment of “integration and symbolic separation”."
+      },
+      "points": {
+        "1": "Eighteen is a social and legal threshold, but development obviously does not stop at that age.",
+        "2": "Identity keeps being built and reorganised.",
+        "3": "The ability to reread one’s story with more distance grows.",
+        "4": "Differentiating oneself does not mean erasing earlier bonds.",
+        "5": "Passing things on can help connect what has been lived with what remains to be built."
+      }
+    },
+    "auteur": {
+      "title": "Becoming the author of one’s own life",
+      "p": {
+        "1": "At this age, an essential step can begin: gradually moving from the story received to the story chosen.",
+        "2": "The child grew up in a family, a culture, relationships and an environment. Values, landmarks, beliefs, limits and a story were passed on.",
+        "3": "Becoming an adult does not mean having to keep everything or reject everything.",
+        "4": "Three questions can gradually appear:<br></br>What do I keep?<br></br>What do I transform?<br></br>What do I leave behind?",
+        "5": "Carl Gustav Jung (1875–1961) – Swiss psychiatrist and founder of analytical psychology.",
+        "6": "Jungian thought gives a central place to the process of individuation, through which a person gradually seeks to become more fully themselves rather than remaining defined only by the expectations, roles or identifications they received.",
+        "7": "This construction does not happen all at once, and certainly not at eighteen. But the threshold of adulthood can be an important symbolic moment: beginning to tell apart what belongs to the story received from what one consciously wishes to carry on.",
+        "8": "The parent’s role then changes once more:<br></br>listening without imposing,<br></br>questioning without steering,<br></br>supporting without controlling.",
+        "9": "The young adult can gradually become the author of their life without having to deny those who took part in its first pages."
+      },
+      "points": {
+        "1": "Becoming the author of one’s life does not mean breaking with one’s story.",
+        "2": "Some things passed on will be kept, others transformed or left behind.",
+        "3": "This differentiation takes time, experiences, attempts and sometimes mistakes.",
+        "4": "The parent can accompany without choosing in the young person’s place.",
+        "5": "Passing on also means accepting that what is passed on may be transformed."
+      }
+    },
+    "vigilance": {
+      "title": "Vulnerabilities and areas of vigilance",
+      "p": {
+        "1": "At seventeen or eighteen, an appearance of maturity can make it easy to forget that certain fragilities are still there.",
+        "2": "Emotional stakes can be intense, especially in romantic relationships, friendships and social life. The need for recognition, belonging and freedom coexists with growing autonomy.",
+        "3": "Risk-taking can involve alcohol or other substances, unprotected sex, impulsive behaviour, driving, gambling or certain digital uses.",
+        "4": "Not every experiment signals a psychological difficulty. But repetition, intensity, loss of control or consequences on daily life deserve particular attention.",
+        "5": "Some fragilities are less visible: anxiety about the future, a lasting loss of motivation, isolation, difficulty imagining the future, eating disorders or psychological distress.",
+        "6": "The aim is no longer to control all the time.<br></br>It is to keep enough of a bond for a return to stay possible.",
+        "7": "Being able to leave matters. Knowing that a bond is still within reach matters too."
+      },
+      "points": {
+        "1": "Apparent maturity does not mean every vulnerability has disappeared.",
+        "2": "Autonomy grows while certain self-regulation abilities are still developing.",
+        "3": "A one-off experiment and repeated behaviour with loss of control do not mean the same thing.",
+        "4": "A lasting change in behaviour or functioning deserves particular attention.",
+        "5": "The bond stays protective when it lets the young person ask for help without immediately fearing judgement."
+      },
+      "closing": {
+        "1": "Growing up is beginning to choose what you take with you."
+      }
+    }
+  }
+}

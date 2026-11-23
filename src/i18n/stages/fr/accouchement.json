@@ -1,0 +1,270 @@
+{
+  "header": {
+    "carnet": "Carnet de Vie de Léa - Naissance"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • ACCUEIL DU MOMENT • ACCOUCHEMENT & NAISSANCE"
+    },
+    "1": {
+      "title": "Un passage. Une rencontre. Un premier souffle.",
+      "p": {
+        "1": "La naissance est un moment de bascule.",
+        "2": "Quelque chose se termine, autre chose commence.",
+        "3": "L’enfant quitte le corps qui l’a porté et entre dans le monde, dans les bras, les regards, les voix et les présences qui l’accueillent.",
+        "4": "Ce moment peut être doux ou intense, fluide ou éprouvant, très proche de ce qui avait été imaginé… ou très différent.",
+        "5": "Une césarienne prévue ou imprévue, un accouchement long ou difficile, une intervention médicale, une naissance prématurée, un séjour en couveuse ou une assistance respiratoire peuvent venir bouleverser ce moment tant attendu.",
+        "6": "Ces expériences peuvent susciter de nombreuses émotions : soulagement, joie, inquiétude, fatigue, gratitude, peur, déception ou sentiment d’impuissance.",
+        "7": "Pour certaines personnes, la rencontre avec l’enfant semble immédiate. Pour d’autres, elle se construit progressivement, au rythme des événements, de la récupération physique et émotionnelle, ou simplement du temps nécessaire pour réaliser ce qui vient de se passer.",
+        "8": "La naissance peut être entourée de plusieurs personnes, d’une seule personne proche, d’une équipe médicale… et parfois être traversée avec un sentiment de grande solitude.",
+        "9": "Il n’existe pas une seule manière de vivre une naissance.",
+        "10": "Chaque histoire mérite d’être accueillie avec respect, dans toute sa singularité.",
+        "11": "Une histoire humaine, sincère, simplement transmise."
+      },
+      "quote": "Une naissance ne ressemble pas toujours à celle que l’on avait imaginée. Elle devient pourtant le début d’une histoire réelle."
+    },
+    "2": {
+      "intro": "Nommer une détresse, une peur, une déception ou une fragilité n’enlève rien à la valeur de ce moment.<br></br>Raconter ce qui a été vécu, même lorsque cela a été difficile ou douloureux, peut déjà être une forme de respect envers soi.<br></br>Accueillir ce qui a été vécu permet aussi de laisser une place à ce qui commence."
+    },
+    "4": {
+      "title": "Le bracelet de naissance",
+      "p": {
+        "1": "Le bracelet de naissance est parfois l’un des premiers objets portant une trace concrète de l’arrivée de l’enfant : son nom, une date, parfois une heure ou un numéro.",
+        "2": "S’il y en a un, prendre une photographie du poignet de l’enfant avec son bracelet de naissance.",
+        "3": "Le bracelet peut ensuite être conservé, si cela est possible et souhaité.",
+        "4": "Si aucun bracelet n’a été remis, un autre détail de la naissance peut devenir cette première trace : une étiquette, un bonnet, une couverture, un document, une photographie ou simplement quelques mots racontant ce premier jour.",
+        "5": "Ce rituel peut être réalisé par la mère, le père, un second parent ou toute personne souhaitant garder une trace de cette naissance dans Carnet de Vie."
+      },
+      "quote": "Un tout petit objet peut parfois porter la mémoire d’un immense passage.",
+      "invite": "Nous invitons la personne désirant garder cette trace à déposer la photographie du bracelet — ou celle de l’objet choisi — dans Carnet de Vie, accompagnée, si elle le souhaite, de quelques mots ou de sa voix. L’enfant pourra ainsi retrouver un jour une trace concrète de ses premiers instants."
+    },
+    "5": {
+      "title": "Ce que je choisis de garder de cette naissance",
+      "items": {
+        "1": "Le bracelet de naissance.",
+        "2": "Une première photographie.",
+        "3": "Une voix.",
+        "4": "Un premier regard.",
+        "5": "Un premier contact.",
+        "6": "Une heure ou une date.",
+        "7": "Une lumière dans la pièce.",
+        "8": "Un son.",
+        "9": "Une personne présente.",
+        "10": "Une phrase prononcée ce jour-là.",
+        "11": "Une musique.",
+        "12": "Un objet.",
+        "13": "Un détail inattendu.",
+        "14": "Un moment difficile que je souhaite aussi garder dans l’histoire.",
+        "15": "Ou simplement un instant que je ne veux pas oublier."
+      },
+      "fields": {
+        "1": "Ce que j’aimerais ajouter ou partager :"
+      },
+      "quote": "Les premières traces ne racontent pas toute une naissance. Elles en gardent quelques fragments précieux."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. Avant ce jour",
+      "lead": "Avant la naissance, j’imaginais ce moment plutôt comme :",
+      "options": {
+        "1": "serein",
+        "2": "naturel",
+        "3": "très encadré",
+        "4": "un peu inquiétant",
+        "5": "flou",
+        "6": "difficile à imaginer"
+      },
+      "field": "Ce que j’attendais, au fond de moi, de ce moment :",
+      "quote": "Laisser revenir une première impression suffit."
+    },
+    "2": {
+      "title": "2. Le jour de la naissance, pour moi",
+      "lead": "J’ai vécu ce moment comme :",
+      "options": {
+        "1": "émouvant",
+        "2": "éprouvant",
+        "3": "puissant",
+        "4": "déroutant",
+        "5": "apaisant",
+        "6": "impossible à résumer",
+        "7": "traumatisant"
+      },
+      "field": "Un mot, une sensation ou un souvenir qui reste :",
+      "quote": "Ce qui est vrai pour soi suffit."
+    },
+    "3": {
+      "title": "3. Mes ressentis",
+      "lead": "Les ressentis qui ont le plus traversé ce moment :",
+      "options": {
+        "1": "joie",
+        "2": "soulagement",
+        "3": "peur",
+        "4": "tristesse",
+        "5": "colère",
+        "6": "honte",
+        "7": "fatigue",
+        "8": "inquiétude",
+        "9": "impuissance"
+      },
+      "quote": "Tous les ressentis ont leur place ici."
+    },
+    "4": {
+      "title": "4. Mon corps pendant ce passage — pour la mère",
+      "lead": "Si c’est moi qui ai porté et mis au monde l’enfant, pendant la naissance, mon corps a été pour moi :",
+      "options": {
+        "1": "un allié",
+        "2": "une épreuve",
+        "3": "les deux",
+        "4": "difficile à reconnaître",
+        "5": "quelque chose auquel j’ai dû faire confiance"
+      },
+      "field": "Un mot, une sensation ou un souvenir physique qui reste :",
+      "quote": "Le corps garde parfois des traces. Les reconnaître peut aussi faire partie de l’histoire."
+    },
+    "5": {
+      "title": "5. Ce que j’appréhendais",
+      "lead": "Ce qui m’inquiétait le plus à l’approche de la naissance — la douleur, un imprévu, la sécurité de l’enfant ou de la mère / de moi-même, le lâcher-prise, une intervention médicale ou autre chose :",
+      "quote": "Une peur peut être nommée sans avoir besoin d’être expliquée."
+    },
+    "6": {
+      "title": "6. Le lien avec l’enfant au moment de la naissance",
+      "lead": "Dans ces premiers instants, le lien avec l’enfant s’est installé :",
+      "options": {
+        "1": "tout de suite",
+        "2": "doucement",
+        "3": "de façon fragile",
+        "4": "de manière très intense",
+        "5": "autrement que je l’imaginais",
+        "6": "difficilement au début",
+        "7": "je ne sais pas encore"
+      },
+      "field": "Ce que j’ai ressenti dans ce tout début :",
+      "quote": "Le lien ne se force pas. Il se tisse."
+    },
+    "7": {
+      "title": "7. Émotionnellement, je me sens plutôt :",
+      "options": {
+        "1": "apaisé(e)",
+        "2": "rassuré(e)",
+        "3": "heureux(se)",
+        "4": "triste",
+        "5": "tendu(e)",
+        "6": "stressé(e)",
+        "7": "inquiet(ète)",
+        "8": "bouleversé(e)"
+      },
+      "quote": "Une émotion n’est jamais définitive."
+    },
+    "8": {
+      "title": "8. Les personnes précieuses pendant ces moments",
+      "lead": "Parmi les personnes qui ont compté pendant la naissance ou autour de celle-ci :",
+      "options": {
+        "1": "une sage-femme",
+        "2": "un gynécologue / obstétricien",
+        "3": "un membre de l’équipe médicale",
+        "4": "le père ou le second parent",
+        "5": "un membre de la famille",
+        "6": "un(e) ami(e) ou une personne proche"
+      },
+      "field": "Qui, et pourquoi cette présence a-t-elle compté ?",
+      "quote": "Parfois, une présence reste longtemps associée à un moment de vie."
+    },
+    "9": {
+      "title": "9. Le soutien que j’ai ressenti",
+      "lead": "Dans ces moments, je me suis senti(e) :",
+      "options": {
+        "1": "très soutenu(e)",
+        "2": "entouré(e)",
+        "3": "compris(e)",
+        "4": "rassuré(e)",
+        "5": "insuffisamment soutenu(e)",
+        "6": "seul(e)",
+        "7": "abandonné(e)"
+      },
+      "field": "Par qui ou de quelle manière :",
+      "quote": "Être soutenu peut prendre des formes très différentes."
+    },
+    "10": {
+      "title": "10. Ce que j’aimerais te raconter de ta naissance",
+      "lead": "Lorsque je repense à ta naissance, il y a peut-être quelque chose de plus personnel que j’aimerais te raconter un jour.",
+      "items": {
+        "1": "Un détail que les autres n’ont peut-être pas remarqué.",
+        "2": "Une parole prononcée ce jour-là.",
+        "3": "Une réaction inattendue.",
+        "4": "Un petit événement drôle, tendre ou émouvant.",
+        "5": "Quelque chose qui m’a surpris(e).",
+        "6": "La première chose que j’ai pensée en te voyant.",
+        "7": "Un moment entre nous.",
+        "8": "Une anecdote que j’aimerais que tu connaisses.",
+        "9": "Ou simplement un souvenir qui n’appartient qu’à cette histoire."
+      },
+      "quote": "Parfois, un tout petit souvenir raconte une grande rencontre."
+    }
+  },
+  "articles": {
+    "corps": {
+      "title": "Une expérience corporelle et sensorielle intense",
+      "p": {
+        "1": "L’accouchement, qu’il ait lieu par voie basse ou par césarienne, mobilise profondément le corps de la mère.",
+        "2": "Fatigue, douleurs, sensations nouvelles, besoin de récupération ou parfois sentiment d’étrangeté peuvent accompagner les heures et les jours qui suivent.",
+        "3": "Chaque femme vit cette expérience différemment.",
+        "4": "Une césarienne est une intervention chirurgicale abdominale. Une épisiotomie est également un geste chirurgical, plus localisé. Dans les deux situations, le corps a besoin de temps pour cicatriser et récupérer.",
+        "5": "Douleurs, fatigue importante, mobilité temporairement réduite ou sensibilité des zones concernées peuvent accompagner cette récupération.",
+        "6": "Respecter son rythme, accepter de l’aide lorsqu’elle est disponible et prendre soin de son corps peuvent favoriser une récupération physique et émotionnelle progressive.",
+        "7": "Cette récupération ne suit pas un calendrier identique pour toutes les femmes."
+      },
+      "points": {
+        "1": "Un accouchement mobilise fortement le corps, quelle que soit la manière dont l’enfant naît.",
+        "2": "La récupération physique et émotionnelle varie d’une femme à l’autre.",
+        "3": "Une césarienne est une intervention chirurgicale et nécessite un temps de récupération.",
+        "4": "Une épisiotomie nécessite également une cicatrisation et des soins adaptés.",
+        "5": "Respecter le rythme du corps fait partie de la période qui suit la naissance."
+      }
+    },
+    "rencontre": {
+      "title": "La rencontre avec le bébé",
+      "p": {
+        "1": "La rencontre entre l’enfant et ceux qui l’accueillent ne se résume pas nécessairement à un instant unique.",
+        "2": "Daniel Stern (1934–2012) – Psychiatre et psychanalyste américain, spécialiste du développement précoce et des relations parents-enfant.",
+        "3": "Les travaux de Stern ont montré l’importance des interactions précoces dans la construction progressive de la relation avec le bébé.",
+        "4": "Pour certaines personnes, le lien semble immédiat. Pour d’autres, il se construit plus progressivement.",
+        "5": "Les regards, les gestes, la voix, les soins quotidiens et les réponses données aux manifestations du bébé permettent peu à peu à chacun de découvrir l’autre et de s’ajuster.",
+        "6": "Une naissance difficile, une séparation médicale, une grande fatigue ou simplement la manière singulière dont chacun vit cet événement peuvent modifier les premiers instants sans déterminer la qualité future de la relation.",
+        "7": "La rencontre ne se joue donc pas une fois pour toutes au moment de la naissance.",
+        "8": "Elle continue jour après jour."
+      },
+      "points": {
+        "1": "Le lien avec le bébé n’a pas besoin d’être immédiat pour être réel.",
+        "2": "Les premières interactions participent progressivement à la construction de la relation.",
+        "3": "Une séparation ou une naissance difficile peut modifier les premiers instants sans déterminer la suite du lien.",
+        "4": "Chaque personne peut avoir besoin d’un temps différent pour réaliser pleinement la rencontre.",
+        "5": "La relation avec l’enfant continue à se construire bien après la naissance."
+      }
+    },
+    "mere": {
+      "title": "La mère aussi a besoin d’être portée",
+      "p": {
+        "1": "Après la naissance, beaucoup d’attention se tourne naturellement vers le bébé.",
+        "2": "Dans ce mouvement, la mère peut parfois avoir le sentiment que ses douleurs, sa fatigue, ses émotions ou ce qu’elle vient elle-même de traverser passent au second plan.",
+        "3": "Donald Winnicott (1896–1971) – Pédiatre et psychanalyste britannique, spécialiste du développement affectif précoce et de la relation mère-bébé.",
+        "4": "Les travaux de Winnicott accordent une place essentielle à l’environnement qui soutient la mère et le bébé. La disponibilité nécessaire pour répondre aux besoins d’un nouveau-né est elle-même facilitée lorsque la mère peut être entourée et soutenue.",
+        "5": "Ce soutien ne vient pas nécessairement d’un conjoint.",
+        "6": "Il peut venir d’un père ou d’un second parent lorsqu’il est présent, mais aussi de la famille, d’amis, de professionnels ou de toute personne capable d’apporter une présence concrète et respectueuse.",
+        "7": "Soutenir une mère peut signifier l’écouter, respecter son besoin de repos, prendre en charge certaines tâches, l’aider matériellement ou simplement reconnaître ce qu’elle vient de traverser.",
+        "8": "Prendre soin de la mère ne détourne pas l’attention du bébé.",
+        "9": "Cela participe aussi à créer autour de lui un environnement plus disponible et sécurisant."
+      },
+      "points": {
+        "1": "Après la naissance, la mère a elle aussi besoin d’attention, de récupération et de soutien.",
+        "2": "Ses besoins physiques et émotionnels ne disparaissent pas parce que le bébé est né.",
+        "3": "Le soutien ne repose pas nécessairement sur un conjoint ou un couple.",
+        "4": "La famille, les amis et les professionnels peuvent constituer des ressources importantes.",
+        "5": "Prendre soin de la mère contribue aussi à soutenir l’environnement dans lequel le lien avec le bébé se construit."
+      },
+      "closing": {
+        "1": "Un premier souffle. Et plus rien n’a jamais été tout à fait pareil."
+      }
+    }
+  }
+}

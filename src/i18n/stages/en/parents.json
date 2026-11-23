@@ -1,0 +1,248 @@
+{
+  "header": {
+    "carnet": "Léa’s Carnet de Vie - Becoming a parent"
+  },
+  "steps": {
+    "0": {
+      "badge": "1 • WELCOMING THE MOMENT • BECOMING A PARENT"
+    },
+    "1": {
+      "title": "A personal story. A context. Adjustments.",
+      "p": {
+        "1": "No one becomes a parent in a vacuum.",
+        "2": "It is part of a wider story: our childhood, our emotional life and relationships, our working life, our family, social and cultural surroundings.",
+        "3": "These dimensions are already there before a child arrives, and they go on shaping parenthood.",
+        "4": "They can support, question, unsettle or simply colour this period.",
+        "5": "Becoming a parent can be lived as a couple, but also alone, by choice or because life decided otherwise. In every situation, a child’s arrival shifts landmarks, priorities and rhythms, and sometimes the way we see ourselves.",
+        "6": "Parts of our own story can come back too: childhood memories, what we received, what we missed, what we want to pass on or, on the contrary, live differently.",
+        "7": "The context is not always clear at the moment we become a parent.",
+        "8": "This part offers a space to place the moment of life in which this child arrived.",
+        "9": "It is not about analysing or explaining, but about recognising what was there around you: a setting, a rhythm, constraints, resources, sometimes all mixed together.",
+        "10": "What is written here can be partial or fragmentary. Some things can also be left blank."
+      },
+      "quote": "Becoming a parent is also discovering, little by little, the kind of parent we want to be."
+    },
+    "2": {
+      "intro": "Each person becomes a parent with their own story.<br></br>Parts of the past can become more present at this time. Recognising them can help us understand what is going on, without necessarily trying to correct them.<br></br>Becoming a parent does not mean knowing straight away how to be one. A personal way of being with your child also grows over time, through experience and adjustment.",
+      "quote": "We do not become a parent in an instant. We keep becoming one as the relationship grows."
+    },
+    "4": {
+      "title": "The commitment sentence",
+      "p": {
+        "1": "Choose a sentence that expresses how you want to be there for this child.",
+        "2": "When there are two parents, this sentence can be chosen together and become a shared landmark:",
+        "3": "“We are a team.”<br></br>“We move forward together.”<br></br>“We do our best.”<br></br>“We are learning alongside you.”",
+        "4": "When someone becomes a parent alone, they can choose a sentence that expresses their own commitment:",
+        "5": "“I will be there for you.”<br></br>“I will do my best.”<br></br>“I will learn too, as I go along with you.”<br></br>“I want to be with you while respecting the person you will become.”"
+      },
+      "fields": {
+        "1": "You can also create your own sentence:"
+      },
+      "after": "It can be framed in the child’s room, kept on a phone, recorded in your own voice or simply placed in Carnet de Vie.",
+      "quote": "Neither perfect nor fixed — simply on the way.",
+      "invite": "We invite the person or people who want to keep this trace to place this sentence, written or recorded, in Carnet de Vie. One day the child will be able to discover something of the commitment that accompanied the early days of this story."
+    },
+    "5": {
+      "title": "What I choose to keep from this moment when I become a parent",
+      "items": {
+        "1": "A sentence.",
+        "2": "A photograph.",
+        "3": "A voice.",
+        "4": "A date.",
+        "5": "An image.",
+        "6": "A piece of music.",
+        "7": "An object.",
+        "8": "A moment of doubt.",
+        "9": "A first decision made as a parent.",
+        "10": "Something I discovered about myself.",
+        "11": "A memory from my own childhood that came back at that time.",
+        "12": "Someone who supported me.",
+        "13": "Or simply something I don’t want to forget."
+      },
+      "fields": {
+        "1": "What I would like to add or share:"
+      },
+      "quote": "Our first steps as a parent are also part of the child’s story."
+    }
+  },
+  "questions": {
+    "1": {
+      "title": "1. How I relate to my own childhood",
+      "lead": "Overall, my memory of my childhood is rather:",
+      "options": {
+        "1": "secure",
+        "2": "happy",
+        "3": "mixed",
+        "4": "difficult",
+        "5": "faint"
+      },
+      "quote": "Recognising this memory is enough."
+    },
+    "2": {
+      "title": "2. Echoes of my childhood today",
+      "field": "What becoming a parent brings back from my own childhood:",
+      "quote": "Some memories return with unexpected clarity, others remain harder to grasp."
+    },
+    "3": {
+      "title": "3. This child’s place in my family story",
+      "lead": "In my eyes, this child arrived as:",
+      "options": {
+        "1": "a continuation",
+        "2": "a renewal",
+        "3": "a surprise",
+        "4": "a turning point",
+        "5": "a new stage"
+      },
+      "blocks": {
+        "1": {
+          "lead": "If there are already brothers or sisters, this arrival may have been experienced as:",
+          "options": {
+            "1": "a long-awaited wish",
+            "2": "a natural step",
+            "3": "an upheaval",
+            "4": "an adjustment for everyone",
+            "5": "a reorganisation of the family",
+            "6": "a new place to find",
+            "7": "one of life’s surprises",
+            "8": "a birth that felt healing",
+            "9": "a shared joy"
+          }
+        }
+      },
+      "quote": "A place is built and can change over time."
+    },
+    "4": {
+      "title": "4. Work, pace of life and parenthood",
+      "lead": "At that time, balancing my working life, my pace of life and my new place as a parent seemed to me:",
+      "options": {
+        "1": "fairly natural",
+        "2": "possible but needing organisation",
+        "3": "worrying",
+        "4": "difficult",
+        "5": "conflicting",
+        "6": "still hard to imagine",
+        "7": "I hadn’t thought about it yet"
+      },
+      "quote": "Finding a new balance often takes several adjustments."
+    },
+    "5": {
+      "title": "5. What surprised me about becoming a parent",
+      "field": "What I hadn’t anticipated about becoming a parent:",
+      "quote": "What surprises us is not always what troubles us."
+    },
+    "6": {
+      "title": "6. What I had to adjust or set aside",
+      "field": "What this arrival led me to change, slow down, reorganise or reconsider:",
+      "quote": "Some changes are chosen, others gradually impose themselves."
+    },
+    "7": {
+      "title": "7. Emotionally, I feel rather:",
+      "options": {
+        "1": "at peace",
+        "2": "reassured",
+        "3": "happy",
+        "4": "sad",
+        "5": "stressed",
+        "6": "worried",
+        "7": "torn"
+      },
+      "quote": "What is felt today is not set in stone."
+    },
+    "8": {
+      "title": "8. In my working life, I feel rather:",
+      "options": {
+        "1": "confident",
+        "2": "stable",
+        "3": "available",
+        "4": "tired",
+        "5": "under pressure",
+        "6": "uncertain"
+      },
+      "quote": "Not every part of life needs to find its balance at the same time."
+    },
+    "9": {
+      "title": "9. Financially, I feel rather:",
+      "options": {
+        "1": "at ease",
+        "2": "cautious",
+        "3": "worried",
+        "4": "balanced",
+        "5": "reorganising"
+      },
+      "quote": "A new balance can be built gradually."
+    },
+    "10": {
+      "title": "10. With my family and the people around me, I feel rather:",
+      "options": {
+        "1": "supported",
+        "2": "surrounded",
+        "3": "understood",
+        "4": "rather alone",
+        "5": "torn",
+        "6": "fragile",
+        "7": "under strain"
+      },
+      "quote": "Becoming a parent sometimes also transforms the bonds around us."
+    }
+  },
+  "articles": {
+    "transformation": {
+      "title": "The inner transformation of becoming a parent",
+      "p": {
+        "1": "Becoming a parent is not only about welcoming and caring for a child. The experience can also change how a person sees themselves, imagines their future and orders their priorities.",
+        "2": "Daniel Stern (1934–2012) – American psychiatrist and psychoanalyst, specialist in early development and parent-child relationships.",
+        "3": "Stern described what he called the “motherhood constellation”, a particular psychological reorganisation that can appear in the mother when a child arrives.",
+        "4": "More broadly, becoming a parent can lead a person to think differently about protecting the child, about their responsibility, their own relationships and the future.",
+        "5": "This transformation is not necessarily immediate. Some people feel like parents very early; others gradually discover this new side of themselves.",
+        "6": "It can keep evolving with the child’s development and the experiences shared together."
+      },
+      "points": {
+        "1": "Becoming a parent can transform how we see ourselves and think about the future.",
+        "2": "The feeling of being a parent does not necessarily arrive in the same way or at the same time for everyone.",
+        "3": "New priorities can gradually emerge.",
+        "4": "This transformation continues as the relationship with the child grows.",
+        "5": "There is no single way to become a parent."
+      }
+    },
+    "enfance": {
+      "title": "The influence of our own childhood",
+      "p": {
+        "1": "A child’s arrival can bring back parts of our own story.",
+        "2": "Donald Winnicott (1896–1971) – British paediatrician and psychoanalyst, specialist in early emotional development and the parent-child relationship.",
+        "3": "The way we parent can be influenced by what we ourselves lived through as children: how we were cared for, kept safe, comforted, encouraged or sometimes hurt.",
+        "4": "Some memories come back consciously. Other influences can be more discreet and show up in our reactions, our expectations or our fears.",
+        "5": "This does not mean we are bound to repeat our story.",
+        "6": "Becoming aware of some of what we inherited can, on the contrary, help us tell apart what we want to pass on, what we want to transform and what we choose to build differently."
+      },
+      "points": {
+        "1": "Becoming a parent can reawaken certain memories or feelings from our own childhood.",
+        "2": "Our story sometimes shapes our reactions before we are aware of it.",
+        "3": "Being influenced by our past does not mean being bound to repeat it.",
+        "4": "Noticing certain patterns can help us step back from them.",
+        "5": "Everyone can gradually build their own way of being a parent."
+      }
+    },
+    "ajustements": {
+      "title": "The gradual adjustments of parenthood",
+      "p": {
+        "1": "Becoming a parent is a process that continues long after the child arrives.",
+        "2": "T. Berry Brazelton (1918–2018) – American paediatrician, known for his work on infant development and early relationships between parents and children.",
+        "3": "Brazelton described the periods of reorganisation that come with the major stages of a child’s development.",
+        "4": "When the child changes, the adults around them must adjust their responses too: understand new needs, change some habits, find another rhythm or redefine some limits.",
+        "5": "These moments can sometimes feel as though a balance found earlier is slipping away.",
+        "6": "They do not necessarily mean something is wrong.",
+        "7": "They may simply signal that a new stage is beginning and a new adjustment is needed."
+      },
+      "points": {
+        "1": "Parenthood keeps being built as the child develops.",
+        "2": "Each new stage can call for new adjustments.",
+        "3": "A family balance is not necessarily permanent.",
+        "4": "A period of disorganisation can come with a normal stage of development.",
+        "5": "Parent and child gradually learn to adjust to each other."
+      },
+      "closing": {
+        "1": "Becoming a parent is not knowing in advance. There is no school for parents: it is also about learning, adjusting and growing within the relationship."
+      }
+    }
+  }
+}
